@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Algorithms Computational Reasoning Article Card",
+  "type": "object",
+  "required": ["slug", "title", "section", "status"],
+  "properties": {
+    "slug": {"type": "string"},
+    "title": {"type": "string"},
+    "section": {"type": "string"},
+    "status": {"type": "string", "enum": ["planned", "draft", "active", "review", "archive"]},
+    "summary": {"type": "string"}
+  }
+}

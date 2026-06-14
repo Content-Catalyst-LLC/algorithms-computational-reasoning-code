@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS article_index (
+  slug TEXT PRIMARY KEY,
+  title TEXT NOT NULL,
+  section TEXT NOT NULL,
+  status TEXT NOT NULL DEFAULT 'planned'
+);
+
+CREATE TABLE IF NOT EXISTS workflow_run (
+  run_id INTEGER PRIMARY KEY AUTOINCREMENT,
+  workflow_name TEXT NOT NULL,
+  purpose TEXT NOT NULL,
+  created_at TEXT DEFAULT CURRENT_TIMESTAMP
+);

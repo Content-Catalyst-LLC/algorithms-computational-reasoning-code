@@ -1,0 +1,12 @@
+{
+  "series": "Algorithms & Computational Reasoning",
+  "repository": "algorithms-computational-reasoning-code",
+  "status": "scaffolded",
+  "canvas_ready": true,
+  "layers": [
+    "article_cards",
+    "governance_cards",
+    "workflow_cards",
+    "metadata_index"
+  ]
+}

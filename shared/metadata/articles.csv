@@ -1,0 +1,170 @@
+slug,title,section,status
+what-are-algorithms-and-computational-reasoning,What Are Algorithms & Computational Reasoning?,"Foundations, Procedure, and Computational Thought",planned
+algorithmic-thinking-vs-computational-reasoning,Algorithmic Thinking vs. Computational Reasoning,"Foundations, Procedure, and Computational Thought",planned
+problems-procedures-and-formalization,"Problems, Procedures, and Formalization","Foundations, Procedure, and Computational Thought",planned
+decomposition-and-stepwise-reasoning,Decomposition and Stepwise Reasoning,"Foundations, Procedure, and Computational Thought",planned
+abstraction-in-computational-reasoning,Abstraction in Computational Reasoning,"Foundations, Procedure, and Computational Thought",planned
+inputs-outputs-states-and-stopping-conditions,"Inputs, Outputs, States, and Stopping Conditions","Foundations, Procedure, and Computational Thought",planned
+algorithmic-literacy-for-the-modern-world,Algorithmic Literacy for the Modern World,"Foundations, Procedure, and Computational Thought",planned
+from-pseudocode-to-programs,From Pseudocode to Programs,"Foundations, Procedure, and Computational Thought",planned
+debugging-as-computational-reasoning,Debugging as Computational Reasoning,"Foundations, Procedure, and Computational Thought",planned
+logic-and-computation,Logic and Computation,"Logic, Formal Systems, and Computability",planned
+formal-languages-and-symbolic-representation,Formal Languages and Symbolic Representation,"Logic, Formal Systems, and Computability",planned
+proof-correctness-and-algorithmic-verification,"Proof, Correctness, and Algorithmic Verification","Logic, Formal Systems, and Computability",planned
+termination-invariants-and-edge-cases,"Termination, Invariants, and Edge Cases","Logic, Formal Systems, and Computability",planned
+computability-and-the-limits-of-procedure,Computability and the Limits of Procedure,"Logic, Formal Systems, and Computability",planned
+the-halting-problem-and-the-limits-of-automation,The Halting Problem and the Limits of Automation,"Logic, Formal Systems, and Computability",planned
+automated-reasoning-and-mechanical-inference,Automated Reasoning and Mechanical Inference,"Logic, Formal Systems, and Computability",planned
+lambda-calculus-functions-and-formal-computation,"Lambda Calculus, Functions, and Formal Computation","Logic, Formal Systems, and Computability",planned
+formal-methods-and-machine-checked-reasoning,Formal Methods and Machine-Checked Reasoning,"Logic, Formal Systems, and Computability",planned
+representation-and-the-shape-of-computation,Representation and the Shape of Computation,"Representation, Data Structures, and Information",planned
+data-structures-as-thinking-tools,Data Structures as Thinking Tools,"Representation, Data Structures, and Information",planned
+arrays-lists-stacks-and-queues,"Arrays, Lists, Stacks, and Queues","Representation, Data Structures, and Information",planned
+trees-hierarchies-and-recursive-structure,"Trees, Hierarchies, and Recursive Structure","Representation, Data Structures, and Information",planned
+graphs-networks-and-computational-relationships,"Graphs, Networks, and Computational Relationships","Representation, Data Structures, and Information",planned
+hashing-indexing-and-retrieval,"Hashing, Indexing, and Retrieval","Representation, Data Structures, and Information",planned
+vectors-embeddings-and-computational-meaning,"Vectors, Embeddings, and Computational Meaning","Representation, Data Structures, and Information",planned
+compression-encoding-and-information-efficiency,"Compression, Encoding, and Information Efficiency","Representation, Data Structures, and Information",planned
+metadata-provenance-and-computational-traceability,"Metadata, Provenance, and Computational Traceability","Representation, Data Structures, and Information",planned
+programming-paradigms-and-computational-style,Programming Paradigms and Computational Style,"Programming Languages, Type Systems, and Execution Models",planned
+type-systems-and-the-discipline-of-computational-representation,Type Systems and the Discipline of Computational Representation,"Programming Languages, Type Systems, and Execution Models",planned
+compilers-interpreters-and-execution-models,"Compilers, Interpreters, and Execution Models","Programming Languages, Type Systems, and Execution Models",planned
+memory-state-and-mutation-in-computation,"Memory, State, and Mutation in Computation","Programming Languages, Type Systems, and Execution Models",planned
+runtime-systems-environments-and-computational-context,"Runtime Systems, Environments, and Computational Context","Programming Languages, Type Systems, and Execution Models",planned
+apis-interfaces-and-modular-computational-design,"APIs, Interfaces, and Modular Computational Design","Programming Languages, Type Systems, and Execution Models",planned
+software-architecture-as-algorithmic-infrastructure,Software Architecture as Algorithmic Infrastructure,"Programming Languages, Type Systems, and Execution Models",planned
+testing-verification-and-computational-reliability,"Testing, Verification, and Computational Reliability","Programming Languages, Type Systems, and Execution Models",planned
+algorithm-design-principles,Algorithm Design Principles,Algorithm Design and Procedural Strategy,planned
+iteration-recursion-and-control-flow,"Iteration, Recursion, and Control Flow",Algorithm Design and Procedural Strategy,planned
+search-and-sorting-as-foundational-algorithms,Search and Sorting as Foundational Algorithms,Algorithm Design and Procedural Strategy,planned
+divide-and-conquer-methods,Divide-and-Conquer Methods,Algorithm Design and Procedural Strategy,planned
+greedy-algorithms-and-local-decision-rules,Greedy Algorithms and Local Decision Rules,Algorithm Design and Procedural Strategy,planned
+dynamic-programming-and-memory-in-computation,Dynamic Programming and Memory in Computation,Algorithm Design and Procedural Strategy,planned
+backtracking-branch-and-bound-and-exhaustive-search,"Backtracking, Branch and Bound, and Exhaustive Search",Algorithm Design and Procedural Strategy,planned
+randomized-algorithms-and-probabilistic-procedure,Randomized Algorithms and Probabilistic Procedure,Algorithm Design and Procedural Strategy,planned
+approximation-algorithms-and-practical-solvability,Approximation Algorithms and Practical Solvability,Algorithm Design and Procedural Strategy,planned
+heuristics-and-metaheuristics,Heuristics and Metaheuristics,Algorithm Design and Procedural Strategy,planned
+evolutionary-algorithms-and-adaptive-search,Evolutionary Algorithms and Adaptive Search,Algorithm Design and Procedural Strategy,planned
+computational-complexity-and-scalability,Computational Complexity and Scalability,"Complexity, Efficiency, and Computational Limits",planned
+big-o-notation-and-growth-rates,Big-O Notation and Growth Rates,"Complexity, Efficiency, and Computational Limits",planned
+tractability-intractability-and-hard-problems,"Tractability, Intractability, and Hard Problems","Complexity, Efficiency, and Computational Limits",planned
+p-np-and-the-boundaries-of-efficient-computation,"P, NP, and the Boundaries of Efficient Computation","Complexity, Efficiency, and Computational Limits",planned
+space-complexity-memory-and-resource-constraints,"Space Complexity, Memory, and Resource Constraints","Complexity, Efficiency, and Computational Limits",planned
+parallelism-distribution-and-computational-scale,"Parallelism, Distribution, and Computational Scale","Complexity, Efficiency, and Computational Limits",planned
+online-algorithms-and-decisions-under-arrival,Online Algorithms and Decisions Under Arrival,"Complexity, Efficiency, and Computational Limits",planned
+streaming-algorithms-and-real-time-data,Streaming Algorithms and Real-Time Data,"Complexity, Efficiency, and Computational Limits",planned
+efficiency-vs-understanding-in-computational-systems,Efficiency vs. Understanding in Computational Systems,"Complexity, Efficiency, and Computational Limits",planned
+databases-as-computational-knowledge-systems,Databases as Computational Knowledge Systems,"Databases, Search Architecture, and Information Retrieval",planned
+relational-thinking-and-query-logic,Relational Thinking and Query Logic,"Databases, Search Architecture, and Information Retrieval",planned
+query-algorithms-and-database-optimization,Query Algorithms and Database Optimization,"Databases, Search Architecture, and Information Retrieval",planned
+information-retrieval-and-search-architecture,Information Retrieval and Search Architecture,"Databases, Search Architecture, and Information Retrieval",planned
+ranking-signals-and-relevance-models,Ranking Signals and Relevance Models,"Databases, Search Architecture, and Information Retrieval",planned
+knowledge-graphs-and-semantic-retrieval,Knowledge Graphs and Semantic Retrieval,"Databases, Search Architecture, and Information Retrieval",planned
+data-pipelines-and-algorithmic-workflow-design,Data Pipelines and Algorithmic Workflow Design,"Databases, Search Architecture, and Information Retrieval",planned
+data-quality-missingness-and-computational-judgment,"Data Quality, Missingness, and Computational Judgment","Databases, Search Architecture, and Information Retrieval",planned
+concurrency-and-parallel-computation,Concurrency and Parallel Computation,"Concurrency, Distributed Systems, and Computational Infrastructure",planned
+distributed-algorithms-and-networked-computation,Distributed Algorithms and Networked Computation,"Concurrency, Distributed Systems, and Computational Infrastructure",planned
+consensus-coordination-and-fault-tolerance,"Consensus, Coordination, and Fault Tolerance","Concurrency, Distributed Systems, and Computational Infrastructure",planned
+scalability-latency-and-system-performance,"Scalability, Latency, and System Performance","Concurrency, Distributed Systems, and Computational Infrastructure",planned
+cloud-computing-and-algorithmic-infrastructure,Cloud Computing and Algorithmic Infrastructure,"Concurrency, Distributed Systems, and Computational Infrastructure",planned
+edge-computing-and-embedded-algorithms,Edge Computing and Embedded Algorithms,"Concurrency, Distributed Systems, and Computational Infrastructure",planned
+algorithmic-infrastructure-and-platform-power,Algorithmic Infrastructure and Platform Power,"Concurrency, Distributed Systems, and Computational Infrastructure",planned
+search-spaces-and-computational-exploration,Search Spaces and Computational Exploration,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+optimization-objectives-and-constraints,"Optimization, Objectives, and Constraints","Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+constraint-satisfaction-and-feasible-solutions,Constraint Satisfaction and Feasible Solutions,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+graph-search-pathfinding-and-routing,"Graph Search, Pathfinding, and Routing","Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+ranking-filtering-and-recommendation,"Ranking, Filtering, and Recommendation","Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+decision-rules-thresholds-and-classification,"Decision Rules, Thresholds, and Classification","Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+linear-programming-and-convex-optimization,Linear Programming and Convex Optimization,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+gradient-descent-and-optimization-in-machine-learning,Gradient Descent and Optimization in Machine Learning,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+multi-objective-optimization-and-trade-off-reasoning,Multi-Objective Optimization and Trade-Off Reasoning,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+algorithmic-game-theory-and-strategic-behavior,Algorithmic Game Theory and Strategic Behavior,"Search, Optimization, Constraint Reasoning, and Decision Rules",planned
+cryptographic-algorithms-and-secure-communication,Cryptographic Algorithms and Secure Communication,"Security, Cryptography, Privacy, and Trust",planned
+hash-functions-integrity-and-verification,"Hash Functions, Integrity, and Verification","Security, Cryptography, Privacy, and Trust",planned
+secure-computation-and-privacy-preserving-algorithms,Secure Computation and Privacy-Preserving Algorithms,"Security, Cryptography, Privacy, and Trust",planned
+adversarial-thinking-in-computational-systems,Adversarial Thinking in Computational Systems,"Security, Cryptography, Privacy, and Trust",planned
+algorithmic-trust-verification-and-security,"Algorithmic Trust, Verification, and Security","Security, Cryptography, Privacy, and Trust",planned
+authentication-authorization-and-computational-identity,"Authentication, Authorization, and Computational Identity","Security, Cryptography, Privacy, and Trust",planned
+security-failures-as-algorithmic-failures,Security Failures as Algorithmic Failures,"Security, Cryptography, Privacy, and Trust",planned
+simulation-as-computational-reasoning,Simulation as Computational Reasoning,"Simulation, Modeling, and Scientific Computing",planned
+algorithms-in-scientific-computing,Algorithms in Scientific Computing,"Simulation, Modeling, and Scientific Computing",planned
+numerical-methods-and-algorithmic-approximation,Numerical Methods and Algorithmic Approximation,"Simulation, Modeling, and Scientific Computing",planned
+monte-carlo-methods-and-computational-uncertainty,Monte Carlo Methods and Computational Uncertainty,"Simulation, Modeling, and Scientific Computing",planned
+agent-based-algorithms-and-emergent-behavior,Agent-Based Algorithms and Emergent Behavior,"Simulation, Modeling, and Scientific Computing",planned
+computational-experiments-and-reproducible-workflows,Computational Experiments and Reproducible Workflows,"Simulation, Modeling, and Scientific Computing",planned
+model-validation-testing-and-computational-evidence,"Model Validation, Testing, and Computational Evidence","Simulation, Modeling, and Scientific Computing",planned
+sensitivity-analysis-for-algorithms-and-models,Sensitivity Analysis for Algorithms and Models,"Simulation, Modeling, and Scientific Computing",planned
+uncertainty-quantification-in-computational-workflows,Uncertainty Quantification in Computational Workflows,"Simulation, Modeling, and Scientific Computing",planned
+probabilistic-algorithms-and-reasoning-under-uncertainty,Probabilistic Algorithms and Reasoning Under Uncertainty,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+bayesian-computation-and-updating-beliefs,Bayesian Computation and Updating Beliefs,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+causal-inference-and-computational-reasoning,Causal Inference and Computational Reasoning,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+counterfactual-reasoning-in-algorithmic-systems,Counterfactual Reasoning in Algorithmic Systems,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+causal-algorithms-and-intervention-modeling,Causal Algorithms and Intervention Modeling,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+decision-under-uncertainty-and-computational-risk,Decision Under Uncertainty and Computational Risk,"Probabilistic, Causal, and Counterfactual Reasoning",planned
+machine-learning-as-algorithmic-inference,Machine Learning as Algorithmic Inference,"Machine Learning, AI, and Automated Reasoning",planned
+supervised-unsupervised-and-reinforcement-learning,"Supervised, Unsupervised, and Reinforcement Learning","Machine Learning, AI, and Automated Reasoning",planned
+features-labels-and-the-politics-of-measurement,"Features, Labels, and the Politics of Measurement","Machine Learning, AI, and Automated Reasoning",planned
+training-testing-and-generalization,"Training, Testing, and Generalization","Machine Learning, AI, and Automated Reasoning",planned
+overfitting-underfitting-and-model-error,"Overfitting, Underfitting, and Model Error","Machine Learning, AI, and Automated Reasoning",planned
+neural-networks-and-representation-learning,Neural Networks and Representation Learning,"Machine Learning, AI, and Automated Reasoning",planned
+large-language-models-and-procedural-reasoning,Large Language Models and Procedural Reasoning,"Machine Learning, AI, and Automated Reasoning",planned
+automated-reasoning-symbolic-ai-and-hybrid-systems,"Automated Reasoning, Symbolic AI, and Hybrid Systems","Machine Learning, AI, and Automated Reasoning",planned
+ai-agents-tool-use-and-procedural-autonomy,"AI Agents, Tool Use, and Procedural Autonomy","Machine Learning, AI, and Automated Reasoning",planned
+evaluation-benchmarks-and-the-limits-of-ai-measurement,"Evaluation, Benchmarks, and the Limits of AI Measurement","Machine Learning, AI, and Automated Reasoning",planned
+metrics-objectives-and-goodharts-law,"Metrics, Objectives, and Goodhart's Law","Metrics, Feedback, and Algorithmic Failure",planned
+proxy-variables-and-measurement-error,Proxy Variables and Measurement Error,"Metrics, Feedback, and Algorithmic Failure",planned
+feedback-loops-in-algorithmic-systems,Feedback Loops in Algorithmic Systems,"Metrics, Feedback, and Algorithmic Failure",planned
+distribution-shift-and-model-decay,Distribution Shift and Model Decay,"Metrics, Feedback, and Algorithmic Failure",planned
+automation-bias-and-human-overreliance,Automation Bias and Human Overreliance,"Metrics, Feedback, and Algorithmic Failure",planned
+contestability-appeals-and-algorithmic-due-process,"Contestability, Appeals, and Algorithmic Due Process","Metrics, Feedback, and Algorithmic Failure",planned
+algorithmic-harm-error-and-institutional-responsibility,"Algorithmic Harm, Error, and Institutional Responsibility","Metrics, Feedback, and Algorithmic Failure",planned
+failure-modes-in-algorithmic-systems,Failure Modes in Algorithmic Systems,"Metrics, Feedback, and Algorithmic Failure",planned
+algorithmic-fairness-and-computational-justice,Algorithmic Fairness and Computational Justice,"Fairness, Governance, Accountability, and Responsible Automation",planned
+algorithmic-bias-data-and-institutional-history,"Algorithmic Bias, Data, and Institutional History","Fairness, Governance, Accountability, and Responsible Automation",planned
+transparency-explainability-and-interpretability,"Transparency, Explainability, and Interpretability","Fairness, Governance, Accountability, and Responsible Automation",planned
+algorithmic-accountability-and-audit-trails,Algorithmic Accountability and Audit Trails,"Fairness, Governance, Accountability, and Responsible Automation",planned
+human-in-the-loop-and-human-judgment,Human-in-the-Loop and Human Judgment,"Fairness, Governance, Accountability, and Responsible Automation",planned
+responsible-automation-and-decision-delegation,Responsible Automation and Decision Delegation,"Fairness, Governance, Accountability, and Responsible Automation",planned
+algorithmic-risk-management-and-ai-governance,Algorithmic Risk Management and AI Governance,"Fairness, Governance, Accountability, and Responsible Automation",planned
+documentation-model-cards-and-datasheets-for-algorithms,"Documentation, Model Cards, and Datasheets for Algorithms","Fairness, Governance, Accountability, and Responsible Automation",planned
+when-algorithms-should-not-be-used,When Algorithms Should Not Be Used,"Fairness, Governance, Accountability, and Responsible Automation",planned
+algorithms-in-decision-science,Algorithms in Decision Science,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-systems-modeling,Algorithms in Systems Modeling,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-knowledge-architecture,Algorithms in Knowledge Architecture,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-public-policy-and-governance,Algorithms in Public Policy and Governance,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-media-platforms-and-attention-systems,Algorithms in Media Platforms and Attention Systems,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-finance-markets-and-risk,"Algorithms in Finance, Markets, and Risk",Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-health-care-and-public-health,Algorithms in Health Care and Public Health,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-climate-energy-and-infrastructure,"Algorithms in Climate, Energy, and Infrastructure",Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-education-and-learning-systems,Algorithms in Education and Learning Systems,Applications Across Knowledge Systems and Institutions,planned
+algorithms-in-labor-management-and-organizational-systems,"Algorithms in Labor, Management, and Organizational Systems",Applications Across Knowledge Systems and Institutions,planned
+islamic-world-roots-of-algorithmic-reasoning,Islamic-World Roots of Algorithmic Reasoning,Islamic-World Roots of Algorithmic Procedure,planned
+al-khwarizmi-algorism-and-the-procedural-imagination,"Al-Khwārizmī, Algorism, and the Procedural Imagination",Islamic-World Roots of Algorithmic Procedure,planned
+al-jabr-wal-muqabalah-algebra-as-rule-governed-problem-solving,Al-Jabr wa'l-Muqābalah: Algebra as Rule-Governed Problem Solving,Islamic-World Roots of Algorithmic Procedure,planned
+hindu-arabic-numerals-and-the-transmission-of-positional-calculation,Hindu-Arabic Numerals and the Transmission of Positional Calculation,Islamic-World Roots of Algorithmic Procedure,planned
+algorithms-before-symbols-verbal-procedures-in-medieval-mathematics,Algorithms Before Symbols: Verbal Procedures in Medieval Mathematics,Islamic-World Roots of Algorithmic Procedure,planned
+trade-inheritance-surveying-and-practical-calculation,"Trade, Inheritance, Surveying, and Practical Calculation",Islamic-World Roots of Algorithmic Procedure,planned
+astronomical-tables-calendars-and-algorithmic-prediction,"Astronomical Tables, Calendars, and Algorithmic Prediction",Islamic-World Roots of Algorithmic Procedure,planned
+geography-coordinates-and-computational-mapping-in-the-islamic-world,"Geography, Coordinates, and Computational Mapping in the Islamic World",Islamic-World Roots of Algorithmic Procedure,planned
+al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis,"Al-Kindī, Frequency Analysis, and the Birth of Cryptanalysis",Islamic-World Roots of Algorithmic Procedure,planned
+the-banu-musa-and-mechanical-procedure,The Banū Mūsā and Mechanical Procedure,Islamic-World Roots of Algorithmic Procedure,planned
+al-jazari-automata-and-sequenced-mechanical-action,"Al-Jazarī, Automata, and Sequenced Mechanical Action",Islamic-World Roots of Algorithmic Procedure,planned
+translation-movements-and-computational-knowledge-transfer,Translation Movements and Computational Knowledge Transfer,Islamic-World Roots of Algorithmic Procedure,planned
+from-baghdad-to-latin-europe-algorism-algebra-and-reception,"From Baghdad to Latin Europe: Algorism, Algebra, and Reception",Islamic-World Roots of Algorithmic Procedure,planned
+the-unknown-the-variable-and-islamic-mathematical-philosophy,"The Unknown, the Variable, and Islamic Mathematical Philosophy",Islamic-World Roots of Algorithmic Procedure,planned
+why-origin-stories-of-algorithms-need-care,Why Origin Stories of Algorithms Need Care,Islamic-World Roots of Algorithmic Procedure,planned
+the-history-of-algorithms-from-procedure-to-computation,The History of Algorithms from Procedure to Computation,"History, Philosophy, and Future Directions",planned
+al-khwarizmi-and-the-historical-roots-of-algorithmic-method,Al-Khwārizmī and the Historical Roots of Algorithmic Method,"History, Philosophy, and Future Directions",planned
+ada-lovelace-programming-and-the-imagination-of-computation,"Ada Lovelace, Programming, and the Imagination of Computation","History, Philosophy, and Future Directions",planned
+alan-turing-computation-and-the-machine-model-of-reasoning,"Alan Turing, Computation, and the Machine Model of Reasoning","History, Philosophy, and Future Directions",planned
+alonzo-church-lambda-calculus-and-formal-computation,"Alonzo Church, Lambda Calculus, and Formal Computation","History, Philosophy, and Future Directions",planned
+john-von-neumann-and-the-architecture-of-modern-computing,John von Neumann and the Architecture of Modern Computing,"History, Philosophy, and Future Directions",planned
+claude-shannon-and-the-mathematical-theory-of-information,Claude Shannon and the Mathematical Theory of Information,"History, Philosophy, and Future Directions",planned
+norbert-wiener-cybernetics-and-feedback-in-computation,"Norbert Wiener, Cybernetics, and Feedback in Computation","History, Philosophy, and Future Directions",planned
+grace-hopper-compilers-and-the-humanization-of-programming,"Grace Hopper, Compilers, and the Humanization of Programming","History, Philosophy, and Future Directions",planned
+edsger-dijkstra-and-the-discipline-of-structured-programming,Edsger Dijkstra and the Discipline of Structured Programming,"History, Philosophy, and Future Directions",planned
+donald-knuth-and-the-art-of-computer-programming,Donald Knuth and the Art of Computer Programming,"History, Philosophy, and Future Directions",planned
+the-history-of-programming-languages,The History of Programming Languages,"History, Philosophy, and Future Directions",planned
+the-history-of-data-structures-and-algorithm-analysis,The History of Data Structures and Algorithm Analysis,"History, Philosophy, and Future Directions",planned
+the-philosophy-of-algorithms,The Philosophy of Algorithms,"History, Philosophy, and Future Directions",planned
+the-future-of-algorithms-and-computational-reasoning,The Future of Algorithms & Computational Reasoning,"History, Philosophy, and Future Directions",planned

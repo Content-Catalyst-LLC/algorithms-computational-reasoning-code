@@ -1,0 +1,1016 @@
+[
+  {
+    "slug": "what-are-algorithms-and-computational-reasoning",
+    "title": "What Are Algorithms & Computational Reasoning?",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-thinking-vs-computational-reasoning",
+    "title": "Algorithmic Thinking vs. Computational Reasoning",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "problems-procedures-and-formalization",
+    "title": "Problems, Procedures, and Formalization",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "decomposition-and-stepwise-reasoning",
+    "title": "Decomposition and Stepwise Reasoning",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "abstraction-in-computational-reasoning",
+    "title": "Abstraction in Computational Reasoning",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "inputs-outputs-states-and-stopping-conditions",
+    "title": "Inputs, Outputs, States, and Stopping Conditions",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-literacy-for-the-modern-world",
+    "title": "Algorithmic Literacy for the Modern World",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "from-pseudocode-to-programs",
+    "title": "From Pseudocode to Programs",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "debugging-as-computational-reasoning",
+    "title": "Debugging as Computational Reasoning",
+    "section": "Foundations, Procedure, and Computational Thought",
+    "status": "planned"
+  },
+  {
+    "slug": "logic-and-computation",
+    "title": "Logic and Computation",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "formal-languages-and-symbolic-representation",
+    "title": "Formal Languages and Symbolic Representation",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "proof-correctness-and-algorithmic-verification",
+    "title": "Proof, Correctness, and Algorithmic Verification",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "termination-invariants-and-edge-cases",
+    "title": "Termination, Invariants, and Edge Cases",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "computability-and-the-limits-of-procedure",
+    "title": "Computability and the Limits of Procedure",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "the-halting-problem-and-the-limits-of-automation",
+    "title": "The Halting Problem and the Limits of Automation",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "automated-reasoning-and-mechanical-inference",
+    "title": "Automated Reasoning and Mechanical Inference",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "lambda-calculus-functions-and-formal-computation",
+    "title": "Lambda Calculus, Functions, and Formal Computation",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "formal-methods-and-machine-checked-reasoning",
+    "title": "Formal Methods and Machine-Checked Reasoning",
+    "section": "Logic, Formal Systems, and Computability",
+    "status": "planned"
+  },
+  {
+    "slug": "representation-and-the-shape-of-computation",
+    "title": "Representation and the Shape of Computation",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "data-structures-as-thinking-tools",
+    "title": "Data Structures as Thinking Tools",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "arrays-lists-stacks-and-queues",
+    "title": "Arrays, Lists, Stacks, and Queues",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "trees-hierarchies-and-recursive-structure",
+    "title": "Trees, Hierarchies, and Recursive Structure",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "graphs-networks-and-computational-relationships",
+    "title": "Graphs, Networks, and Computational Relationships",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "hashing-indexing-and-retrieval",
+    "title": "Hashing, Indexing, and Retrieval",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "vectors-embeddings-and-computational-meaning",
+    "title": "Vectors, Embeddings, and Computational Meaning",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "compression-encoding-and-information-efficiency",
+    "title": "Compression, Encoding, and Information Efficiency",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "metadata-provenance-and-computational-traceability",
+    "title": "Metadata, Provenance, and Computational Traceability",
+    "section": "Representation, Data Structures, and Information",
+    "status": "planned"
+  },
+  {
+    "slug": "programming-paradigms-and-computational-style",
+    "title": "Programming Paradigms and Computational Style",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "type-systems-and-the-discipline-of-computational-representation",
+    "title": "Type Systems and the Discipline of Computational Representation",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "compilers-interpreters-and-execution-models",
+    "title": "Compilers, Interpreters, and Execution Models",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "memory-state-and-mutation-in-computation",
+    "title": "Memory, State, and Mutation in Computation",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "runtime-systems-environments-and-computational-context",
+    "title": "Runtime Systems, Environments, and Computational Context",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "apis-interfaces-and-modular-computational-design",
+    "title": "APIs, Interfaces, and Modular Computational Design",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "software-architecture-as-algorithmic-infrastructure",
+    "title": "Software Architecture as Algorithmic Infrastructure",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "testing-verification-and-computational-reliability",
+    "title": "Testing, Verification, and Computational Reliability",
+    "section": "Programming Languages, Type Systems, and Execution Models",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithm-design-principles",
+    "title": "Algorithm Design Principles",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "iteration-recursion-and-control-flow",
+    "title": "Iteration, Recursion, and Control Flow",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "search-and-sorting-as-foundational-algorithms",
+    "title": "Search and Sorting as Foundational Algorithms",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "divide-and-conquer-methods",
+    "title": "Divide-and-Conquer Methods",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "greedy-algorithms-and-local-decision-rules",
+    "title": "Greedy Algorithms and Local Decision Rules",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "dynamic-programming-and-memory-in-computation",
+    "title": "Dynamic Programming and Memory in Computation",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "backtracking-branch-and-bound-and-exhaustive-search",
+    "title": "Backtracking, Branch and Bound, and Exhaustive Search",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "randomized-algorithms-and-probabilistic-procedure",
+    "title": "Randomized Algorithms and Probabilistic Procedure",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "approximation-algorithms-and-practical-solvability",
+    "title": "Approximation Algorithms and Practical Solvability",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "heuristics-and-metaheuristics",
+    "title": "Heuristics and Metaheuristics",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "evolutionary-algorithms-and-adaptive-search",
+    "title": "Evolutionary Algorithms and Adaptive Search",
+    "section": "Algorithm Design and Procedural Strategy",
+    "status": "planned"
+  },
+  {
+    "slug": "computational-complexity-and-scalability",
+    "title": "Computational Complexity and Scalability",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "big-o-notation-and-growth-rates",
+    "title": "Big-O Notation and Growth Rates",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "tractability-intractability-and-hard-problems",
+    "title": "Tractability, Intractability, and Hard Problems",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "p-np-and-the-boundaries-of-efficient-computation",
+    "title": "P, NP, and the Boundaries of Efficient Computation",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "space-complexity-memory-and-resource-constraints",
+    "title": "Space Complexity, Memory, and Resource Constraints",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "parallelism-distribution-and-computational-scale",
+    "title": "Parallelism, Distribution, and Computational Scale",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "online-algorithms-and-decisions-under-arrival",
+    "title": "Online Algorithms and Decisions Under Arrival",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "streaming-algorithms-and-real-time-data",
+    "title": "Streaming Algorithms and Real-Time Data",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "efficiency-vs-understanding-in-computational-systems",
+    "title": "Efficiency vs. Understanding in Computational Systems",
+    "section": "Complexity, Efficiency, and Computational Limits",
+    "status": "planned"
+  },
+  {
+    "slug": "databases-as-computational-knowledge-systems",
+    "title": "Databases as Computational Knowledge Systems",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "relational-thinking-and-query-logic",
+    "title": "Relational Thinking and Query Logic",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "query-algorithms-and-database-optimization",
+    "title": "Query Algorithms and Database Optimization",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "information-retrieval-and-search-architecture",
+    "title": "Information Retrieval and Search Architecture",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "ranking-signals-and-relevance-models",
+    "title": "Ranking Signals and Relevance Models",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "knowledge-graphs-and-semantic-retrieval",
+    "title": "Knowledge Graphs and Semantic Retrieval",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "data-pipelines-and-algorithmic-workflow-design",
+    "title": "Data Pipelines and Algorithmic Workflow Design",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "data-quality-missingness-and-computational-judgment",
+    "title": "Data Quality, Missingness, and Computational Judgment",
+    "section": "Databases, Search Architecture, and Information Retrieval",
+    "status": "planned"
+  },
+  {
+    "slug": "concurrency-and-parallel-computation",
+    "title": "Concurrency and Parallel Computation",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "distributed-algorithms-and-networked-computation",
+    "title": "Distributed Algorithms and Networked Computation",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "consensus-coordination-and-fault-tolerance",
+    "title": "Consensus, Coordination, and Fault Tolerance",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "scalability-latency-and-system-performance",
+    "title": "Scalability, Latency, and System Performance",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "cloud-computing-and-algorithmic-infrastructure",
+    "title": "Cloud Computing and Algorithmic Infrastructure",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "edge-computing-and-embedded-algorithms",
+    "title": "Edge Computing and Embedded Algorithms",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-infrastructure-and-platform-power",
+    "title": "Algorithmic Infrastructure and Platform Power",
+    "section": "Concurrency, Distributed Systems, and Computational Infrastructure",
+    "status": "planned"
+  },
+  {
+    "slug": "search-spaces-and-computational-exploration",
+    "title": "Search Spaces and Computational Exploration",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "optimization-objectives-and-constraints",
+    "title": "Optimization, Objectives, and Constraints",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "constraint-satisfaction-and-feasible-solutions",
+    "title": "Constraint Satisfaction and Feasible Solutions",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "graph-search-pathfinding-and-routing",
+    "title": "Graph Search, Pathfinding, and Routing",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "ranking-filtering-and-recommendation",
+    "title": "Ranking, Filtering, and Recommendation",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "decision-rules-thresholds-and-classification",
+    "title": "Decision Rules, Thresholds, and Classification",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "linear-programming-and-convex-optimization",
+    "title": "Linear Programming and Convex Optimization",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "gradient-descent-and-optimization-in-machine-learning",
+    "title": "Gradient Descent and Optimization in Machine Learning",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "multi-objective-optimization-and-trade-off-reasoning",
+    "title": "Multi-Objective Optimization and Trade-Off Reasoning",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-game-theory-and-strategic-behavior",
+    "title": "Algorithmic Game Theory and Strategic Behavior",
+    "section": "Search, Optimization, Constraint Reasoning, and Decision Rules",
+    "status": "planned"
+  },
+  {
+    "slug": "cryptographic-algorithms-and-secure-communication",
+    "title": "Cryptographic Algorithms and Secure Communication",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "hash-functions-integrity-and-verification",
+    "title": "Hash Functions, Integrity, and Verification",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "secure-computation-and-privacy-preserving-algorithms",
+    "title": "Secure Computation and Privacy-Preserving Algorithms",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "adversarial-thinking-in-computational-systems",
+    "title": "Adversarial Thinking in Computational Systems",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-trust-verification-and-security",
+    "title": "Algorithmic Trust, Verification, and Security",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "authentication-authorization-and-computational-identity",
+    "title": "Authentication, Authorization, and Computational Identity",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "security-failures-as-algorithmic-failures",
+    "title": "Security Failures as Algorithmic Failures",
+    "section": "Security, Cryptography, Privacy, and Trust",
+    "status": "planned"
+  },
+  {
+    "slug": "simulation-as-computational-reasoning",
+    "title": "Simulation as Computational Reasoning",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-scientific-computing",
+    "title": "Algorithms in Scientific Computing",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "numerical-methods-and-algorithmic-approximation",
+    "title": "Numerical Methods and Algorithmic Approximation",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "monte-carlo-methods-and-computational-uncertainty",
+    "title": "Monte Carlo Methods and Computational Uncertainty",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "agent-based-algorithms-and-emergent-behavior",
+    "title": "Agent-Based Algorithms and Emergent Behavior",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "computational-experiments-and-reproducible-workflows",
+    "title": "Computational Experiments and Reproducible Workflows",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "model-validation-testing-and-computational-evidence",
+    "title": "Model Validation, Testing, and Computational Evidence",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "sensitivity-analysis-for-algorithms-and-models",
+    "title": "Sensitivity Analysis for Algorithms and Models",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "uncertainty-quantification-in-computational-workflows",
+    "title": "Uncertainty Quantification in Computational Workflows",
+    "section": "Simulation, Modeling, and Scientific Computing",
+    "status": "planned"
+  },
+  {
+    "slug": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+    "title": "Probabilistic Algorithms and Reasoning Under Uncertainty",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "bayesian-computation-and-updating-beliefs",
+    "title": "Bayesian Computation and Updating Beliefs",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "causal-inference-and-computational-reasoning",
+    "title": "Causal Inference and Computational Reasoning",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "counterfactual-reasoning-in-algorithmic-systems",
+    "title": "Counterfactual Reasoning in Algorithmic Systems",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "causal-algorithms-and-intervention-modeling",
+    "title": "Causal Algorithms and Intervention Modeling",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "decision-under-uncertainty-and-computational-risk",
+    "title": "Decision Under Uncertainty and Computational Risk",
+    "section": "Probabilistic, Causal, and Counterfactual Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "machine-learning-as-algorithmic-inference",
+    "title": "Machine Learning as Algorithmic Inference",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "supervised-unsupervised-and-reinforcement-learning",
+    "title": "Supervised, Unsupervised, and Reinforcement Learning",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "features-labels-and-the-politics-of-measurement",
+    "title": "Features, Labels, and the Politics of Measurement",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "training-testing-and-generalization",
+    "title": "Training, Testing, and Generalization",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "overfitting-underfitting-and-model-error",
+    "title": "Overfitting, Underfitting, and Model Error",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "neural-networks-and-representation-learning",
+    "title": "Neural Networks and Representation Learning",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "large-language-models-and-procedural-reasoning",
+    "title": "Large Language Models and Procedural Reasoning",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+    "title": "Automated Reasoning, Symbolic AI, and Hybrid Systems",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "ai-agents-tool-use-and-procedural-autonomy",
+    "title": "AI Agents, Tool Use, and Procedural Autonomy",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+    "title": "Evaluation, Benchmarks, and the Limits of AI Measurement",
+    "section": "Machine Learning, AI, and Automated Reasoning",
+    "status": "planned"
+  },
+  {
+    "slug": "metrics-objectives-and-goodharts-law",
+    "title": "Metrics, Objectives, and Goodhart's Law",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "proxy-variables-and-measurement-error",
+    "title": "Proxy Variables and Measurement Error",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "feedback-loops-in-algorithmic-systems",
+    "title": "Feedback Loops in Algorithmic Systems",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "distribution-shift-and-model-decay",
+    "title": "Distribution Shift and Model Decay",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "automation-bias-and-human-overreliance",
+    "title": "Automation Bias and Human Overreliance",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "contestability-appeals-and-algorithmic-due-process",
+    "title": "Contestability, Appeals, and Algorithmic Due Process",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-harm-error-and-institutional-responsibility",
+    "title": "Algorithmic Harm, Error, and Institutional Responsibility",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "failure-modes-in-algorithmic-systems",
+    "title": "Failure Modes in Algorithmic Systems",
+    "section": "Metrics, Feedback, and Algorithmic Failure",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-fairness-and-computational-justice",
+    "title": "Algorithmic Fairness and Computational Justice",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-bias-data-and-institutional-history",
+    "title": "Algorithmic Bias, Data, and Institutional History",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "transparency-explainability-and-interpretability",
+    "title": "Transparency, Explainability, and Interpretability",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-accountability-and-audit-trails",
+    "title": "Algorithmic Accountability and Audit Trails",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "human-in-the-loop-and-human-judgment",
+    "title": "Human-in-the-Loop and Human Judgment",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "responsible-automation-and-decision-delegation",
+    "title": "Responsible Automation and Decision Delegation",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithmic-risk-management-and-ai-governance",
+    "title": "Algorithmic Risk Management and AI Governance",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "documentation-model-cards-and-datasheets-for-algorithms",
+    "title": "Documentation, Model Cards, and Datasheets for Algorithms",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "when-algorithms-should-not-be-used",
+    "title": "When Algorithms Should Not Be Used",
+    "section": "Fairness, Governance, Accountability, and Responsible Automation",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-decision-science",
+    "title": "Algorithms in Decision Science",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-systems-modeling",
+    "title": "Algorithms in Systems Modeling",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-knowledge-architecture",
+    "title": "Algorithms in Knowledge Architecture",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-public-policy-and-governance",
+    "title": "Algorithms in Public Policy and Governance",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-media-platforms-and-attention-systems",
+    "title": "Algorithms in Media Platforms and Attention Systems",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-finance-markets-and-risk",
+    "title": "Algorithms in Finance, Markets, and Risk",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-health-care-and-public-health",
+    "title": "Algorithms in Health Care and Public Health",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-climate-energy-and-infrastructure",
+    "title": "Algorithms in Climate, Energy, and Infrastructure",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-education-and-learning-systems",
+    "title": "Algorithms in Education and Learning Systems",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-in-labor-management-and-organizational-systems",
+    "title": "Algorithms in Labor, Management, and Organizational Systems",
+    "section": "Applications Across Knowledge Systems and Institutions",
+    "status": "planned"
+  },
+  {
+    "slug": "islamic-world-roots-of-algorithmic-reasoning",
+    "title": "Islamic-World Roots of Algorithmic Reasoning",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "al-khwarizmi-algorism-and-the-procedural-imagination",
+    "title": "Al-Khwārizmī, Algorism, and the Procedural Imagination",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "al-jabr-wal-muqabalah-algebra-as-rule-governed-problem-solving",
+    "title": "Al-Jabr wa'l-Muqābalah: Algebra as Rule-Governed Problem Solving",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "hindu-arabic-numerals-and-the-transmission-of-positional-calculation",
+    "title": "Hindu-Arabic Numerals and the Transmission of Positional Calculation",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "algorithms-before-symbols-verbal-procedures-in-medieval-mathematics",
+    "title": "Algorithms Before Symbols: Verbal Procedures in Medieval Mathematics",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "trade-inheritance-surveying-and-practical-calculation",
+    "title": "Trade, Inheritance, Surveying, and Practical Calculation",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "astronomical-tables-calendars-and-algorithmic-prediction",
+    "title": "Astronomical Tables, Calendars, and Algorithmic Prediction",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "geography-coordinates-and-computational-mapping-in-the-islamic-world",
+    "title": "Geography, Coordinates, and Computational Mapping in the Islamic World",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis",
+    "title": "Al-Kindī, Frequency Analysis, and the Birth of Cryptanalysis",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "the-banu-musa-and-mechanical-procedure",
+    "title": "The Banū Mūsā and Mechanical Procedure",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "al-jazari-automata-and-sequenced-mechanical-action",
+    "title": "Al-Jazarī, Automata, and Sequenced Mechanical Action",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "translation-movements-and-computational-knowledge-transfer",
+    "title": "Translation Movements and Computational Knowledge Transfer",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "from-baghdad-to-latin-europe-algorism-algebra-and-reception",
+    "title": "From Baghdad to Latin Europe: Algorism, Algebra, and Reception",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "the-unknown-the-variable-and-islamic-mathematical-philosophy",
+    "title": "The Unknown, the Variable, and Islamic Mathematical Philosophy",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "why-origin-stories-of-algorithms-need-care",
+    "title": "Why Origin Stories of Algorithms Need Care",
+    "section": "Islamic-World Roots of Algorithmic Procedure",
+    "status": "planned"
+  },
+  {
+    "slug": "the-history-of-algorithms-from-procedure-to-computation",
+    "title": "The History of Algorithms from Procedure to Computation",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "al-khwarizmi-and-the-historical-roots-of-algorithmic-method",
+    "title": "Al-Khwārizmī and the Historical Roots of Algorithmic Method",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "ada-lovelace-programming-and-the-imagination-of-computation",
+    "title": "Ada Lovelace, Programming, and the Imagination of Computation",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "alan-turing-computation-and-the-machine-model-of-reasoning",
+    "title": "Alan Turing, Computation, and the Machine Model of Reasoning",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "alonzo-church-lambda-calculus-and-formal-computation",
+    "title": "Alonzo Church, Lambda Calculus, and Formal Computation",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "john-von-neumann-and-the-architecture-of-modern-computing",
+    "title": "John von Neumann and the Architecture of Modern Computing",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "claude-shannon-and-the-mathematical-theory-of-information",
+    "title": "Claude Shannon and the Mathematical Theory of Information",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "norbert-wiener-cybernetics-and-feedback-in-computation",
+    "title": "Norbert Wiener, Cybernetics, and Feedback in Computation",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "grace-hopper-compilers-and-the-humanization-of-programming",
+    "title": "Grace Hopper, Compilers, and the Humanization of Programming",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "edsger-dijkstra-and-the-discipline-of-structured-programming",
+    "title": "Edsger Dijkstra and the Discipline of Structured Programming",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "donald-knuth-and-the-art-of-computer-programming",
+    "title": "Donald Knuth and the Art of Computer Programming",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "the-history-of-programming-languages",
+    "title": "The History of Programming Languages",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "the-history-of-data-structures-and-algorithm-analysis",
+    "title": "The History of Data Structures and Algorithm Analysis",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "the-philosophy-of-algorithms",
+    "title": "The Philosophy of Algorithms",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  },
+  {
+    "slug": "the-future-of-algorithms-and-computational-reasoning",
+    "title": "The Future of Algorithms & Computational Reasoning",
+    "section": "History, Philosophy, and Future Directions",
+    "status": "planned"
+  }
+]
