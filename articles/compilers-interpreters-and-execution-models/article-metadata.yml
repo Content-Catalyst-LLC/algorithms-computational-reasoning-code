@@ -1,0 +1,24 @@
+actual_title: "Compilers, Interpreters, and Execution Models"
+suggested_seo_title: "Compilers, Interpreters, and Execution Models"
+focus_keyword: "compilers interpreters and execution models"
+slug: "compilers-interpreters-and-execution-models"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "type-systems-and-the-discipline-of-computational-representation"
+  current: "compilers-interpreters-and-execution-models"
+  next: "memory-state-and-mutation-in-computation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/compilers-interpreters-and-execution-models"
+tags:
+  - Compilers
+  - Interpreters
+  - Execution Models
+  - Runtime Systems
+  - Abstract Syntax Trees
+  - Bytecode
+  - Virtual Machines
+  - Computational Reasoning
+excerpt_139_words: "Compilers, interpreters, and execution models explain how programming languages become running computation. A program written by a human is not automatically executable in the form it first appears. It may be parsed, checked, transformed, optimized, compiled, interpreted, assembled, linked, loaded, translated into bytecode, executed by a virtual machine, scheduled by a runtime, or compiled just in time while running. Execution is not a single idea. It is a chain of representations and processes that connect source code to machine behavior. This article explains compilers, interpreters, and execution models as tools for computational reasoning. They determine how programs are analyzed, transformed, checked, optimized, debugged, secured, distributed, and executed across machines, operating systems, runtimes, browsers, servers, scientific workflows, embedded systems, and institutional software infrastructure."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

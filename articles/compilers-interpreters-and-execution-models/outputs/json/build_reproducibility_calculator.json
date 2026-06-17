@@ -1,0 +1,9 @@
+{
+  "artifact_checksums_present": 1,
+  "build_reproducibility_score": 100.0,
+  "build_scripts_present": 1,
+  "interpretation": "Build reproducibility improves when dependencies, toolchains, scripts, artifacts, and release provenance are explicit and reviewable.",
+  "lockfiles_present": 1,
+  "pinned_toolchains_present": 1,
+  "release_provenance_records_present": 1
+}

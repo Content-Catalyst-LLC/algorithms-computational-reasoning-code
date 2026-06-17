@@ -1,0 +1,20 @@
+term,category,definition
+compiler,translation system,A system that transforms programs from one representation into another.
+interpreter,evaluator,A system that executes a program by evaluating a representation directly.
+execution model,runtime concept,A model describing how programs become running behavior.
+lexer,front end,A component that turns characters into tokens.
+parser,front end,A component that turns tokens into syntax structure.
+abstract syntax tree,representation,A structured representation of program meaning.
+semantic analysis,checking,Analysis of names scopes types bindings and constraints.
+type checking,checking,Verification that operations match type rules.
+intermediate representation,compiler layer,A compiler-friendly form used for analysis optimization or code generation.
+optimization,transformation,Meaning-preserving improvement of program representation.
+bytecode,execution representation,Portable instructions executed by a virtual machine.
+virtual machine,runtime,A software execution environment for bytecode or managed programs.
+runtime system,execution support,Services for memory errors concurrency I/O and dynamic behavior.
+linker,build tool,A component that connects compiled artifacts and symbols.
+loader,execution setup,A component that places executable artifacts into memory.
+JIT compilation,translation timing,Compilation during execution using runtime information.
+transpilation,translation target,Translation from one high-level language to another.
+sandbox,security boundary,A restricted environment for running untrusted or controlled code.
+reproducible build,governance,A build process designed to produce traceable repeatable artifacts.

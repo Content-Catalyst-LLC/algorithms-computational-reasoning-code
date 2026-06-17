@@ -1,0 +1,2 @@
+case_count,average_execution_quality,average_execution_risk,highest_quality_case,highest_risk_case,interpretation
+5,84.088,16.1,Bytecode virtual machine,Interactive interpreted workflow,"Execution quality depends on translation clarity, semantic checks, optimization traceability, runtime visibility, diagnostics, portability, reproducibility, security boundaries, performance fit, and governance."

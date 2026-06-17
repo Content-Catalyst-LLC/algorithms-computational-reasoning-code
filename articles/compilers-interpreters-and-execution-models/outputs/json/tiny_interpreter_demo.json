@@ -1,0 +1,14 @@
+{
+  "expression": "2 + 3 * 4",
+  "tokens": [
+    "2",
+    "+",
+    "3",
+    "*",
+    "4"
+  ],
+  "ast": "Add(Number(2), Multiply(Number(3), Number(4)))",
+  "result": 14,
+  "interpretation": "The interpreter evaluates an abstract syntax tree by recursively applying node rules.",
+  "pipeline_stage_count": 10
+}

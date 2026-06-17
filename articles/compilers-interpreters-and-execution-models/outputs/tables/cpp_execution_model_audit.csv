@@ -1,0 +1,5 @@
+case_name,execution_quality
+Ahead-of-time systems binary,85.60
+Bytecode virtual machine,87.60
+Interactive interpreted workflow,80.16
+Browser transpilation pipeline,83.92

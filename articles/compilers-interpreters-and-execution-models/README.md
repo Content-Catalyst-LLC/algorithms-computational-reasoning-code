@@ -1,37 +1,14 @@
-# Compilers, Interpreters, and Execution Models (planned)
+# Compilers, Interpreters, and Execution Models
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Compilers, Interpreters, and Execution Models**.
 
-## Purpose
+This scaffold supports examples for compilers, interpreters, execution models, lexical analysis, parsing, abstract syntax trees, semantic analysis, type checking, intermediate representations, optimization, bytecode, virtual machines, runtime systems, linking, loading, JIT compilation, transpilation, debugging, diagnostics, portability, sandboxing, reproducible builds, and responsible execution governance.
 
-This folder will hold computational companion materials for the planned article:
-**Compilers, Interpreters, and Execution Models**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

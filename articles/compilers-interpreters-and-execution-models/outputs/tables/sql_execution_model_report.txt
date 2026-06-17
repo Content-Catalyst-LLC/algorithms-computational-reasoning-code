@@ -1,0 +1,18 @@
+case_name                         execution_quality
+--------------------------------  -----------------
+Bytecode virtual machine          86.8             
+Ahead-of-time systems binary      85.24            
+Browser transpilation pipeline    83.56            
+Interactive interpreted workflow  80.12            
+stage                        representation          purpose                                            example                            
+---------------------------  ----------------------  -------------------------------------------------  -----------------------------------
+source_code                  human-readable text     Express program intent and structure               Python or C source file            
+lexing                       tokens                  Recognize vocabulary of language                   identifier keyword operator literal
+parsing                      parse tree or AST       Build syntactic structure                          expression tree                    
+semantic_analysis            symbols scopes types    Check meaning beyond grammar                       name resolution and type checking  
+intermediate_representation  compiler-friendly form  Support analysis optimization and code generation  SSA or bytecode-like IR            
+optimization                 transformed IR          Improve performance while preserving meaning       inlining or dead-code elimination  
+code_generation              target code             Produce executable or lower-level representation   machine code bytecode or JS bundle 
+linking                      artifact graph          Resolve external symbols and libraries             shared library linkage             
+loading                      runtime image           Prepare program for execution                      process image in memory            
+execution                    runtime state           Run instructions and effects                       stack heap I/O scheduler           

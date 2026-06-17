@@ -1,0 +1,13 @@
+{
+  "article_slug": "compilers-interpreters-and-execution-models",
+  "actual_title": "Compilers, Interpreters, and Execution Models",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "execution-models",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "compiler-pipeline", "title": "Compiler Pipeline", "category": "translation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Map source, lexing, parsing, semantic analysis, IR, optimization, code generation, linking, loading, and execution."},
+    {"card_id": "interpreter", "title": "Interpreter", "category": "evaluation", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Document runtime evaluation rules, diagnostics, environment, and side-effect boundaries."},
+    {"card_id": "runtime", "title": "Runtime System", "category": "execution", "status": "review", "score": 96, "review_date": "2026-06-17", "governance_note": "Review memory, errors, concurrency, sandboxing, diagnostics, and observability."},
+    {"card_id": "build-governance", "title": "Build Governance", "category": "accountability", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Preserve dependencies, toolchains, scripts, checksums, provenance, signatures, and release notes."}
+  ]
+}
