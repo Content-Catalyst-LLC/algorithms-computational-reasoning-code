@@ -1,0 +1,6 @@
+case_name                         structure_reasoning_quality
+--------------------------------  ---------------------------
+Case records table                82.84                      
+Task scheduling priority queue    82.32                      
+Relationship analysis graph       82.12                      
+Document similarity vector index  79.16                      

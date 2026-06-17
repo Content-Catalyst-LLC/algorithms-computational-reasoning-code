@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DataStructureCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "data_structure_choice",
+    "operation_fit",
+    "structural_fidelity",
+    "invariant_clarity",
+    "complexity_awareness",
+    "memory_awareness",
+    "interpretability",
+    "retrieval_support",
+    "transformation_support",
+    "representation_risk_documentation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "data_structure_choice": {"type": "string"},
+    "operation_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "structural_fidelity": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "complexity_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "retrieval_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "transformation_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_risk_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

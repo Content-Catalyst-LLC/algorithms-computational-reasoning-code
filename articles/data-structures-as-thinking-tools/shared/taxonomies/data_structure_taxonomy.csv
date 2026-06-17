@@ -1,0 +1,16 @@
+term,category,definition
+data structure,computational representation,An organized way to store and relate data so operations can be performed effectively.
+abstract data type,abstraction,A behavioral interface defined by operations rather than implementation.
+array,sequential structure,A contiguous indexed structure for fast position-based access.
+list,sequential structure,A sequence useful for traversal and ordered grouping.
+stack,control structure,A last-in-first-out structure for nested reversal and backtracking.
+queue,workflow structure,A first-in-first-out structure for ordered service.
+set,membership structure,A structure representing unique membership.
+map,association structure,A structure associating keys with values.
+hash table,lookup structure,A structure using hashes for fast membership or key-value lookup.
+tree,hierarchical structure,A parent-child structure for hierarchy recursion and parsing.
+heap,priority structure,A tree-shaped structure supporting efficient priority retrieval.
+graph,relationship structure,A node-edge structure for relationships paths and networks.
+index,retrieval structure,A structure that speeds lookup and retrieval.
+vector,numerical structure,A coordinate representation for similarity magnitude and transformation.
+invariant,validity property,A condition that must remain true for a structure to remain valid.

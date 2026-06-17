@@ -1,0 +1,2 @@
+case_count,average_structure_reasoning_quality,average_structure_mismatch_risk,highest_quality_case,highest_risk_case,interpretation
+5,81.856,17.65,Case records table,Document similarity vector index,"Data-structure reasoning quality depends on operation fit, structural fidelity, invariants, complexity, memory, interpretability, retrieval, transformation support, representation-risk documentation, and governance."

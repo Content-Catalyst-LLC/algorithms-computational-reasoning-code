@@ -1,0 +1,13 @@
+{
+  "article_slug": "data-structures-as-thinking-tools",
+  "actual_title": "Data Structures as Thinking Tools",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "data-structures",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "data-structures", "title": "Data Structures", "category": "computational representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Document what the structure makes easy, hard, visible, and hidden."},
+    {"card_id": "operation-fit", "title": "Operation Fit", "category": "algorithm design", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Choose structures based on dominant operations and problem shape."},
+    {"card_id": "structure-invariants", "title": "Structure Invariants", "category": "correctness", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "State and preserve invariants required for valid structure."},
+    {"card_id": "representation-risk", "title": "Representation Risk", "category": "governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit flattening, hidden priority, false hierarchy, opaque similarity, and relationship overclaim."}
+  ]
+}

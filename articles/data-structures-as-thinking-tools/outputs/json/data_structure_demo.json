@@ -1,0 +1,29 @@
+{
+  "stack_order": [
+    "third",
+    "second",
+    "first"
+  ],
+  "queue_order": [
+    "first",
+    "second",
+    "third"
+  ],
+  "priority_order": [
+    "urgent",
+    "soon",
+    "routine"
+  ],
+  "graph_neighbors": {
+    "A": [
+      "B",
+      "C"
+    ],
+    "B": [
+      "D"
+    ],
+    "C": [],
+    "D": []
+  },
+  "interpretation": "Each structure changes the natural reasoning pattern: recency, service order, priority, or relationship traversal."
+}

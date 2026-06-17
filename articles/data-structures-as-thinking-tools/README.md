@@ -1,37 +1,14 @@
-# Data Structures as Thinking Tools (planned)
+# Data Structures as Thinking Tools
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Data Structures as Thinking Tools**.
 
-## Purpose
+This scaffold supports examples for arrays, lists, stacks, queues, sets, maps, hash tables, trees, heaps, graphs, tables, indexes, tries, vectors, state structures, invariants, complexity trade-offs, memory layout, retrieval patterns, representation risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Data Structures as Thinking Tools**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.
