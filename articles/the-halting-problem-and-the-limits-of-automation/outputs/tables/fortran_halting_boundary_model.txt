@@ -1,0 +1,5 @@
+case_name halting_boundary_quality
+Static analyzer 79.28
+AI code review assistant 65.12
+Formal verification workflow 80.92
+Institutional automation workflow 79.76

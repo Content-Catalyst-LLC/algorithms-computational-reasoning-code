@@ -1,0 +1,5 @@
+{
+  "automation_overclaim_risk": 25.0,
+  "halting_boundary_quality": 75.0,
+  "interpretation": "usable halting-boundary posture with review needs"
+}

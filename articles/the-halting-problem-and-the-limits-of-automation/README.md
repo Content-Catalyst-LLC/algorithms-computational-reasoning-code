@@ -1,37 +1,14 @@
-# The Halting Problem and the Limits of Automation (planned)
+# The Halting Problem and the Limits of Automation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **The Halting Problem and the Limits of Automation**.
 
-## Purpose
+This scaffold supports examples for halting, nontermination, self-reference, diagonal reasoning, undecidability, recognizability, Rice's theorem, static-analysis limits, verification boundaries, AI automation limits, timeout handling, unknown-status governance, and responsible computational automation.
 
-This folder will hold computational companion materials for the planned article:
-**The Halting Problem and the Limits of Automation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

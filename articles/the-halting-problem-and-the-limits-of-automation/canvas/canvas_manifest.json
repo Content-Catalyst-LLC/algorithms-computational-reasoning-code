@@ -1,0 +1,13 @@
+{
+  "article_slug": "the-halting-problem-and-the-limits-of-automation",
+  "actual_title": "The Halting Problem and the Limits of Automation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "halting-boundary",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "halting-problem", "title": "The Halting Problem", "category": "undecidability", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "No general automated procedure can decide whether every arbitrary program halts on every input."},
+    {"card_id": "unknown-status", "title": "Unknown Status", "category": "automation governance", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Distinguish unknown, timeout, out-of-scope, and false results rather than forcing pass/fail certainty."},
+    {"card_id": "bounded-automation", "title": "Bounded Automation", "category": "practical method", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Useful tools restrict languages, properties, depth, models, annotations, or resource limits."},
+    {"card_id": "ai-automation-limits", "title": "AI Automation Limits", "category": "responsible AI", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "AI can assist reasoning but cannot erase undecidability or act as a universal halting decider."}
+  ]
+}

@@ -1,0 +1,7 @@
+fn main() {
+    println!("case_name,halting_boundary_quality");
+    println!("Static analyzer,79.28");
+    println!("AI code review assistant,65.12");
+    println!("Formal verification workflow,80.92");
+    println!("Institutional automation workflow,79.76");
+}

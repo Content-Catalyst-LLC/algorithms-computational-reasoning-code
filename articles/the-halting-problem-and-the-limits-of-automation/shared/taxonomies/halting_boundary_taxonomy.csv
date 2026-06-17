@@ -1,0 +1,10 @@
+term,category,definition
+halting problem,undecidability,The problem of deciding whether an arbitrary program halts on an arbitrary input.
+halting,program behavior,A program stops execution by returning accepting rejecting erroring or otherwise terminating.
+nontermination,program behavior,A program continues indefinitely rather than halting.
+recognizable,decision status,A procedure can confirm yes cases but may not halt on no cases.
+undecidable,procedure limit,No general decider exists for all valid inputs.
+self-reference,proof structure,A program or expression refers to its own description.
+diagonal reasoning,proof method,A construction that contradicts a proposed complete decider or enumeration.
+Rice theorem,program property limit,A theorem that nontrivial semantic properties of programs are undecidable in general.
+unknown status,governance category,A result that is not decided within scope or resource limits.

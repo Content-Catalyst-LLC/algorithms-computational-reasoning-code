@@ -1,0 +1,2 @@
+case_count,average_halting_boundary_quality,average_automation_overclaim_risk,highest_quality_case,highest_risk_case,interpretation
+5,76.592,23.3,Formal verification workflow,AI code review assistant,"Halting-boundary quality depends on scope clarity, termination claims, undecidability awareness, bounded-analysis honesty, unknown-status handling, timeout policy, false-certainty control, human review, traceability, and governance."

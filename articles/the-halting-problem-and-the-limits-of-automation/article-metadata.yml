@@ -1,0 +1,24 @@
+actual_title: "The Halting Problem and the Limits of Automation"
+suggested_seo_title: "The Halting Problem and the Limits of Automation"
+focus_keyword: "halting problem and limits of automation"
+slug: "the-halting-problem-and-the-limits-of-automation"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "computability-and-the-limits-of-procedure"
+  current: "the-halting-problem-and-the-limits-of-automation"
+  next: "automated-reasoning-and-mechanical-inference"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/the-halting-problem-and-the-limits-of-automation"
+tags:
+  - Halting Problem
+  - Limits of Automation
+  - Undecidability
+  - Computability
+  - Program Analysis
+  - Static Analysis
+  - Formal Verification
+  - Computational Reasoning
+excerpt_139_words: "The halting problem is one of the clearest demonstrations that computation has limits. It asks whether a general algorithm can take any program and any input, then determine whether that program will eventually stop or run forever. The answer is no. This result is not a weakness of one programming language, one machine, one operating system, or one era of computing. It is a mathematical limit on algorithmic procedure itself. This article explains the halting problem as a foundation for understanding the limits of automation. It introduces program behavior, halting, nontermination, self-reference, diagonal reasoning, undecidability, recognizability, program analysis, Rice’s theorem, static analysis limits, verification limits, AI automation limits, bounded methods, practical safeguards, and responsible computational governance. The central lesson is not that automation is weak. Automation must be scoped honestly."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

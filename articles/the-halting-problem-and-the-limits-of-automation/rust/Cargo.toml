@@ -1,0 +1,5 @@
+[package]
+name = "the-halting-problem-and-the-limits-of-automation"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
