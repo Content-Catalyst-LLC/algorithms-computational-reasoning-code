@@ -1,0 +1,11 @@
+term,category,definition
+formal methods,verification discipline,Mathematically grounded techniques for specifying modeling and verifying computational systems.
+machine checked reasoning,formal evidence,Reasoning artifacts checked by software against formal rules.
+specification,formal claim,A precise statement of required system behavior.
+precondition,contract,A condition required before a procedure runs.
+postcondition,contract,A condition required after a procedure completes.
+invariant,preserved property,A property that should remain true across execution or state transitions.
+proof obligation,verification task,A claim that must be proved or discharged for verification.
+model checking,state verification,Checking whether a formal model satisfies a property.
+proof assistant,formal tool,A system that checks machine readable proofs.
+refinement,implementation relation,A relation showing that concrete implementation preserves abstract specification behavior.

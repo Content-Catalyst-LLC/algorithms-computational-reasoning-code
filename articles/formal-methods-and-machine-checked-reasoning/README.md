@@ -1,37 +1,14 @@
-# Formal Methods and Machine-Checked Reasoning (planned)
+# Formal Methods and Machine-Checked Reasoning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Formal Methods and Machine-Checked Reasoning**.
 
-## Purpose
+This scaffold supports examples for formal methods, machine-checked reasoning, specifications, proof obligations, invariants, model checking, proof assistants, theorem proving, SAT and SMT solving, type systems, contracts, refinement, counterexamples, verification evidence, unknown-status handling, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Formal Methods and Machine-Checked Reasoning**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

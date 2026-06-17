@@ -1,0 +1,15 @@
+{
+  "input": [
+    3,
+    1,
+    2
+  ],
+  "output": [
+    1,
+    2,
+    3
+  ],
+  "sortedness_obligation": true,
+  "permutation_obligation": true,
+  "interpretation": "This is an executable teaching check, not a machine-checked proof assistant artifact."
+}

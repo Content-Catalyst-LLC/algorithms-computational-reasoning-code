@@ -1,0 +1,13 @@
+{
+  "article_slug": "formal-methods-and-machine-checked-reasoning",
+  "actual_title": "Formal Methods and Machine-Checked Reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "formal-methods",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "formal-methods", "title": "Formal Methods", "category": "verification discipline", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "State the specification, assumptions, proof obligations, and verification scope."},
+    {"card_id": "machine-checked-reasoning", "title": "Machine-Checked Reasoning", "category": "formal evidence", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Preserve checked proof objects, solver results, model-checking traces, and open obligations."},
+    {"card_id": "counterexample-evidence", "title": "Counterexample Evidence", "category": "failure evidence", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Keep counterexamples and failed obligations visible rather than suppressing them."},
+    {"card_id": "verification-governance", "title": "Verification Governance", "category": "responsible interpretation", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Distinguish proved, checked, bounded, unknown, failed, and out-of-scope claims."}
+  ]
+}

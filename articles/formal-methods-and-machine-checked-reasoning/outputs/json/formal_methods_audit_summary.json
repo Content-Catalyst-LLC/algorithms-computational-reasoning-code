@@ -1,0 +1,8 @@
+{
+  "average_formal_methods_quality": 80.024,
+  "average_verification_overclaim_risk": 20.3,
+  "case_count": 5,
+  "highest_quality_case": "Proof assistant workflow",
+  "highest_risk_case": "Institutional rule verification",
+  "interpretation": "Formal-methods quality depends on specification clarity, documented assumptions, invariants, proof obligations, machine checks, counterexamples, model scope, refinement evidence, unknown-status handling, and governance."
+}

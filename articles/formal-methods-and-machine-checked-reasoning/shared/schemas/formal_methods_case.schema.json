@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FormalMethodsCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "verification_context",
+    "formal_claim",
+    "specification_clarity",
+    "assumption_documentation",
+    "invariant_strength",
+    "proof_obligation_traceability",
+    "machine_check_status",
+    "counterexample_handling",
+    "model_scope_clarity",
+    "refinement_evidence",
+    "unknown_status_handling",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "verification_context": {"type": "string"},
+    "formal_claim": {"type": "string"},
+    "specification_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "assumption_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "proof_obligation_traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "machine_check_status": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "model_scope_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "refinement_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "unknown_status_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

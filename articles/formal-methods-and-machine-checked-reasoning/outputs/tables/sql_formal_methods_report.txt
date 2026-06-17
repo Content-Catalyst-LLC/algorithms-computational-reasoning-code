@@ -1,0 +1,6 @@
+case_name                        formal_methods_quality
+-------------------------------  ----------------------
+Verified sorting function        81.4                  
+Protocol model checking          80.16                 
+SMT backed contract check        79.36                 
+Institutional rule verification  76.04                 

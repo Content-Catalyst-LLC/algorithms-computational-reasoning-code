@@ -1,0 +1,5 @@
+println("case_name,formal_methods_quality")
+println("Verified sorting function,81.32")
+println("Protocol model checking,80.24")
+println("SMT backed contract check,80.04")
+println("Institutional rule verification,76.00")

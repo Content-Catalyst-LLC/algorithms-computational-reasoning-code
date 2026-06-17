@@ -1,0 +1,6 @@
+case_name,verification_context,formal_claim,specification_clarity,assumption_documentation,invariant_strength,proof_obligation_traceability,machine_check_status,counterexample_handling,model_scope_clarity,refinement_evidence,unknown_status_handling,governance_readiness
+Verified sorting function,Function is checked against sortedness and permutation properties,The output is sorted and contains the same elements as the input,0.88,0.80,0.84,0.86,0.84,0.78,0.80,0.76,0.74,0.78
+Protocol model checking,A distributed protocol model is checked for unsafe reachable states,No modeled execution path reaches an unsafe agreement state,0.82,0.78,0.80,0.78,0.86,0.90,0.76,0.70,0.78,0.80
+SMT backed contract check,A solver checks whether function contracts can be violated,No satisfying assignment violates the encoded contract within the supported theory,0.84,0.76,0.74,0.82,0.86,0.84,0.78,0.72,0.76,0.76
+Institutional rule verification,A rule governed workflow is checked for consistency and escalation behavior,Clear cases are classified consistently and ambiguous cases are routed for review,0.78,0.74,0.70,0.76,0.70,0.76,0.78,0.68,0.86,0.88
+Proof assistant workflow,A proof assistant checks proof objects for a verified data structure,Accepted proofs follow definitions tactics and the trusted kernel rules,0.86,0.82,0.84,0.88,0.92,0.76,0.80,0.82,0.74,0.82
