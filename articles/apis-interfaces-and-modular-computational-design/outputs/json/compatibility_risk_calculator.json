@@ -1,0 +1,4 @@
+{
+  "compatibility_risk_score": 0,
+  "interpretation": "Compatibility risk rises with breaking changes and falls when consumers are known and migrations are planned."
+}

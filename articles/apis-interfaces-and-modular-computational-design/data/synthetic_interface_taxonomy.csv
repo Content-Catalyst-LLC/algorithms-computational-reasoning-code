@@ -1,0 +1,11 @@
+term,category,definition,example
+interface,boundary,A boundary through which one component interacts with another,function signature
+API,contract,A designed interface for software use,REST endpoint or library function
+module,boundary,A bounded unit of responsibility,package or service
+contract,agreement,Expectations for inputs outputs errors side effects and guarantees,OpenAPI spec
+schema,data contract,Structure and validation rules for data,JSON schema
+endpoint,network interface,Addressable operation exposed by a service,GET /records
+event,asynchronous interface,Notification that something occurred,record_approved
+coupling,dependency,Strength of dependency between components,service-to-service call
+cohesion,design quality,Degree to which module responsibilities belong together,single-purpose module
+versioning,change management,Managing interface evolution over time,v1 and v2 routes

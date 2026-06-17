@@ -1,0 +1,7 @@
+{
+  "compatible": true,
+  "removed_fields": [],
+  "added_fields": [
+    "version"
+  ]
+}

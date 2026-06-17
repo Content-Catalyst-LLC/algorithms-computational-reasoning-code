@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS api_interface_cases;
+CREATE TABLE api_interface_cases (
+  case_name TEXT PRIMARY KEY, problem_context TEXT, interface_design_choice TEXT,
+  contract_clarity REAL, schema_validation REAL, error_behavior REAL, versioning_strategy REAL,
+  documentation_quality REAL, testability REAL, coupling_control REAL, observability REAL, security_boundaries REAL, governance_readiness REAL
+);
+INSERT INTO api_interface_cases VALUES
+('Internal scoring library API','A package exposes reusable scoring functions for validated case records','Typed function signatures explicit schema validation structured errors examples and unit tests',0.90,0.90,0.86,0.82,0.88,0.92,0.88,0.76,0.80,0.86),
+('Public web API','External clients create records query status and retrieve reports through HTTP endpoints','OpenAPI specification versioned routes authentication scopes structured errors rate limits and request IDs',0.90,0.92,0.90,0.88,0.90,0.86,0.84,0.90,0.92,0.90),
+('Event-driven workflow boundary','Services communicate through events that represent workflow state changes','Versioned event schemas idempotent consumers replay rules event logs and contract tests',0.86,0.88,0.84,0.88,0.84,0.84,0.88,0.88,0.84,0.88),
+('Model prediction endpoint','A model endpoint returns scores used by a decision-support workflow','Input schema model version output semantics uncertainty notes monitoring fields and human-review constraints',0.86,0.88,0.84,0.86,0.86,0.82,0.82,0.88,0.88,0.90);

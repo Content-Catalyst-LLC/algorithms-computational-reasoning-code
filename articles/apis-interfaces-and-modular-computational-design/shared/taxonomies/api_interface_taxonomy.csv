@@ -1,0 +1,14 @@
+term,category,definition
+interface,boundary,A boundary through which one component interacts with another.
+API,contract,A designed interface for software use.
+module,boundary,A bounded unit of computation or responsibility.
+contract,agreement,Expectations for inputs outputs errors side effects and guarantees.
+schema,data contract,Structure and validation rules for data.
+endpoint,network interface,Addressable operation exposed by a service.
+event,asynchronous interface,Notification that something occurred.
+command,operation request,A request to perform an action.
+query,information request,A request for information.
+coupling,dependency,Strength of dependency between components.
+cohesion,design quality,Degree to which module responsibilities belong together.
+versioning,change management,Managing interface evolution over time.
+contract test,verification,Test that provider and consumer agree about behavior.

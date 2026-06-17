@@ -1,0 +1,2 @@
+case_count,average_interface_quality,average_interface_risk,highest_quality_case,highest_risk_case
+5,86.96,13.15,Public web API,Model prediction endpoint

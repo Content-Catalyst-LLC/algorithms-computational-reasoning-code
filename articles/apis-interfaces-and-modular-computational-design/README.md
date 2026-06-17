@@ -1,37 +1,14 @@
-# APIs, Interfaces, and Modular Computational Design (planned)
+# APIs, Interfaces, and Modular Computational Design
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **APIs, Interfaces, and Modular Computational Design**.
 
-## Purpose
+This scaffold covers APIs, interfaces, contracts, schemas, endpoints, events, messages, functions, commands, queries, dependency direction, coupling, cohesion, compatibility, versioning, documentation, contract testing, data contracts, model interfaces, observability, security boundaries, and responsible interface governance.
 
-This folder will hold computational companion materials for the planned article:
-**APIs, Interfaces, and Modular Computational Design**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

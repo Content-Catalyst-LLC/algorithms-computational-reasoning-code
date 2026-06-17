@@ -1,0 +1,5 @@
+case_name interface_quality
+Internal scoring library API 86.16
+Public web API 89.56
+Event-driven workflow boundary 86.10
+Model prediction endpoint 85.86

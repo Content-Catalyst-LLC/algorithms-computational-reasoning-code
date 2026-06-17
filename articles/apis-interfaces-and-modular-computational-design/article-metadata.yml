@@ -1,0 +1,16 @@
+actual_title: "APIs, Interfaces, and Modular Computational Design"
+suggested_seo_title: "APIs, Interfaces, and Modular Computational Design: How Systems Communicate"
+focus_keyword: "APIs interfaces and modular computational design"
+slug: "apis-interfaces-and-modular-computational-design"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "runtime-systems-environments-and-computational-context"
+  current: "apis-interfaces-and-modular-computational-design"
+  next: "software-architecture-as-algorithmic-infrastructure"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/apis-interfaces-and-modular-computational-design"
+tags: [APIs, Interfaces, Modular Design, Software Architecture, Contracts, Data Contracts, Versioning, Computational Reasoning]
+excerpt_139_words: "APIs, interfaces, and modular computational design explain how complex systems are divided into parts that can communicate without every part needing to know the internal details of every other part. A well-designed computational system is not just a collection of functions, scripts, services, models, databases, and files. It is a set of boundaries. An interface defines how one part of a system can use another. An API makes that interface explicit through functions, endpoints, messages, schemas, protocols, types, events, commands, queries, or contracts. Modular design uses these boundaries to make systems understandable, testable, replaceable, reusable, governable, and resilient. This article explains APIs, interfaces, and modular computational design as foundations of responsible computational reasoning, software architecture, data systems, AI pipelines, institutional automation, and accountable technical infrastructure."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

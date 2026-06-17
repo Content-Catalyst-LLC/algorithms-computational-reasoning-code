@@ -1,0 +1,25 @@
+{
+  "invalid_record_result": {
+    "errors": [
+      {
+        "code": "invalid_score_type",
+        "expected": "number"
+      },
+      {
+        "allowed": [
+          "draft",
+          "review",
+          "approved",
+          "rejected",
+          "archived"
+        ],
+        "code": "invalid_status"
+      }
+    ],
+    "valid": false
+  },
+  "valid_record_result": {
+    "errors": [],
+    "valid": true
+  }
+}
