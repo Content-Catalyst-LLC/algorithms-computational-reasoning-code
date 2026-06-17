@@ -1,0 +1,5 @@
+scenario,representation_quality,indexing_strength,decomposition_strength,correctness_evidence,interpretability,robustness,governance_readiness,data_quality,objective_alignment,brute_force_pressure,memory_efficiency,monitoring_strength
+Brute-force procedure,0.40,0.10,0.18,0.28,0.54,0.32,0.20,0.46,0.38,0.92,0.22,0.18
+Indexed search design,0.62,0.76,0.48,0.52,0.60,0.52,0.38,0.62,0.54,0.42,0.56,0.34
+Graph-aware reasoning,0.76,0.64,0.72,0.68,0.66,0.62,0.54,0.70,0.66,0.30,0.64,0.50
+Governed computational reasoning,0.86,0.80,0.82,0.82,0.78,0.76,0.86,0.82,0.84,0.18,0.76,0.84

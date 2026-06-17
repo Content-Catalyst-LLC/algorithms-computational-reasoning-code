@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmScenario",
+  "type": "object",
+  "required": [
+    "scenario",
+    "representation_quality",
+    "indexing_strength",
+    "decomposition_strength",
+    "correctness_evidence",
+    "interpretability",
+    "robustness",
+    "governance_readiness",
+    "data_quality",
+    "objective_alignment",
+    "brute_force_pressure",
+    "memory_efficiency",
+    "monitoring_strength"
+  ],
+  "properties": {
+    "scenario": {"type": "string"},
+    "representation_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "indexing_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "decomposition_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "correctness_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "robustness": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "data_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "objective_alignment": {"type": "number", "minimum": 0, "maximum": 1},
+    "brute_force_pressure": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_efficiency": {"type": "number", "minimum": 0, "maximum": 1},
+    "monitoring_strength": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

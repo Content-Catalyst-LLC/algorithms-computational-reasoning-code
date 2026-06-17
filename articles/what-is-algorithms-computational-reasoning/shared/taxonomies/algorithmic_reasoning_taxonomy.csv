@@ -1,0 +1,8 @@
+term,category,definition
+algorithm,core concept,A finite structured procedure for solving a class of problems.
+representation,core concept,A formal way of encoding the problem so operations can act on it.
+data structure,implementation concept,A way of organizing data to support efficient operations.
+correctness,verification concept,The relationship between a procedure and its specification.
+complexity,analysis concept,The study of how resource use grows with input size.
+optimization,method,A search for a preferred solution under objectives and constraints.
+governance,responsibility concept,The documentation review monitoring and accountability around algorithmic systems.

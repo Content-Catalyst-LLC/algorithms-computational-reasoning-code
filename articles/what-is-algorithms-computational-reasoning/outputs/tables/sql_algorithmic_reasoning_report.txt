@@ -1,0 +1,26 @@
+section            
+-------------------
+ALGORITHM SCENARIOS
+scenario                          rough_reasoning_score
+--------------------------------  ---------------------
+Governed computational reasoning  87.8                 
+Graph-aware reasoning             68.2                 
+Indexed search design             55.2                 
+Brute-force procedure             23.4                 
+section         
+----------------
+GOVERNANCE NOTES
+note_key             note_text                                                   
+-------------------  ------------------------------------------------------------
+accountability       Document review appeal monitoring incident response and reti
+                     rement conditions.                                          
+
+complexity           Estimate growth in time memory maintenance and monitoring co
+                     st.                                                         
+
+correctness          Record tests proofs invariants and known failure modes.     
+
+problem_formulation  Separate the real-world concern from the computational task.
+
+representation       Document the data structure schema graph features or state r
+                     epresentation.                                              

@@ -1,0 +1,5 @@
+scenario,final_input_size,final_runtime_pressure,final_memory_pressure,final_correctness_risk,final_opacity_risk,final_governance_risk,final_reasoning_quality_score,average_runtime_pressure,average_correctness_risk,average_governance_risk,average_reasoning_quality_score,diagnostic
+Brute-force procedure,16384,100.0,70.64,65.56,34.3,73.334,0.0,48.085,65.56,73.334,0.0,correctness evidence is too weak
+Governed computational reasoning,16384,100.0,3.92,25.792,12.7,15.169,53.056,30.184,25.792,15.169,67.312,partial reasoning strength with remaining design risk
+Graph-aware reasoning,16384,100.0,16.52,37.504,21.86,41.678,28.875,35.161,37.504,41.678,42.383,weak algorithmic reasoning structure
+Indexed search design,16384,100.0,28.72,48.232,27.52,56.179,11.101,38.522,48.232,56.179,24.152,governance and monitoring need improvement

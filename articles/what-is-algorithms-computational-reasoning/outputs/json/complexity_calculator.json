@@ -1,0 +1,9 @@
+{
+  "constant": 1,
+  "exponential_2_power_n_warning": "Only compute exact 2^n for small n in production contexts.",
+  "linear": 1024,
+  "log_n": 10.0,
+  "n": 1024,
+  "n_log_n": 10240.0,
+  "quadratic": 1048576
+}

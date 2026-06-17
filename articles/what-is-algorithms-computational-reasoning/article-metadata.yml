@@ -1,0 +1,24 @@
+actual_title: "What Is Algorithms & Computational Reasoning?"
+suggested_seo_title: "What Is Algorithms & Computational Reasoning?"
+focus_keyword: "algorithms and computational reasoning"
+slug: "what-is-algorithms-computational-reasoning"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: ""
+  current: "what-is-algorithms-computational-reasoning"
+  next: "algorithmic-thinking-step-by-step-reasoning-and-problem-solving"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/what-is-algorithms-computational-reasoning"
+tags:
+  - Algorithms
+  - Computational Reasoning
+  - Data Structures
+  - Complexity
+  - Search
+  - Optimization
+  - Verification
+  - Algorithmic Governance
+excerpt_139_words: "Algorithms are structured procedures for solving problems, transforming inputs into outputs through explicit representations, operations, decisions, and constraints. Computational reasoning is the broader discipline that asks how problems should be represented, what steps are required, how resources grow with scale, how correctness is tested, and how algorithmic systems should be interpreted responsibly. This article introduces algorithms as formalized reasoning rather than code alone. It examines problem formulation, inputs and outputs, data structures, control flow, correctness, proof, complexity, search, sorting, optimization, computational limits, knowledge systems, ethics, and governance. The companion repository provides reproducible workflows across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket, with synthetic data, outputs, notebooks, Canvas artifacts, and shared governance materials."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

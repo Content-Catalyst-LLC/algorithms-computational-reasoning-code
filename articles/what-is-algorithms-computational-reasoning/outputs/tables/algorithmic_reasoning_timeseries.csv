@@ -1,0 +1,45 @@
+scenario,input_size,runtime_pressure,memory_pressure,correctness_risk,opacity_risk,governance_risk,reasoning_quality_score
+Brute-force procedure,16,3.052,43.04,65.56,34.3,73.334,0.0
+Brute-force procedure,32,2.759,45.8,65.56,34.3,73.334,0.0
+Brute-force procedure,64,2.722,48.56,65.56,34.3,73.334,0.0
+Brute-force procedure,128,3.552,51.32,65.56,34.3,73.334,0.0
+Brute-force procedure,256,7.528,54.08,65.56,34.3,73.334,0.0
+Brute-force procedure,512,23.45,56.84,65.56,34.3,73.334,0.0
+Brute-force procedure,1024,85.871,59.6,65.56,34.3,73.334,0.0
+Brute-force procedure,2048,100.0,62.36,65.56,34.3,73.334,0.0
+Brute-force procedure,4096,100.0,65.12,65.56,34.3,73.334,0.0
+Brute-force procedure,8192,100.0,67.88,65.56,34.3,73.334,0.0
+Brute-force procedure,16384,100.0,70.64,65.56,34.3,73.334,0.0
+Indexed search design,16,0.0,16.12,48.232,27.52,56.179,32.613
+Indexed search design,32,0.0,17.38,48.232,27.52,56.179,32.462
+Indexed search design,64,0.0,18.64,48.232,27.52,56.179,32.31
+Indexed search design,128,0.0,19.9,48.232,27.52,56.179,32.159
+Indexed search design,256,0.0,21.16,48.232,27.52,56.179,32.008
+Indexed search design,512,0.0,22.42,48.232,27.52,56.179,31.857
+Indexed search design,1024,23.745,23.68,48.232,27.52,56.179,26.957
+Indexed search design,2048,100.0,24.94,48.232,27.52,56.179,11.554
+Indexed search design,4096,100.0,26.2,48.232,27.52,56.179,11.403
+Indexed search design,8192,100.0,27.46,48.232,27.52,56.179,11.252
+Indexed search design,16384,100.0,28.72,48.232,27.52,56.179,11.101
+Graph-aware reasoning,16,0.0,7.52,37.504,21.86,41.678,49.955
+Graph-aware reasoning,32,0.0,8.42,37.504,21.86,41.678,49.847
+Graph-aware reasoning,64,0.0,9.32,37.504,21.86,41.678,49.739
+Graph-aware reasoning,128,0.0,10.22,37.504,21.86,41.678,49.631
+Graph-aware reasoning,256,0.0,11.12,37.504,21.86,41.678,49.523
+Graph-aware reasoning,512,0.0,12.02,37.504,21.86,41.678,49.415
+Graph-aware reasoning,1024,3.902,12.92,37.504,21.86,41.678,48.527
+Graph-aware reasoning,2048,82.866,13.82,37.504,21.86,41.678,32.626
+Graph-aware reasoning,4096,100.0,14.72,37.504,21.86,41.678,29.091
+Graph-aware reasoning,8192,100.0,15.62,37.504,21.86,41.678,28.983
+Graph-aware reasoning,16384,100.0,16.52,37.504,21.86,41.678,28.875
+Governed computational reasoning,16,0.0,0.0,25.792,12.7,15.169,73.526
+Governed computational reasoning,32,0.0,0.0,25.792,12.7,15.169,73.526
+Governed computational reasoning,64,0.0,0.0,25.792,12.7,15.169,73.526
+Governed computational reasoning,128,0.0,0.14,25.792,12.7,15.169,73.51
+Governed computational reasoning,256,0.0,0.68,25.792,12.7,15.169,73.445
+Governed computational reasoning,512,0.0,1.22,25.792,12.7,15.169,73.38
+Governed computational reasoning,1024,0.0,1.76,25.792,12.7,15.169,73.315
+Governed computational reasoning,2048,32.022,2.3,25.792,12.7,15.169,66.846
+Governed computational reasoning,4096,100.0,2.84,25.792,12.7,15.169,53.186
+Governed computational reasoning,8192,100.0,3.38,25.792,12.7,15.169,53.121
+Governed computational reasoning,16384,100.0,3.92,25.792,12.7,15.169,53.056

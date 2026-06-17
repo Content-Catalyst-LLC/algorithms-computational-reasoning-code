@@ -1,0 +1,53 @@
+{
+  "article_slug": "what-is-algorithms-computational-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "algorithmic-reasoning-foundations",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "problem-formulation",
+      "title": "Problem Formulation",
+      "category": "foundation",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Separate the real-world concern from the computational task."
+    },
+    {
+      "card_id": "representation",
+      "title": "Representation",
+      "category": "foundation",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Document data structures, schemas, graphs, features, and state assumptions."
+    },
+    {
+      "card_id": "correctness",
+      "title": "Correctness",
+      "category": "verification",
+      "status": "review",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Record tests, proofs, invariants, and known failure modes."
+    },
+    {
+      "card_id": "complexity",
+      "title": "Complexity",
+      "category": "analysis",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Estimate time, memory, latency, maintenance, and monitoring costs."
+    },
+    {
+      "card_id": "algorithmic-governance",
+      "title": "Algorithmic Governance",
+      "category": "governance",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Document review, appeal, monitoring, incident response, and retirement conditions."
+    }
+  ]
+}

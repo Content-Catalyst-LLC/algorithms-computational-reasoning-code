@@ -1,0 +1,62 @@
+[
+  {
+    "average_correctness_risk": 65.56,
+    "average_governance_risk": 73.334,
+    "average_reasoning_quality_score": 0.0,
+    "average_runtime_pressure": 48.085,
+    "diagnostic": "correctness evidence is too weak",
+    "final_correctness_risk": 65.56,
+    "final_governance_risk": 73.334,
+    "final_input_size": 16384,
+    "final_memory_pressure": 70.64,
+    "final_opacity_risk": 34.3,
+    "final_reasoning_quality_score": 0.0,
+    "final_runtime_pressure": 100.0,
+    "scenario": "Brute-force procedure"
+  },
+  {
+    "average_correctness_risk": 25.792,
+    "average_governance_risk": 15.169,
+    "average_reasoning_quality_score": 67.312,
+    "average_runtime_pressure": 30.184,
+    "diagnostic": "partial reasoning strength with remaining design risk",
+    "final_correctness_risk": 25.792,
+    "final_governance_risk": 15.169,
+    "final_input_size": 16384,
+    "final_memory_pressure": 3.92,
+    "final_opacity_risk": 12.7,
+    "final_reasoning_quality_score": 53.056,
+    "final_runtime_pressure": 100.0,
+    "scenario": "Governed computational reasoning"
+  },
+  {
+    "average_correctness_risk": 37.504,
+    "average_governance_risk": 41.678,
+    "average_reasoning_quality_score": 42.383,
+    "average_runtime_pressure": 35.161,
+    "diagnostic": "weak algorithmic reasoning structure",
+    "final_correctness_risk": 37.504,
+    "final_governance_risk": 41.678,
+    "final_input_size": 16384,
+    "final_memory_pressure": 16.52,
+    "final_opacity_risk": 21.86,
+    "final_reasoning_quality_score": 28.875,
+    "final_runtime_pressure": 100.0,
+    "scenario": "Graph-aware reasoning"
+  },
+  {
+    "average_correctness_risk": 48.232,
+    "average_governance_risk": 56.179,
+    "average_reasoning_quality_score": 24.152,
+    "average_runtime_pressure": 38.522,
+    "diagnostic": "governance and monitoring need improvement",
+    "final_correctness_risk": 48.232,
+    "final_governance_risk": 56.179,
+    "final_input_size": 16384,
+    "final_memory_pressure": 28.72,
+    "final_opacity_risk": 27.52,
+    "final_reasoning_quality_score": 11.101,
+    "final_runtime_pressure": 100.0,
+    "scenario": "Indexed search design"
+  }
+]

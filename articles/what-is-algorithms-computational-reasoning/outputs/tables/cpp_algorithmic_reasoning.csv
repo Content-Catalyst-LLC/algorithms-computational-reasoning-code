@@ -1,0 +1,5 @@
+scenario,reasoning_score,warning
+Brute-force procedure,17.2,Synthetic governance diagnostic only.
+Indexed search design,41.4,Synthetic governance diagnostic only.
+Graph-aware reasoning,56.4,Synthetic governance diagnostic only.
+Governed computational reasoning,74.4,Synthetic governance diagnostic only.
