@@ -1,0 +1,4 @@
+{
+  "reproducibility_context_score": 100.0,
+  "interpretation": "Reproducibility improves when dependencies, runtime context, data, configuration, outputs, and logs are recorded."
+}

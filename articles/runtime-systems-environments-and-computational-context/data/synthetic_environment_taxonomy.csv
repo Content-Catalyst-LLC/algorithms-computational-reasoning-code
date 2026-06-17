@@ -1,0 +1,11 @@
+term,category,definition,example
+runtime system,execution support,Services used while a program runs,memory management and scheduler
+execution environment,context,Full setting in which a program runs,OS hardware dependencies configuration
+dependency,external code,A library package model or tool used by the program,numpy or database driver
+configuration,settings,Runtime values that change behavior without changing source,environment variables
+container,packaging,A packaged application environment sharing host kernel,Docker image
+virtual machine,isolation,A software machine abstraction,cloud VM
+sandbox,security boundary,A restricted execution environment,browser sandbox
+observability,evidence,Logs metrics traces and runtime signals,structured logs
+reproducibility,governance,Ability to reconstruct execution under documented conditions,lockfile and manifest
+portability,compatibility,Ability to run across supported environments,containerized service

@@ -1,37 +1,14 @@
-# Runtime Systems, Environments, and Computational Context (planned)
+# Runtime Systems, Environments, and Computational Context
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Runtime Systems, Environments, and Computational Context**.
 
-## Purpose
+This scaffold covers runtime systems, execution environments, operating systems, hardware context, dependency control, configuration validation, containers, virtual machines, managed runtimes, notebooks, browsers, cloud functions, resource limits, external services, observability, reproducibility, portability, security boundaries, environment manifests, and responsible runtime governance.
 
-This folder will hold computational companion materials for the planned article:
-**Runtime Systems, Environments, and Computational Context**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

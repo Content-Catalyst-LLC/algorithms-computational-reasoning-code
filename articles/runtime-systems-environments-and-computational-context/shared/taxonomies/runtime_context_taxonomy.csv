@@ -1,0 +1,13 @@
+term,category,definition
+runtime system,execution support,Services used while a program runs.
+execution environment,context,Full setting in which a program runs.
+dependency,external code,A library package model dataset or tool used by the program.
+configuration,settings,Runtime values that shape behavior without changing source code.
+environment variable,configuration,A named setting supplied by the operating environment.
+container,packaging,A packaged application environment sharing a host kernel.
+virtual machine,isolation,A software machine abstraction.
+sandbox,security,A restricted environment for executing code.
+observability,evidence,Ability to infer system behavior from logs metrics traces and events.
+reproducibility,governance,Ability to reconstruct execution under documented conditions.
+portability,compatibility,Ability to run across supported environments.
+runtime manifest,documentation,A record of runtime versions platform dependencies and configuration.

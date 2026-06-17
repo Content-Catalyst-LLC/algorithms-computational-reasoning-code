@@ -1,0 +1,7 @@
+{
+  "average_runtime_quality": 82.256,
+  "average_runtime_risk": 17.7,
+  "case_count": 5,
+  "highest_quality_case": "Containerized web service",
+  "highest_risk_case": "Interactive local script"
+}

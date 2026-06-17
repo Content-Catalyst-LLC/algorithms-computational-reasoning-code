@@ -1,0 +1,17 @@
+{
+  "environment_variables_recorded": [
+    "HOME",
+    "LANG",
+    "PATH",
+    "PYTHONPATH",
+    "SHELL"
+  ],
+  "executable": "/opt/homebrew/opt/python@3.14/bin/python3.14",
+  "interpretation": "Runtime manifests document where and how a workflow executed.",
+  "machine": "arm64",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "python_version": "3.14.3 (main, Feb  3 2026, 15:32:20) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "release": "25.5.0",
+  "system": "Darwin",
+  "working_directory": "/Users/tariqahmad/Downloads/algorithms-computational-reasoning-code/articles/runtime-systems-environments-and-computational-context"
+}

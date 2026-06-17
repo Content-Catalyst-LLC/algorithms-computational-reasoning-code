@@ -1,0 +1,6 @@
+case_name                         runtime_quality
+--------------------------------  ---------------
+Containerized web service         88.24          
+Reproducible scientific notebook  85.88          
+Cloud function runtime            85.48          
+Interactive local script          67.04          
