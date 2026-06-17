@@ -1,0 +1,12 @@
+{
+  "interpretation": "Metadata completeness is only a first check; accuracy, timeliness, provenance, and stewardship still require review.",
+  "metadata_completeness": 60.0,
+  "missing_fields": [
+    "license",
+    "access_level",
+    "quality_note",
+    "checksum"
+  ],
+  "present_field_count": 6,
+  "required_field_count": 10
+}

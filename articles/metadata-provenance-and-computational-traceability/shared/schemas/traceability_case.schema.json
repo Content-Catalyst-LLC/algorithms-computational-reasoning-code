@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TraceabilityCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "traceability_structure_choice",
+    "metadata_completeness",
+    "source_clarity",
+    "lineage_coverage",
+    "version_control",
+    "timestamp_quality",
+    "schema_clarity",
+    "integrity_checks",
+    "access_governance",
+    "reproducibility_support",
+    "stewardship_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "traceability_structure_choice": {"type": "string"},
+    "metadata_completeness": {"type": "number", "minimum": 0, "maximum": 1},
+    "source_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "lineage_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "version_control": {"type": "number", "minimum": 0, "maximum": 1},
+    "timestamp_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "schema_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "integrity_checks": {"type": "number", "minimum": 0, "maximum": 1},
+    "access_governance": {"type": "number", "minimum": 0, "maximum": 1},
+    "reproducibility_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "stewardship_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

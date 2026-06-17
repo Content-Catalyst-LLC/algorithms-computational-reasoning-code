@@ -1,0 +1,18 @@
+term,category,definition
+metadata,description,Information about information.
+descriptive metadata,metadata,Metadata supporting discovery and identification.
+structural metadata,metadata,Metadata describing relationships among parts.
+administrative metadata,metadata,Metadata supporting management access preservation and rights.
+technical metadata,metadata,Metadata describing technical format encoding schema or system context.
+provenance,lineage,Record of origin history and transformation.
+lineage,lineage,Record of how data moves and changes through a system.
+traceability,governance,Ability to follow inputs processes outputs and decisions across time.
+audit log,event record,Structured record of actions events actors objects and timestamps.
+identifier,reference,A stable value used to refer to an object.
+timestamp,event record,A recorded time for creation modification access processing or publication.
+versioning,change management,Tracking states of data code models schemas or outputs.
+schema,structure,Rules defining fields types constraints and relationships.
+checksum,integrity,A compact value used to detect change or corruption.
+chain of custody,evidence governance,Documented handling of evidence across time.
+reproducibility,science governance,Ability to recreate or explain a result from documented inputs code environment and parameters.
+stewardship,governance,Responsibility for maintaining data metadata and trace quality.

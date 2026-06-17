@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "raw-data-v1",
+      "type": "entity",
+      "label": "Raw data version 1"
+    },
+    {
+      "id": "cleaning-script-a",
+      "type": "activity",
+      "label": "Cleaning script A"
+    },
+    {
+      "id": "analysis-table-v1",
+      "type": "entity",
+      "label": "Analysis table version 1"
+    },
+    {
+      "id": "model-run-42",
+      "type": "activity",
+      "label": "Model run 42"
+    },
+    {
+      "id": "published-chart-v1",
+      "type": "entity",
+      "label": "Published chart version 1"
+    }
+  ],
+  "edges": [
+    {
+      "from_id": "cleaning-script-a",
+      "to_id": "raw-data-v1",
+      "relation": "used",
+      "actor": "pipeline",
+      "timestamp": "2026-06-17T12:00:00Z"
+    },
+    {
+      "from_id": "analysis-table-v1",
+      "to_id": "cleaning-script-a",
+      "relation": "was_generated_by",
+      "actor": "pipeline",
+      "timestamp": "2026-06-17T12:10:00Z"
+    },
+    {
+      "from_id": "model-run-42",
+      "to_id": "analysis-table-v1",
+      "relation": "used",
+      "actor": "model-runner",
+      "timestamp": "2026-06-17T12:20:00Z"
+    },
+    {
+      "from_id": "published-chart-v1",
+      "to_id": "model-run-42",
+      "relation": "was_generated_by",
+      "actor": "publisher",
+      "timestamp": "2026-06-17T12:30:00Z"
+    },
+    {
+      "from_id": "published-chart-v1",
+      "to_id": "raw-data-v1",
+      "relation": "was_derived_from",
+      "actor": "publisher",
+      "timestamp": "2026-06-17T12:30:00Z"
+    }
+  ],
+  "trace_checksum": "5e23733f070ada8b5ceef4a8390e4167823d0c686452e7cb2a8f7c47021e3c29",
+  "interpretation": "A provenance graph links entities and activities so outputs can be traced back to inputs, processes, and evidence."
+}

@@ -1,0 +1,5 @@
+.PHONY: run clean
+run:
+	@if command -v runhaskell >/dev/null 2>&1; then runhaskell Main.hs > ../outputs/tables/haskell_metadata_provenance_cases.csv; elif command -v ghc >/dev/null 2>&1; then ghc -O2 Main.hs -o metadata-provenance-haskell && ./metadata-provenance-haskell > ../outputs/tables/haskell_metadata_provenance_cases.csv; else echo "Haskell toolchain not found; skipping."; fi
+clean:
+	rm -f metadata-provenance-haskell *.hi *.o

@@ -1,37 +1,14 @@
-# Metadata, Provenance, and Computational Traceability (planned)
+# Metadata, Provenance, and Computational Traceability
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Metadata, Provenance, and Computational Traceability**.
 
-## Purpose
+This scaffold supports examples for metadata, provenance, computational traceability, source records, lineage, identifiers, timestamps, versioning, schemas, audit logs, transformation history, dependency graphs, checksums, reproducibility, AI model governance, dataset documentation, access control, privacy review, stewardship, and responsible computational accountability.
 
-This folder will hold computational companion materials for the planned article:
-**Metadata, Provenance, and Computational Traceability**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

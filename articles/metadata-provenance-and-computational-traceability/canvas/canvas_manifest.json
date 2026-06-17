@@ -1,0 +1,13 @@
+{
+  "article_slug": "metadata-provenance-and-computational-traceability",
+  "actual_title": "Metadata, Provenance, and Computational Traceability",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "metadata-provenance",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "metadata", "title": "Metadata", "category": "description", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Define required fields, schemas, versions, access rules, quality notes, and stewardship."},
+    {"card_id": "provenance", "title": "Provenance", "category": "lineage", "status": "active", "score": 97, "review_date": "2026-06-17", "governance_note": "Capture origin, source, creator, transformation history, and evidence links."},
+    {"card_id": "traceability", "title": "Traceability", "category": "accountability", "status": "review", "score": 96, "review_date": "2026-06-17", "governance_note": "Connect inputs, processes, outputs, decisions, revisions, and audit events."},
+    {"card_id": "stewardship", "title": "Stewardship", "category": "governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Assign ownership and cadence for metadata quality and lifecycle review."}
+  ]
+}

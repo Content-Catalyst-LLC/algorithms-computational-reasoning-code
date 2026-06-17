@@ -1,0 +1,13 @@
+case_name                         traceability_quality
+--------------------------------  --------------------
+Research dataset repository       89.44               
+Institutional case workflow       87.52               
+AI model registry                 86.92               
+Knowledge library article system  83.88               
+from_id             relation          to_id              actor         timestamp           
+------------------  ----------------  -----------------  ------------  --------------------
+cleaning-script-a   used              raw-data-v1        pipeline      2026-06-17T12:00:00Z
+analysis-table-v1   was_generated_by  cleaning-script-a  pipeline      2026-06-17T12:10:00Z
+model-run-42        used              analysis-table-v1  model-runner  2026-06-17T12:20:00Z
+published-chart-v1  was_generated_by  model-run-42       publisher     2026-06-17T12:30:00Z
+published-chart-v1  was_derived_from  raw-data-v1        publisher     2026-06-17T12:30:00Z

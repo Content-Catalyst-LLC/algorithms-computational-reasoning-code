@@ -1,0 +1,8 @@
+{
+  "average_traceability_quality": 87.368,
+  "average_traceability_risk": 12.622,
+  "case_count": 5,
+  "highest_quality_case": "Research dataset repository",
+  "highest_risk_case": "Knowledge library article system",
+  "interpretation": "Traceability quality depends on metadata completeness, source clarity, lineage coverage, version control, timestamps, schema clarity, integrity checks, access governance, reproducibility, and stewardship."
+}

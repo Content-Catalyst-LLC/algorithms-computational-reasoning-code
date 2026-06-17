@@ -1,0 +1,6 @@
+from_id,to_id,relation,actor,timestamp
+cleaning-script-a,raw-data-v1,used,pipeline,2026-06-17T12:00:00Z
+analysis-table-v1,cleaning-script-a,was_generated_by,pipeline,2026-06-17T12:10:00Z
+model-run-42,analysis-table-v1,used,model-runner,2026-06-17T12:20:00Z
+published-chart-v1,model-run-42,was_generated_by,publisher,2026-06-17T12:30:00Z
+published-chart-v1,raw-data-v1,was_derived_from,publisher,2026-06-17T12:30:00Z
