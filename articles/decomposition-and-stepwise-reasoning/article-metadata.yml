@@ -1,0 +1,24 @@
+actual_title: "Decomposition and Stepwise Reasoning"
+suggested_seo_title: "Decomposition and Stepwise Reasoning"
+focus_keyword: "decomposition and stepwise reasoning"
+slug: "decomposition-and-stepwise-reasoning"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "problems-procedures-and-formalization"
+  current: "decomposition-and-stepwise-reasoning"
+  next: "abstraction-in-computational-reasoning"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/decomposition-and-stepwise-reasoning"
+tags:
+  - Decomposition
+  - Stepwise Reasoning
+  - Algorithms
+  - Computational Reasoning
+  - Modular Design
+  - Recursion
+  - Testing
+  - Algorithmic Governance
+excerpt_139_words: "Decomposition is the discipline of breaking complex problems into smaller parts that can be understood, solved, tested, reused, and recombined. Stepwise reasoning arranges those parts into coherent sequences of actions, decisions, transformations, checks, branches, loops, and stopping conditions. Together, they form a foundation of algorithmic thinking and computational reasoning. This article explains how complex problems become modules, functions, subproblems, workflows, decision rules, recursive structures, and testable procedures. It also shows why decomposition is not only a coding technique. The way a problem is divided shapes responsibility, interpretation, testing, governance, and system behavior. Good decomposition reduces cognitive load while preserving meaningful relationships. Poor decomposition creates fragmentation, hidden dependencies, local optimization, context loss, and responsibility diffusion. The article includes examples from search, data pipelines, scheduling, machine learning, simulation, public decision support, knowledge architecture, and software systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

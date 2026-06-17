@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DecompositionCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "whole_problem",
+    "decomposition_strategy",
+    "subproblem_clarity",
+    "boundary_definition",
+    "input_output_clarity",
+    "sequencing_quality",
+    "dependency_visibility",
+    "testability",
+    "traceability",
+    "recomposition_quality",
+    "governance_readiness",
+    "risk_awareness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "whole_problem": {"type": "string"},
+    "decomposition_strategy": {"type": "string"},
+    "subproblem_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "boundary_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "input_output_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "sequencing_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "dependency_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "recomposition_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "risk_awareness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

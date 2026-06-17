@@ -1,0 +1,45 @@
+{
+  "article_slug": "decomposition-and-stepwise-reasoning",
+  "actual_title": "Decomposition and Stepwise Reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "decomposition-stepwise-reasoning",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "decomposition",
+      "title": "Decomposition",
+      "category": "reasoning concept",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Break complex problems into meaningful, testable, recomposable parts."
+    },
+    {
+      "card_id": "stepwise-reasoning",
+      "title": "Stepwise Reasoning",
+      "category": "reasoning concept",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Arrange steps, branches, loops, checks, and stopping conditions coherently."
+    },
+    {
+      "card_id": "recomposition",
+      "title": "Recomposition",
+      "category": "system concept",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Review whether the parts recombine into a meaningful whole."
+    },
+    {
+      "card_id": "decomposition-risk",
+      "title": "Decomposition Risk",
+      "category": "risk",
+      "status": "review",
+      "score": 92,
+      "review_date": "2026-06-17",
+      "governance_note": "Watch for fragmentation, hidden dependencies, context loss, local optimization, and responsibility diffusion."
+    }
+  ]
+}

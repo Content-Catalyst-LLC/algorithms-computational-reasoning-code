@@ -1,0 +1,2 @@
+case_count,average_decomposition_score,average_decomposition_risk,highest_score_case,highest_risk_case,interpretation
+6,74.02,28.222,Scientific simulation,Search system,"Decomposition quality depends on clear subproblems, boundaries, inputs, outputs, sequencing, dependencies, tests, traceability, recomposition, governance, and risk awareness."

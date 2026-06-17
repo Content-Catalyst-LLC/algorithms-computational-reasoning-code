@@ -1,0 +1,7 @@
+case_name,whole_problem,decomposition_strategy,subproblem_clarity,boundary_definition,input_output_clarity,sequencing_quality,dependency_visibility,testability,traceability,recomposition_quality,governance_readiness,risk_awareness
+Search system,Help users find relevant information,"Crawl parse index query rank filter evaluate",0.82,0.78,0.80,0.82,0.72,0.76,0.68,0.72,0.58,0.62
+Public decision-support workflow,Prioritize cases while preserving fairness and accountability,"Evidence checks scoring review appeal documentation monitoring",0.74,0.66,0.70,0.68,0.60,0.66,0.72,0.58,0.76,0.80
+Scientific simulation,Explore how a dynamic system changes under scenarios,"States parameters transition rules numerical method scenarios outputs",0.86,0.82,0.84,0.80,0.78,0.76,0.78,0.82,0.70,0.76
+Knowledge architecture,Organize a research library for discovery navigation and reuse,"Categories article maps metadata internal links search update workflow",0.80,0.76,0.72,0.74,0.70,0.64,0.72,0.80,0.68,0.70
+Data pipeline,Transform raw records into auditable outputs,"Ingest validate clean join aggregate model monitor export",0.84,0.78,0.82,0.86,0.76,0.78,0.74,0.76,0.66,0.72
+Machine learning workflow,Turn labeled data into monitored predictions,"Collect label featurize train validate test deploy monitor govern",0.78,0.70,0.74,0.78,0.68,0.70,0.66,0.64,0.72,0.78

@@ -1,0 +1,10 @@
+term,category,definition
+decomposition,reasoning concept,Breaking a complex problem into meaningful subproblems or components.
+stepwise reasoning,reasoning concept,Ordering actions decisions transformations checks branches loops and stopping conditions.
+subproblem,structural concept,A smaller task within a larger problem.
+module,software concept,A bounded unit with a clear responsibility.
+interface,software concept,A defined way for components to exchange inputs outputs or actions.
+dependency,system concept,A relationship in which one component relies on another.
+recursion,algorithmic concept,A procedure that solves a problem by reducing it to smaller versions of itself.
+recomposition,system concept,Reassembling parts into a coherent whole that still serves the original purpose.
+decomposition risk,governance concept,Risk created by fragmentation hidden dependencies local optimization context loss or responsibility diffusion.

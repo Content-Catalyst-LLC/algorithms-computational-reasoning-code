@@ -1,0 +1,19 @@
+section                  
+-------------------------
+DECOMPOSITION CASE SCORES
+case_name                         decomposition_score
+--------------------------------  -------------------
+Scientific simulation             79.52              
+Search system                     73.76              
+Knowledge architecture            72.72              
+Public decision-support workflow  68.68              
+section         
+----------------
+GOVERNANCE NOTES
+note_key       note_text                                                  
+-------------  -----------------------------------------------------------
+boundaries     Define component boundaries inputs outputs and assumptions.
+dependencies   Map dependencies and data flows across parts.              
+recomposition  Review whether the parts recombine into a meaningful whole.
+tests          Use unit integration edge-case trace and governance tests. 
+whole_problem  Name the whole problem before splitting it.                

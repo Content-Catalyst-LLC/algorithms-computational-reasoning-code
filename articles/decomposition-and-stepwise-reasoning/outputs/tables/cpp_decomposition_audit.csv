@@ -1,0 +1,5 @@
+case_name,decomposition_score,warning
+Search system,77.2,Synthetic educational diagnostic only.
+Public decision-support workflow,65.32,Synthetic educational diagnostic only.
+Scientific simulation,81.72,Synthetic educational diagnostic only.
+Knowledge architecture,76.12,Synthetic educational diagnostic only.
