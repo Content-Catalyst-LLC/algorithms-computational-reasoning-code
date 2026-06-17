@@ -1,0 +1,10 @@
+term,category,definition
+debugging,computational reasoning,The process of identifying explaining correcting and verifying failures in computational systems.
+bug,mismatch,A mismatch between expected behavior and observed behavior.
+trace,evidence artifact,A record of execution path inputs states intermediate values or errors.
+reproducibility,debugging quality,The ability to make a failure happen again under controlled conditions.
+hypothesis,reasoning artifact,A proposed explanation for a failure.
+isolation,diagnostic method,Reduction of possible causes through smaller cases targeted tests or controlled inspection.
+regression test,verification artifact,A test that preserves a known bug so it does not return unnoticed.
+observability,systems property,The ability to inspect internal behavior through logs traces metrics assertions and reports.
+recurrence risk,governance concept,The likelihood that a failure will return or remain poorly understood.

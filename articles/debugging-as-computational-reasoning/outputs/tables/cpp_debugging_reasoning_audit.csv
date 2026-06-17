@@ -1,0 +1,5 @@
+case_name,debugging_quality,warning
+Graph traversal infinite loop,81.44,Synthetic educational diagnostic only.
+Data pipeline missing-value bug,76.28,Synthetic educational diagnostic only.
+Simulation instability,73.96,Synthetic educational diagnostic only.
+Recommendation ranking tie bug,71.36,Synthetic educational diagnostic only.

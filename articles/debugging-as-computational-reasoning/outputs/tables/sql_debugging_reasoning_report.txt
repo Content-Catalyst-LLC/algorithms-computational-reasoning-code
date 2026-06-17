@@ -1,0 +1,27 @@
+section                        
+-------------------------------
+DEBUGGING REASONING CASE SCORES
+case_name                        debugging_quality
+-------------------------------  -----------------
+Graph traversal infinite loop    78.76            
+Data pipeline missing-value bug  75.64            
+Simulation instability           72.24            
+Recommendation ranking tie bug   69.76            
+section         
+----------------
+GOVERNANCE NOTES
+note_key           note_text                                                   
+-----------------  ------------------------------------------------------------
+evidence           Preserve inputs environment versions logs traces and observe
+                   d behavior.                                                 
+
+expected_behavior  State expected behavior before changing code.               
+
+hypothesis         Form a testable hypothesis before applying a fix.           
+
+regression         Add regression tests for every meaningful bug.              
+
+reproduce          Reproduce the problem with the smallest useful case.        
+
+verify             Verify that the fix addresses the cause not merely the sympt
+                   om.                                                         

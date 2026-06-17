@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DebuggingReasoningCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "failure_description",
+    "expected_behavior",
+    "observed_behavior",
+    "reproducibility",
+    "expected_behavior_clarity",
+    "trace_quality",
+    "hypothesis_strength",
+    "isolation_quality",
+    "edge_case_awareness",
+    "fix_verification",
+    "regression_testing",
+    "documentation_quality",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "system_context": {"type": "string"},
+    "failure_description": {"type": "string"},
+    "expected_behavior": {"type": "string"},
+    "observed_behavior": {"type": "string"},
+    "reproducibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "expected_behavior_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "trace_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "hypothesis_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "isolation_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "edge_case_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "fix_verification": {"type": "number", "minimum": 0, "maximum": 1},
+    "regression_testing": {"type": "number", "minimum": 0, "maximum": 1},
+    "documentation_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

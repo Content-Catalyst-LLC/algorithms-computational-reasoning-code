@@ -1,0 +1,24 @@
+actual_title: "Debugging as Computational Reasoning"
+suggested_seo_title: "Debugging as Computational Reasoning"
+focus_keyword: "debugging as computational reasoning"
+slug: "debugging-as-computational-reasoning"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "from-pseudocode-to-programs"
+  current: "debugging-as-computational-reasoning"
+  next: "logic-rules-and-formal-systems"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/debugging-as-computational-reasoning"
+tags:
+  - Debugging
+  - Computational Reasoning
+  - Algorithms
+  - Testing
+  - Reproducibility
+  - Failure Analysis
+  - Observability
+  - Software Engineering
+excerpt_139_words: "Debugging is often treated as the practical work of finding and fixing errors in code. But debugging is also a form of computational reasoning. It requires a person to compare expected behavior with observed behavior, form hypotheses, inspect evidence, isolate causes, test explanations, revise assumptions, and confirm that a change actually improves the system. A bug is not merely a broken line of code. It may be a mismatch between problem and representation, pseudocode and implementation, input and assumption, state and transition, model and reality, output and interpretation, test and requirement, or system behavior and user expectation. This article explains debugging as a disciplined reasoning process that turns failure into evidence. It examines traces, tests, edge cases, reproducibility, observability, regression testing, data pipelines, simulations, models, workflows, and responsible computational repair."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

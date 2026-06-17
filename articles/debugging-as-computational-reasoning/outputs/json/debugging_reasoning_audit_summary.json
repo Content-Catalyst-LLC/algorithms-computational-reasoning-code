@@ -1,0 +1,8 @@
+{
+  "average_debugging_quality": 74.776,
+  "average_recurrence_risk": 25.0,
+  "case_count": 5,
+  "highest_quality_case": "Graph traversal infinite loop",
+  "highest_risk_case": "Recommendation ranking tie bug",
+  "interpretation": "Debugging quality depends on reproduction, expected-behavior clarity, traces, hypotheses, isolation, edge cases, fix verification, regression tests, documentation, and governance."
+}

@@ -1,0 +1,45 @@
+{
+  "article_slug": "debugging-as-computational-reasoning",
+  "actual_title": "Debugging as Computational Reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "debugging-reasoning",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "debugging",
+      "title": "Debugging",
+      "category": "computational reasoning",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Treat bugs as evidence that reveals a mismatch between expected and observed behavior."
+    },
+    {
+      "card_id": "reproducibility",
+      "title": "Reproducibility",
+      "category": "debugging quality",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Make failures repeatable before changing code, data, configuration, or documentation."
+    },
+    {
+      "card_id": "hypothesis-testing",
+      "title": "Hypothesis Testing",
+      "category": "reasoning method",
+      "status": "review",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Use logs, traces, tests, and reduced cases to test explanations for failures."
+    },
+    {
+      "card_id": "regression-testing",
+      "title": "Regression Testing",
+      "category": "verification",
+      "status": "review",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Turn every meaningful bug into a future check so recurrence becomes visible."
+    }
+  ]
+}
