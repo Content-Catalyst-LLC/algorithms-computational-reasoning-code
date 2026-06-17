@@ -1,0 +1,13 @@
+{
+  "article_slug": "computability-and-the-limits-of-procedure",
+  "actual_title": "Computability and the Limits of Procedure",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "computability-boundary",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "computability", "title": "Computability", "category": "solvability boundary", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Ask whether a procedure can exist in principle before asking whether it is efficient."},
+    {"card_id": "decidability", "title": "Decidability", "category": "decision status", "status": "active", "score": 95, "review_date": "2026-06-17", "governance_note": "Separate always-halts yes/no decision from recognition, approximation, or assistance."},
+    {"card_id": "undecidability", "title": "Undecidability", "category": "procedure limit", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Do not treat more data, compute, or AI as dissolving mathematical limits of procedure."},
+    {"card_id": "automation-limits", "title": "Automation Limits", "category": "governance", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "State what the system cannot decide and preserve paths for unresolved or high-stakes cases."}
+  ]
+}

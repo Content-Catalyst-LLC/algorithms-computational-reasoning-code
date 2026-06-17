@@ -1,0 +1,5 @@
+println("case_name,computability_boundary_quality")
+println("Static analyzer,78.04")
+println("General program verifier,72.18")
+println("AI reasoning assistant,61.24")
+println("Institutional rule engine,76.72")

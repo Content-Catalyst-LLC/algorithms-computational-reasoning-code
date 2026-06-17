@@ -1,0 +1,6 @@
+case_name                  computability_boundary_quality
+-------------------------  ------------------------------
+Static analyzer            78.16                         
+Institutional rule engine  76.52                         
+General program verifier   72.4                          
+AI reasoning assistant     61.44                         

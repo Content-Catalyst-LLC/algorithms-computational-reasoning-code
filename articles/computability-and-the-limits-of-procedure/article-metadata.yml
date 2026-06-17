@@ -1,0 +1,24 @@
+actual_title: "Computability and the Limits of Procedure"
+suggested_seo_title: "Computability and the Limits of Procedure"
+focus_keyword: "computability and the limits of procedure"
+slug: "computability-and-the-limits-of-procedure"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "termination-invariants-and-edge-cases"
+  current: "computability-and-the-limits-of-procedure"
+  next: "the-halting-problem-and-the-limits-of-automation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/computability-and-the-limits-of-procedure"
+tags:
+  - Computability
+  - Limits of Procedure
+  - Decidability
+  - Undecidability
+  - Turing Machines
+  - Church-Turing Thesis
+  - Halting Problem
+  - Computational Reasoning
+excerpt_139_words: "Computability studies the boundary between what can and cannot be solved by algorithmic procedure. It asks which problems are computable in principle, regardless of speed, hardware, programming language, or implementation skill. This question is deeper than efficiency. A problem may be slow but computable, while another may be impossible for any general procedure. Computability and the limits of procedure matter because modern systems often assume that enough data, automation, modeling, or artificial intelligence can eventually resolve any formalized question. Computability theory shows why that assumption is false. This article explains effective procedures, algorithms, decision problems, decidability, recognizability, Turing machines, the Church-Turing thesis, computable functions, undecidable problems, semidecidability, reduction, the halting problem, automation limits, and the difference between computability and complexity in responsible computational reasoning."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

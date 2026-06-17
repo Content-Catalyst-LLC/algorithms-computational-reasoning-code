@@ -1,37 +1,14 @@
-# Computability and the Limits of Procedure (planned)
+# Computability and the Limits of Procedure
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Computability and the Limits of Procedure**.
 
-## Purpose
+This scaffold supports examples for computability, decidability, recognizability, undecidability, effective procedures, Turing-machine-style reasoning, reductions, halting boundaries, program analysis, automation limits, approximation, procedural overclaim risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Computability and the Limits of Procedure**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

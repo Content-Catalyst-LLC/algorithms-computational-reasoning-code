@@ -1,0 +1,10 @@
+term,category,definition
+computable,solvability,A problem has an algorithmic procedure that returns the correct result for all valid inputs.
+decidable,decision status,A yes-or-no problem has a procedure that always halts with the correct answer.
+recognizable,decision status,A procedure accepts yes cases but may not halt on no cases.
+undecidable,solvability limit,No general decider exists for all valid inputs.
+semidecidable,decision status,Another term often used for recognizable.
+Turing machine,formal model,A mathematical model of mechanical computation.
+Church-Turing thesis,foundational thesis,The claim that effectively calculable functions are computable by a Turing machine.
+reduction,proof method,A transformation showing that solving one problem would solve another.
+halting problem,undecidable problem,The problem of deciding whether an arbitrary program halts on an input.

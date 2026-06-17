@@ -1,0 +1,8 @@
+{
+  "average_computability_boundary_quality": 72.424,
+  "average_procedural_overclaim_risk": 28.15,
+  "case_count": 5,
+  "highest_quality_case": "Static analyzer",
+  "highest_risk_case": "AI reasoning assistant",
+  "interpretation": "Computability-boundary quality depends on procedure definition, input-domain clarity, decision status, termination guarantees, recognizability, reduction awareness, approximation honesty, automation scope, traceability, and governance."
+}

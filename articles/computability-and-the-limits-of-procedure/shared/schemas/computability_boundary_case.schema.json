@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ComputabilityBoundaryCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "computational_context",
+    "procedural_claim",
+    "procedure_definition",
+    "input_domain_clarity",
+    "decision_status_clarity",
+    "termination_guarantee",
+    "recognizability_status",
+    "reduction_awareness",
+    "approximation_honesty",
+    "automation_scope_clarity",
+    "traceability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "computational_context": {"type": "string"},
+    "procedural_claim": {"type": "string"},
+    "procedure_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "input_domain_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "decision_status_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "termination_guarantee": {"type": "number", "minimum": 0, "maximum": 1},
+    "recognizability_status": {"type": "number", "minimum": 0, "maximum": 1},
+    "reduction_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "approximation_honesty": {"type": "number", "minimum": 0, "maximum": 1},
+    "automation_scope_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
