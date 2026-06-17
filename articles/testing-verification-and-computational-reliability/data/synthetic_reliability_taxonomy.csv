@@ -1,0 +1,11 @@
+term,category,definition,example
+test case,testing,Input state and execution conditions used to check behavior,valid record with known output
+assertion,testing,Statement that should be true during or after execution,score between 0 and 100
+oracle,testing,Method for judging whether output is acceptable,known answer or tolerance
+invariant,verification,Property that should always hold,balance cannot be negative
+regression test,testing,Check that old behavior remains fixed,bug does not reappear
+property test,testing,Check general behavior across many cases,round trip preserves value
+formal verification,verification,Mathematical proof or machine check of properties,model checking
+observability,reliability,Runtime evidence for reconstructing behavior,logs metrics traces
+reproducibility,evidence,Ability to regenerate results under documented conditions,lockfile data snapshot seed
+governance,accountability,Ownership review and evidence discipline,incident record

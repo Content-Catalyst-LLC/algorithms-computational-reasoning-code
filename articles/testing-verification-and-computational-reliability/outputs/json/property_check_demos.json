@@ -1,0 +1,43 @@
+{
+  "idempotency_demo": {
+    "first_result": {
+      "status": "approved"
+    },
+    "property": "repeating operation should preserve result",
+    "second_result": {
+      "status": "approved"
+    },
+    "valid": true
+  },
+  "score_invariant_invalid": {
+    "property": "score must remain between 0 and 100",
+    "score": 112.0,
+    "valid": false
+  },
+  "score_invariant_valid": {
+    "property": "score must remain between 0 and 100",
+    "score": 72.5,
+    "valid": true
+  },
+  "sorted_invariant_invalid": {
+    "property": "values must be nondecreasing",
+    "valid": false,
+    "values": [
+      1,
+      5,
+      3,
+      9
+    ]
+  },
+  "sorted_invariant_valid": {
+    "property": "values must be nondecreasing",
+    "valid": true,
+    "values": [
+      1,
+      2,
+      2,
+      4,
+      9
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+test_name status
+score_72 pass
+score_150 fail

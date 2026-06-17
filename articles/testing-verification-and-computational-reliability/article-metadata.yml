@@ -1,0 +1,16 @@
+actual_title: "Testing, Verification, and Computational Reliability"
+suggested_seo_title: "Testing, Verification, and Computational Reliability: How We Know Systems Work"
+focus_keyword: "testing verification and computational reliability"
+slug: "testing-verification-and-computational-reliability"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "software-architecture-as-algorithmic-infrastructure"
+  current: "testing-verification-and-computational-reliability"
+  next: "computational-experiments-and-reproducible-workflows"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/testing-verification-and-computational-reliability"
+tags: [Testing, Verification, Computational Reliability, Invariants, Regression Testing, Reproducibility, Observability, Computational Reasoning]
+excerpt_139_words: "Testing, verification, and computational reliability explain how we build confidence that computational systems behave as intended. An algorithm may be elegant on paper, but real systems must operate under uncertain inputs, changing environments, dependency drift, edge cases, concurrency, data errors, configuration differences, user behavior, and institutional consequences. Testing asks whether observed behavior matches expected behavior in selected cases. Verification asks whether a system satisfies stated properties, specifications, or invariants. Reliability asks whether the system continues to perform correctly under realistic operating conditions over time. These are not separate concerns. Testing, verification, and reliability form a disciplined approach to computational trust. This article explains testing, verification, and computational reliability as foundations of responsible computational reasoning, reproducible workflows, secure systems, AI oversight, scientific modeling, and accountable technical governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

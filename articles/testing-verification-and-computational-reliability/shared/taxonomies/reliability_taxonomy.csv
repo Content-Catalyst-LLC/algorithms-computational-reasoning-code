@@ -1,0 +1,11 @@
+term,category,definition
+testing,evidence,Observed execution checked against expectations.
+verification,formal reasoning,Reasoning that a system satisfies specified properties.
+validation,purpose fit,Review that a system addresses the intended real-world purpose.
+reliability,operational property,Dependable behavior under operating conditions over time.
+test oracle,judgment,Method for deciding whether observed output is acceptable.
+invariant,property,Condition that should remain true.
+regression,change control,Old behavior should remain protected after change.
+observability,evidence,Runtime evidence for understanding behavior.
+reproducibility,evidence,Ability to reconstruct a computational run.
+governance,accountability,Ownership review and reliability stewardship.

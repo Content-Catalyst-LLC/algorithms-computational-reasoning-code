@@ -1,0 +1,7 @@
+{
+  "average_reliability_quality": 77.2,
+  "average_reliability_risk": 23.111,
+  "case_count": 5,
+  "highest_quality_case": "API contract test suite",
+  "highest_risk_case": "Unstructured script checks"
+}

@@ -1,37 +1,14 @@
-# Testing, Verification, and Computational Reliability (planned)
+# Testing, Verification, and Computational Reliability
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Testing, Verification, and Computational Reliability**.
 
-## Purpose
+This scaffold covers testing, verification, computational reliability, specifications, assertions, invariants, unit tests, integration tests, regression tests, property-based testing, test oracles, fixtures, mocks, formal verification, runtime monitoring, reproducibility evidence, security testing, reliability governance, and responsible computational assurance.
 
-This folder will hold computational companion materials for the planned article:
-**Testing, Verification, and Computational Reliability**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

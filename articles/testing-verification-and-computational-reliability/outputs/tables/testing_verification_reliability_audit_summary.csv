@@ -1,0 +1,2 @@
+case_count,average_reliability_quality,average_reliability_risk,highest_quality_case,highest_risk_case
+5,77.2,23.111,API contract test suite,Unstructured script checks

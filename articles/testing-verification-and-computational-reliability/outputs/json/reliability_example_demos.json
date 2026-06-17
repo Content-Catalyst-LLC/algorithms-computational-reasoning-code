@@ -1,0 +1,10 @@
+{
+  "synthetic_test_result_summary": {
+    "pass": 6,
+    "fail": 1,
+    "total": 7
+  },
+  "score_in_range_72": true,
+  "nondecreasing_demo": true,
+  "round_trip_demo": true
+}

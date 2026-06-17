@@ -1,0 +1,5 @@
+{
+  "coverage_gap": 0.25,
+  "test_coverage_risk_score": 15.63,
+  "interpretation": "Coverage risk rises when paths are untested, oracles are weak, edge cases are missing, tests are unreproducible, or runtime behavior is unmonitored."
+}

@@ -1,0 +1,10 @@
+case_name                         reliability_quality
+--------------------------------  -------------------
+API contract test suite           87.2               
+Model scoring reliability         84.8               
+Scientific workflow reproduction  83.88              
+Unstructured script checks        43.08              
+status  test_count
+------  ----------
+fail    1         
+pass    6         

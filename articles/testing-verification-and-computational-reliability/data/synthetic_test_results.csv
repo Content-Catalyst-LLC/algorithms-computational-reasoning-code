@@ -1,0 +1,8 @@
+test_name,test_type,status,risk_area
+score_range_invariant,property,pass,correctness
+missing_required_field,edge_case,pass,data_validation
+unauthorized_approval,security,pass,permissions
+duplicate_request_id,idempotency,pass,side_effects
+dependency_timeout,integration,pass,reliability
+old_schema_compatibility,regression,pass,versioning
+unreviewed_manual_script,governance,fail,accountability
