@@ -1,0 +1,6 @@
+item_id,dimension_1,dimension_2,dimension_3,dimension_4,source,model_version
+article-search,0.92,0.12,0.18,0.08,synthetic,embedding-demo-v1
+document-index,0.84,0.20,0.24,0.10,synthetic,embedding-demo-v1
+image-retrieval,0.20,0.86,0.22,0.18,synthetic,embedding-demo-v1
+policy-review,0.36,0.18,0.82,0.34,synthetic,embedding-demo-v1
+graph-relationship,0.42,0.24,0.78,0.40,synthetic,embedding-demo-v1

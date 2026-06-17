@@ -1,0 +1,12 @@
+case_name                embedding_quality
+-----------------------  -----------------
+Case similarity review   84.44            
+Semantic article search  83.96            
+Image-text retrieval     81.92            
+Content recommendation   80.6             
+item_id          model_version      source     dimension_1  dimension_2  dimension_3  dimension_4
+---------------  -----------------  ---------  -----------  -----------  -----------  -----------
+article-search   embedding-demo-v1  synthetic  0.92         0.12         0.18         0.08       
+document-index   embedding-demo-v1  synthetic  0.84         0.2          0.24         0.1        
+image-retrieval  embedding-demo-v1  synthetic  0.2          0.86         0.22         0.18       
+policy-review    embedding-demo-v1  synthetic  0.36         0.18         0.82         0.34       

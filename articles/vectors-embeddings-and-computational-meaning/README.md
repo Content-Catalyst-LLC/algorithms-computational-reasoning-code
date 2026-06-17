@@ -1,37 +1,14 @@
-# Vectors, Embeddings, and Computational Meaning (planned)
+# Vectors, Embeddings, and Computational Meaning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Vectors, Embeddings, and Computational Meaning**.
 
-## Purpose
+This scaffold supports examples for vectors, embeddings, computational meaning, feature spaces, dimensions, cosine similarity, dot products, nearest-neighbor search, semantic retrieval, clustering, classification, recommendation, document embeddings, image embeddings, graph embeddings, vector databases, model metadata, bias review, drift monitoring, provenance, meaning-overclaim risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Vectors, Embeddings, and Computational Meaning**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

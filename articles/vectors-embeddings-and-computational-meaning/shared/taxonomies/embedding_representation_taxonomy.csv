@@ -1,0 +1,17 @@
+term,category,definition
+vector,representation,An ordered list of numerical components.
+dimension,vector concept,A coordinate position in a vector.
+feature,representation,A measured or encoded property used in a vector.
+embedding,representation,A learned or engineered mapping from an object to vector space.
+embedding space,representation,A vector space in which embedded objects are compared.
+cosine similarity,metric,A measure of directional alignment between two vectors.
+dot product,metric,A measure combining vector alignment and magnitude.
+euclidean distance,metric,Straight-line distance between vectors.
+nearest neighbor,retrieval,An indexed vector closest or most similar to a query vector.
+semantic search,retrieval,Retrieval using meaning-like vector similarity.
+vector database,indexing,A system for storing and querying embeddings.
+dimension reduction,visualization,A method for projecting high-dimensional data into fewer dimensions.
+model drift,governance,A change in model behavior or domain behavior over time.
+bias review,governance,Evaluation of representational harms or skewed outcomes.
+meaning overclaim,risk,A risk where vector similarity is treated as human meaning, truth, or equivalence.
+provenance,governance,Source, model, preprocessing, and version metadata attached to a vector.

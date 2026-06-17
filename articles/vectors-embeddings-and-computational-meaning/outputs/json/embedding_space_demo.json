@@ -1,0 +1,36 @@
+{
+  "query_vector": [
+    0.88,
+    0.16,
+    0.2,
+    0.12
+  ],
+  "nearest_neighbors": [
+    {
+      "item_id": "article-search",
+      "cosine_similarity": 0.9974,
+      "euclidean_distance": 0.0721
+    },
+    {
+      "item_id": "document-index",
+      "cosine_similarity": 0.9972,
+      "euclidean_distance": 0.0721
+    },
+    {
+      "item_id": "graph-relationship",
+      "cosine_similarity": 0.6613,
+      "euclidean_distance": 0.7955
+    },
+    {
+      "item_id": "policy-review",
+      "cosine_similarity": 0.6109,
+      "euclidean_distance": 0.8388
+    },
+    {
+      "item_id": "image-retrieval",
+      "cosine_similarity": 0.4423,
+      "euclidean_distance": 0.978
+    }
+  ],
+  "interpretation": "Nearest-neighbor search ranks vectors by similarity, but the similarity score is a computational signal rather than final semantic truth."
+}

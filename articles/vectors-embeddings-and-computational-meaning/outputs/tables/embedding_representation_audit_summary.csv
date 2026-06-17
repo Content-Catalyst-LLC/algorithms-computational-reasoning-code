@@ -1,0 +1,2 @@
+case_count,average_embedding_quality,average_meaning_overclaim_risk,highest_quality_case,highest_risk_case,interpretation
+5,82.264,18.35,Case similarity review,Graph node embedding,"Embedding quality depends on representation fit, model documentation, compatibility, similarity interpretation, retrieval evidence, provenance, bias review, drift monitoring, access boundaries, and governance."

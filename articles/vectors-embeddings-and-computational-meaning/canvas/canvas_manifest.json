@@ -1,0 +1,13 @@
+{
+  "article_slug": "vectors-embeddings-and-computational-meaning",
+  "actual_title": "Vectors, Embeddings, and Computational Meaning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "embedding-representation",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "vectors", "title": "Vectors", "category": "numerical representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Define dimensions, scaling, metric, compatibility, and interpretation boundaries."},
+    {"card_id": "embeddings", "title": "Embeddings", "category": "learned representation", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Document model, version, source, preprocessing, chunking, and vector compatibility."},
+    {"card_id": "semantic-retrieval", "title": "Semantic Retrieval", "category": "retrieval", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Validate nearest-neighbor results, thresholds, metadata filters, source display, and reranking behavior."},
+    {"card_id": "meaning-overclaim", "title": "Meaning Overclaim", "category": "representation governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Treat similarity as a computational signal, not as identity, truth, authority, or final interpretation."}
+  ]
+}

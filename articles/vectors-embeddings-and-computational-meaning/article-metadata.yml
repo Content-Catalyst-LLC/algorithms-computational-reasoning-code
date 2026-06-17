@@ -1,0 +1,24 @@
+actual_title: "Vectors, Embeddings, and Computational Meaning"
+suggested_seo_title: "Vectors, Embeddings, and Computational Meaning"
+focus_keyword: "vectors embeddings and computational meaning"
+slug: "vectors-embeddings-and-computational-meaning"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "hashing-indexing-and-retrieval"
+  current: "vectors-embeddings-and-computational-meaning"
+  next: "compression-encoding-and-information-efficiency"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/vectors-embeddings-and-computational-meaning"
+tags:
+  - Vectors
+  - Embeddings
+  - Computational Meaning
+  - Semantic Search
+  - Vector Similarity
+  - Representation Learning
+  - Vector Databases
+  - Computational Reasoning
+excerpt_139_words: "Vectors, embeddings, and computational meaning give algorithms a way to represent items as positions in mathematical space. A word, document, image, user action, product, protein, sentence, article, case, concept, or system state can be transformed into a vector: an ordered list of numbers. Once information is represented this way, algorithms can compare distance, similarity, direction, clustering, neighborhood, and movement. Embeddings are powerful because they make some kinds of meaning computable. They do not contain meaning in a human, cultural, ethical, or interpretive sense. Instead, they encode patterns learned from data. Items that appear in similar contexts, share similar features, or behave similarly under a model may be placed near one another in vector space. This article explains vectors, embeddings, and computational meaning for representation, similarity, retrieval, classification, clustering, recommendation, semantic search, dimensionality, interpretation, and governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

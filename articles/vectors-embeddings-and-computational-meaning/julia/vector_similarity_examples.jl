@@ -1,0 +1,5 @@
+println("case_name,embedding_quality")
+println("Semantic article search,83.92")
+println("Case similarity review,84.20")
+println("Content recommendation,80.48")
+println("Image-text retrieval,81.80")

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EmbeddingSystemCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "embedding_structure_choice",
+    "representation_fit",
+    "model_documentation",
+    "vector_compatibility",
+    "similarity_interpretability",
+    "retrieval_evidence",
+    "metadata_provenance",
+    "bias_review",
+    "drift_monitoring",
+    "access_boundary_clarity",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "embedding_structure_choice": {"type": "string"},
+    "representation_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "model_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "vector_compatibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "similarity_interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "retrieval_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "metadata_provenance": {"type": "number", "minimum": 0, "maximum": 1},
+    "bias_review": {"type": "number", "minimum": 0, "maximum": 1},
+    "drift_monitoring": {"type": "number", "minimum": 0, "maximum": 1},
+    "access_boundary_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

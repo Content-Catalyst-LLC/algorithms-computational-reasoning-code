@@ -1,0 +1,5 @@
+[package]
+name = "vectors-embeddings-and-computational-meaning"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
