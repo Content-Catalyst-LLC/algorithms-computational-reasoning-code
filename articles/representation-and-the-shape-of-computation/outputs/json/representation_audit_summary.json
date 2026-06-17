@@ -1,0 +1,8 @@
+{
+  "average_representation_quality": 80.288,
+  "average_representation_risk": 20.25,
+  "case_count": 5,
+  "highest_quality_case": "Simulation state model",
+  "highest_risk_case": "Document embedding index",
+  "interpretation": "Representation quality depends on structural fidelity, operation fit, validation, information-loss control, traceability, interpretability, retrieval support, transformation readiness, risk documentation, and governance."
+}

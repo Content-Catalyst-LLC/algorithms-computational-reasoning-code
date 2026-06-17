@@ -1,37 +1,14 @@
-# Representation and the Shape of Computation (planned)
+# Representation and the Shape of Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Representation and the Shape of Computation**.
 
-## Purpose
+This scaffold supports examples for representation, computational shape, data structures, schemas, encodings, state spaces, tables, trees, graphs, vectors, indexes, embeddings, metadata, provenance, information loss, traceability, representation risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Representation and the Shape of Computation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,6 @@
+case_name                    representation_quality
+---------------------------  ----------------------
+Simulation state model       81.76                 
+Institutional records table  81.6                  
+Route planning graph         80.64                 
+Document embedding index     76.16                 

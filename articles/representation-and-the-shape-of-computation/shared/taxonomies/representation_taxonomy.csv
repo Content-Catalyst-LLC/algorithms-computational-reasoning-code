@@ -1,0 +1,11 @@
+term,category,definition
+representation,computational foundation,A form that allows a computational system to store manipulate search compare transform validate or reason over something.
+symbolic representation,formal structure,Representation through tokens names expressions rules or symbols.
+relational representation,data shape,Representation through tables rows columns keys and constraints.
+sequential representation,data shape,Representation through ordered arrays lists strings queues or streams.
+hierarchical representation,data shape,Representation through trees nested structures taxonomies or parse structures.
+graph representation,data shape,Representation through nodes edges weights and relationships.
+vector representation,numerical structure,Representation through numerical coordinates.
+embedding,learned representation,A learned vector representation used for similarity or contextual structure.
+metadata,traceability,Data about origin meaning transformation use and governance.
+representation risk,governance risk,Distortion omission flattening false precision or poor operation fit introduced by representation choice.

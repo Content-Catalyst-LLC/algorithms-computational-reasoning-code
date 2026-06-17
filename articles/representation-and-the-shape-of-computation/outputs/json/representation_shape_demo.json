@@ -1,0 +1,17 @@
+{
+  "graph_shortest_neighbor": [
+    "C",
+    1.5
+  ],
+  "stack_order": [
+    "third",
+    "second",
+    "first"
+  ],
+  "queue_order": [
+    "first",
+    "second",
+    "third"
+  ],
+  "interpretation": "Representation shape changes natural operations: graph traversal, last-in-first-out stack behavior, and first-in-first-out queue behavior."
+}

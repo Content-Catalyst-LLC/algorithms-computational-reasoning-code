@@ -1,0 +1,13 @@
+{
+  "article_slug": "representation-and-the-shape-of-computation",
+  "actual_title": "Representation and the Shape of Computation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "representation-shape",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "representation", "title": "Representation", "category": "computational foundation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "State what the algorithm can and cannot see through the chosen representation."},
+    {"card_id": "operation-fit", "title": "Operation Fit", "category": "algorithm design", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Choose representation shapes that support the intended computational procedures."},
+    {"card_id": "information-loss", "title": "Information Loss", "category": "representation risk", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Document what is omitted, compressed, simplified, or aggregated."},
+    {"card_id": "traceability", "title": "Traceability", "category": "governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Preserve metadata, provenance, versions, assumptions, and transformation logs."}
+  ]
+}

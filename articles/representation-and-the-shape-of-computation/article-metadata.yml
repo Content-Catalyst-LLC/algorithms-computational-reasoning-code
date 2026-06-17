@@ -1,0 +1,24 @@
+actual_title: "Representation and the Shape of Computation"
+suggested_seo_title: "Representation and the Shape of Computation"
+focus_keyword: "representation and the shape of computation"
+slug: "representation-and-the-shape-of-computation"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "formal-methods-and-machine-checked-reasoning"
+  current: "representation-and-the-shape-of-computation"
+  next: "data-structures-as-thinking-tools"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/representation-and-the-shape-of-computation"
+tags:
+  - Representation
+  - Computational Representation
+  - Data Structures
+  - Schemas
+  - Graphs
+  - Vectors
+  - Metadata
+  - Computational Reasoning
+excerpt_139_words: "Representation is one of the hidden foundations of computation. Before an algorithm can search, compare, rank, classify, retrieve, transform, optimize, or reason, something must be represented in a form the algorithm can work with. The representation determines what the system can see, what it can ignore, what it can store, what it can count, what it can compare, and what operations become easy or difficult. A problem represented as a list invites one set of procedures. A problem represented as a graph invites another. Tables, trees, vectors, schemas, indexes, documents, embeddings, and state spaces each shape computation differently. This article explains representation as a central act of computational reasoning, connecting symbolic structure, data structures, schemas, encodings, metadata, provenance, compression, information loss, traceability, interpretation, and governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

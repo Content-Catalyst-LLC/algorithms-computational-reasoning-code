@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RepresentationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "representation_context",
+    "representation_choice",
+    "structural_fidelity",
+    "operation_fit",
+    "validation_discipline",
+    "information_loss_control",
+    "traceability",
+    "interpretability",
+    "retrieval_support",
+    "transformation_readiness",
+    "risk_documentation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "representation_context": {"type": "string"},
+    "representation_choice": {"type": "string"},
+    "structural_fidelity": {"type": "number", "minimum": 0, "maximum": 1},
+    "operation_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "validation_discipline": {"type": "number", "minimum": 0, "maximum": 1},
+    "information_loss_control": {"type": "number", "minimum": 0, "maximum": 1},
+    "traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "retrieval_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "transformation_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "risk_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
