@@ -1,0 +1,27 @@
+section                         
+--------------------------------
+ALGORITHMIC LITERACY CASE SCORES
+case_name                         literacy_support_score
+--------------------------------  ----------------------
+Scientific simulation dashboard   72.36                 
+Public decision-support workflow  65.4                  
+Search ranking                    56.56                 
+Recommendation feed               44.24                 
+section         
+----------------
+GOVERNANCE NOTES
+note_key        note_text                                                   
+--------------  ------------------------------------------------------------
+contestability  Provide correction appeal review or escalation paths where c
+                onsequences matter.                                         
+
+inputs          Identify data signals rules and parameters.                 
+
+judgment        Keep human judgment active when stakes uncertainty or values
+                 require it.                                                
+
+optimization    Name what the system optimizes rewards or suppresses.       
+
+outputs         Explain scores labels rankings forecasts or recommendations.
+
+problem         Name the problem being formalized.                          

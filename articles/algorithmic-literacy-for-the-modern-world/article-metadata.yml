@@ -1,0 +1,24 @@
+actual_title: "Algorithmic Literacy for the Modern World"
+suggested_seo_title: "Algorithmic Literacy for the Modern World"
+focus_keyword: "algorithmic literacy"
+slug: "algorithmic-literacy-for-the-modern-world"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "inputs-outputs-states-and-stopping-conditions"
+  current: "algorithmic-literacy-for-the-modern-world"
+  next: "from-pseudocode-to-programs"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/algorithmic-literacy-for-the-modern-world"
+tags:
+  - Algorithmic Literacy
+  - Algorithms
+  - Computational Reasoning
+  - Digital Literacy
+  - Data Literacy
+  - Algorithmic Governance
+  - Automation
+  - Responsible AI
+excerpt_139_words: "Algorithmic literacy is the ability to recognize, question, interpret, and responsibly use algorithmic systems in everyday life. It is not the same as becoming a professional programmer. It is a broader public capacity: understanding how procedures, data, rankings, recommendations, scores, searches, models, platforms, and automated workflows shape what people see, decide, trust, ignore, contest, and act upon. This article explains algorithmic literacy as a modern civic, educational, technical, and institutional skill. It examines search, recommendation, automation, public decision support, workplace systems, education technology, scientific modeling, generative AI, knowledge architecture, uncertainty, bias, governance, and human judgment. Algorithmic literacy helps people ask better questions: what problem is being formalized, what data is used, what is optimized, what is hidden, who is affected, and how outputs should be checked responsibly."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

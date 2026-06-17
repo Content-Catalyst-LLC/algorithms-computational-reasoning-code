@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmicLiteracyCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "user_group",
+    "procedural_transparency",
+    "data_visibility",
+    "output_interpretability",
+    "uncertainty_communication",
+    "contestability",
+    "governance_readiness",
+    "impact_awareness",
+    "human_judgment_support"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "system_context": {"type": "string"},
+    "user_group": {"type": "string"},
+    "procedural_transparency": {"type": "number", "minimum": 0, "maximum": 1},
+    "data_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "output_interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_communication": {"type": "number", "minimum": 0, "maximum": 1},
+    "contestability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "impact_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "human_judgment_support": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

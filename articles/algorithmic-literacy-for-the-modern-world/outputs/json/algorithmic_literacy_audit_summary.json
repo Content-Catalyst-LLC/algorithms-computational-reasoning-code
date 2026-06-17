@@ -1,0 +1,8 @@
+{
+  "average_literacy_gap_score": 40.833,
+  "average_literacy_support_score": 59.147,
+  "case_count": 6,
+  "highest_gap_case": "Recommendation feed",
+  "highest_support_case": "Scientific simulation dashboard",
+  "interpretation": "Algorithmic literacy support depends on transparency, data visibility, interpretability, uncertainty communication, contestability, governance, impact awareness, and human judgment."
+}

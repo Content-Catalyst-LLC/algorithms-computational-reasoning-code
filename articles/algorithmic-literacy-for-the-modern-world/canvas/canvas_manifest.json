@@ -1,0 +1,45 @@
+{
+  "article_slug": "algorithmic-literacy-for-the-modern-world",
+  "actual_title": "Algorithmic Literacy for the Modern World",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "algorithmic-literacy",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "algorithmic-literacy",
+      "title": "Algorithmic Literacy",
+      "category": "public reasoning",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Recognize, interpret, question, and responsibly use algorithmic systems."
+    },
+    {
+      "card_id": "procedural-transparency",
+      "title": "Procedural Transparency",
+      "category": "literacy dimension",
+      "status": "active",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Make steps, rules, objectives, assumptions, and workflow boundaries visible."
+    },
+    {
+      "card_id": "contestability",
+      "title": "Contestability",
+      "category": "governance dimension",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Provide correction, appeal, review, and escalation paths where consequences matter."
+    },
+    {
+      "card_id": "human-judgment",
+      "title": "Human Judgment",
+      "category": "responsibility",
+      "status": "review",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Keep human interpretation and accountability active where uncertainty, values, or stakes require it."
+    }
+  ]
+}

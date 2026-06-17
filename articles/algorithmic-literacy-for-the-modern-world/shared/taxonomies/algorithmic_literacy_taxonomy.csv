@@ -1,0 +1,10 @@
+term,category,definition
+algorithmic literacy,public reasoning,The ability to recognize interpret question and responsibly use algorithmic systems.
+procedural transparency,literacy dimension,Visibility into the steps rules objectives or workflow of a system.
+data visibility,literacy dimension,Visibility into what data signals sources or representations enter a system.
+output interpretability,literacy dimension,Clarity about what scores labels rankings recommendations or forecasts mean.
+uncertainty communication,literacy dimension,Communication of confidence limits ambiguity model scope or error risk.
+contestability,governance dimension,Ability for affected people to correct data appeal outcomes or request review.
+governance readiness,institutional dimension,Presence of monitoring documentation accountability and revision processes.
+impact awareness,ethical dimension,Attention to who is affected by algorithmic outputs and how.
+human judgment support,design dimension,Design that keeps human interpretation responsibility and review active.
