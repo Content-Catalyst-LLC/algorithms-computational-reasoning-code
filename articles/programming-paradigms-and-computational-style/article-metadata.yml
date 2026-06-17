@@ -1,0 +1,24 @@
+actual_title: "Programming Paradigms and Computational Style"
+suggested_seo_title: "Programming Paradigms and Computational Style"
+focus_keyword: "programming paradigms and computational style"
+slug: "programming-paradigms-and-computational-style"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "metadata-provenance-and-computational-traceability"
+  current: "programming-paradigms-and-computational-style"
+  next: "type-systems-and-the-discipline-of-computational-representation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/programming-paradigms-and-computational-style"
+tags:
+  - Programming Paradigms
+  - Computational Style
+  - Functional Programming
+  - Object-Oriented Programming
+  - Logic Programming
+  - Declarative Programming
+  - Software Design
+  - Computational Reasoning
+excerpt_139_words: "Programming paradigms and computational style shape how people express algorithms, organize systems, manage state, handle change, compose abstractions, and reason about behavior. A programming language is not just a way to instruct a machine. It also encourages a way of thinking. Procedural programming emphasizes ordered steps. Functional programming emphasizes expressions, transformation, and composition. Object-oriented programming emphasizes objects, responsibilities, and interacting state. Logic programming emphasizes relations and inference. Declarative programming emphasizes what should be true rather than exactly how control should proceed. Computational style is the practical expression of these choices. It affects readability, testing, reuse, correctness, performance, concurrency, governance, and long-term maintainability. This article explains programming paradigms and computational style as tools for representing problems, procedures, state, change, abstraction, responsibility, and reliable computational reasoning across software systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

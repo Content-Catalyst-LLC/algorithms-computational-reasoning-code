@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ParadigmStyleCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "style_choice",
+    "style_clarity",
+    "state_visibility",
+    "abstraction_fit",
+    "composability",
+    "testability",
+    "error_handling",
+    "traceability",
+    "performance_fit",
+    "team_readability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "style_choice": {"type": "string"},
+    "style_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "state_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "abstraction_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "composability": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "error_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "performance_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "team_readability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

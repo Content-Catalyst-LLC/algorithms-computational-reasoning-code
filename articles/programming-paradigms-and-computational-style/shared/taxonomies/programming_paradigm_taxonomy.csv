@@ -1,0 +1,19 @@
+term,category,definition
+imperative programming,paradigm,Computation expressed as commands that change state.
+procedural programming,paradigm,Computation organized as procedures or routines.
+functional programming,paradigm,Computation expressed through functions composition and transformation.
+object-oriented programming,paradigm,Computation organized around objects combining state and behavior.
+logic programming,paradigm,Computation expressed as facts rules relations and inference.
+declarative programming,paradigm,Computation expressed as desired results or constraints.
+event-driven programming,style,Computation organized as responses to events.
+reactive programming,style,Computation organized around changing values streams and propagation.
+concurrent programming,style,Computation with multiple activities in progress.
+actor model,style,Computation organized around independent actors and messages.
+array programming,style,Computation over whole arrays or collections.
+query-oriented programming,style,Computation expressed through retrieval and relational operations.
+scripting,style,Automation and orchestration through compact programs.
+state,concept,Information that persists and can change over time.
+side effect,concept,Interaction with external world or mutable state.
+abstraction,concept,A named simplification that hides detail behind an interface.
+composition,concept,Combining smaller units into larger structures.
+traceability,governance,Ability to reconstruct inputs state changes outputs and decisions.

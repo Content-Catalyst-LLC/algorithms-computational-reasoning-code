@@ -1,0 +1,11 @@
+paradigm,central_unit,reasoning_emphasis,example_language_or_context
+Imperative,command,state mutation and sequence,C
+Procedural,procedure,stepwise decomposition,Python scripts
+Functional,function,input-output transformation,Haskell
+Object-oriented,object,responsibility and lifecycle,Java
+Logic,relation,inference and constraints,Prolog
+Declarative,specification,desired result and constraints,SQL
+Event-driven,event,response to triggers,JavaScript UI
+Concurrent,process or task,coordination timing and failure,Erlang or Go
+Array-oriented,array,whole-collection operations,R or Julia
+Scripting,script,automation and orchestration,Bash or Python

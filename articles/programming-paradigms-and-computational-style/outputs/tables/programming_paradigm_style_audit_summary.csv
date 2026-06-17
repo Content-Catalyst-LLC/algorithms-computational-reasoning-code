@@ -1,0 +1,2 @@
+case_count,average_style_quality,average_style_risk,highest_quality_case,highest_risk_case,interpretation
+5,85.472,14.35,Functional data transformation,Event-driven platform workflow,"Programming style quality depends on clarity, state visibility, abstraction fit, composition, testability, error handling, traceability, performance fit, readability, and governance."

@@ -1,0 +1,13 @@
+{
+  "article_slug": "programming-paradigms-and-computational-style",
+  "actual_title": "Programming Paradigms and Computational Style",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "programming-style",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "paradigms", "title": "Programming Paradigms", "category": "computational style", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Choose paradigms by problem structure, not fashion or identity."},
+    {"card_id": "state-and-effects", "title": "State and Effects", "category": "design governance", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Make state, mutation, side effects, and error handling explicit and testable."},
+    {"card_id": "abstraction", "title": "Abstraction and Composition", "category": "software design", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Use abstractions that clarify behavior rather than conceal accountability."},
+    {"card_id": "style-governance", "title": "Style Governance", "category": "maintainability", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Review style drift, hidden coupling, fragile scripts, and architecture erosion."}
+  ]
+}

@@ -1,0 +1,5 @@
+case_name style_quality
+Functional data transformation 88.82
+Object-oriented domain model 85.78
+Declarative query layer 85.68
+Event-driven platform workflow 82.08

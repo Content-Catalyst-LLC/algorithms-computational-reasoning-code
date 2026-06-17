@@ -1,37 +1,14 @@
-# Programming Paradigms and Computational Style (planned)
+# Programming Paradigms and Computational Style
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Programming Paradigms and Computational Style**.
 
-## Purpose
+This scaffold supports examples for programming paradigms, computational style, imperative programming, procedural programming, functional programming, object-oriented programming, logic programming, declarative programming, event-driven programming, concurrent programming, actor-based systems, array programming, query languages, scripting, state management, side effects, abstraction, modularity, testing, traceability, and responsible software governance.
 
-This folder will hold computational companion materials for the planned article:
-**Programming Paradigms and Computational Style**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

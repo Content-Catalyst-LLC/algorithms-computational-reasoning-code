@@ -1,0 +1,18 @@
+case_name                       style_quality
+------------------------------  -------------
+Functional data transformation  88.56        
+Object-oriented domain model    85.12        
+Declarative query layer         85.0         
+Event-driven platform workflow  82.32        
+paradigm         central_unit     reasoning_emphasis               example_language_or_context
+---------------  ---------------  -------------------------------  ---------------------------
+Array-oriented   array            whole-collection operations      R or Julia                 
+Concurrent       process or task  coordination timing and failure  Erlang or Go               
+Declarative      specification    desired result and constraints   SQL                        
+Event-driven     event            response to triggers             JavaScript UI              
+Functional       function         input-output transformation      Haskell                    
+Imperative       command          state mutation and sequence      C                          
+Logic            relation         inference and constraints        Prolog                     
+Object-oriented  object           responsibility and lifecycle     Java                       
+Procedural       procedure        stepwise decomposition           Python scripts             
+Scripting        script           automation and orchestration     Bash or Python             

@@ -1,0 +1,5 @@
+println("case_name,style_quality")
+println("Functional data transformation,88.82")
+println("Object-oriented domain model,85.78")
+println("Declarative query layer,85.68")
+println("Event-driven platform workflow,82.08")

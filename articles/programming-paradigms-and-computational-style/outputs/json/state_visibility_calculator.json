@@ -1,0 +1,8 @@
+{
+  "audited_effects": 4,
+  "explicit_state_records": 6,
+  "interpretation": "State visibility improves when mutable state and side-effect boundaries are explicit, documented, tested, and audited.",
+  "mutable_state_sites": 8,
+  "side_effect_boundaries": 5,
+  "state_visibility_score": 77.0
+}

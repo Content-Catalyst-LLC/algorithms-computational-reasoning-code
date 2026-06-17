@@ -1,0 +1,12 @@
+{
+  "values": [
+    0.9,
+    0.82,
+    0.88,
+    0.86
+  ],
+  "procedural_average": 0.865,
+  "functional_average": 0.865,
+  "interpretation": "Different styles can compute the same result while making different reasoning structures visible.",
+  "paradigm_count": 10
+}
