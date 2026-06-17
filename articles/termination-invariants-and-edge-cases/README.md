@@ -1,37 +1,14 @@
-# Termination, Invariants, and Edge Cases (planned)
+# Termination, Invariants, and Edge Cases
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Termination, Invariants, and Edge Cases**.
 
-## Purpose
+This scaffold supports examples for stopping conditions, progress measures, loop invariants, state invariants, boundary cases, invalid inputs, recursion safety, numerical edge cases, concurrency edge cases, counterexample traces, and responsible algorithmic reliability.
 
-This folder will hold computational companion materials for the planned article:
-**Termination, Invariants, and Edge Cases**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

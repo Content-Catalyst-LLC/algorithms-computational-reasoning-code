@@ -1,0 +1,24 @@
+actual_title: "Termination, Invariants, and Edge Cases"
+suggested_seo_title: "Termination, Invariants, and Edge Cases"
+focus_keyword: "termination invariants and edge cases"
+slug: "termination-invariants-and-edge-cases"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "proof-correctness-and-algorithmic-verification"
+  current: "termination-invariants-and-edge-cases"
+  next: "computability-and-the-limits-of-procedure"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/termination-invariants-and-edge-cases"
+tags:
+  - Termination
+  - Invariants
+  - Edge Cases
+  - Algorithmic Correctness
+  - Boundary Conditions
+  - Recursion
+  - Testing
+  - Verification
+excerpt_139_words: "Algorithms do not only need to produce the right answer. They also need to stop, preserve what must remain true, and behave responsibly near boundaries. Termination asks whether an algorithm eventually halts. Invariants ask what remains true while the algorithm runs. Edge cases ask what happens near boundaries: empty inputs, extreme values, invalid states, missing data, repeated values, zero divisions, impossible combinations, timeouts, overflow, concurrency conflicts, and unusual but plausible conditions. Together, these ideas turn algorithmic reasoning from a general belief that a procedure works into a disciplined question: under what assumptions does it stop, what properties does it preserve, and where might it fail? This article connects termination, invariants, and edge cases to proof, testing, debugging, verification, software engineering, data validation, simulation, and responsible automation."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

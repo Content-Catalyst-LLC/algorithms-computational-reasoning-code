@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BoundaryReliabilityCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "computational_context",
+    "reliability_claim",
+    "stopping_condition_clarity",
+    "progress_measure_definition",
+    "invariant_coverage",
+    "boundary_case_coverage",
+    "invalid_input_handling",
+    "recursion_safety",
+    "numerical_edge_handling",
+    "concurrency_edge_awareness",
+    "counterexample_traceability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "computational_context": {"type": "string"},
+    "reliability_claim": {"type": "string"},
+    "stopping_condition_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "progress_measure_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "boundary_case_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "invalid_input_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "recursion_safety": {"type": "number", "minimum": 0, "maximum": 1},
+    "numerical_edge_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "concurrency_edge_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

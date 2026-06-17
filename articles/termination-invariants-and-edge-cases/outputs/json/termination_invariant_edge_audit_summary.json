@@ -1,0 +1,8 @@
+{
+  "average_reliability_quality": 73.824,
+  "average_reliability_risk": 26.25,
+  "case_count": 5,
+  "highest_quality_case": "Data pipeline validation",
+  "highest_risk_case": "Distributed request workflow",
+  "interpretation": "Boundary reliability depends on stopping conditions, progress measures, invariants, boundary cases, invalid-input handling, recursion safety, numerical edges, concurrency edges, counterexamples, and governance."
+}

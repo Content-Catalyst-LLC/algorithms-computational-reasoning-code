@@ -1,0 +1,13 @@
+{
+  "article_slug": "termination-invariants-and-edge-cases",
+  "actual_title": "Termination, Invariants, and Edge Cases",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "boundary-reliability",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "termination", "title": "Termination", "category": "reliability property", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Define halt, failure, timeout, or handoff behavior before deployment."},
+    {"card_id": "invariants", "title": "Invariants", "category": "preserved property", "status": "active", "score": 95, "review_date": "2026-06-17", "governance_note": "Identify what must remain true across execution and state transitions."},
+    {"card_id": "edge-cases", "title": "Edge Cases", "category": "boundary reasoning", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "Treat boundary cases as evidence about hidden assumptions."},
+    {"card_id": "counterexamples", "title": "Counterexamples", "category": "failure evidence", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Preserve failure cases as regression tests and governance records."}
+  ]
+}

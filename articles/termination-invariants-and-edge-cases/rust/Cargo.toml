@@ -1,0 +1,5 @@
+[package]
+name = "termination-invariants-and-edge-cases"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

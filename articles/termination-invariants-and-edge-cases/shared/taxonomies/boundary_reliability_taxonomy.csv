@@ -1,0 +1,10 @@
+term,category,definition
+termination,reliability property,A procedure eventually halts or reaches a defined terminal state.
+stopping condition,control rule,A condition that determines when a procedure halts.
+progress measure,termination evidence,A measure that moves closer to completion at each step.
+invariant,preserved property,A property that remains true through valid execution steps.
+loop invariant,proof concept,A property preserved before and after each loop iteration.
+state invariant,system property,A property preserved across valid system transitions.
+edge case,boundary condition,A situation near the boundary of expected operation.
+counterexample,failure evidence,A case that disproves or challenges an expected behavior.
+boundary test,test type,A test targeting empty singleton zero maximum threshold or invalid cases.

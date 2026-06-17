@@ -1,0 +1,6 @@
+case_name                     reliability_quality
+----------------------------  -------------------
+Recursive parser              73.68              
+Graph traversal               73.4               
+Distributed request workflow  73.28              
+Numerical simulation step     72.4               
