@@ -1,0 +1,11 @@
+python workflow: pass
+python calculator: pass
+python tests: pytest_not_available
+sql workflow: pass
+r workflow: skipped_or_failed
+go workflow: pass
+c workflow: pass
+cpp workflow: pass
+fortran workflow: skipped_or_failed
+java workflow: skipped_or_failed
+typescript workflow: pass

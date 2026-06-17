@@ -1,0 +1,10 @@
+term,category,definition
+real-world concern,problem layer,A broad issue need goal or pressure motivating computational work.
+formal problem,problem layer,A bounded computable version of the concern defined through inputs outputs constraints states assumptions and objectives.
+procedure,algorithmic layer,A sequence of operations that transforms inputs into outputs.
+input,formal component,Data parameters states or events supplied to a procedure.
+output,formal component,The result returned by a procedure.
+constraint,formal component,A rule that limits feasible actions outputs or states.
+state,formal component,A representation of the system at a moment or step.
+stopping condition,formal component,A rule determining when the procedure should end.
+formalization risk,governance concept,Risk introduced when the formal problem diverges from the real-world concern in important ways.

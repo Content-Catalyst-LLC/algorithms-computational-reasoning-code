@@ -1,0 +1,2 @@
+case_count,average_formalization_score,average_formalization_risk,highest_score_case,highest_risk_case,interpretation
+6,66.033,34.5,Scientific simulation,Public service triage,"Formalization quality depends on clear inputs, outputs, constraints, states, objectives, assumptions, edge cases, stopping conditions, evaluation, and governance."

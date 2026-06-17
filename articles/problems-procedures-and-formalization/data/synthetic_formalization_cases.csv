@@ -1,0 +1,7 @@
+case_name,real_world_concern,formal_task,input_clarity,output_clarity,constraint_clarity,state_definition,objective_alignment,assumption_documentation,edge_case_handling,stopping_condition_clarity,evaluation_quality,governance_readiness
+Document search,Help people find useful information,Retrieve and rank documents for a query,0.82,0.78,0.62,0.60,0.70,0.58,0.62,0.74,0.70,0.56
+Worker scheduling,Coordinate labor demand skill and wellbeing,Assign workers to shifts under coverage and availability constraints,0.72,0.76,0.82,0.70,0.58,0.54,0.56,0.68,0.60,0.62
+Public service triage,Prioritize cases while preserving fairness and accountability,Classify cases into priority levels using administrative data,0.60,0.72,0.68,0.58,0.52,0.46,0.48,0.60,0.54,0.66
+Scientific simulation,Explore how a system changes under scenarios,Simulate state transitions under parameterized assumptions,0.86,0.80,0.78,0.88,0.76,0.84,0.72,0.82,0.78,0.70
+Recommendation system,Help users discover relevant items,Rank items by predicted preference or engagement,0.78,0.76,0.56,0.66,0.50,0.52,0.54,0.72,0.58,0.48
+Organizational workflow,Coordinate tasks responsibilities status and review,Route tasks through priority queues and assignment rules,0.74,0.70,0.76,0.72,0.64,0.58,0.60,0.70,0.62,0.60

@@ -1,0 +1,45 @@
+{
+  "article_slug": "problems-procedures-and-formalization",
+  "actual_title": "Problems, Procedures, and Formalization",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "problem-formalization",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "real-world-concern",
+      "title": "Real-World Concern",
+      "category": "problem layer",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Keep the motivating concern separate from the formal computational task."
+    },
+    {
+      "card_id": "formal-problem",
+      "title": "Formal Problem",
+      "category": "problem layer",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Define inputs, outputs, constraints, states, objectives, and assumptions."
+    },
+    {
+      "card_id": "stopping-condition",
+      "title": "Stopping Condition",
+      "category": "procedure layer",
+      "status": "review",
+      "score": 92,
+      "review_date": "2026-06-17",
+      "governance_note": "Make termination rules explicit, especially for failure and no-solution cases."
+    },
+    {
+      "card_id": "formalization-risk",
+      "title": "Formalization Risk",
+      "category": "risk",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Audit the gap between the original concern and the formalized task."
+    }
+  ]
+}

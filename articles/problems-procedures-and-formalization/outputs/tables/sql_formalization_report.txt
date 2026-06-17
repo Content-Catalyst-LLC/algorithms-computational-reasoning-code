@@ -1,0 +1,27 @@
+section                  
+-------------------------
+FORMALIZATION CASE SCORES
+case_name              formalization_score
+---------------------  -------------------
+Scientific simulation  79.32              
+Document search        67.36              
+Worker scheduling      65.2               
+Public service triage  57.72              
+section         
+----------------
+GOVERNANCE NOTES
+note_key        note_text                                                   
+--------------  ------------------------------------------------------------
+concern         Separate the real-world concern from the formal computationa
+                l task.                                                     
+
+edge_cases      Test invalid input ties missingness no-solution cases and st
+                opping conditions.                                          
+
+governance      Define review appeal monitoring revision and retirement crit
+                eria.                                                       
+
+interpretation  Explain how outputs should and should not be used.          
+
+representation  Document inputs outputs constraints states objectives and as
+                sumptions.                                                  

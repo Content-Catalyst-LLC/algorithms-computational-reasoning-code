@@ -1,0 +1,5 @@
+case_name,formalization_score,warning
+Document search,69.5,Synthetic educational diagnostic only.
+Worker scheduling,64.2,Synthetic educational diagnostic only.
+Public service triage,58.5,Synthetic educational diagnostic only.
+Scientific simulation,79.5,Synthetic educational diagnostic only.

@@ -1,0 +1,24 @@
+actual_title: "Problems, Procedures, and Formalization"
+suggested_seo_title: "Problems, Procedures, and Formalization"
+focus_keyword: "problems procedures and formalization"
+slug: "problems-procedures-and-formalization"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "algorithmic-thinking-vs-computational-research"
+  current: "problems-procedures-and-formalization"
+  next: "decomposition-and-stepwise-reasoning"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/problems-procedures-and-formalization"
+tags:
+  - Formalization
+  - Algorithms
+  - Computational Reasoning
+  - Problem Solving
+  - Procedures
+  - Inputs and Outputs
+  - Constraints
+  - Algorithmic Governance
+excerpt_139_words: "Problems rarely arrive in computational form. They begin as goals, questions, frustrations, needs, observations, or institutional pressures. Before an algorithm can act, a problem must be formalized into inputs, outputs, constraints, states, operations, objectives, assumptions, and stopping conditions. This article explains how ambiguous questions become explicit computational tasks and why that translation is central to computational reasoning. A procedure can execute correctly while solving the wrong formal problem if the representation is too narrow, the objective is poorly aligned, the inputs are weak, or the output is interpreted too strongly. Formalization turns ambiguity into procedure, but it also shapes what computation can see, ignore, measure, optimize, and return. The article provides examples from search, scheduling, databases, public policy, machine learning, simulation, recommendation systems, and organizational workflows."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true
