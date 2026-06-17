@@ -1,0 +1,6 @@
+case_name,problem_context,structure_choice,operation_fit,order_semantics,invariant_clarity,complexity_awareness,memory_behavior,overflow_handling,interpretability,traversal_support,representation_risk_documentation,governance_readiness
+Numerical time series array,A simulation stores observations at fixed time indexes,Array indexed by time step with metadata for units and time origin,0.90,0.86,0.82,0.86,0.88,0.72,0.84,0.90,0.78,0.80
+Undo action stack,A user interface supports reversible editing actions,Stack of action records with inverse operations and provenance,0.88,0.92,0.86,0.82,0.76,0.78,0.86,0.72,0.82,0.84
+Case review queue,Institutional cases wait for review in arrival order,FIFO queue with timestamp status escalation and audit metadata,0.88,0.90,0.84,0.78,0.76,0.82,0.88,0.78,0.88,0.90
+Streaming circular buffer,Sensor readings arrive continuously and only recent readings are retained,Bounded circular buffer with explicit overwrite and retention policy,0.86,0.82,0.84,0.84,0.90,0.88,0.76,0.74,0.86,0.84
+Parser stack and token list,Parser processes token sequences and nested expressions,List of tokens paired with a stack for nested delimiters,0.88,0.86,0.90,0.84,0.78,0.76,0.84,0.86,0.80,0.82

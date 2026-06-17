@@ -1,0 +1,8 @@
+{
+  "average_sequence_structure_quality": 83.728,
+  "average_sequence_structure_risk": 15.9,
+  "case_count": 5,
+  "highest_quality_case": "Case review queue",
+  "highest_risk_case": "Numerical time series array",
+  "interpretation": "Sequence-structure quality depends on operation fit, order semantics, invariants, complexity, memory behavior, overflow handling, interpretability, traversal, risk documentation, and governance."
+}

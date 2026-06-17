@@ -1,37 +1,14 @@
-# Arrays, Lists, Stacks, and Queues (planned)
+# Arrays, Lists, Stacks, and Queues
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Arrays, Lists, Stacks, and Queues**.
 
-## Purpose
+This scaffold supports examples for arrays, lists, stacks, queues, deques, circular buffers, indexed access, sequential traversal, last-in-first-out reasoning, first-in-first-out reasoning, invariants, complexity trade-offs, memory layout, buffers, workflow order, service fairness, overflow handling, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Arrays, Lists, Stacks, and Queues**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

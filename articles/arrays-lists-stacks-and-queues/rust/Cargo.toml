@@ -1,0 +1,5 @@
+[package]
+name = "arrays-lists-stacks-and-queues"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

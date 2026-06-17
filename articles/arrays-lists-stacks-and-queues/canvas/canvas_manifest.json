@@ -1,0 +1,13 @@
+{
+  "article_slug": "arrays-lists-stacks-and-queues",
+  "actual_title": "Arrays, Lists, Stacks, and Queues",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "sequence-structures",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "arrays", "title": "Arrays", "category": "indexed structure", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Document index semantics, bounds, units, capacity, and memory behavior."},
+    {"card_id": "lists", "title": "Lists", "category": "sequential structure", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Clarify sequence meaning, traversal behavior, insertion rules, and provenance."},
+    {"card_id": "stacks", "title": "Stacks", "category": "recency structure", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit recency assumptions, undo behavior, nested context, and underflow."},
+    {"card_id": "queues", "title": "Queues", "category": "service structure", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit fairness, service order, backpressure, overflow, and escalation policy."}
+  ]
+}

@@ -1,0 +1,14 @@
+term,category,definition
+array,indexed structure,A structure mapping positions to values for direct indexed access.
+list,sequential structure,A structure representing ordered traversal and sequence.
+linked list,sequential structure,A list implemented through nodes connected by references.
+stack,recency structure,A last-in-first-out structure for nested contexts and backtracking.
+queue,service structure,A first-in-first-out structure for service order and workflow.
+deque,endpoint structure,A double-ended queue allowing insertion and removal at both ends.
+circular buffer,bounded structure,A fixed-capacity buffer that wraps around with modular indexing.
+push,stack operation,Add an item to the top of a stack.
+pop,stack operation,Remove the most recently pushed item.
+enqueue,queue operation,Add an item to the back of a queue.
+dequeue,queue operation,Remove the oldest item from the front of a queue.
+overflow,capacity condition,A condition where a bounded structure has no room for a new item.
+invariant,validity property,A condition that must remain true for the structure to behave correctly.

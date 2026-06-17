@@ -1,0 +1,5 @@
+println("case_name,sequence_structure_quality")
+println("Numerical time series array,83.20")
+println("Undo action stack,83.80")
+println("Case review queue,85.04")
+println("Streaming circular buffer,83.80")

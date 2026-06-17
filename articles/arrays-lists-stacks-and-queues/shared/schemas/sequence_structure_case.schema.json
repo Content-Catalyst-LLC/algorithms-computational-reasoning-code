@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SequenceStructureCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "structure_choice",
+    "operation_fit",
+    "order_semantics",
+    "invariant_clarity",
+    "complexity_awareness",
+    "memory_behavior",
+    "overflow_handling",
+    "interpretability",
+    "traversal_support",
+    "representation_risk_documentation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "structure_choice": {"type": "string"},
+    "operation_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "order_semantics": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "complexity_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "memory_behavior": {"type": "number", "minimum": 0, "maximum": 1},
+    "overflow_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "traversal_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_risk_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

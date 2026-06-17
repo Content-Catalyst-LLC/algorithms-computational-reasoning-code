@@ -1,0 +1,24 @@
+actual_title: "Arrays, Lists, Stacks, and Queues"
+suggested_seo_title: "Arrays, Lists, Stacks, and Queues"
+focus_keyword: "arrays lists stacks and queues"
+slug: "arrays-lists-stacks-and-queues"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "data-structures-as-thinking-tools"
+  current: "arrays-lists-stacks-and-queues"
+  next: "trees-hierarchies-and-recursive-structure"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/arrays-lists-stacks-and-queues"
+tags:
+  - Arrays
+  - Lists
+  - Stacks
+  - Queues
+  - Data Structures
+  - Computational Reasoning
+  - Sequence Structures
+  - Algorithm Design
+excerpt_139_words: "Arrays, lists, stacks, and queues are among the first data structures people learn because they make the basic shapes of computation visible. They organize information by position, sequence, recency, and service order. Those ideas support much of practical computing: iteration, buffering, parsing, scheduling, undo systems, histories, logs, simulations, searches, workflows, and communication systems. An array teaches position-based reasoning. A list teaches sequential reasoning. A stack teaches last-in, first-out reasoning. A queue teaches first-in, first-out reasoning. This article explains indexed access, sequential traversal, contiguous memory, linked structure, push and pop behavior, enqueue and dequeue behavior, buffers, deques, circular queues, linked lists, operation complexity, invariants, memory trade-offs, workflow order, fairness, recursion, backtracking, breadth-first search, depth-first search, parsing, scheduling, and governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

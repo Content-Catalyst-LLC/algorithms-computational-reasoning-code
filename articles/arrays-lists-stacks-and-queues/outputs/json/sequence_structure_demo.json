@@ -1,0 +1,19 @@
+{
+  "array_index_demo": "one",
+  "stack_order": [
+    "third",
+    "second",
+    "first"
+  ],
+  "queue_order": [
+    "first",
+    "second",
+    "third"
+  ],
+  "circular_buffer_values_after_overwrite": [
+    "b",
+    "c",
+    "d"
+  ],
+  "interpretation": "Arrays emphasize index, lists emphasize sequence, stacks emphasize recency, queues emphasize service order, and circular buffers emphasize bounded recent history."
+}

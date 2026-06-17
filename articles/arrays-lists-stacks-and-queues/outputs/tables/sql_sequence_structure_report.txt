@@ -1,0 +1,6 @@
+case_name                    sequence_structure_quality
+---------------------------  --------------------------
+Case review queue            84.6                      
+Numerical time series array  83.92                     
+Streaming circular buffer    83.2                      
+Undo action stack            83.12                     
