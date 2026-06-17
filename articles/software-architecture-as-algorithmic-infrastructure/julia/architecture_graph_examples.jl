@@ -1,0 +1,5 @@
+println("source,target")
+println("api,domain")
+println("domain,interfaces")
+println("worker,domain")
+println("reporting,storage")

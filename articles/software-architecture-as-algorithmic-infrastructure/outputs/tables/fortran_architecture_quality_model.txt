@@ -1,0 +1,5 @@
+case_name architecture_quality
+Modular monolith with strong package boundaries 84.32
+Event-driven data workflow 85.80
+Model scoring service 86.94
+Unstructured script collection 47.30

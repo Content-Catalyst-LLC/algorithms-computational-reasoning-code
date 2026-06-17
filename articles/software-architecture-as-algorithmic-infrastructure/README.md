@@ -1,37 +1,14 @@
-# Software Architecture as Algorithmic Infrastructure (planned)
+# Software Architecture as Algorithmic Infrastructure
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Software Architecture as Algorithmic Infrastructure**.
 
-## Purpose
+This scaffold covers architecture as computational infrastructure: modular systems, component boundaries, dependency graphs, data flow, control flow, runtime topology, state ownership, reliability patterns, scalability analysis, security boundaries, observability, deployment governance, architecture decision records, and responsible system evolution.
 
-This folder will hold computational companion materials for the planned article:
-**Software Architecture as Algorithmic Infrastructure**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,5 @@
+{
+  "dependency_density": 0.1556,
+  "dependency_risk_score": 17.3,
+  "interpretation": "Dependency risk rises with dense dependency graphs, shared state, undocumented dependencies, and ownerless components."
+}

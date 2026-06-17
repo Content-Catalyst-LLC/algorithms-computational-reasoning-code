@@ -1,0 +1,13 @@
+source,target,relationship_type
+api,domain,uses
+domain,interfaces,depends_on_abstraction
+infrastructure,interfaces,implements
+worker,domain,uses
+worker,queue,consumes
+reporting,domain,uses
+reporting,storage,reads
+api,auth,checks
+api,observability,emits
+worker,observability,emits
+deployment,api,releases
+deployment,worker,releases

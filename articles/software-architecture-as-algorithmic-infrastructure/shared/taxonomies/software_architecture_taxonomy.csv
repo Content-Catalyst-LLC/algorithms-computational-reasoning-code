@@ -1,0 +1,13 @@
+term,category,definition
+architecture,structure,High-level structure of components relationships constraints and governance.
+module,boundary,Bounded code unit with responsibility.
+component,subsystem,Larger unit of computational responsibility.
+service,runtime boundary,Independently deployable runtime component.
+layer,abstraction level,Grouping of responsibilities by level of abstraction.
+dependency,relationship,A reliance between components.
+coupling,risk,Strength of dependency between components.
+cohesion,quality,Degree to which responsibilities inside a module belong together.
+state ownership,governance,Responsibility for authoritative state.
+failure containment,reliability,Ability to limit failure impact.
+observability,evidence,Runtime evidence for understanding behavior.
+architecture decision record,governance,Document explaining an architectural decision.

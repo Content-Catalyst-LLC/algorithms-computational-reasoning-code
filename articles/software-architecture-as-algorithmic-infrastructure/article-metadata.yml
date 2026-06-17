@@ -1,0 +1,16 @@
+actual_title: "Software Architecture as Algorithmic Infrastructure"
+suggested_seo_title: "Software Architecture as Algorithmic Infrastructure: How Code Becomes Systems"
+focus_keyword: "software architecture as algorithmic infrastructure"
+slug: "software-architecture-as-algorithmic-infrastructure"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "apis-interfaces-and-modular-computational-design"
+  current: "software-architecture-as-algorithmic-infrastructure"
+  next: "testing-verification-and-computational-reliability"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/software-architecture-as-algorithmic-infrastructure"
+tags: [Software Architecture, Algorithmic Infrastructure, Modular Systems, Dependency Graphs, Reliability, Observability, Governance, Computational Reasoning]
+excerpt_139_words: "Software architecture is not only about organizing code. It is algorithmic infrastructure: the structural environment that determines how computational procedures are composed, deployed, coordinated, scaled, secured, observed, changed, and governed. An algorithm may be clear in isolation, but real systems rarely run as isolated procedures. They run inside architectures made of modules, services, databases, queues, caches, APIs, schedulers, runtimes, data pipelines, deployment environments, observability systems, access controls, and operational practices. Architecture determines how computation moves through these parts. A weak architecture can turn simple algorithms into fragile systems. A strong architecture can make complex computational systems understandable, testable, reproducible, resilient, and accountable. This article explains software architecture as the infrastructural layer that turns algorithms into maintainable systems and responsible computational institutions."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

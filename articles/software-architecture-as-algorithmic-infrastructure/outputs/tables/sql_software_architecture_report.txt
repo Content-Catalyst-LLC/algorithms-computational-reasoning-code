@@ -1,0 +1,18 @@
+case_name                                        architecture_quality
+-----------------------------------------------  --------------------
+Model scoring service                            86.84               
+Event-driven data workflow                       85.84               
+Modular monolith with strong package boundaries  84.96               
+Unstructured script collection                   47.68               
+source          target         relationship_type     
+--------------  -------------  ----------------------
+api             auth           checks                
+api             domain         uses                  
+api             observability  emits                 
+domain          interfaces     depends_on_abstraction
+infrastructure  interfaces     implements            
+reporting       domain         uses                  
+reporting       storage        reads                 
+worker          domain         uses                  
+worker          observability  emits                 
+worker          queue          consumes              

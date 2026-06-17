@@ -1,0 +1,11 @@
+term,category,definition,example
+architecture,structure,High-level structure of components relationships constraints and governance,system decomposition
+module,boundary,Bounded code unit with responsibility,package
+component,subsystem,Larger unit of computational responsibility,reporting component
+service,runtime boundary,Independently deployable runtime component,API service
+dependency,relationship,A reliance between components,service calls database
+coupling,risk,Strength of dependency between components,shared database coupling
+cohesion,quality,Degree to which responsibilities inside a module belong together,domain module
+observability,evidence,Runtime evidence for understanding behavior,logs metrics traces
+resilience,reliability,Ability to withstand and recover from failure,retry circuit breaker rollback
+governance,accountability,Decision ownership review and evolution discipline,architecture decision record

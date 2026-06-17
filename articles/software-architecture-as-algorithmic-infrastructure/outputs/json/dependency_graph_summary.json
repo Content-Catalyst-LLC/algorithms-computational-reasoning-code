@@ -1,0 +1,26 @@
+{
+  "dependency_density": 0.1091,
+  "edge_count": 12,
+  "highest_incoming_dependency": [
+    "domain",
+    3
+  ],
+  "highest_outgoing_dependency": [
+    "api",
+    3
+  ],
+  "node_count": 11,
+  "nodes": [
+    "api",
+    "auth",
+    "deployment",
+    "domain",
+    "infrastructure",
+    "interfaces",
+    "observability",
+    "queue",
+    "reporting",
+    "storage",
+    "worker"
+  ]
+}

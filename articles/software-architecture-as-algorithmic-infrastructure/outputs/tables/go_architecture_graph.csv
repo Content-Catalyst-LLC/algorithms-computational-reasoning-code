@@ -1,0 +1,5 @@
+source,target
+api,domain
+domain,interfaces
+worker,domain
+reporting,storage

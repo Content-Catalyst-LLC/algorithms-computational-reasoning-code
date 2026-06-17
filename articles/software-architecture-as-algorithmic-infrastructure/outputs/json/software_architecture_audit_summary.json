@@ -1,0 +1,7 @@
+{
+  "average_architecture_quality": 78.36,
+  "average_architecture_risk": 21.6,
+  "case_count": 5,
+  "highest_quality_case": "Model scoring service",
+  "highest_risk_case": "Unstructured script collection"
+}
