@@ -1,0 +1,13 @@
+{
+  "article_slug": "trees-hierarchies-and-recursive-structure",
+  "actual_title": "Trees, Hierarchies, and Recursive Structure",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "tree-structures",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "tree-structures", "title": "Tree Structures", "category": "hierarchical representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Define root, edge meaning, levels, leaves, paths, and subtrees."},
+    {"card_id": "recursive-structure", "title": "Recursive Structure", "category": "computational reasoning", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "State base cases, recursive steps, traversal method, and termination conditions."},
+    {"card_id": "tree-invariants", "title": "Tree Invariants", "category": "correctness", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Preserve no-cycle, parent, ordering, heap, prefix, balance, and routing invariants."},
+    {"card_id": "false-hierarchy-risk", "title": "False Hierarchy Risk", "category": "representation governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit cross-links, multiple membership, ambiguous categories, and network relationships hidden by the tree."}
+  ]
+}

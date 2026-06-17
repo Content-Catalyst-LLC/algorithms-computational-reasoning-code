@@ -1,0 +1,5 @@
+case_name tree_structure_quality
+Document outline tree 81.40
+Syntax tree 85.56
+Decision classification tree 82.00
+Database B-tree index 84.32

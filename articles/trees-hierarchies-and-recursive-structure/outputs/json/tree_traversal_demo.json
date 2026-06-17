@@ -1,0 +1,30 @@
+{
+  "preorder": [
+    "root",
+    "left",
+    "left.leaf",
+    "right",
+    "right.a",
+    "right.b"
+  ],
+  "postorder": [
+    "left.leaf",
+    "left",
+    "right.a",
+    "right.b",
+    "right",
+    "root"
+  ],
+  "height": 2,
+  "leaves": [
+    "left.leaf",
+    "right.a",
+    "right.b"
+  ],
+  "heap_priority_order": [
+    "urgent",
+    "soon",
+    "routine"
+  ],
+  "interpretation": "Traversal order changes what is seen first, height describes nesting, and heaps use tree structure to retrieve priority."
+}

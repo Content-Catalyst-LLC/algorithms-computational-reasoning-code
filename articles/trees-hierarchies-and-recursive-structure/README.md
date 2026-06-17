@@ -1,37 +1,14 @@
-# Trees, Hierarchies, and Recursive Structure (planned)
+# Trees, Hierarchies, and Recursive Structure
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Trees, Hierarchies, and Recursive Structure**.
 
-## Purpose
+This scaffold supports examples for trees, hierarchies, recursive structure, roots, nodes, edges, leaves, subtrees, traversal, binary trees, binary search trees, balanced trees, heaps, tries, parse trees, syntax trees, decision trees, taxonomies, invariants, complexity trade-offs, false-hierarchy risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Trees, Hierarchies, and Recursive Structure**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

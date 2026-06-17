@@ -1,0 +1,8 @@
+{
+  "average_false_hierarchy_risk": 17.0,
+  "average_tree_structure_quality": 82.432,
+  "case_count": 5,
+  "highest_quality_case": "Syntax tree",
+  "highest_risk_case": "Taxonomy hierarchy",
+  "interpretation": "Tree quality depends on hierarchy fit, recursive clarity, invariants, traversal, balance, path interpretability, relationship-loss control, complexity, risk documentation, and governance."
+}

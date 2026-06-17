@@ -1,0 +1,20 @@
+term,category,definition
+tree,hierarchical structure,A node-edge structure with root branches paths and subtrees.
+root,tree element,The starting or top node of a rooted tree.
+node,tree element,An element in a tree.
+edge,tree relationship,A connection between parent and child.
+parent,tree relationship,A node immediately above another node.
+child,tree relationship,A node immediately below another node.
+leaf,tree element,A node with no children.
+subtree,recursive structure,A node and all of its descendants.
+depth,tree metric,Distance from the root to a node.
+height,tree metric,Longest distance from a node to a leaf.
+binary tree,tree type,A tree in which each node has at most two children.
+binary search tree,ordered tree,A binary tree preserving left-less-right-greater ordering.
+balanced tree,performance structure,A tree maintaining height constraints for predictable operations.
+heap,priority tree,A tree-shaped priority structure.
+trie,prefix tree,A tree representing strings or sequences through shared prefixes.
+parse tree,formal language tree,A tree representing grammatical derivation.
+syntax tree,program structure,A tree representing nested program or expression structure.
+decision tree,classifier tree,A tree that routes cases through tests to outcomes.
+false hierarchy,risk,A representation risk where tree structure hides overlapping or networked relationships.

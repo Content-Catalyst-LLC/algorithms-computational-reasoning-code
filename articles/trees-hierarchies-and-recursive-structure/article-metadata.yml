@@ -1,0 +1,24 @@
+actual_title: "Trees, Hierarchies, and Recursive Structure"
+suggested_seo_title: "Trees, Hierarchies, and Recursive Structure"
+focus_keyword: "trees hierarchies and recursive structure"
+slug: "trees-hierarchies-and-recursive-structure"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "arrays-lists-stacks-and-queues"
+  current: "trees-hierarchies-and-recursive-structure"
+  next: "graphs-networks-and-computational-relationships"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/trees-hierarchies-and-recursive-structure"
+tags:
+  - Trees
+  - Hierarchies
+  - Recursive Structure
+  - Data Structures
+  - Binary Trees
+  - Tree Traversal
+  - Decision Trees
+  - Computational Reasoning
+excerpt_139_words: "Trees, hierarchies, and recursive structure give computation a way to reason through nested relationships. They organize information by containment, dependency, ancestry, branching, depth, and repeated substructure. A file system has folders within folders. A sentence has phrases within phrases. A decision process has branches within branches. A program has expressions within expressions. Trees make these patterns computable. They allow algorithms to traverse from root to leaf, descend into subproblems, return from nested calls, search by ordered comparison, represent syntax, model decisions, organize taxonomies, store indexes, evaluate expressions, and reason recursively. This article explains roots, nodes, edges, parents, children, leaves, depth, height, paths, subtrees, ordered trees, binary trees, search trees, balanced trees, heaps, tries, parse trees, syntax trees, decision trees, taxonomies, recursion, traversal, invariants, complexity, and governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

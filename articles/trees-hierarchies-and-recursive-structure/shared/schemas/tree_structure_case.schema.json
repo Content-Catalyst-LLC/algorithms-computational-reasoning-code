@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TreeStructureCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "tree_structure_choice",
+    "hierarchy_fit",
+    "recursive_clarity",
+    "invariant_documentation",
+    "traversal_support",
+    "balance_awareness",
+    "path_interpretability",
+    "relationship_loss_control",
+    "complexity_awareness",
+    "representation_risk_documentation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "tree_structure_choice": {"type": "string"},
+    "hierarchy_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "recursive_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "traversal_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "balance_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "path_interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "relationship_loss_control": {"type": "number", "minimum": 0, "maximum": 1},
+    "complexity_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_risk_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
