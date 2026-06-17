@@ -1,0 +1,6 @@
+name,step_clarity,decomposition,control_flow,testability,representation_quality,data_context,complexity_awareness,interpretability,governance_readiness,stakeholder_awareness
+Recipe-like procedure,0.86,0.72,0.70,0.62,0.42,0.34,0.30,0.48,0.20,0.28
+Classroom algorithm exercise,0.90,0.82,0.84,0.78,0.62,0.46,0.62,0.58,0.32,0.36
+Search and ranking system,0.72,0.70,0.76,0.66,0.78,0.76,0.72,0.62,0.70,0.72
+Public decision-support workflow,0.68,0.66,0.64,0.72,0.80,0.84,0.66,0.78,0.86,0.88
+Scientific modeling workflow,0.74,0.78,0.76,0.82,0.86,0.80,0.84,0.78,0.74,0.68

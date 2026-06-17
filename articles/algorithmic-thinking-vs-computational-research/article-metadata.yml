@@ -1,0 +1,24 @@
+actual_title: "Algorithmic Thinking vs. Computational Reasoning"
+suggested_seo_title: "Algorithmic Thinking vs. Computational Reasoning"
+focus_keyword: "algorithmic thinking vs computational reasoning"
+slug: "algorithmic-thinking-vs-computational-research"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "what-is-algorithms-computational-reasoning"
+  current: "algorithmic-thinking-vs-computational-research"
+  next: "problems-procedures-and-formalization"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/algorithmic-thinking-vs-computational-research"
+tags:
+  - Algorithmic Thinking
+  - Computational Reasoning
+  - Computational Thinking
+  - Algorithms
+  - Representation
+  - Complexity
+  - Verification
+  - Algorithmic Governance
+excerpt_139_words: "Algorithmic thinking and computational reasoning are closely related, but they are not identical. Algorithmic thinking emphasizes step-by-step procedure: decomposition, sequencing, conditions, loops, recursion, testing, and debugging. Computational reasoning includes those procedural skills while expanding the frame to representation, abstraction, data structures, model assumptions, complexity, interpretation, uncertainty, ethics, and governance. This article explains why the distinction matters for modern technical and institutional systems. A procedure can be correct and efficient while still formalizing the wrong problem, using a weak proxy, hiding uncertainty, or producing outputs that are misunderstood. Computational reasoning asks what is being represented, what is excluded, how resources scale, how evidence is evaluated, who is affected, and when automation should be constrained. The article provides examples across search, databases, public policy, scientific modeling, machine learning, education, platforms, and organizational workflows."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

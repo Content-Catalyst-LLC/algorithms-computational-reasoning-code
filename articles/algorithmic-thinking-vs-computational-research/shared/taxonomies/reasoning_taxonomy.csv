@@ -1,0 +1,7 @@
+term,category,definition
+algorithmic thinking,procedural concept,Stepwise reasoning through decomposition sequencing conditions loops recursion testing and debugging.
+computational reasoning,broad concept,Reasoning about representation procedure evidence complexity interpretation uncertainty context and governance.
+representation,computational concept,A chosen structure that determines what a system can store compare retrieve transform or infer.
+procedure,algorithmic concept,An ordered set of operations used to transform inputs into outputs.
+validity,evaluation concept,The relationship between the computational task and the real-world purpose.
+governance,responsibility concept,The documentation monitoring review appeal and accountability around computational systems.

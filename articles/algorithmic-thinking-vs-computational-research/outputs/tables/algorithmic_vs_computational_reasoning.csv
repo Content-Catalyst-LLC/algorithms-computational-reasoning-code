@@ -1,0 +1,6 @@
+name,step_clarity,decomposition,control_flow,testability,representation_quality,data_context,complexity_awareness,interpretability,governance_readiness,stakeholder_awareness,algorithmic_thinking_score,computational_reasoning_score,reasoning_gap,diagnostic
+Recipe-like procedure,0.86,0.72,0.7,0.62,0.42,0.34,0.3,0.48,0.2,0.28,73.04,52.96,-20.08,procedural design is stronger than broader reasoning
+Classroom algorithm exercise,0.9,0.82,0.84,0.78,0.62,0.46,0.62,0.58,0.32,0.36,83.76,68.26,-15.5,procedural design is stronger than broader reasoning
+Search and ranking system,0.72,0.7,0.76,0.66,0.78,0.76,0.72,0.62,0.7,0.72,71.04,78.58,7.54,mixed profile requiring refinement
+Public decision-support workflow,0.68,0.66,0.64,0.72,0.8,0.84,0.66,0.78,0.86,0.88,67.52,83.26,15.74,computational framing is stronger than procedural design
+Scientific modeling workflow,0.74,0.78,0.76,0.82,0.86,0.8,0.84,0.78,0.74,0.68,77.36,86.04,8.68,strong procedural clarity and broad computational reasoning

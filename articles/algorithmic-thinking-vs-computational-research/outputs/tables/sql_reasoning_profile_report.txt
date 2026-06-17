@@ -1,0 +1,25 @@
+section                 
+------------------------
+REASONING PROFILE SCORES
+name                              algorithmic_score  computational_score
+--------------------------------  -----------------  -------------------
+Scientific modeling workflow      77.36              86.04              
+Public decision-support workflow  67.52              83.26              
+Search and ranking system         71.04              78.58              
+Classroom algorithm exercise      83.76              68.26              
+Recipe-like procedure             73.04              52.96              
+section         
+----------------
+GOVERNANCE NOTES
+note_key        note_text                                                   
+--------------  ------------------------------------------------------------
+context         Computational reasoning links procedure to data, scale, inte
+                rpretation, stakeholders, and governance.                   
+
+procedure       Algorithmic thinking emphasizes procedural clarity.         
+
+representation  Computational reasoning asks what the representation makes v
+                isible and invisible.                                       
+
+responsibility  Consequential systems require documentation, monitoring, app
+                eal, and revision.                                          

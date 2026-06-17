@@ -1,0 +1,45 @@
+{
+  "article_slug": "algorithmic-thinking-vs-computational-research",
+  "actual_title": "Algorithmic Thinking vs. Computational Reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "algorithmic-vs-computational-reasoning",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "algorithmic-thinking",
+      "title": "Algorithmic Thinking",
+      "category": "foundation",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Emphasizes stepwise procedural clarity."
+    },
+    {
+      "card_id": "computational-reasoning",
+      "title": "Computational Reasoning",
+      "category": "foundation",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Adds representation, complexity, interpretation, stakeholders, and governance."
+    },
+    {
+      "card_id": "representation-gap",
+      "title": "Representation Gap",
+      "category": "risk",
+      "status": "review",
+      "score": 92,
+      "review_date": "2026-06-17",
+      "governance_note": "A clear procedure can still rely on an inadequate representation."
+    },
+    {
+      "card_id": "reasoning-gap",
+      "title": "Reasoning Gap",
+      "category": "diagnostic",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Compare procedural strength with broader computational reasoning strength."
+    }
+  ]
+}

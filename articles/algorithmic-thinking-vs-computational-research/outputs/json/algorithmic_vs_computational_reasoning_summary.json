@@ -1,0 +1,9 @@
+{
+  "average_algorithmic_thinking_score": 74.544,
+  "average_computational_reasoning_score": 73.82,
+  "average_reasoning_gap": -0.724,
+  "interpretation": "Algorithmic thinking emphasizes procedural clarity; computational reasoning adds representation, context, complexity, interpretation, stakeholders, and governance.",
+  "scenario_count": 5,
+  "strongest_algorithmic_thinking": "Classroom algorithm exercise",
+  "strongest_computational_reasoning": "Scientific modeling workflow"
+}

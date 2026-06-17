@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ReasoningProfile",
+  "type": "object",
+  "required": [
+    "name",
+    "step_clarity",
+    "decomposition",
+    "control_flow",
+    "testability",
+    "representation_quality",
+    "data_context",
+    "complexity_awareness",
+    "interpretability",
+    "governance_readiness",
+    "stakeholder_awareness"
+  ],
+  "properties": {
+    "name": {"type": "string"},
+    "step_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "decomposition": {"type": "number", "minimum": 0, "maximum": 1},
+    "control_flow": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "data_context": {"type": "number", "minimum": 0, "maximum": 1},
+    "complexity_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "stakeholder_awareness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
