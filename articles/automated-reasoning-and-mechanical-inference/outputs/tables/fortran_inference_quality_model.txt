@@ -1,0 +1,5 @@
+case_name automated_reasoning_quality
+SAT solver workflow 80.44
+Model checking workflow 81.76
+Institutional rule engine 78.80
+AI-assisted theorem proving 80.64

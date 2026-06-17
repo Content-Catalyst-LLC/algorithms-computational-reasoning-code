@@ -1,0 +1,13 @@
+{
+  "article_slug": "automated-reasoning-and-mechanical-inference",
+  "actual_title": "Automated Reasoning and Mechanical Inference",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "automated-reasoning",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "automated-reasoning", "title": "Automated Reasoning", "category": "formal inference", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "State what has been formalized before interpreting machine inference."},
+    {"card_id": "mechanical-inference", "title": "Mechanical Inference", "category": "rule application", "status": "active", "score": 95, "review_date": "2026-06-17", "governance_note": "Expose premises, rules, conclusions, traces, and assumptions."},
+    {"card_id": "proof-and-model-evidence", "title": "Proof and Model Evidence", "category": "formal evidence", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Preserve proof objects, satisfying assignments, counterexample traces, and model assumptions."},
+    {"card_id": "inference-governance", "title": "Inference Governance", "category": "responsible interpretation", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "Distinguish checked, proved, generated, inferred, unknown, and out-of-scope claims."}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "average_automated_reasoning_quality": 79.064,
+  "average_inference_overclaim_risk": 20.25,
+  "case_count": 5,
+  "highest_quality_case": "Model checking workflow",
+  "highest_risk_case": "Knowledge graph inference",
+  "interpretation": "Automated reasoning quality depends on formalization clarity, premise quality, rule soundness, traceability, proof or model evidence, satisfiability handling, counterexamples, unknown status, human review, and governance."
+}

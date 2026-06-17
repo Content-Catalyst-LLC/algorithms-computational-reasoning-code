@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AutomatedReasoningCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "reasoning_context",
+    "inference_claim",
+    "formalization_clarity",
+    "premise_quality",
+    "rule_soundness",
+    "inference_traceability",
+    "proof_or_model_evidence",
+    "satisfiability_handling",
+    "counterexample_handling",
+    "unknown_status_handling",
+    "human_review_pathway",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "reasoning_context": {"type": "string"},
+    "inference_claim": {"type": "string"},
+    "formalization_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "premise_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "rule_soundness": {"type": "number", "minimum": 0, "maximum": 1},
+    "inference_traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "proof_or_model_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "satisfiability_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "unknown_status_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "human_review_pathway": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

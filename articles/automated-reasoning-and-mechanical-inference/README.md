@@ -1,37 +1,14 @@
-# Automated Reasoning and Mechanical Inference (planned)
+# Automated Reasoning and Mechanical Inference
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Automated Reasoning and Mechanical Inference**.
 
-## Purpose
+This scaffold supports examples for automated reasoning, mechanical inference, theorem proving, proof search, SAT and SMT solving, constraint solving, model checking, logic programming, rule engines, type systems, proof assistants, knowledge representation, AI-assisted inference, counterexamples, unknown-status handling, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Automated Reasoning and Mechanical Inference**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,11 @@
+term,category,definition
+automated reasoning,reasoning method,Computational derivation verification refutation or exploration of formal claims.
+mechanical inference,inference method,Application of explicit formal rules to premises without hidden judgment during execution.
+premise,formal input,A stated assumption fact constraint or axiom used in inference.
+inference rule,formal rule,A valid step for deriving conclusions from premises.
+theorem proving,proof method,Searching for or checking formal proofs.
+SAT solving,constraint reasoning,Determining whether a Boolean formula has a satisfying assignment.
+SMT solving,constraint reasoning,Satisfiability solving modulo background theories such as arithmetic or arrays.
+model checking,state verification,Exploring formal states to verify properties or find counterexamples.
+logic programming,programming paradigm,Representing computation through facts rules and queries.
+proof assistant,formal tool,A system for checking machine-readable proofs, often with human guidance.
