@@ -1,0 +1,8 @@
+{
+  "average_graph_reasoning_quality": 84.744,
+  "average_relationship_overclaim_risk": 15.15,
+  "case_count": 5,
+  "highest_quality_case": "Infrastructure resilience network",
+  "highest_risk_case": "Knowledge graph",
+  "interpretation": "Graph quality depends on edge meaning, node definition, direction, weights, path validity, connectivity evidence, metadata, algorithm fit, risk documentation, and governance."
+}

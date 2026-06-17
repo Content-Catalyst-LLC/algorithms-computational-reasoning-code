@@ -1,0 +1,19 @@
+term,category,definition
+graph,relationship structure,A set of nodes and edges used to represent computational relationships.
+node,graph element,An entity state object document task concept or component in a graph.
+edge,graph relationship,A connection relation transition dependency similarity flow or reference between nodes.
+directed graph,graph type,A graph whose edges have source and target orientation.
+undirected graph,graph type,A graph whose edges represent symmetric connection.
+weighted graph,graph type,A graph whose edges carry values such as cost distance time confidence or capacity.
+adjacency list,graph representation,A mapping from each node to its neighboring nodes.
+adjacency matrix,graph representation,A matrix recording whether or how nodes connect.
+edge list,graph representation,A list of source-target relationship records.
+path,graph concept,A sequence of connected nodes.
+cycle,graph concept,A path that returns to its start.
+reachability,graph concept,Whether one node can be reached from another.
+component,network concept,A connected region of a graph.
+centrality,network metric,A measure of node importance under a specific definition.
+dependency graph,applied graph,A directed graph representing prerequisites or dependencies.
+flow network,applied graph,A graph representing flow through capacity-constrained edges.
+knowledge graph,semantic graph,A graph of typed entities and relationships.
+relationship overclaim,risk,A representation risk where an edge or path implies more than evidence supports.

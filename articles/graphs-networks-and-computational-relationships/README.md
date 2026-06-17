@@ -1,37 +1,14 @@
-# Graphs, Networks, and Computational Relationships (planned)
+# Graphs, Networks, and Computational Relationships
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Graphs, Networks, and Computational Relationships**.
 
-## Purpose
+This scaffold supports examples for graphs, networks, nodes, edges, adjacency, directed graphs, weighted graphs, paths, cycles, reachability, components, dependency graphs, flow networks, centrality, graph traversal, shortest paths, knowledge graphs, graph databases, provenance, relationship-overclaim risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Graphs, Networks, and Computational Relationships**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

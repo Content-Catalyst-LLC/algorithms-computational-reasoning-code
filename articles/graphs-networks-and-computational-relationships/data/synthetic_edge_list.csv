@@ -1,0 +1,8 @@
+source,target,relationship,weight
+source,review,transitions_to,1.0
+review,approval,transitions_to,1.0
+review,escalation,transitions_to,1.5
+approval,archive,transitions_to,1.0
+escalation,archive,transitions_to,1.0
+review,quality_check,requires,1.0
+quality_check,approval,enables,1.0

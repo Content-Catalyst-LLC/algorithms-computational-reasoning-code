@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GraphRelationshipCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "graph_choice",
+    "edge_meaning_clarity",
+    "node_definition_clarity",
+    "direction_clarity",
+    "weight_interpretability",
+    "path_validity",
+    "connectivity_evidence",
+    "metadata_provenance",
+    "algorithm_fit",
+    "representation_risk_documentation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "graph_choice": {"type": "string"},
+    "edge_meaning_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "node_definition_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "direction_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "weight_interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "path_validity": {"type": "number", "minimum": 0, "maximum": 1},
+    "connectivity_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "metadata_provenance": {"type": "number", "minimum": 0, "maximum": 1},
+    "algorithm_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "representation_risk_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

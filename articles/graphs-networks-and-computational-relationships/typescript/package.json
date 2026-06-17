@@ -1,0 +1,1 @@
+{"name":"graphs-networks-and-computational-relationships","version":"1.0.0","type":"module","scripts":{"smoke":"tsc --noEmit || true"},"devDependencies":{"typescript":"^5.0.0"}}

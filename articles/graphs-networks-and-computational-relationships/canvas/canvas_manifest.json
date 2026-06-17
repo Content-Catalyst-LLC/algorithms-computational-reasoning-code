@@ -1,0 +1,13 @@
+{
+  "article_slug": "graphs-networks-and-computational-relationships",
+  "actual_title": "Graphs, Networks, and Computational Relationships",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "graph-relationships",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "graphs", "title": "Graphs", "category": "relationship representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Define nodes, edges, direction, weights, paths, and relationship evidence."},
+    {"card_id": "network-analysis", "title": "Network Analysis", "category": "computational relationships", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Document what centrality, reachability, and connectivity measures actually mean."},
+    {"card_id": "path-validity", "title": "Path Validity", "category": "interpretation", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Limit interpretation of long paths and require source, time, and context metadata."},
+    {"card_id": "relationship-overclaim", "title": "Relationship Overclaim", "category": "representation governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit causality, influence, authority, symmetry, and certainty implied by edges."}
+  ]
+}

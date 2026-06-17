@@ -1,0 +1,15 @@
+case_name                       graph_reasoning_quality
+------------------------------  -----------------------
+Transportation route graph      85.68                  
+Software dependency graph       85.48                  
+Institutional workflow network  84.0                   
+Knowledge graph                 82.76                  
+source         target         relationship    weight
+-------------  -------------  --------------  ------
+approval       archive        transitions_to  1.0   
+escalation     archive        transitions_to  1.0   
+quality_check  approval       enables         1.0   
+review         approval       transitions_to  1.0   
+review         escalation     transitions_to  1.5   
+review         quality_check  requires        1.0   
+source         review         transitions_to  1.0   

@@ -1,0 +1,5 @@
+case_name,graph_reasoning_quality
+Transportation route graph,86.28
+Software dependency graph,85.18
+Knowledge graph,82.12
+Institutional workflow network,83.16

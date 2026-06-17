@@ -1,0 +1,40 @@
+{
+  "adjacency_list": {
+    "source": [
+      "review"
+    ],
+    "review": [
+      "approval",
+      "escalation",
+      "quality_check"
+    ],
+    "approval": [
+      "archive"
+    ],
+    "escalation": [
+      "archive"
+    ],
+    "archive": [],
+    "quality_check": [
+      "approval"
+    ]
+  },
+  "bfs_distances_from_source": {
+    "source": 0,
+    "review": 1,
+    "approval": 2,
+    "escalation": 2,
+    "quality_check": 2,
+    "archive": 3
+  },
+  "contains_directed_cycle": false,
+  "dijkstra_distances_from_source": {
+    "source": 0.0,
+    "review": 1.0,
+    "quality_check": 2.0,
+    "approval": 2.0,
+    "escalation": 2.5,
+    "archive": 3.0
+  },
+  "interpretation": "Adjacency makes relationships traversable; BFS reveals hop distance; cycle checks identify circular dependency; Dijkstra computes low-cost paths."
+}
