@@ -1,0 +1,45 @@
+{
+  "article_slug": "abstraction-in-computational-reasoning",
+  "actual_title": "Abstraction in Computational Reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "abstraction-representation",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "abstraction",
+      "title": "Abstraction",
+      "category": "reasoning concept",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Treat abstraction as selective representation, not neutral simplification."
+    },
+    {
+      "card_id": "representation",
+      "title": "Representation",
+      "category": "formal concept",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Document what the representation preserves, suppresses, and enables."
+    },
+    {
+      "card_id": "scope",
+      "title": "Scope",
+      "category": "governance concept",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Define where the abstraction is valid and where it should not be reused."
+    },
+    {
+      "card_id": "abstraction-risk",
+      "title": "Abstraction Risk",
+      "category": "risk",
+      "status": "review",
+      "score": 92,
+      "review_date": "2026-06-17",
+      "governance_note": "Watch for context loss, false precision, hidden assumptions, proxy confusion, and responsibility hiding."
+    }
+  ]
+}

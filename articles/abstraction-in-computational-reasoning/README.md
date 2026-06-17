@@ -1,37 +1,39 @@
-# Abstraction in Computational Reasoning (planned)
+# Abstraction in Computational Reasoning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Foundations, Procedure, and Computational Thought  
-**Status:** planned
+Companion code and reproducible workflows for **Abstraction in Computational Reasoning**.
 
-## Purpose
+This article examines abstraction as selective representation: how computational systems use variables, functions, interfaces, data structures, types, schemas, models, simulations, and decision rules to focus attention while hiding or deferring detail.
 
-This folder will hold computational companion materials for the planned article:
-**Abstraction in Computational Reasoning**.
+## Folder structure
 
-## Standard Folder Layout
+```text
+python/      reference implementations, abstraction audits, CLI tools, calculators, tests
+r/           statistical evaluation, visualization, reports
+julia/       numerical and representational simulations
+sql/         schemas, query logic, provenance, abstraction audit trails
+haskell/     functional reasoning, types, representation contracts
+rust/        memory safety, systems programming, type-aware workflows
+go/          services, CLI tools, infrastructure workflows
+c/           low-level memory and data representation examples
+cpp/         high-performance abstractions, templates, graphs, numerical methods
+fortran/     scientific computing abstractions and numerical simulation
+java/        object-oriented abstractions and institutional-scale systems
+typescript/ interactive abstractions, APIs, visualization, platform-facing logic
+prolog/      logic programming, inference, rules, constraints
+racket/      language design, interpreters, symbolic computation
+docs/        article notes, methodology, governance, and mathematical framing
+data/        synthetic datasets only
+outputs/     generated outputs
+notebooks/   notebook-ready workflows
+canvas/      Catalyst Canvas-ready cards, schemas, manifests, and indexes
+shared/      reusable schemas, templates, taxonomies, benchmarks, and governance materials
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Run
 
-## Notes
+```bash
+make smoke
+make all
+```
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The workflows use synthetic data only and are intended for educational, reproducible article support.

@@ -1,0 +1,2 @@
+case_count,average_abstraction_score,average_abstraction_risk,highest_score_case,highest_risk_case,interpretation
+6,67.827,34.333,Simulation model,Decision-support score,"Abstraction quality depends on clear representation, scope, preserved detail, assumptions, testability, interpretation, reuse safety, uncertainty visibility, governance, and risk awareness."

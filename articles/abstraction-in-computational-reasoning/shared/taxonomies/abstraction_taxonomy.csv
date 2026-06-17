@@ -1,0 +1,10 @@
+term,category,definition
+abstraction,reasoning concept,Selective representation that preserves some details while suppressing others.
+representation,formal concept,The computational form an abstraction takes.
+scope,governance concept,The conditions and contexts where an abstraction is valid.
+abstraction loss,risk concept,Information or meaning lost when a complex system is represented more simply.
+interface,software concept,A controlled way to use a system without exposing all internals.
+type,formal concept,A constraint on permitted values and operations.
+schema,data concept,A structured representation of records fields relationships constraints and provenance.
+model,modeling concept,A simplified representation of a system through variables parameters structure and assumptions.
+abstraction risk,governance concept,Risk introduced when a simplified representation hides context distorts meaning or overstates validity.

@@ -1,0 +1,5 @@
+case_name,abstraction_score,warning
+Search ranking,66.64,Synthetic educational diagnostic only.
+Transit model,71.22,Synthetic educational diagnostic only.
+Database schema,75.6,Synthetic educational diagnostic only.
+Decision-support score,58.86,Synthetic educational diagnostic only.

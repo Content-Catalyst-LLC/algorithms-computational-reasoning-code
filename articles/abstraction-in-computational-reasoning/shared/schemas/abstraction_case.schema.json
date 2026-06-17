@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AbstractionCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "real_system",
+    "abstraction",
+    "representation_clarity",
+    "scope_definition",
+    "detail_preservation",
+    "assumption_documentation",
+    "testability",
+    "interpretability",
+    "reuse_safety",
+    "uncertainty_visibility",
+    "governance_readiness",
+    "risk_awareness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "real_system": {"type": "string"},
+    "abstraction": {"type": "string"},
+    "representation_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "scope_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "detail_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "assumption_documentation": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "reuse_safety": {"type": "number", "minimum": 0, "maximum": 1},
+    "uncertainty_visibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "risk_awareness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

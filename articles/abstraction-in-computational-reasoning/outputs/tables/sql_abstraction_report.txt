@@ -1,0 +1,26 @@
+section                
+-----------------------
+ABSTRACTION CASE SCORES
+case_name               abstraction_score
+----------------------  -----------------
+Database schema         73.0             
+Transit model           69.56            
+Search ranking          63.88            
+Decision-support score  57.52            
+section         
+----------------
+GOVERNANCE NOTES
+note_key        note_text                                                   
+--------------  ------------------------------------------------------------
+interpretation  Explain how outputs should and should not be understood.    
+
+loss            Identify what has been simplified hidden or excluded.       
+
+referent        Name the real system process or concern being abstracted.   
+
+representation  Define the computational form the abstraction takes.        
+
+reuse           Validate reuse before applying the abstraction in a new cont
+                ext.                                                        
+
+scope           Document where the abstraction applies and where it fails.  

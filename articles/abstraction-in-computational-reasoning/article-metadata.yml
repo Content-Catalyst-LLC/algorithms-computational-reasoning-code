@@ -1,0 +1,24 @@
+actual_title: "Abstraction in Computational Reasoning"
+suggested_seo_title: "Abstraction in Computational Reasoning"
+focus_keyword: "abstraction in computational reasoning"
+slug: "abstraction-in-computational-reasoning"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "decomposition-and-stepwise-reasoning"
+  current: "abstraction-in-computational-reasoning"
+  next: "inputs-outputs-states-and-stopping-conditions"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/abstraction-in-computational-reasoning"
+tags:
+  - Abstraction
+  - Computational Reasoning
+  - Algorithms
+  - Representation
+  - Data Structures
+  - Type Systems
+  - Models and Schemas
+  - Algorithmic Governance
+excerpt_139_words: "Abstraction is the reasoning practice of focusing on what matters for a problem while setting aside details that are not needed at a particular level of analysis. In computational reasoning, abstraction makes complex systems thinkable, designable, testable, reusable, and explainable. Variables, functions, data structures, interfaces, types, schemas, models, simulations, and decision rules all abstract parts of the world into forms that computation can manipulate. But abstraction is not merely simplification. It is selective representation. Good abstraction preserves the structure needed for the problem. Weak abstraction hides context, erases assumptions, encourages overconfidence, or makes a computational output look more complete than it is. This article explains abstraction across software, databases, models, search, machine learning, simulations, knowledge architecture, and decision support, emphasizing scope, fidelity, interpretation, uncertainty, and responsible governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true
