@@ -1,0 +1,5 @@
+case_name,lambda_reasoning_quality
+Identity reduction,84.44
+Capture avoiding substitution,81.08
+Fixed point recursion,76.64
+Typed function abstraction,82.32

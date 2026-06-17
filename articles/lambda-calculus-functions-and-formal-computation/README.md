@@ -1,37 +1,14 @@
-# Lambda Calculus, Functions, and Formal Computation (planned)
+# Lambda Calculus, Functions, and Formal Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Lambda Calculus, Functions, and Formal Computation**.
 
-## Purpose
+This scaffold supports examples for lambda calculus, function abstraction, application, substitution, beta reduction, alpha conversion, eta conversion, normal forms, evaluation strategies, recursion, fixed points, Church encodings, typed lambda calculus, functional programming, type theory, proof terms, formal computation, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Lambda Calculus, Functions, and Formal Computation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

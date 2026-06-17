@@ -1,0 +1,6 @@
+case_name,computation_context,formal_claim,expression_clarity,binding_safety,substitution_discipline,reduction_traceability,evaluation_strategy_clarity,recursion_awareness,type_discipline_clarity,proof_connection,implementation_relevance,governance_readiness
+Identity reduction,Basic beta reduction of an identity function,The expression lambda x dot x applied to a reduces to a,0.92,0.90,0.92,0.90,0.82,0.70,0.82,0.76,0.78,0.74
+Capture avoiding substitution,Substitution where variable names must be managed carefully,Alpha conversion prevents free variables from becoming accidentally bound,0.84,0.90,0.88,0.82,0.74,0.64,0.76,0.78,0.82,0.78
+Fixed point recursion,Recursive behavior represented through fixed points,A fixed point combinator enables self referential computation,0.76,0.76,0.78,0.74,0.80,0.90,0.68,0.76,0.82,0.74
+Typed function abstraction,Typed lambda expression used to model safe function application,A function with type A to B may only be applied to values of type A,0.86,0.84,0.82,0.78,0.76,0.68,0.92,0.86,0.86,0.82
+Church numeral encoding,Numbers represented as repeated function application,Church numerals encode natural numbers with higher order functions,0.80,0.78,0.80,0.78,0.76,0.72,0.74,0.80,0.78,0.76

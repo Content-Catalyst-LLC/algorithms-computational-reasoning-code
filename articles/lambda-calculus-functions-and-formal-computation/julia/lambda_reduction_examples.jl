@@ -1,0 +1,5 @@
+println("case_name,lambda_reasoning_quality")
+println("Identity reduction,84.44")
+println("Capture avoiding substitution,81.08")
+println("Fixed point recursion,76.64")
+println("Typed function abstraction,82.32")

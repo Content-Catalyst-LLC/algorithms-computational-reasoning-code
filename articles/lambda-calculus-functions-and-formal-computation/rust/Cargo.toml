@@ -1,0 +1,5 @@
+[package]
+name = "lambda-calculus-functions-and-formal-computation"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

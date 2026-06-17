@@ -1,0 +1,11 @@
+term,category,definition
+lambda calculus,formal computation,A formal system for computation using variables abstraction application and reduction.
+variable,syntax,A name or placeholder in a lambda expression.
+abstraction,function form,A lambda expression defining a function over a bound variable.
+application,function use,Applying one expression to another.
+free variable,binding,A variable not bound by a surrounding abstraction.
+bound variable,binding,A variable introduced by a lambda abstraction.
+alpha conversion,renaming,Renaming bound variables without changing meaning.
+beta reduction,computation,Applying a function by substituting the argument into the body.
+eta conversion,equivalence,A rule relating a function that simply applies another function to that function.
+Church encoding,data representation,Representing data such as numbers and Booleans using functions.

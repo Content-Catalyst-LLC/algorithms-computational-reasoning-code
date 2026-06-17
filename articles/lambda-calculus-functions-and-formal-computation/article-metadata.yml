@@ -1,0 +1,24 @@
+actual_title: "Lambda Calculus, Functions, and Formal Computation"
+suggested_seo_title: "Lambda Calculus, Functions, and Formal Computation"
+focus_keyword: "lambda calculus functions and formal computation"
+slug: "lambda-calculus-functions-and-formal-computation"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "automated-reasoning-and-mechanical-inference"
+  current: "lambda-calculus-functions-and-formal-computation"
+  next: "formal-methods-and-machine-checked-reasoning"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/lambda-calculus-functions-and-formal-computation"
+tags:
+  - Lambda Calculus
+  - Formal Computation
+  - Functions
+  - Functional Programming
+  - Type Theory
+  - Beta Reduction
+  - Church Encodings
+  - Computational Reasoning
+excerpt_139_words: "Lambda calculus is one of the foundational languages of formal computation. It shows that computation can be understood through functions, variables, abstraction, application, and substitution. A function can be defined, applied to an argument, and reduced by substituting that argument into the function body. From this small set of ideas, lambda calculus helps explain programming languages, recursion, higher-order functions, evaluation strategies, type systems, logic, proof, and the relationship between functions and formal reasoning. This article introduces variables, abstraction, application, free and bound variables, substitution, alpha conversion, beta reduction, eta conversion, normal forms, evaluation strategies, recursion, fixed points, Church encodings, typed lambda calculus, functional programming, proof systems, type theory, and formal verification. It shows why lambda calculus remains a living foundation for programming-language design, symbolic computation, proof assistants, and computational reasoning."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

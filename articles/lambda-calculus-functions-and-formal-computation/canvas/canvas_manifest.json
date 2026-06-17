@@ -1,0 +1,13 @@
+{
+  "article_slug": "lambda-calculus-functions-and-formal-computation",
+  "actual_title": "Lambda Calculus, Functions, and Formal Computation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "lambda-formal-computation",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "lambda-calculus", "title": "Lambda Calculus", "category": "formal computation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Track variables, abstraction, application, binding, substitution, and reduction explicitly."},
+    {"card_id": "beta-reduction", "title": "Beta Reduction", "category": "computation rule", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Preserve reduction traces and avoid capture during substitution."},
+    {"card_id": "typed-lambda-calculus", "title": "Typed Lambda Calculus", "category": "type discipline", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Use types to constrain valid expressions and connect programs to proofs."},
+    {"card_id": "formal-computation", "title": "Formal Computation", "category": "computational reasoning", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "Connect symbolic computation to implementation without overclaiming context."}
+  ]
+}

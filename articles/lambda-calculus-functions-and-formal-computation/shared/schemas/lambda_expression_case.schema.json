@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LambdaExpressionCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "computation_context",
+    "formal_claim",
+    "expression_clarity",
+    "binding_safety",
+    "substitution_discipline",
+    "reduction_traceability",
+    "evaluation_strategy_clarity",
+    "recursion_awareness",
+    "type_discipline_clarity",
+    "proof_connection",
+    "implementation_relevance",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "computation_context": {"type": "string"},
+    "formal_claim": {"type": "string"},
+    "expression_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "binding_safety": {"type": "number", "minimum": 0, "maximum": 1},
+    "substitution_discipline": {"type": "number", "minimum": 0, "maximum": 1},
+    "reduction_traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "evaluation_strategy_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "recursion_awareness": {"type": "number", "minimum": 0, "maximum": 1},
+    "type_discipline_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "proof_connection": {"type": "number", "minimum": 0, "maximum": 1},
+    "implementation_relevance": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

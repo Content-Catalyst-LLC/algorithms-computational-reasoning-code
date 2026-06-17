@@ -1,0 +1,8 @@
+{
+  "average_formalization_risk": 20.9,
+  "average_lambda_reasoning_quality": 80.016,
+  "case_count": 5,
+  "highest_quality_case": "Identity reduction",
+  "highest_risk_case": "Church numeral encoding",
+  "interpretation": "Lambda-calculus reasoning quality depends on expression clarity, binding safety, substitution discipline, reduction traceability, evaluation strategy, recursion awareness, type discipline, proof connection, implementation relevance, and governance."
+}
