@@ -1,0 +1,19 @@
+term,category,definition
+encoding,representation,A rule for representing information in computational form.
+serialization,representation,Conversion of structured data into a storable or transferable form.
+compression,efficiency,A method for reducing representation size.
+lossless compression,compression,Compression that allows exact reconstruction.
+lossy compression,compression,Compression that discards information to reduce size.
+entropy,information theory,Average uncertainty or information content.
+compression ratio,metric,Compressed size divided by original size.
+run-length encoding,compression,A method that stores repeated runs compactly.
+huffman coding,compression,A method assigning shorter codes to more frequent symbols.
+dictionary compression,compression,A method replacing repeated strings with references.
+checksum,integrity,A compact value used to detect accidental change.
+character encoding,text representation,A rule mapping characters to code points or bytes.
+unicode,text representation,A standard for representing text across writing systems.
+utf-8,text representation,A variable-length Unicode encoding.
+schema,format governance,A structural rule set for fields, types, and constraints.
+interoperability,governance,Ability for systems to exchange and interpret data consistently.
+metadata,governance,Context needed to interpret encoded or compressed information.
+representation risk,risk,Risk that encoding or compression removes, hides, or distorts important information.

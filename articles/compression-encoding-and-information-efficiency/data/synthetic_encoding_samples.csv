@@ -1,0 +1,4 @@
+sample_id,sample_text,encoding,use_case
+sample-1,aaaaabbbbccccccccddddeeeeeeeee,utf-8,run_length_demo
+sample-2,Compression uses repeated structure,utf-8,text_entropy_demo
+sample-3,Metadata keeps compressed information interpretable,utf-8,governance_demo

@@ -1,0 +1,8 @@
+{
+  "average_representation_quality": 85.456,
+  "average_representation_risk": 14.457,
+  "case_count": 5,
+  "highest_quality_case": "Institutional archive records",
+  "highest_risk_case": "AI context packing",
+  "interpretation": "Compression and encoding quality depends on fidelity, encoding clarity, compression suitability, metadata, interoperability, integrity checks, efficiency, accessibility, and governance."
+}

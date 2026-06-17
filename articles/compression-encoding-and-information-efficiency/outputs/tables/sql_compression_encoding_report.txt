@@ -1,0 +1,11 @@
+case_name                      representation_quality
+-----------------------------  ----------------------
+Institutional archive records  88.64                 
+Scientific simulation outputs  86.72                 
+Web media delivery             84.48                 
+AI context packing             81.2                  
+sample_id  encoding  use_case           character_count
+---------  --------  -----------------  ---------------
+sample-1   utf-8     run_length_demo    30             
+sample-2   utf-8     text_entropy_demo  35             
+sample-3   utf-8     governance_demo    51             

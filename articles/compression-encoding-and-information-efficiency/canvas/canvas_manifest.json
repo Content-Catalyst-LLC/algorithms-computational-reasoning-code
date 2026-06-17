@@ -1,0 +1,13 @@
+{
+  "article_slug": "compression-encoding-and-information-efficiency",
+  "actual_title": "Compression, Encoding, and Information Efficiency",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "compression-encoding",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "encoding", "title": "Encoding", "category": "representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Document encoding, schema, format, version, and interpretation rules."},
+    {"card_id": "compression", "title": "Compression", "category": "efficiency", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Define lossless or lossy policy, fidelity needs, and reconstruction expectations."},
+    {"card_id": "information-efficiency", "title": "Information Efficiency", "category": "computational representation", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Balance storage, transmission, computation, interpretability, accessibility, and preservation."},
+    {"card_id": "representation-risk", "title": "Representation Risk", "category": "governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit what is lost, hidden, omitted, approximated, or made hard to interpret."}
+  ]
+}

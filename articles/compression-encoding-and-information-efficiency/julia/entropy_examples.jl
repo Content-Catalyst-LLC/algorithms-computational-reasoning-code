@@ -1,0 +1,5 @@
+println("case_name,representation_quality")
+println("Institutional archive records,88.92")
+println("Web media delivery,84.32")
+println("Scientific simulation outputs,87.08")
+println("AI context packing,81.22")

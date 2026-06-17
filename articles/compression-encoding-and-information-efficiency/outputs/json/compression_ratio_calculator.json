@@ -1,0 +1,9 @@
+{
+  "compressed_bytes_zlib": 21,
+  "compression_ratio": 0.7,
+  "entropy_bits_per_symbol": 2.2356,
+  "interpretation": "Small strings can compress poorly because compressed formats include overhead; compression improves when repeated structure is large enough.",
+  "original_bytes": 30,
+  "sha256_checksum": "011191d89d54ee0db6f7cebb1aba90c2f0c5588a2b82c7f7af7fb53a90ee1a06",
+  "space_saved_percent": 30.0
+}

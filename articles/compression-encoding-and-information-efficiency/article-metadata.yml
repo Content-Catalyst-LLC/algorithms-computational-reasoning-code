@@ -1,0 +1,24 @@
+actual_title: "Compression, Encoding, and Information Efficiency"
+suggested_seo_title: "Compression, Encoding, and Information Efficiency"
+focus_keyword: "compression encoding and information efficiency"
+slug: "compression-encoding-and-information-efficiency"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "vectors-embeddings-and-computational-meaning"
+  current: "compression-encoding-and-information-efficiency"
+  next: "metadata-provenance-and-computational-traceability"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/compression-encoding-and-information-efficiency"
+tags:
+  - Compression
+  - Encoding
+  - Information Efficiency
+  - Information Theory
+  - Data Compression
+  - Character Encoding
+  - Serialization
+  - Computational Reasoning
+excerpt_139_words: "Compression, encoding, and information efficiency give computation a way to store, transmit, compare, and reason with information more compactly. Data rarely moves through computational systems in its rawest possible form. It is encoded into symbols, bytes, records, packets, files, tokens, vectors, indexes, archives, streams, and formats. It may also be compressed so that repeated structure, redundancy, or predictable patterns take less space. Encoding gives information a usable form. Compression reduces the cost of representing it. Information efficiency asks how much structure can be preserved, how much can be removed, and what is lost or hidden in the process. These ideas support file formats, communication networks, databases, search engines, archives, image systems, audio systems, video systems, model inputs, web platforms, storage systems, APIs, scientific computing, AI pipelines, and information governance."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

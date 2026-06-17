@@ -1,0 +1,31 @@
+{
+  "sample_text": "aaaaabbbbccccccccddddeeeeeeeee",
+  "run_length_encoding": [
+    [
+      "a",
+      5
+    ],
+    [
+      "b",
+      4
+    ],
+    [
+      "c",
+      8
+    ],
+    [
+      "d",
+      4
+    ],
+    [
+      "e",
+      9
+    ]
+  ],
+  "entropy_bits_per_symbol": 2.2356,
+  "original_bytes": 30,
+  "compressed_bytes_zlib": 21,
+  "compression_ratio_zlib": 0.7,
+  "sha256_checksum": "011191d89d54ee0db6f7cebb1aba90c2f0c5588a2b82c7f7af7fb53a90ee1a06",
+  "interpretation": "Compression uses repeated structure, but small examples may not compress well after format overhead; integrity checks help detect change."
+}

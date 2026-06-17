@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CompressionEncodingCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "representation_choice",
+    "fidelity_requirement",
+    "encoding_clarity",
+    "compression_suitability",
+    "metadata_preservation",
+    "interoperability",
+    "integrity_checks",
+    "storage_efficiency",
+    "transmission_efficiency",
+    "accessibility_preservation",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "representation_choice": {"type": "string"},
+    "fidelity_requirement": {"type": "number", "minimum": 0, "maximum": 1},
+    "encoding_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "compression_suitability": {"type": "number", "minimum": 0, "maximum": 1},
+    "metadata_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "interoperability": {"type": "number", "minimum": 0, "maximum": 1},
+    "integrity_checks": {"type": "number", "minimum": 0, "maximum": 1},
+    "storage_efficiency": {"type": "number", "minimum": 0, "maximum": 1},
+    "transmission_efficiency": {"type": "number", "minimum": 0, "maximum": 1},
+    "accessibility_preservation": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
