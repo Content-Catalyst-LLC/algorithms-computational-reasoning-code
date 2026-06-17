@@ -6,7 +6,7 @@ series: "Algorithms & Computational Reasoning"
 article_order:
   previous: "logic-and-computation"
   current: "formal-languages-and-symbolic-representation"
-  next: "logic-rules-and-formal-systems"
+  next: "proof-correctness-and-algorithmic-verification"
 github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/formal-languages-and-symbolic-representation"
 tags:
   - Formal Languages

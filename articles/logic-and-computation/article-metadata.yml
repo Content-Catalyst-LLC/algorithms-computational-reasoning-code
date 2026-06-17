@@ -6,7 +6,7 @@ series: "Algorithms & Computational Reasoning"
 article_order:
   previous: "debugging-as-computational-reasoning"
   current: "logic-and-computation"
-  next: "logic-rules-and-formal-systems"
+  next: "formal-languages-and-symbolic-representation"
 github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/logic-and-computation"
 tags:
   - Logic
