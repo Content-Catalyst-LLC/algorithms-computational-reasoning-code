@@ -1,0 +1,17 @@
+actual_title: "Algorithm Design Principles"
+suggested_seo_title: "Algorithm Design Principles: How to Build Procedures That Work"
+focus_keyword: "algorithm design principles"
+slug: "algorithm-design-principles"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "testing-verification-and-computational-reliability"
+  current: "algorithm-design-principles"
+  next: "iteration-recursion-and-control-flow"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/algorithm-design-principles"
+tags: [Algorithm Design, Procedural Strategy, Correctness, Complexity, Invariants, Data Structures, Robustness, Computational Reasoning]
+excerpt_139_words: "Algorithm design principles explain how to create procedures that are correct, efficient, interpretable, robust, and appropriate for the problem context. An algorithm is not merely a clever trick or a sequence of instructions. It is a structured way of transforming inputs into outputs under constraints. Good algorithm design begins before code. It asks what problem is being solved, what counts as a valid input, what counts as a correct output, what assumptions are being made, what resources are limited, what errors are possible, and what consequences follow from the procedure’s use. A poorly designed algorithm can be fast but wrong, correct but unusable, elegant but fragile, or efficient in theory while inappropriate in context. This article introduces algorithm design principles as the foundation for procedural strategy, computational judgment, and responsible technical systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

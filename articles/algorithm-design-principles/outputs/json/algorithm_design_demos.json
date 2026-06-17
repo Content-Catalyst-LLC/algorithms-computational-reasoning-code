@@ -1,0 +1,23 @@
+{
+  "sorted_invariant_valid": true,
+  "sorted_invariant_invalid": false,
+  "binary_search_found_index": 2,
+  "nonnegative_weights_valid": true,
+  "complexity_estimates": [
+    {
+      "n": 100,
+      "strategy": "linear",
+      "estimated_steps": 100
+    },
+    {
+      "n": 100,
+      "strategy": "nlogn",
+      "estimated_steps": 700
+    },
+    {
+      "n": 100,
+      "strategy": "quadratic",
+      "estimated_steps": 10000
+    }
+  ]
+}

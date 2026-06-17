@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+import argparse, json
+from pathlib import Path
+from statistics import mean
+FIELDS=["problem_formulation","input_output_clarity","correctness_rationale","termination_argument","complexity_analysis","data_structure_fit","edge_case_coverage","robustness","interpretability","governance_readiness"]
+WEIGHTS=[0.12,0.10,0.12,0.10,0.10,0.10,0.10,0.10,0.08,0.08]
+def compute(vals):
+    q=max(0,min(100,100*sum(v*w for v,w in zip(vals,WEIGHTS))))
+    r=max(0,min(100,100*mean(1-v for v in [vals[0],vals[1],vals[2],vals[3],vals[4],vals[6],vals[7],vals[9]])))
+    return {"design_quality":round(q,3),"design_risk":round(r,3),"interpretation":"strong algorithm design discipline" if q>=84 and r<=20 else "review needed"}
+if __name__=="__main__":
+    p=argparse.ArgumentParser()
+    for f in FIELDS: p.add_argument("--"+f.replace("_","-"),type=float,default=0.75)
+    p.add_argument("--output-dir",type=Path,default=Path("outputs/json"))
+    a=p.parse_args(); result=compute([getattr(a,f) for f in FIELDS])
+    a.output_dir.mkdir(parents=True,exist_ok=True)
+    (a.output_dir/"design_quality_calculator.json").write_text(json.dumps(result,indent=2),encoding="utf-8")
+    print(json.dumps(result,indent=2))

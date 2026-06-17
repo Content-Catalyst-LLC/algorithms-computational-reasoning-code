@@ -1,0 +1,10 @@
+principle,category,definition,example
+problem formulation,design foundation,Define the problem before choosing a procedure,input-output relation and constraints
+correctness,reasoning,Show that outputs satisfy the specification,loop invariant or proof sketch
+termination,reasoning,Show that the procedure stops,base case or decreasing measure
+complexity,resource analysis,Estimate time and memory costs,O(n log n) sorting
+data-structure fit,representation,Choose structures that make intended operations natural,priority queue for shortest path
+edge-case coverage,reliability,Check boundary invalid and unusual cases,empty list disconnected graph
+robustness,failure behavior,Handle stress invalid inputs and context change,validation and graceful failure
+interpretability,maintenance,Make behavior understandable enough for purpose,clear names assumptions and examples
+governance,accountability,Document assumptions evidence and review decisions,design review record

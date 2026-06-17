@@ -1,37 +1,14 @@
-# Algorithm Design Principles (planned)
+# Algorithm Design Principles
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Algorithm Design Principles**.
 
-## Purpose
+This scaffold covers algorithm design principles, problem formulation, input-output contracts, correctness reasoning, invariants, termination, complexity analysis, data-structure choice, edge-case testing, robustness, interpretability, governance review, and responsible procedural strategy.
 
-This folder will hold computational companion materials for the planned article:
-**Algorithm Design Principles**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

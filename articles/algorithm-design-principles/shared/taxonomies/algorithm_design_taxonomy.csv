@@ -1,0 +1,11 @@
+term,category,definition
+algorithm,procedure,A structured method for transforming inputs into outputs.
+problem formulation,design foundation,Definition of inputs outputs constraints objectives and assumptions.
+correctness,reasoning,The property that outputs satisfy the specification for valid inputs.
+invariant,reasoning,A property preserved during execution.
+termination,reasoning,The guarantee that execution stops under defined conditions.
+complexity,resource analysis,How resource use grows with input size.
+data structure,representation,Organized way of storing and accessing information.
+edge case,reliability,Input or condition near a boundary where assumptions may break.
+robustness,reliability,Ability to handle variation invalid inputs and stress.
+governance,accountability,Review and evidence discipline for consequential procedure design.

@@ -1,0 +1,6 @@
+case_name                           design_quality
+----------------------------------  --------------
+Shortest-path procedure             87.64         
+Data validation pipeline            87.64         
+Approximate recommendation ranking  81.68         
+Unspecified optimization script     39.16         

@@ -1,0 +1,7 @@
+{
+  "n": 1000,
+  "strategy": "nlogn",
+  "estimated_steps": 9965.784,
+  "normalized_cost": 0.997,
+  "tradeoff_score": 89.402
+}
