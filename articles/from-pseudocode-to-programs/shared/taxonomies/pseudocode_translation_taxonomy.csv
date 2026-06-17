@@ -1,0 +1,9 @@
+term,category,definition
+pseudocode,reasoning medium,A structured human-readable description of a computational procedure.
+program,implementation artifact,Executable code that realizes a procedure in a specific language and runtime.
+translation quality,review concept,How faithfully implementation preserves pseudocode intent while becoming testable and maintainable.
+control-flow fidelity,implementation dimension,How well sequence branching loops and stopping rules match intended procedure.
+edge-case coverage,testing dimension,Attention to boundary cases such as empty input ties invalid values no solution and nontermination.
+error handling,implementation dimension,Explicit behavior for invalid input failure warnings and exceptions.
+test coverage,verification dimension,Checks connecting expected behavior to observed program behavior.
+maintainability,software quality,Ability to safely revise extend debug and document a program over time.

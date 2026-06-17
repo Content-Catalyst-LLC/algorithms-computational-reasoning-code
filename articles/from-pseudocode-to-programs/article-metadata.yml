@@ -1,0 +1,24 @@
+actual_title: "From Pseudocode to Programs"
+suggested_seo_title: "From Pseudocode to Programs"
+focus_keyword: "pseudocode to programs"
+slug: "from-pseudocode-to-programs"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "algorithmic-literacy-for-the-modern-world"
+  current: "from-pseudocode-to-programs"
+  next: "debugging-as-computational-reasoning"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/from-pseudocode-to-programs"
+tags:
+  - Pseudocode
+  - Programming
+  - Algorithms
+  - Computational Reasoning
+  - Control Flow
+  - Testing
+  - Program Design
+  - Software Engineering
+excerpt_139_words: "Pseudocode is a bridge between informal thought and executable programs. It allows people to describe an algorithm before committing to a programming language, library, platform, or syntax. A good pseudocode draft can clarify the steps, inputs, outputs, states, conditions, loops, edge cases, and stopping rules of a procedure before implementation begins. Moving from pseudocode to programs requires more than translation. It requires making implicit details explicit. A program must choose data structures, types, names, validation rules, error behavior, dependencies, tests, performance expectations, documentation, and runtime environment. This article explains pseudocode as a reasoning medium and shows how algorithmic intent becomes executable, testable, maintainable, and accountable software. It examines control flow, data representation, interfaces, edge cases, correctness, testing, readability, documentation, and implementation judgment across modern computational systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

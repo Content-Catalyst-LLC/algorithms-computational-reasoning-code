@@ -1,0 +1,6 @@
+case_name,pseudocode_goal,program_context,intent_clarity,input_specification,output_specification,state_handling,control_flow_fidelity,edge_case_coverage,error_handling,test_coverage,readability,maintainability
+Search ranking prototype,"Retrieve candidates, score documents, rank results, and return top matches","Python search-ranking workflow with synthetic records",0.82,0.74,0.78,0.70,0.80,0.64,0.62,0.68,0.78,0.72
+Decision-rule implementation,"Apply eligibility rules, flag incomplete records, and route review cases","Rule-based institutional workflow with review states",0.76,0.70,0.72,0.78,0.74,0.66,0.70,0.62,0.72,0.68
+Simulation loop,"Update state variables over time until horizon or convergence condition","Numerical simulation with time steps and generated outputs",0.84,0.82,0.78,0.86,0.82,0.72,0.68,0.70,0.76,0.74
+Data-cleaning procedure,"Validate records, remove duplicates, handle missing values, and output clean data","Data pipeline step using synthetic tabular data",0.78,0.76,0.74,0.68,0.76,0.70,0.64,0.66,0.80,0.72
+Graph traversal,"Explore graph from a start node until target found or frontier exhausted","Search program with visited set frontier and path reconstruction",0.86,0.80,0.78,0.84,0.86,0.72,0.70,0.74,0.76,0.72

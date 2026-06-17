@@ -1,0 +1,28 @@
+section                           
+----------------------------------
+PSEUDOCODE TRANSLATION CASE SCORES
+case_name                     translation_quality
+----------------------------  -------------------
+Simulation loop               77.52              
+Search ranking prototype      73.04              
+Data-cleaning procedure       72.44              
+Decision-rule implementation  71.0               
+section         
+----------------
+GOVERNANCE NOTES
+note_key         note_text                                                   
+---------------  ------------------------------------------------------------
+documentation    Document assumptions examples limits dependencies and runtim
+                 e requirements.                                             
+
+inputs           Define accepted and rejected inputs.                        
+
+outputs          Define outputs warnings errors and interpretation limits.   
+
+purpose          State the procedure purpose clearly.                        
+
+representations  Choose data structures types schemas and interfaces delibera
+                 tely.                                                       
+
+tests            Write ordinary edge failure invariant regression and integra
+                 tion tests.                                                 

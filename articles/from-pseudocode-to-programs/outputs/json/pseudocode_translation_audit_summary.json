@@ -1,0 +1,8 @@
+{
+  "average_translation_quality": 74.456,
+  "average_translation_risk": 26.45,
+  "case_count": 5,
+  "highest_quality_case": "Graph traversal",
+  "highest_risk_case": "Decision-rule implementation",
+  "interpretation": "Pseudocode-to-program translation quality depends on intent clarity, input/output specification, state handling, control-flow fidelity, edge cases, errors, tests, readability, and maintainability."
+}

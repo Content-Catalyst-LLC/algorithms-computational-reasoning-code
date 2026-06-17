@@ -1,37 +1,39 @@
-# From Pseudocode to Programs (planned)
+# From Pseudocode to Programs
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Foundations, Procedure, and Computational Thought  
-**Status:** planned
+Companion code and reproducible workflows for **From Pseudocode to Programs**.
 
-## Purpose
+This article examines pseudocode as a reasoning bridge between informal algorithmic intent and executable, testable, maintainable programs.
 
-This folder will hold computational companion materials for the planned article:
-**From Pseudocode to Programs**.
+## Folder structure
 
-## Standard Folder Layout
+```text
+python/      pseudocode translation audits, CLI tools, calculators, tests
+r/           statistical summaries, visualization, reports
+julia/       translation-quality simulations
+sql/         schemas, review traces, translation queries
+haskell/     typed program contracts and translation models
+rust/        systems-style implementation diagnostics
+go/          CLI/service-style implementation workflows
+c/           low-level implementation examples
+cpp/         high-performance implementation examples
+fortran/     numerical procedure examples
+java/        object-oriented translation audit systems
+typescript/ interface-facing translation checks
+prolog/      rule-based translation logic
+racket/      interpreter-style pseudocode examples
+docs/        methodology, governance, and article notes
+data/        synthetic datasets only
+outputs/     generated outputs
+notebooks/   notebook-ready walkthroughs
+canvas/      Catalyst Canvas-ready cards and manifests
+shared/      schemas, templates, taxonomies, benchmarks, governance
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Run
 
-## Notes
+```bash
+make smoke
+make all
+```
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The workflows use synthetic data only and are intended for educational, reproducible article support.

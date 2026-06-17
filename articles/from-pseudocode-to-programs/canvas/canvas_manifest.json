@@ -1,0 +1,45 @@
+{
+  "article_slug": "from-pseudocode-to-programs",
+  "actual_title": "From Pseudocode to Programs",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "pseudocode-translation",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "pseudocode",
+      "title": "Pseudocode",
+      "category": "reasoning medium",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Use pseudocode to clarify algorithmic intent before language-specific implementation."
+    },
+    {
+      "card_id": "translation-quality",
+      "title": "Translation Quality",
+      "category": "implementation review",
+      "status": "active",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Check whether executable code preserves pseudocode intent across ordinary and edge cases."
+    },
+    {
+      "card_id": "testing",
+      "title": "Testing",
+      "category": "verification",
+      "status": "review",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Translate expected behavior into ordinary, edge, failure, invariant, regression, and integration tests."
+    },
+    {
+      "card_id": "maintainability",
+      "title": "Maintainability",
+      "category": "software quality",
+      "status": "review",
+      "score": 92,
+      "review_date": "2026-06-17",
+      "governance_note": "Preserve readability, modularity, versioning, and documentation as the procedure becomes code."
+    }
+  ]
+}

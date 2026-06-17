@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PseudocodeTranslationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "pseudocode_goal",
+    "program_context",
+    "intent_clarity",
+    "input_specification",
+    "output_specification",
+    "state_handling",
+    "control_flow_fidelity",
+    "edge_case_coverage",
+    "error_handling",
+    "test_coverage",
+    "readability",
+    "maintainability"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "pseudocode_goal": {"type": "string"},
+    "program_context": {"type": "string"},
+    "intent_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "input_specification": {"type": "number", "minimum": 0, "maximum": 1},
+    "output_specification": {"type": "number", "minimum": 0, "maximum": 1},
+    "state_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "control_flow_fidelity": {"type": "number", "minimum": 0, "maximum": 1},
+    "edge_case_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "error_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "test_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "readability": {"type": "number", "minimum": 0, "maximum": 1},
+    "maintainability": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
