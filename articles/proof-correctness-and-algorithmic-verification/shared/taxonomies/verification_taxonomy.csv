@@ -1,0 +1,10 @@
+term,category,definition
+specification,correctness target,A statement of what a procedure is supposed to do.
+precondition,assumption,What must be true before a procedure runs.
+postcondition,result claim,What must be true after a procedure runs.
+invariant,preserved property,A property that should remain true during execution.
+partial correctness,correctness type,If the algorithm terminates then the result satisfies the specification.
+total correctness,correctness type,The algorithm terminates and the result satisfies the specification.
+counterexample,evidence,A case that disproves or challenges a correctness claim.
+model checking,verification method,State-space exploration for specified properties.
+formal verification,verification method,Mathematical proof that a system satisfies a specification.

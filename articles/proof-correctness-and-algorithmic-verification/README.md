@@ -1,37 +1,14 @@
-# Proof, Correctness, and Algorithmic Verification (planned)
+# Proof, Correctness, and Algorithmic Verification
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Proof, Correctness, and Algorithmic Verification**.
 
-## Purpose
+This scaffold supports examples for specifications, preconditions, postconditions, invariants, partial correctness, total correctness, termination evidence, counterexamples, static analysis, model checking, formal verification, type systems, and responsible computational assurance.
 
-This folder will hold computational companion materials for the planned article:
-**Proof, Correctness, and Algorithmic Verification**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

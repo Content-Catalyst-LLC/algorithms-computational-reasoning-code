@@ -1,0 +1,24 @@
+actual_title: "Proof, Correctness, and Algorithmic Verification"
+suggested_seo_title: "Proof, Correctness, and Algorithmic Verification"
+focus_keyword: "proof correctness and algorithmic verification"
+slug: "proof-correctness-and-algorithmic-verification"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "formal-languages-and-symbolic-representation"
+  current: "proof-correctness-and-algorithmic-verification"
+  next: "termination-invariants-and-edge-cases"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/proof-correctness-and-algorithmic-verification"
+tags:
+  - Proof
+  - Correctness
+  - Algorithmic Verification
+  - Invariants
+  - Preconditions
+  - Postconditions
+  - Model Checking
+  - Formal Methods
+excerpt_139_words: "Proof, correctness, and algorithmic verification ask how we know that an algorithm does what it is supposed to do. A program may run, produce output, and pass several tests while still failing for untested inputs, edge cases, invalid states, or unstated assumptions. Correctness is not simply whether code works. It is a relationship among problem, specification, procedure, implementation, and intended use. This article explains specifications, preconditions, postconditions, invariants, partial correctness, total correctness, termination, tests, proof sketches, counterexamples, static analysis, type systems, model checking, formal verification, and machine-checked reasoning. It also emphasizes that verification depends on context. A procedure can be correct under stated assumptions and still be inappropriate, incomplete, misleading, or unsafe if its specification, data, goals, or deployment context are wrong."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

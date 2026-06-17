@@ -1,0 +1,13 @@
+{
+  "article_slug": "proof-correctness-and-algorithmic-verification",
+  "actual_title": "Proof, Correctness, and Algorithmic Verification",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "algorithmic-verification",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "correctness", "title": "Correctness", "category": "verification target", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Define correctness relative to a specification, not vague success."},
+    {"card_id": "pre-post-conditions", "title": "Preconditions and Postconditions", "category": "contract", "status": "active", "score": 95, "review_date": "2026-06-17", "governance_note": "State assumptions and required outputs before evaluating an algorithm."},
+    {"card_id": "invariants", "title": "Invariants", "category": "state reasoning", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "Identify what must remain true across execution or system transitions."},
+    {"card_id": "counterexamples", "title": "Counterexamples", "category": "failure evidence", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Treat failures as evidence that strengthens specifications and tests."}
+  ]
+}

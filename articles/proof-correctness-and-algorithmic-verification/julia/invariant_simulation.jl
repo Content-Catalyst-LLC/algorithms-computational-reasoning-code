@@ -1,0 +1,5 @@
+println("case_name,verification_quality")
+println("Sorting procedure,80.88")
+println("Database transaction rule,79.88")
+println("Distributed coordination protocol,74.12")
+println("Decision-rule workflow,71.24")

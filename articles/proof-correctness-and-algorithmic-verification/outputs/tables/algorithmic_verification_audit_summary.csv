@@ -1,0 +1,2 @@
+case_count,average_verification_quality,average_verification_risk,highest_quality_case,highest_risk_case,interpretation
+5,76.04,23.2,Sorting procedure,Decision-rule workflow,"Verification quality depends on specification clarity, preconditions, postconditions, invariants, termination evidence, tests, counterexamples, static checks, traceability, and governance."

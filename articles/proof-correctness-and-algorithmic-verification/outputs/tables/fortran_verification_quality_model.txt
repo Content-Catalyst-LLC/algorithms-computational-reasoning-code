@@ -1,0 +1,5 @@
+case_name verification_quality
+Sorting procedure 80.88
+Database transaction rule 79.88
+Distributed coordination protocol 74.12
+Decision-rule workflow 71.24

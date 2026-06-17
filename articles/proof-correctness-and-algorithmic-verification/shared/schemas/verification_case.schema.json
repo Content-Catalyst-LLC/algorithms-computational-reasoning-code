@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VerificationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "computational_context",
+    "correctness_claim",
+    "specification_clarity",
+    "precondition_definition",
+    "postcondition_definition",
+    "invariant_coverage",
+    "termination_evidence",
+    "test_coverage",
+    "counterexample_handling",
+    "static_check_support",
+    "traceability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "computational_context": {"type": "string"},
+    "correctness_claim": {"type": "string"},
+    "specification_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "precondition_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "postcondition_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "invariant_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "termination_evidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "test_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "counterexample_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "static_check_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
