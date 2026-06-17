@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FormalLanguageCase",
+  "type": "object",
+  "required": ["case_name", "representation_context", "symbolic_structure", "alphabet_clarity", "grammar_explicitness", "syntax_validation", "semantic_clarity", "parser_readiness", "schema_support", "error_reporting", "testability", "interoperability", "governance_readiness"],
+  "properties": {
+    "case_name": {"type": "string"},
+    "representation_context": {"type": "string"},
+    "symbolic_structure": {"type": "string"},
+    "alphabet_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "grammar_explicitness": {"type": "number", "minimum": 0, "maximum": 1},
+    "syntax_validation": {"type": "number", "minimum": 0, "maximum": 1},
+    "semantic_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "parser_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "schema_support": {"type": "number", "minimum": 0, "maximum": 1},
+    "error_reporting": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "interoperability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "article_slug": "formal-languages-and-symbolic-representation",
+  "actual_title": "Formal Languages and Symbolic Representation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "formal-language-representation",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "formal-language", "title": "Formal Language", "category": "representation system", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Define allowed symbolic structures so systems can parse, validate, and interpret them."},
+    {"card_id": "grammar", "title": "Grammar", "category": "structure definition", "status": "active", "score": 95, "review_date": "2026-06-17", "governance_note": "Make grammar rules explicit rather than relying only on examples."},
+    {"card_id": "syntax-semantics", "title": "Syntax and Semantics", "category": "interpretation", "status": "review", "score": 94, "review_date": "2026-06-17", "governance_note": "Separate valid form from valid meaning and responsible use."},
+    {"card_id": "symbolic-representation", "title": "Symbolic Representation", "category": "computational reasoning", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Review what symbols make visible, what they omit, and how downstream systems interpret them."}
+  ]
+}

@@ -1,0 +1,6 @@
+case_name                  representation_quality
+-------------------------  ----------------------
+JSON configuration schema  77.88                 
+Expression grammar         76.88                 
+SQL query layer            74.6                  
+Rule-language workflow     67.48                 

@@ -1,0 +1,10 @@
+term,category,definition
+formal language,representation system,A set of strings over an alphabet governed by explicit rules.
+alphabet,symbol set,A finite set of symbols used to build strings.
+string,symbol sequence,A finite sequence of symbols from an alphabet.
+grammar,structure definition,A set of rules defining valid symbolic structures.
+token,lexical unit,A recognized unit created from raw characters during lexical analysis.
+parser,recognizer,A system that checks structure and often builds a parse tree.
+syntax,formal structure,Rules that determine whether an expression is well-formed.
+semantics,meaning layer,Rules or context that determine what a valid expression means.
+schema,validation structure,A formal rule set for structured data.

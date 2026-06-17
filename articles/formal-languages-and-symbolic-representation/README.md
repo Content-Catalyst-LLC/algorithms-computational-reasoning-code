@@ -1,37 +1,14 @@
-# Formal Languages and Symbolic Representation (planned)
+# Formal Languages and Symbolic Representation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Formal Languages and Symbolic Representation**.
 
-## Purpose
+This scaffold supports examples for alphabets, strings, grammars, tokens, parsing, syntax trees, schemas, symbolic reasoning, validators, compilers, interpreters, and responsible representation design.
 
-This folder will hold computational companion materials for the planned article:
-**Formal Languages and Symbolic Representation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,2 @@
+case_count,average_representation_quality,average_representation_risk,highest_quality_case,highest_risk_case,interpretation
+5,74.4,25.6,JSON configuration schema,Rule-language workflow,"Symbolic representation quality depends on grammar, syntax, semantics, validation, interoperability, and governance."

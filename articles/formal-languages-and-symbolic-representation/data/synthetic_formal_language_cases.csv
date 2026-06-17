@@ -1,0 +1,6 @@
+case_name,representation_context,symbolic_structure,alphabet_clarity,grammar_explicitness,syntax_validation,semantic_clarity,parser_readiness,schema_support,error_reporting,testability,interoperability,governance_readiness
+Expression grammar,Arithmetic expression evaluator,"Tokens, grammar rules, parse trees, and evaluation semantics",0.82,0.86,0.84,0.78,0.82,0.62,0.74,0.82,0.68,0.64
+JSON configuration schema,Application configuration file,"Keys, values, nested objects, schema validation, and defaults",0.76,0.78,0.84,0.72,0.80,0.86,0.72,0.78,0.82,0.70
+SQL query layer,Relational data retrieval workflow,"Query syntax, predicates, joins, constraints, and result schemas",0.74,0.76,0.78,0.70,0.74,0.82,0.68,0.74,0.78,0.72
+Rule-language workflow,Institutional decision-routing rules,"If-then rules, predicates, exceptions, review states, and traceable outputs",0.70,0.68,0.66,0.64,0.60,0.70,0.66,0.72,0.62,0.80
+Markup document system,Structured web document workflow,"Tags, attributes, nesting, semantic elements, validation, and accessibility checks",0.78,0.74,0.80,0.72,0.76,0.74,0.70,0.76,0.80,0.72
