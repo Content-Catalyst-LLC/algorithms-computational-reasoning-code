@@ -1,37 +1,14 @@
-# Hashing, Indexing, and Retrieval (planned)
+# Hashing, Indexing, and Retrieval
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Representation, Data Structures, and Information  
-**Status:** planned
+Companion code and reproducible workflows for **Hashing, Indexing, and Retrieval**.
 
-## Purpose
+This scaffold supports examples for hashing, indexing, retrieval, hash functions, keys, values, buckets, collisions, hash tables, dictionaries, maps, sets, database indexes, inverted indexes, search indexes, caches, memoization, fingerprints, deduplication, content addressing, ranking, freshness, metadata, provenance, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Hashing, Indexing, and Retrieval**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,5 @@
+doc_id,title,body,source,version
+doc-1,Hashing basics,Hashing supports fast lookup by key.,synthetic,1
+doc-2,Indexing basics,Indexing supports retrieval across documents and metadata.,synthetic,1
+doc-3,Retrieval quality,Retrieval quality depends on freshness provenance and ranking.,synthetic,1
+doc-4,Scalable access,Hashing and indexing support scalable retrieval.,synthetic,1

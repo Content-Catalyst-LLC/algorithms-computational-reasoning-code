@@ -1,0 +1,5 @@
+case_name retrieval_quality
+Article metadata dictionary 84.24
+Case status database index 84.20
+Search inverted index 83.24
+Cache for expensive computations 82.92

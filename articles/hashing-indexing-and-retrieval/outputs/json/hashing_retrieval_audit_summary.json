@@ -1,0 +1,8 @@
+{
+  "average_retrieval_quality": 83.992,
+  "average_retrieval_risk": 16.5,
+  "case_count": 5,
+  "highest_quality_case": "Content addressing archive",
+  "highest_risk_case": "Cache for expensive computations",
+  "interpretation": "Retrieval quality depends on key clarity, hash suitability, collision handling, index coverage, speed fit, freshness, ranking transparency, provenance, security boundaries, and governance."
+}

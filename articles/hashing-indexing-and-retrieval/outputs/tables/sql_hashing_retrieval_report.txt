@@ -1,0 +1,15 @@
+case_name                         retrieval_quality
+--------------------------------  -----------------
+Article metadata dictionary       84.68            
+Case status database index        84.52            
+Search inverted index             83.04            
+Cache for expensive computations  82.88            
+term        documents        
+----------  -----------------
+freshness   doc-3            
+hashing     doc-1,doc-4      
+indexing    doc-2,doc-4      
+lookup      doc-1            
+provenance  doc-3            
+ranking     doc-3            
+retrieval   doc-2,doc-3,doc-4

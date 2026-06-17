@@ -1,0 +1,13 @@
+{
+  "article_slug": "hashing-indexing-and-retrieval",
+  "actual_title": "Hashing, Indexing, and Retrieval",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "hashing-retrieval",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "hashing", "title": "Hashing", "category": "lookup representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Define hash purpose, key space, collisions, equality checks, and security boundaries."},
+    {"card_id": "indexing", "title": "Indexing", "category": "retrieval infrastructure", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Document index coverage, exclusions, stale states, and query assumptions."},
+    {"card_id": "retrieval", "title": "Retrieval", "category": "computational memory", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Explain ranking, freshness, provenance, filters, access controls, and evidence carried with results."},
+    {"card_id": "retrieval-risk", "title": "Retrieval Risk", "category": "governance", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Audit missing index coverage, stale caches, ambiguous keys, ranking opacity, and provenance loss."}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RetrievalSystemCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "retrieval_structure_choice",
+    "key_clarity",
+    "hash_suitability",
+    "collision_handling",
+    "index_coverage",
+    "retrieval_speed_fit",
+    "freshness_control",
+    "ranking_transparency",
+    "metadata_provenance",
+    "security_boundary_clarity",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "retrieval_structure_choice": {"type": "string"},
+    "key_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "hash_suitability": {"type": "number", "minimum": 0, "maximum": 1},
+    "collision_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "index_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "retrieval_speed_fit": {"type": "number", "minimum": 0, "maximum": 1},
+    "freshness_control": {"type": "number", "minimum": 0, "maximum": 1},
+    "ranking_transparency": {"type": "number", "minimum": 0, "maximum": 1},
+    "metadata_provenance": {"type": "number", "minimum": 0, "maximum": 1},
+    "security_boundary_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

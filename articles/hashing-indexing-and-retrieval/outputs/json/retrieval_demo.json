@@ -1,0 +1,87 @@
+{
+  "fingerprint_doc_1": "db0ebb36a7c6fc8d70b929ba30a1eedaf7e0020c3aa7dbe08236581b5ea29c0d",
+  "hash_table_bucket_lengths": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "hash_table_lookup_doc_1": "db0ebb36a7c6fc8d",
+  "inverted_index": {
+    "across": [
+      "doc-2"
+    ],
+    "and": [
+      "doc-2",
+      "doc-3",
+      "doc-4"
+    ],
+    "by": [
+      "doc-1"
+    ],
+    "depends": [
+      "doc-3"
+    ],
+    "documents": [
+      "doc-2"
+    ],
+    "fast": [
+      "doc-1"
+    ],
+    "freshness": [
+      "doc-3"
+    ],
+    "hashing": [
+      "doc-1",
+      "doc-4"
+    ],
+    "indexing": [
+      "doc-2",
+      "doc-4"
+    ],
+    "key": [
+      "doc-1"
+    ],
+    "lookup": [
+      "doc-1"
+    ],
+    "metadata": [
+      "doc-2"
+    ],
+    "on": [
+      "doc-3"
+    ],
+    "provenance": [
+      "doc-3"
+    ],
+    "quality": [
+      "doc-3"
+    ],
+    "ranking": [
+      "doc-3"
+    ],
+    "retrieval": [
+      "doc-2",
+      "doc-3",
+      "doc-4"
+    ],
+    "scalable": [
+      "doc-4"
+    ],
+    "support": [
+      "doc-4"
+    ],
+    "supports": [
+      "doc-1",
+      "doc-2"
+    ]
+  },
+  "query_hashing_lookup": [
+    "doc-1"
+  ],
+  "query_indexing_retrieval": [
+    "doc-2",
+    "doc-4"
+  ],
+  "interpretation": "Hashing creates stable fingerprints and key lookup; an inverted index maps terms to retrievable documents."
+}

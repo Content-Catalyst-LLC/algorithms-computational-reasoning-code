@@ -1,0 +1,5 @@
+println("case_name,retrieval_quality")
+println("Article metadata dictionary,84.24")
+println("Case status database index,84.20")
+println("Search inverted index,83.24")
+println("Cache for expensive computations,82.92")

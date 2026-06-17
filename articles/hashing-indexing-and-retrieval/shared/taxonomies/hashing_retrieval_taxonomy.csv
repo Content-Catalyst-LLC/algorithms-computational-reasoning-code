@@ -1,0 +1,21 @@
+term,category,definition
+hash function,hashing,A function mapping keys or data into hash values.
+key,lookup,A value used to retrieve associated data.
+value,lookup,Data associated with a key.
+bucket,hash table,A storage location selected by a hash value.
+collision,hashing,A condition where different inputs map to the same hash value or bucket.
+load factor,hash table,Ratio of stored entries to bucket capacity.
+hash table,data structure,A structure supporting fast average-case key-value lookup.
+set,data structure,A structure supporting membership testing.
+map,data structure,A structure associating keys with values.
+dictionary,data structure,A key-value lookup structure.
+index,retrieval infrastructure,A structure that improves retrieval over records or documents.
+database index,indexing,A structure enabling efficient record retrieval by fields.
+inverted index,search,A mapping from terms to documents or records.
+cache,reuse,A store of previously retrieved or computed results.
+memoization,reuse,Caching function results by input.
+fingerprint,content addressing,A compact representation of content used for comparison or identification.
+content addressing,retrieval,Retrieving content by a content-derived identifier.
+ranking,retrieval,Ordering retrieved results by relevance or priority.
+freshness,retrieval governance,Whether retrieved results reflect current underlying data.
+provenance,retrieval governance,Source and lineage metadata attached to retrieved information.
