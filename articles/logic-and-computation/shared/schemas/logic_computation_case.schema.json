@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LogicComputationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "logical_structure",
+    "rule_clarity",
+    "predicate_definition",
+    "input_validity",
+    "contradiction_control",
+    "inference_traceability",
+    "constraint_coverage",
+    "testability",
+    "verification_readiness",
+    "explainability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "system_context": {"type": "string"},
+    "logical_structure": {"type": "string"},
+    "rule_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "predicate_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "input_validity": {"type": "number", "minimum": 0, "maximum": 1},
+    "contradiction_control": {"type": "number", "minimum": 0, "maximum": 1},
+    "inference_traceability": {"type": "number", "minimum": 0, "maximum": 1},
+    "constraint_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "verification_readiness": {"type": "number", "minimum": 0, "maximum": 1},
+    "explainability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

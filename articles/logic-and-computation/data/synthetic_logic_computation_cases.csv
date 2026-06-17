@@ -1,0 +1,6 @@
+case_name,system_context,logical_structure,rule_clarity,predicate_definition,input_validity,contradiction_control,inference_traceability,constraint_coverage,testability,verification_readiness,explainability,governance_readiness
+Input validation rules,Form validation and data-quality gate,"Predicates over required fields, formats, and allowed ranges",0.82,0.84,0.80,0.76,0.68,0.78,0.82,0.62,0.78,0.70
+Database query constraints,Relational database with joins and integrity constraints,"Selection predicates, foreign keys, uniqueness, and check constraints",0.78,0.80,0.76,0.74,0.72,0.82,0.76,0.66,0.70,0.72
+Decision-rule workflow,Institutional routing workflow using explicit rules,"If-then rules, exceptions, review states, and escalation paths",0.74,0.70,0.72,0.62,0.68,0.66,0.72,0.58,0.76,0.78
+Program invariant checks,Algorithm with state transitions and runtime assertions,"Preconditions, postconditions, loop invariants, and assertions",0.80,0.78,0.74,0.76,0.74,0.72,0.80,0.76,0.68,0.66
+Logic programming inference,Declarative reasoning over facts and rules,"Facts, predicates, rules, unification, and inference traces",0.76,0.78,0.72,0.70,0.82,0.70,0.74,0.72,0.74,0.68

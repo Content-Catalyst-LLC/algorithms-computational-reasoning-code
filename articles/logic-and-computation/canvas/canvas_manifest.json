@@ -1,0 +1,45 @@
+{
+  "article_slug": "logic-and-computation",
+  "actual_title": "Logic and Computation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "logic-computation",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "logic",
+      "title": "Logic",
+      "category": "foundation",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Use logic to make conditions, rules, inference, constraints, and correctness reviewable."
+    },
+    {
+      "card_id": "predicate-definition",
+      "title": "Predicate Definition",
+      "category": "logical clarity",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Define predicates before embedding them in code, databases, workflows, or automated decisions."
+    },
+    {
+      "card_id": "contradiction-control",
+      "title": "Contradiction Control",
+      "category": "rule governance",
+      "status": "review",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Check for conflicting rules, incomplete cases, and unsafe defaults."
+    },
+    {
+      "card_id": "inference-traceability",
+      "title": "Inference Traceability",
+      "category": "explainability",
+      "status": "review",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Preserve the path from premises, predicates, and constraints to computational output."
+    }
+  ]
+}

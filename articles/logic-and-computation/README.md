@@ -1,37 +1,14 @@
-# Logic and Computation (planned)
+# Logic and Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Logic, Formal Systems, and Computability  
-**Status:** planned
+Companion code and reproducible workflows for **Logic and Computation**.
 
-## Purpose
+This article examines logic as a foundation for computational reasoning: propositions, predicates, truth values, conditionals, rules, inference, proof, constraints, verification, Boolean operations, logic programming, databases, and type systems.
 
-This folder will hold computational companion materials for the planned article:
-**Logic and Computation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The workflows use synthetic data only and are intended for educational, reproducible article support.

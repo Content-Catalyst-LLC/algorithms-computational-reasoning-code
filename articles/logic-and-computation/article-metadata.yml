@@ -1,0 +1,24 @@
+actual_title: "Logic and Computation"
+suggested_seo_title: "Logic and Computation"
+focus_keyword: "logic and computation"
+slug: "logic-and-computation"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "debugging-as-computational-reasoning"
+  current: "logic-and-computation"
+  next: "logic-rules-and-formal-systems"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/logic-and-computation"
+tags:
+  - Logic
+  - Computation
+  - Computational Reasoning
+  - Boolean Logic
+  - Formal Systems
+  - Verification
+  - Logic Programming
+  - Type Systems
+excerpt_139_words: "Logic gives computation one of its deepest foundations. Before a program can calculate, search, sort, verify, infer, classify, or decide, it must distinguish conditions, rules, cases, states, claims, and consequences. Logic provides formal tools for doing that. It helps computation represent what is true or false, what follows from what, when a condition holds, when a rule applies, when a proof is valid, and when a procedure has satisfied its requirements. This article explains how logic supports computational reasoning through propositions, predicates, truth values, conditionals, rules, inference, proof, satisfiability, Boolean algebra, specifications, type systems, verification, logic programming, databases, and artificial intelligence. It emphasizes that logic is not merely abstract symbolism. In computation, logic becomes operational: directing control flow, validating states, constraining search, supporting correctness, and governing rule-based systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

@@ -1,0 +1,10 @@
+term,category,definition
+logic,foundation,A formal structure for propositions predicates rules inference proof and consistency.
+proposition,logical unit,A statement that can be evaluated as true or false.
+predicate,condition,A condition applied to one or more values.
+implication,rule form,A relationship where one condition entails another.
+constraint,requirement,A condition that must be satisfied.
+inference,reasoning process,Movement from premises to consequences.
+verification,correctness practice,Checking whether implementation satisfies specification.
+boolean logic,digital foundation,Logic of true false values and operations such as AND OR and NOT.
+logic programming,declarative paradigm,Programming with facts rules and inference.

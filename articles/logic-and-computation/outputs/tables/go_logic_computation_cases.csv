@@ -1,0 +1,5 @@
+case_name,logic_quality,warning
+Input validation rules,78.000,Synthetic educational diagnostic only.
+Database query constraints,76.080,Synthetic educational diagnostic only.
+Decision-rule workflow,72.040,Synthetic educational diagnostic only.
+Program invariant checks,76.360,Synthetic educational diagnostic only.

@@ -1,0 +1,8 @@
+{
+  "average_logic_quality": 74.0,
+  "average_logic_risk": 25.15,
+  "case_count": 5,
+  "highest_quality_case": "Input validation rules",
+  "highest_risk_case": "Decision-rule workflow",
+  "interpretation": "Logic quality depends on clear rules, defined predicates, valid inputs, contradiction control, traceable inference, constraint coverage, testability, verification readiness, explainability, and governance."
+}
