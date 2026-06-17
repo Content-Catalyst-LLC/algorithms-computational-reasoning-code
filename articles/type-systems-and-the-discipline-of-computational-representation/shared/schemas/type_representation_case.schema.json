@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TypeRepresentationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "problem_context",
+    "type_design_choice",
+    "representation_clarity",
+    "constraint_strength",
+    "missingness_handling",
+    "boundary_validation",
+    "domain_fidelity",
+    "error_specificity",
+    "type_coverage",
+    "interoperability",
+    "testability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "problem_context": {"type": "string"},
+    "type_design_choice": {"type": "string"},
+    "representation_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "constraint_strength": {"type": "number", "minimum": 0, "maximum": 1},
+    "missingness_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "boundary_validation": {"type": "number", "minimum": 0, "maximum": 1},
+    "domain_fidelity": {"type": "number", "minimum": 0, "maximum": 1},
+    "error_specificity": {"type": "number", "minimum": 0, "maximum": 1},
+    "type_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+    "interoperability": {"type": "number", "minimum": 0, "maximum": 1},
+    "testability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}

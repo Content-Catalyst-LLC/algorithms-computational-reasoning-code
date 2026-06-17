@@ -1,0 +1,11 @@
+type_concept,category,definition,example
+primitive type,basic value,A basic value category,Integer
+product type,composite type,A type containing multiple fields,ArticleRecord
+sum type,composite type,A type representing one of several alternatives,Result
+enum,finite alternative,A fixed set of named values,PublicationStatus
+option type,missingness,A value that may be present or absent,Option Reviewer
+result type,error modeling,A computation that succeeds or fails,Result ValidatedRecord ValidationError
+generic type,abstraction,A reusable type parameterized by another type,List Article
+refinement type,constraint,A type plus a predicate,Probability 0 to 1
+phantom type,state discipline,A marker type that distinguishes states without runtime data,RawRecord vs ValidatedRecord
+schema,boundary contract,A type-like structure for external data,JSON Schema

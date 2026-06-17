@@ -1,37 +1,14 @@
-# Type Systems and the Discipline of Computational Representation (planned)
+# Type Systems and the Discipline of Computational Representation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Type Systems and the Discipline of Computational Representation**.
 
-## Purpose
+This scaffold supports examples for type systems, typed records, algebraic data types, option types, result types, generics, type inference, static typing, dynamic typing, gradual typing, schema validation, API contracts, unit-aware representation, missingness, boundary validation, domain modeling, error prevention, type-driven design, representation risk, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Type Systems and the Discipline of Computational Representation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

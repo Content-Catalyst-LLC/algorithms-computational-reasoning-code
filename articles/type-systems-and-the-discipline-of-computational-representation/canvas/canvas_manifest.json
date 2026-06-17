@@ -1,0 +1,13 @@
+{
+  "article_slug": "type-systems-and-the-discipline-of-computational-representation",
+  "actual_title": "Type Systems and the Discipline of Computational Representation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "type-systems",
+  "synthetic_data_only": true,
+  "cards": [
+    {"card_id": "type-systems", "title": "Type Systems", "category": "computational representation", "status": "active", "score": 98, "review_date": "2026-06-17", "governance_note": "Use types to make meanings, operations, constraints, and invalid states visible."},
+    {"card_id": "missingness", "title": "Missingness Discipline", "category": "data quality", "status": "active", "score": 96, "review_date": "2026-06-17", "governance_note": "Represent absence explicitly with option, result, nullable, or missingness-reason types."},
+    {"card_id": "boundary-validation", "title": "Boundary Validation", "category": "system governance", "status": "review", "score": 96, "review_date": "2026-06-17", "governance_note": "Validate all external data boundaries before trusting internal representations."},
+    {"card_id": "type-governance", "title": "Type Governance", "category": "responsible software", "status": "review", "score": 95, "review_date": "2026-06-17", "governance_note": "Review type drift as domains, schemas, policies, and workflows evolve."}
+  ]
+}

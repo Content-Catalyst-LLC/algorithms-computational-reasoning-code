@@ -1,0 +1,5 @@
+println("case_name,type_quality")
+println("Typed article metadata,88.84")
+println("Scientific measurement model,88.58")
+println("AI decision-support workflow,88.36")
+println("API contract boundary,87.12")

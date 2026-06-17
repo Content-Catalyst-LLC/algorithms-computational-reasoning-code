@@ -1,0 +1,13 @@
+{
+  "record": {
+    "title": "Type Systems and the Discipline of Computational Representation",
+    "slug": "type-systems-and-the-discipline-of-computational-representation",
+    "series": "Algorithms & Computational Reasoning",
+    "status": "published",
+    "repository_url": "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/type-systems-and-the-discipline-of-computational-representation/"
+  },
+  "valid": true,
+  "errors": [],
+  "interpretation": "Runtime validation complements static type discipline by checking domain-specific constraints at system boundaries.",
+  "taxonomy_count": 10
+}

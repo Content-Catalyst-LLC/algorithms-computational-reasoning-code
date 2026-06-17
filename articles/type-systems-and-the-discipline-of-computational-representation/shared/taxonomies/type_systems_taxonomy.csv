@@ -1,0 +1,21 @@
+term,category,definition
+type,representation,A classification of values and operations.
+primitive type,type category,Basic value type such as integer string Boolean or float.
+product type,type category,A type combining multiple fields or values.
+sum type,type category,A type representing one of several alternatives.
+algebraic data type,type category,A type formed from products and sums.
+enum,type category,A fixed set of named alternatives.
+option type,missingness,A type that represents a present value or explicit absence.
+result type,error modeling,A type that represents success or failure.
+generic type,abstraction,A type parameterized by another type.
+parametric polymorphism,abstraction,Reusable code that works uniformly across types.
+type inference,type checking,Compiler or checker discovery of types from expressions.
+static typing,type checking,Type checking before execution.
+dynamic typing,type checking,Type checking during execution.
+gradual typing,type checking,Combination of typed and untyped code.
+nominal typing,compatibility,Compatibility by declared name.
+structural typing,compatibility,Compatibility by required shape.
+refinement type,constraint,A type constrained by a predicate.
+dependent type,constraint,A type that depends on a value.
+effect type,side effects,A type that tracks computational effects.
+schema,boundary contract,Machine-readable structure defining external data.

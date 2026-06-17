@@ -1,0 +1,8 @@
+{
+  "boundaries": 8,
+  "boundary_validation_score": 84.38,
+  "documented_schemas": 7,
+  "interpretation": "Boundary validation improves when external inputs are checked, schemas are documented, and errors are typed specifically.",
+  "typed_errors": 6,
+  "validated_boundaries": 7
+}

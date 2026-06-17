@@ -1,0 +1,8 @@
+{
+  "average_type_quality": 88.24,
+  "average_type_risk": 11.5,
+  "case_count": 5,
+  "highest_quality_case": "Data pipeline state model",
+  "highest_risk_case": "API contract boundary",
+  "interpretation": "Type discipline depends on representation clarity, constraints, missingness handling, boundary validation, domain fidelity, error specificity, coverage, interoperability, testability, and governance."
+}
