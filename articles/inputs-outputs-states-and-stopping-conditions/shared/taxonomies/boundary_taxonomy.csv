@@ -1,0 +1,10 @@
+term,category,definition
+input,procedural boundary,Data parameters events states commands or observations that enter a procedure.
+output,procedural boundary,The value label ranking decision alert file update or error returned by a procedure.
+state,procedural concept,The condition or memory of a procedure system model or workflow at a moment.
+transition,procedural concept,A rule that changes one state into another.
+stopping condition,procedural boundary,A rule determining when a procedure should halt hand off return or report failure.
+invariant,correctness concept,A property that should remain true throughout execution.
+precondition,contract concept,A condition required before a procedure runs.
+postcondition,contract concept,A condition that should hold after a procedure completes.
+failure reporting,governance concept,Explicit communication of invalid input no solution uncertainty out-of-scope use or procedural failure.

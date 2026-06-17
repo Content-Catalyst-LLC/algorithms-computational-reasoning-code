@@ -1,0 +1,29 @@
+section                   
+--------------------------
+BOUNDARY STATE CASE SCORES
+case_name                  boundary_score
+-------------------------  --------------
+Graph traversal            77.32         
+Numerical simulation       75.96         
+Decision-support workflow  66.88         
+Recommendation ranking     63.72         
+section         
+----------------
+GOVERNANCE NOTES
+note_key     note_text                                                   
+-----------  ------------------------------------------------------------
+failure      Return explicit errors warnings or review requests when comp
+             letion is not responsible.                                  
+
+inputs       Define accepted inputs rejected inputs source units type and
+              validity rules.                                            
+
+outputs      Define output meaning uncertainty confidence and interpretat
+             ion limits.                                                 
+
+states       Define valid states invalid states history and memory requir
+             ements.                                                     
+
+stopping     Define halting no-solution escalation and handoff behavior. 
+
+transitions  Define allowed and forbidden state transitions.             

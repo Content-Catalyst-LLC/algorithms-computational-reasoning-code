@@ -1,0 +1,45 @@
+{
+  "article_slug": "inputs-outputs-states-and-stopping-conditions",
+  "actual_title": "Inputs, Outputs, States, and Stopping Conditions",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "procedural-boundaries",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "inputs",
+      "title": "Inputs",
+      "category": "procedural boundary",
+      "status": "active",
+      "score": 96,
+      "review_date": "2026-06-17",
+      "governance_note": "Define type, format, source, units, missingness, validity, and rejected input behavior."
+    },
+    {
+      "card_id": "outputs",
+      "title": "Outputs",
+      "category": "procedural boundary",
+      "status": "active",
+      "score": 95,
+      "review_date": "2026-06-17",
+      "governance_note": "Define output meaning, uncertainty, confidence, interpretation limits, and failure results."
+    },
+    {
+      "card_id": "states",
+      "title": "States",
+      "category": "procedural concept",
+      "status": "review",
+      "score": 94,
+      "review_date": "2026-06-17",
+      "governance_note": "Track valid states, invalid states, history, memory, and allowed transitions."
+    },
+    {
+      "card_id": "stopping-conditions",
+      "title": "Stopping Conditions",
+      "category": "procedural boundary",
+      "status": "review",
+      "score": 93,
+      "review_date": "2026-06-17",
+      "governance_note": "Define halting, no-solution, escalation, timeout, convergence, and handoff rules."
+    }
+  ]
+}

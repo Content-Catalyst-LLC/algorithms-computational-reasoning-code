@@ -1,0 +1,2 @@
+case_count,average_boundary_score,average_boundary_risk,highest_score_case,highest_risk_case,interpretation
+6,72.273,29.125,Database transaction,Recommendation ranking,"Procedural boundary quality depends on clear inputs, outputs, states, transitions, stopping conditions, validation, edge cases, failure reporting, interpretation, and governance."

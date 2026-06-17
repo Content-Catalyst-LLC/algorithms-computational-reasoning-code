@@ -1,0 +1,5 @@
+case_name boundary_score warning
+Graph traversal   80.800 Synthetic educational diagnostic only.
+Decision-support workflow   67.440 Synthetic educational diagnostic only.
+Numerical simulation   78.520 Synthetic educational diagnostic only.
+Recommendation ranking   66.800 Synthetic educational diagnostic only.

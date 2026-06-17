@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BoundaryCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "procedure_type",
+    "input_description",
+    "output_description",
+    "state_description",
+    "stopping_condition",
+    "input_clarity",
+    "output_clarity",
+    "state_definition",
+    "transition_clarity",
+    "stopping_condition_clarity",
+    "validation_quality",
+    "edge_case_handling",
+    "failure_reporting",
+    "interpretability",
+    "governance_readiness"
+  ],
+  "properties": {
+    "case_name": {"type": "string"},
+    "procedure_type": {"type": "string"},
+    "input_description": {"type": "string"},
+    "output_description": {"type": "string"},
+    "state_description": {"type": "string"},
+    "stopping_condition": {"type": "string"},
+    "input_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "output_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "state_definition": {"type": "number", "minimum": 0, "maximum": 1},
+    "transition_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "stopping_condition_clarity": {"type": "number", "minimum": 0, "maximum": 1},
+    "validation_quality": {"type": "number", "minimum": 0, "maximum": 1},
+    "edge_case_handling": {"type": "number", "minimum": 0, "maximum": 1},
+    "failure_reporting": {"type": "number", "minimum": 0, "maximum": 1},
+    "interpretability": {"type": "number", "minimum": 0, "maximum": 1},
+    "governance_readiness": {"type": "number", "minimum": 0, "maximum": 1}
+  }
+}
