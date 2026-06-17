@@ -1,0 +1,15 @@
+term,category,definition
+memory,storage,Storage used during computation.
+state,behavior,The current condition of a program object process or system.
+mutation,change,A change to stored state.
+binding,naming,Association between a name and value or location.
+reference,indirection,A way to access a stored value or object indirectly.
+aliasing,sharing,Multiple references to the same mutable value.
+side effect,effect,A change outside a local expression result.
+immutability,design discipline,A value cannot be changed after creation.
+state machine,model,A set of states and allowed transitions.
+transaction,consistency,A grouped state change that succeeds or fails as a unit.
+cache,stateful optimization,A stored value used to avoid repeated computation.
+race condition,concurrency,Behavior that depends on timing or interleaving.
+rollback,recovery,Returning state to an earlier valid condition.
+audit log,governance,Record of state changes over time.

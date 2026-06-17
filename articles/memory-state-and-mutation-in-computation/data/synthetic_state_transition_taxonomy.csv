@@ -1,0 +1,13 @@
+concept,category,definition,example
+memory,storage,Storage used by computation,stack heap file database
+state,current condition,The condition of a program object process or system at a moment,workflow status
+mutation,change,A change to stored state,assignment or database update
+binding,name relation,Association between a name and value or location,variable binding
+reference,indirection,Indirect access to a value object or resource,object reference
+aliasing,shared access,Multiple names or references reach the same mutable object,shared list
+side effect,external change,A change beyond a local return value,file write or API call
+immutability,controlled change,A value cannot change after creation,immutable record
+state machine,transition model,States and allowed transitions,draft review published
+transaction,atomic update,A group of changes that succeed or fail together,database transaction
+cache,stored reuse,A saved value reused for performance,query cache
+audit log,history,A record of state changes over time,publication history

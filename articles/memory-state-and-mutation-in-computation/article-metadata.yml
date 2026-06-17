@@ -1,0 +1,16 @@
+actual_title: "Memory, State, and Mutation in Computation"
+suggested_seo_title: "Memory, State, and Mutation in Computation"
+focus_keyword: "memory state and mutation in computation"
+slug: "memory-state-and-mutation-in-computation"
+series: "Algorithms & Computational Reasoning"
+article_order:
+  previous: "compilers-interpreters-and-execution-models"
+  current: "memory-state-and-mutation-in-computation"
+  next: "runtime-systems-environments-and-computational-context"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/memory-state-and-mutation-in-computation"
+tags: [Memory, State, Mutation, Side Effects, Immutability, State Machines, Concurrency, Computational Reasoning]
+excerpt_139_words: "Memory, state, and mutation explain how computation changes over time. A program is not only a set of instructions or expressions. It also contains values that are stored, referenced, updated, copied, shared, allocated, released, persisted, cached, overwritten, or transformed. Memory gives computation a place to store information. State records what is true at a moment in execution. Mutation changes that state. Together, they make loops, counters, data structures, objects, simulations, files, databases, user sessions, model parameters, workflow records, and interactive systems possible. They also create risk. Hidden state, uncontrolled mutation, shared references, stale caches, memory leaks, race conditions, and side effects can make programs hard to test, reproduce, audit, or govern. This article explains memory, state, and mutation as foundations of computational reasoning and accountable systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

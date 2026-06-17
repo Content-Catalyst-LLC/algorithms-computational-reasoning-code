@@ -1,0 +1,30 @@
+{
+  "initial_state": "draft",
+  "final_state": "archived",
+  "history": [
+    {
+      "from": "draft",
+      "requested": "review",
+      "to": "review",
+      "message": "accepted transition from draft to review"
+    },
+    {
+      "from": "review",
+      "requested": "published",
+      "to": "published",
+      "message": "accepted transition from review to published"
+    },
+    {
+      "from": "published",
+      "requested": "draft",
+      "to": "published",
+      "message": "rejected transition from published to draft"
+    },
+    {
+      "from": "published",
+      "requested": "archived",
+      "to": "archived",
+      "message": "accepted transition from published to archived"
+    }
+  ]
+}

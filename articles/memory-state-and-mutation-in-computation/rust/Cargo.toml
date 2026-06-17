@@ -1,0 +1,5 @@
+[package]
+name = "memory-state-and-mutation-in-computation"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

@@ -1,0 +1,20 @@
+{
+  "original": {
+    "items": [
+      "draft",
+      "review"
+    ]
+  },
+  "alias": {
+    "items": [
+      "draft",
+      "review"
+    ]
+  },
+  "copied": {
+    "items": [
+      "draft",
+      "published"
+    ]
+  }
+}

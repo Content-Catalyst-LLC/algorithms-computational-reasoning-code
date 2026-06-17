@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS state_mutation_cases;
+CREATE TABLE state_mutation_cases (
+  case_name TEXT PRIMARY KEY, problem_context TEXT, state_design_choice TEXT,
+  state_visibility REAL, mutation_control REAL, aliasing_risk_control REAL, side_effect_boundaries REAL,
+  lifecycle_clarity REAL, concurrency_safety REAL, reproducibility_support REAL, auditability REAL, rollback_support REAL, governance_readiness REAL
+);
+INSERT INTO state_mutation_cases VALUES
+('Functional core with imperative shell','A data workflow uses pure transformations internally and controlled file database effects at the boundary','Immutable transformation core explicit effect boundary versioned outputs and audit logs',0.92,0.90,0.88,0.92,0.88,0.86,0.92,0.90,0.84,0.90),
+('Object lifecycle with mutable fields','A case-management object changes status assignment reviewer timestamps and decision fields','Encapsulated object state with transition validation audit events and rollback checkpoints',0.84,0.86,0.78,0.82,0.90,0.80,0.82,0.90,0.84,0.88),
+('Shared cache in service architecture','A platform caches computed records used by several services and user-facing pages','Versioned cache keys explicit invalidation cache provenance stale-read monitoring and refresh policy',0.82,0.80,0.78,0.82,0.80,0.78,0.76,0.82,0.72,0.80),
+('Database transaction workflow','A workflow updates records audit logs permissions and publication state in a persistent database','Transactional updates schema constraints audit tables migrations snapshots and access control',0.88,0.90,0.86,0.86,0.88,0.88,0.84,0.94,0.88,0.92);

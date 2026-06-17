@@ -1,0 +1,7 @@
+{
+  "average_mutation_risk": 14.625,
+  "average_state_quality": 85.32,
+  "case_count": 4,
+  "highest_quality_case": "Functional core with imperative shell",
+  "highest_risk_case": "Shared cache in service architecture"
+}

@@ -1,0 +1,5 @@
+{
+  "mutation_safety_score": 82.71,
+  "mutation_risk_score": 17.29,
+  "interpretation": "Mutation risk falls when mutations are logged, shared references are controlled, and side effects are bounded."
+}

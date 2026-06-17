@@ -1,0 +1,5 @@
+case_name,state_quality
+Functional core with imperative shell,89.04
+Object lifecycle with mutable fields,84.22
+Shared cache in service architecture,79.14
+Database transaction workflow,88.64

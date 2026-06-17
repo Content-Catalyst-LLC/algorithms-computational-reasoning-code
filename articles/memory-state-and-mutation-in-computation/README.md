@@ -1,37 +1,14 @@
-# Memory, State, and Mutation in Computation (planned)
+# Memory, State, and Mutation in Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Programming Languages, Type Systems, and Execution Models  
-**Status:** planned
+Companion code and reproducible workflows for **Memory, State, and Mutation in Computation**.
 
-## Purpose
+This scaffold covers variables, values, bindings, references, pointers, stack and heap memory, allocation, copying, sharing, aliasing, local state, global state, persistent state, side effects, immutability, state machines, workflow state, memory management, ownership, transactions, caches, concurrency risk, race conditions, reproducibility, audit trails, rollback, and responsible state governance.
 
-This folder will hold computational companion materials for the planned article:
-**Memory, State, and Mutation in Computation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

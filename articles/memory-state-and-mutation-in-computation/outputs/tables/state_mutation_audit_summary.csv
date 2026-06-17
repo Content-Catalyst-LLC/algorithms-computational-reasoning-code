@@ -1,0 +1,2 @@
+case_count,average_state_quality,average_mutation_risk,highest_quality_case,highest_risk_case
+4,85.32,14.625,Functional core with imperative shell,Shared cache in service architecture
