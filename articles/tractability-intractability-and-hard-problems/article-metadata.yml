@@ -1,0 +1,17 @@
+actual_title: "Tractability, Intractability, and Hard Problems"
+suggested_seo_title: "Tractability, Intractability, and Hard Problems: What Can Be Solved"
+focus_keyword: "tractability intractability and hard problems"
+slug: "tractability-intractability-and-hard-problems"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "big-o-notation-and-growth-rates"
+  current: "tractability-intractability-and-hard-problems"
+  next: "p-np-and-the-boundaries-of-efficient-computation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/tractability-intractability-and-hard-problems"
+tags: [Tractability, Intractability, Hard Problems, Complexity Theory, Combinatorial Explosion, Approximation, NP-Hard Problems, Computational Reasoning]
+excerpt_139_words: "Tractability asks whether a problem can be solved within practical resource limits. Intractability asks when a problem becomes too expensive to solve exactly at useful scale. Hard problems sit at the boundary between what is theoretically definable and what is practically computable. This distinction is central to computational reasoning. Some problems are easy to state but extraordinarily difficult to solve. Others become difficult only when input size grows. Some have efficient algorithms for special cases but no known efficient solution in general. Some can be checked quickly once a solution is given, yet seem difficult to solve from scratch. Understanding tractability helps explain why algorithm designers use approximation, heuristics, randomized methods, dynamic programming, pruning, relaxation, parallelism, and problem reformulation. It also helps prevent misleading promises about automation and computational certainty."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

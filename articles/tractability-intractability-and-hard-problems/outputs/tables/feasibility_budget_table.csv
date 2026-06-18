@@ -1,0 +1,7 @@
+n,linear_cost,linear_feasibility,quadratic_cost,quadratic_feasibility,exponential_cost,exponential_feasibility
+10,10,comfortable,100,comfortable,1024,comfortable
+20,20,comfortable,400,comfortable,1048576,exceeds budget
+30,30,comfortable,900,comfortable,1073741824,exceeds budget
+50,50,comfortable,2500,comfortable,too_large,exceeds budget
+100,100,comfortable,10000,comfortable,too_large,exceeds budget
+1000,1000,comfortable,1000000,near budget,too_large,exceeds budget

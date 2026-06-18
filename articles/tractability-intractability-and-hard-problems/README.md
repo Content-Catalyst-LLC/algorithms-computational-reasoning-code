@@ -1,37 +1,14 @@
-# Tractability, Intractability, and Hard Problems (planned)
+# Tractability, Intractability, and Hard Problems
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Tractability, Intractability, and Hard Problems**.
 
-## Purpose
+This scaffold covers tractability, intractability, hard problems, decision problems, search problems, optimization problems, verification, reductions, search-space growth, feasibility thresholds, approximation readiness, heuristic validation, timeout handling, and responsible communication of computational limits.
 
-This folder will hold computational companion materials for the planned article:
-**Tractability, Intractability, and Hard Problems**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,9 @@
+term,category,definition,example
+tractability,feasibility,Solvability within practical resource limits,shortest path on graph
+intractability,feasibility limit,Exact solution becomes too costly at scale,general TSP
+hard problem,complexity concept,Problem believed difficult in general,NP-hard optimization
+decision problem,problem form,Yes or no question,is there a route under budget
+search problem,problem form,Find a valid solution,find a satisfying assignment
+optimization problem,problem form,Find best solution,shortest route
+verification,complexity concept,Check a proposed solution efficiently,validate assignment
+reduction,complexity concept,Transform one problem into another,hardness proof

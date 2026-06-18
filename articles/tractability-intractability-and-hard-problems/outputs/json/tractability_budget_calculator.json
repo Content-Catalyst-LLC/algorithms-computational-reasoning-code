@@ -1,0 +1,16 @@
+{
+  "n": 30,
+  "budget": 1000000.0,
+  "linear": {
+    "cost": 30,
+    "feasibility": "comfortable"
+  },
+  "quadratic": {
+    "cost": 900,
+    "feasibility": "comfortable"
+  },
+  "exponential": {
+    "cost": 1073741824,
+    "feasibility": "exceeds budget"
+  }
+}

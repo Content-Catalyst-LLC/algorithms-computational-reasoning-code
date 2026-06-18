@@ -1,0 +1,1 @@
+{"article_slug":"tractability-intractability-and-hard-problems","calculators":[{"name":"search_space_calculator","path":"python/calculators/search_space_calculator.py"},{"name":"tractability_budget_calculator","path":"python/calculators/tractability_budget_calculator.py"}],"outputs":["outputs/json/search_space_calculator.json","outputs/json/tractability_budget_calculator.json"]}

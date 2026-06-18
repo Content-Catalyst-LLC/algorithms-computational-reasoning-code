@@ -1,0 +1,38 @@
+[
+  {
+    "n": 5,
+    "permutations_n_factorial": 120,
+    "quadratic_pairs": 10,
+    "subsets_2_to_n": 32
+  },
+  {
+    "n": 10,
+    "permutations_n_factorial": 3628800,
+    "quadratic_pairs": 45,
+    "subsets_2_to_n": 1024
+  },
+  {
+    "n": 15,
+    "permutations_n_factorial": 1307674368000,
+    "quadratic_pairs": 105,
+    "subsets_2_to_n": 32768
+  },
+  {
+    "n": 20,
+    "permutations_n_factorial": 2432902008176640000,
+    "quadratic_pairs": 190,
+    "subsets_2_to_n": 1048576
+  },
+  {
+    "n": 30,
+    "permutations_n_factorial": "too_large",
+    "quadratic_pairs": 435,
+    "subsets_2_to_n": 1073741824
+  },
+  {
+    "n": 50,
+    "permutations_n_factorial": "too_large",
+    "quadratic_pairs": 1225,
+    "subsets_2_to_n": 1125899906842624
+  }
+]

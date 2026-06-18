@@ -1,0 +1,10 @@
+problem_form(decision).
+problem_form(search).
+problem_form(optimization).
+problem_form(counting).
+difficulty(tractable).
+difficulty(intractable).
+difficulty(hard_in_general).
+risk(false_optimality_claim).
+risk(hidden_timeout).
+risk(unvalidated_heuristic).

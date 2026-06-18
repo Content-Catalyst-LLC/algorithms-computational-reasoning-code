@@ -1,0 +1,56 @@
+[
+  {
+    "exponential_cost": 1024,
+    "exponential_feasibility": "comfortable",
+    "linear_cost": 10,
+    "linear_feasibility": "comfortable",
+    "n": 10,
+    "quadratic_cost": 100,
+    "quadratic_feasibility": "comfortable"
+  },
+  {
+    "exponential_cost": 1048576,
+    "exponential_feasibility": "exceeds budget",
+    "linear_cost": 20,
+    "linear_feasibility": "comfortable",
+    "n": 20,
+    "quadratic_cost": 400,
+    "quadratic_feasibility": "comfortable"
+  },
+  {
+    "exponential_cost": 1073741824,
+    "exponential_feasibility": "exceeds budget",
+    "linear_cost": 30,
+    "linear_feasibility": "comfortable",
+    "n": 30,
+    "quadratic_cost": 900,
+    "quadratic_feasibility": "comfortable"
+  },
+  {
+    "exponential_cost": "too_large",
+    "exponential_feasibility": "exceeds budget",
+    "linear_cost": 50,
+    "linear_feasibility": "comfortable",
+    "n": 50,
+    "quadratic_cost": 2500,
+    "quadratic_feasibility": "comfortable"
+  },
+  {
+    "exponential_cost": "too_large",
+    "exponential_feasibility": "exceeds budget",
+    "linear_cost": 100,
+    "linear_feasibility": "comfortable",
+    "n": 100,
+    "quadratic_cost": 10000,
+    "quadratic_feasibility": "comfortable"
+  },
+  {
+    "exponential_cost": "too_large",
+    "exponential_feasibility": "exceeds budget",
+    "linear_cost": 1000,
+    "linear_feasibility": "comfortable",
+    "n": 1000,
+    "quadratic_cost": 1000000,
+    "quadratic_feasibility": "near budget"
+  }
+]

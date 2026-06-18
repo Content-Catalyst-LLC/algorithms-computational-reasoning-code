@@ -1,0 +1,7 @@
+{
+  "average_tractability_quality": 67.536,
+  "average_tractability_risk": 32.6,
+  "case_count": 5,
+  "highest_quality_case": "Shortest path routing",
+  "highest_risk_case": "Opaque allocation optimizer"
+}

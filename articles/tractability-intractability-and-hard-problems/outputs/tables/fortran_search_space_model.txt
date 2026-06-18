@@ -1,0 +1,3 @@
+test_name value
+subsets_20 1048576
+pairs_100 4950

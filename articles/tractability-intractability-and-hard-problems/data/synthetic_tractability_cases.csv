@@ -1,0 +1,6 @@
+case_name,problem_context,problem_form,expected_difficulty,input_definition_clarity,complexity_evidence,structure_exploitation,exact_method_feasibility,approximation_readiness,heuristic_validation,benchmark_evidence,timeout_handling,governance_readiness,communication_clarity
+Shortest path routing,Find a shortest path in a weighted graph with nonnegative edges,optimization,tractable with appropriate graph algorithm,0.90,0.88,0.88,0.86,0.72,0.74,0.82,0.76,0.78,0.84
+Traveling salesperson route,Find the shortest route visiting each location once and returning to start,optimization,hard in general; approximation and heuristics often used,0.88,0.86,0.76,0.40,0.82,0.78,0.80,0.78,0.78,0.82
+Boolean satisfiability,Determine whether a Boolean formula has a satisfying assignment,decision,hard in general; verification is efficient for candidate assignments,0.86,0.88,0.76,0.44,0.62,0.76,0.78,0.80,0.76,0.80
+Opaque allocation optimizer,Allocate scarce resources with undocumented solver and unclear objective,optimization,unknown; claims of optimality are unsupported,0.36,0.24,0.28,0.30,0.26,0.22,0.24,0.20,0.26,0.22
+Knapsack planning,Select items under capacity with maximum value,optimization,pseudo-polynomial and approximable in common formulations,0.84,0.82,0.78,0.66,0.84,0.76,0.78,0.74,0.78,0.80
