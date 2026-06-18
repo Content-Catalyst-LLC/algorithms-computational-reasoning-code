@@ -1,0 +1,11 @@
+term,category,definition,example
+control flow,procedure structure,Order in which computational steps execute,branch loop function call
+sequence,control form,Steps executed in order,load validate transform export
+selection,control form,Choice among paths based on condition,if invalid return error
+iteration,control form,Repeated execution while condition or collection remains active,for each record
+recursion,control form,Procedure calls itself on smaller subproblem,tree traversal
+invariant,reasoning,Property preserved across steps,visited nodes are processed
+termination,reasoning,Condition that ends execution,queue empty
+base case,recursion,Simplest case that stops recursion,leaf node
+state update,memory,Change to variables records queues or stores,running total increases
+traceability,evidence,Ability to reconstruct control path,correlation ID and run log

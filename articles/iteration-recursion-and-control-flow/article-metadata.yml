@@ -1,0 +1,17 @@
+actual_title: "Iteration, Recursion, and Control Flow"
+suggested_seo_title: "Iteration, Recursion, and Control Flow: How Algorithms Move Through Time"
+focus_keyword: "iteration recursion and control flow"
+slug: "iteration-recursion-and-control-flow"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "algorithm-design-principles"
+  current: "iteration-recursion-and-control-flow"
+  next: "search-and-sorting-as-foundational-algorithms"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/iteration-recursion-and-control-flow"
+tags: [Iteration, Recursion, Control Flow, Loop Invariants, Termination, State Updates, Branching, Computational Reasoning]
+excerpt_139_words: "Iteration, recursion, and control flow explain how algorithms move through time. An algorithm is not only a set of operations. It is an ordered process: it repeats, branches, calls subproblems, updates state, checks conditions, stops, and sometimes delegates work to other procedures. Control flow is the structure that determines what happens next. Iteration repeats a block of computation while a condition, collection, counter, queue, or stream remains active. Recursion solves a problem by reducing it to smaller instances of the same problem. Together, these ideas form the procedural grammar of computation. Good algorithmic reasoning requires knowing when to loop, when to recurse, when to branch, when to stop, and how to prove that the procedure is correct across ordinary, edge, error, and high-stakes cases."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

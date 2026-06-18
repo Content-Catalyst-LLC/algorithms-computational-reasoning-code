@@ -1,0 +1,7 @@
+{
+  "max_depth": 250,
+  "runtime_stack_limit": 1000,
+  "depth_ratio": 0.25,
+  "recursion_depth_risk_score": 16.0,
+  "interpretation": "Risk rises with deep recursion, missing base cases, unclear progress, and repeated subproblems."
+}

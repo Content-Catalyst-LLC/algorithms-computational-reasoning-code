@@ -1,37 +1,14 @@
-# Iteration, Recursion, and Control Flow (planned)
+# Iteration, Recursion, and Control Flow
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Iteration, Recursion, and Control Flow**.
 
-## Purpose
+This scaffold covers iteration, recursion, control flow, sequence, selection, loops, counters, accumulators, state updates, loop invariants, base cases, recursive decomposition, call stacks, branching, exceptions, asynchronous workflows, traceability, stopping rules, and responsible computational governance.
 
-This folder will hold computational companion materials for the planned article:
-**Iteration, Recursion, and Control Flow**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

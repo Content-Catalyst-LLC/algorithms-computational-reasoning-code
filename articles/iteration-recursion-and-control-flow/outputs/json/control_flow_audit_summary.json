@@ -1,0 +1,7 @@
+{
+  "average_control_flow_quality": 74.864,
+  "average_control_flow_risk": 24.489,
+  "case_count": 5,
+  "highest_quality_case": "Dataset validation loop",
+  "highest_risk_case": "Unbounded retry loop"
+}

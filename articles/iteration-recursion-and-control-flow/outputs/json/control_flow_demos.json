@@ -1,0 +1,42 @@
+{
+  "branch_high_score": {
+    "path": "human_review",
+    "reason": "score exceeds review threshold"
+  },
+  "branch_invalid_score": {
+    "path": "validation_error",
+    "reason": "score outside 0..100"
+  },
+  "branch_low_score": {
+    "path": "ordinary_processing",
+    "reason": "score below review threshold"
+  },
+  "iterative_sum": {
+    "invariant": "running_total equals sum of processed prefix",
+    "total": 12.0,
+    "trace": [
+      {
+        "index": 0,
+        "running_total": 2.0,
+        "value": 2
+      },
+      {
+        "index": 1,
+        "running_total": 6.0,
+        "value": 4
+      },
+      {
+        "index": 2,
+        "running_total": 12.0,
+        "value": 6
+      }
+    ]
+  },
+  "recursive_countdown": [
+    4,
+    3,
+    2,
+    1,
+    0
+  ]
+}

@@ -1,0 +1,6 @@
+case_name                     control_flow_quality
+----------------------------  --------------------
+Dataset validation loop       87.0                
+Recursive tree traversal      85.2                
+Asynchronous review workflow  82.56               
+Unbounded retry loop          36.32               

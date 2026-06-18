@@ -1,0 +1,11 @@
+term,category,definition
+control flow,procedure structure,Order in which computational steps execute.
+sequence,control form,Steps executed in order.
+selection,control form,Choice among paths based on condition.
+iteration,control form,Repeated execution while condition or collection remains active.
+recursion,control form,Procedure calls itself on smaller subproblem.
+loop invariant,reasoning,Property preserved before and after loop iterations.
+base case,recursion,Simplest case that stops recursion.
+recursive case,recursion,Case that reduces problem and calls the procedure again.
+state update,memory,Change to variables records queues or stores.
+traceability,evidence,Ability to reconstruct the path taken by computation.

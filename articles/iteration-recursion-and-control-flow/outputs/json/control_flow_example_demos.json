@@ -1,0 +1,20 @@
+{
+  "iterative_sum": [
+    6.0,
+    0.0
+  ],
+  "recursive_factorial_5": 120,
+  "nondecreasing_valid": true,
+  "nondecreasing_invalid": false,
+  "bounded_retry_success": [
+    "attempt_1:retry",
+    "attempt_2:retry",
+    "attempt_3:success"
+  ],
+  "bounded_retry_exhausted": [
+    "attempt_1:retry",
+    "attempt_2:retry",
+    "attempt_3:retry",
+    "exhausted"
+  ]
+}
