@@ -1,37 +1,14 @@
-# Big-O Notation and Growth Rates (planned)
+# Big-O Notation and Growth Rates
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Big-O Notation and Growth Rates**.
 
-## Purpose
+This scaffold covers Big-O notation, Big-Theta, Big-Omega, asymptotic analysis, input-size definitions, growth-rate tables, scalability thresholds, empirical benchmarks, hidden-cost review, and responsible complexity communication.
 
-This folder will hold computational companion materials for the planned article:
-**Big-O Notation and Growth Rates**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

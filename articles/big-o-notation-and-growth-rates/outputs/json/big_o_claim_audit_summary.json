@@ -1,0 +1,7 @@
+{
+  "average_big_o_claim_quality": 69.048,
+  "average_big_o_claim_risk": 31.2,
+  "case_count": 5,
+  "highest_quality_claim": "Binary search lookup",
+  "highest_risk_claim": "Vague efficient ranking claim"
+}

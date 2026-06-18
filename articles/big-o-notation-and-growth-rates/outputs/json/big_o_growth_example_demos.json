@@ -1,0 +1,12 @@
+{
+  "growth_at_1000": {
+    "linear": 1000.0,
+    "n_log_n": 9965.784284662088,
+    "quadratic": 1000000.0
+  },
+  "thresholds_for_1e6": {
+    "linear": 1000000,
+    "quadratic": 1000,
+    "exponential": 19
+  }
+}

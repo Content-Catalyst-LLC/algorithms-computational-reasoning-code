@@ -1,0 +1,17 @@
+actual_title: "Big-O Notation and Growth Rates"
+suggested_seo_title: "Big-O Notation and Growth Rates: Understanding Algorithmic Scale"
+focus_keyword: "Big-O notation and growth rates"
+slug: "big-o-notation-and-growth-rates"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "computational-complexity-and-scalability"
+  current: "big-o-notation-and-growth-rates"
+  next: "tractability-intractability-and-hard-problems"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/big-o-notation-and-growth-rates"
+tags: [Big-O Notation, Growth Rates, Asymptotic Analysis, Algorithm Analysis, Time Complexity, Space Complexity, Scalability, Computational Reasoning]
+excerpt_139_words: "Big-O notation is the language computer scientists use to describe how algorithmic cost grows as input size grows. It does not usually tell us the exact number of seconds an algorithm will take. Instead, it describes the dominant growth pattern: constant, logarithmic, linear, linearithmic, quadratic, cubic, exponential, factorial, or something else. Growth rates matter because scale changes computation. Two algorithms may look similar on ten inputs and behave completely differently on ten million. A method that is elegant on a small example may become unusable at production scale. A procedure that seems inefficient for tiny data may become preferable once inputs grow large enough. Big-O is therefore not only a notation system. It is a way of thinking about limits, feasibility, scalability, resource growth, practical solvability, and design trade-offs."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

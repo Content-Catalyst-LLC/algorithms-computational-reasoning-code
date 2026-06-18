@@ -1,0 +1,1 @@
+{"article_slug":"big-o-notation-and-growth-rates","calculators":[{"name":"growth_rate_calculator","path":"python/calculators/growth_rate_calculator.py"},{"name":"big_o_threshold_calculator","path":"python/calculators/big_o_threshold_calculator.py"}],"outputs":["outputs/json/growth_rate_calculator.json","outputs/json/big_o_threshold_calculator.json"]}

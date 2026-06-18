@@ -1,0 +1,12 @@
+growth_class(constant).
+growth_class(logarithmic).
+growth_class(linear).
+growth_class(n_log_n).
+growth_class(quadratic).
+growth_class(exponential).
+bound_notation(big_o).
+bound_notation(big_theta).
+bound_notation(big_omega).
+risk(undefined_input_size).
+risk(hidden_constant_factor).
+risk(false_efficiency_claim).

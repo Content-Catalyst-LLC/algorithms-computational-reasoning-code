@@ -1,0 +1,11 @@
+{
+  "budget": 1000000.0,
+  "thresholds": {
+    "linear": 1000000,
+    "n_log_n": 62746,
+    "quadratic": 1000,
+    "cubic": 100,
+    "exponential": 19,
+    "factorial": 9
+  }
+}

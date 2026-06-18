@@ -1,0 +1,32 @@
+[
+  {
+    "budget": 1000000,
+    "growth": "linear",
+    "largest_n_under_budget": 1000000
+  },
+  {
+    "budget": 1000000,
+    "growth": "n_log_n",
+    "largest_n_under_budget": 62746
+  },
+  {
+    "budget": 1000000,
+    "growth": "quadratic",
+    "largest_n_under_budget": 1000
+  },
+  {
+    "budget": 1000000,
+    "growth": "cubic",
+    "largest_n_under_budget": 100
+  },
+  {
+    "budget": 1000000,
+    "growth": "exponential",
+    "largest_n_under_budget": 19
+  },
+  {
+    "budget": 1000000,
+    "growth": "factorial",
+    "largest_n_under_budget": 9
+  }
+]

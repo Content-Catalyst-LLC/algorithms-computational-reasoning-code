@@ -1,0 +1,79 @@
+[
+  {
+    "constant": 1.0,
+    "cubic": 125.0,
+    "exponential": 32.0,
+    "factorial": 120.0,
+    "linear": 5.0,
+    "log2_n": 2.322,
+    "n": 5,
+    "n_log2_n": 11.61,
+    "quadratic": 25.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 1000.0,
+    "exponential": 1024.0,
+    "factorial": 3628800.0,
+    "linear": 10.0,
+    "log2_n": 3.322,
+    "n": 10,
+    "n_log2_n": 33.219,
+    "quadratic": 100.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 8000.0,
+    "exponential": 1048576.0,
+    "factorial": "too_large",
+    "linear": 20.0,
+    "log2_n": 4.322,
+    "n": 20,
+    "n_log2_n": 86.439,
+    "quadratic": 400.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 27000.0,
+    "exponential": 1073741824.0,
+    "factorial": "too_large",
+    "linear": 30.0,
+    "log2_n": 4.907,
+    "n": 30,
+    "n_log2_n": 147.207,
+    "quadratic": 900.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 125000.0,
+    "exponential": "too_large",
+    "factorial": "too_large",
+    "linear": 50.0,
+    "log2_n": 5.644,
+    "n": 50,
+    "n_log2_n": 282.193,
+    "quadratic": 2500.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 1000000.0,
+    "exponential": "too_large",
+    "factorial": "too_large",
+    "linear": 100.0,
+    "log2_n": 6.644,
+    "n": 100,
+    "n_log2_n": 664.386,
+    "quadratic": 10000.0
+  },
+  {
+    "constant": 1.0,
+    "cubic": 1000000000.0,
+    "exponential": "too_large",
+    "factorial": "too_large",
+    "linear": 1000.0,
+    "log2_n": 9.966,
+    "n": 1000,
+    "n_log2_n": 9965.784,
+    "quadratic": 1000000.0
+  }
+]

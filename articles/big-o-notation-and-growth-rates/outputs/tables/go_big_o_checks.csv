@@ -1,0 +1,4 @@
+test_name,value
+linear_1000,1000
+nlogn_1000,9965.784285
+quadratic_1000,1000000

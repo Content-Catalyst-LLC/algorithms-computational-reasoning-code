@@ -1,0 +1,6 @@
+claim_name,system_context,claimed_growth,input_definition_clarity,resource_scope_clarity,case_assumption_clarity,derivation_quality,tightness_clarity,benchmark_support,threshold_reporting,hidden_cost_review,governance_readiness,communication_clarity
+Binary search lookup,Search sorted list or index,O(log n),0.92,0.86,0.84,0.88,0.84,0.82,0.78,0.76,0.78,0.86
+All-pairs comparison,Compare each record against every other record,O(n^2),0.88,0.84,0.82,0.86,0.82,0.78,0.80,0.78,0.76,0.82
+Efficient comparison sorting,Sort large list of comparable items,O(n log n),0.90,0.84,0.82,0.84,0.84,0.82,0.78,0.76,0.78,0.84
+Vague efficient ranking claim,Ranking pipeline described only as efficient,not stated,0.36,0.32,0.28,0.24,0.20,0.30,0.22,0.26,0.28,0.24
+Manual review queue,Human review burden from automated flagging,O(n) or worse,0.78,0.72,0.70,0.66,0.62,0.68,0.64,0.72,0.76,0.70

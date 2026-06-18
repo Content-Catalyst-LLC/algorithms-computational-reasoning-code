@@ -1,0 +1,8 @@
+claim_name                     claimed_growth  big_o_claim_quality
+-----------------------------  --------------  -------------------
+Binary search lookup           O(log n)        83.84              
+Efficient comparison sorting   O(n log n)      82.56              
+All-pairs comparison           O(n^2)          81.92              
+Manual review queue            O(n) or worse   69.68              
+Vague efficient ranking claim  not stated      27.24              
+claim_name                     claimed_growth  0.0                

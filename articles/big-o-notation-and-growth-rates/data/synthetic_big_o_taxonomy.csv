@@ -1,0 +1,9 @@
+term,category,definition,example
+Big-O,bound notation,Asymptotic upper bound,T(n)=O(n^2)
+Big-Theta,bound notation,Tight asymptotic bound,T(n)=Theta(n log n)
+Big-Omega,bound notation,Asymptotic lower bound,T(n)=Omega(n)
+dominant term,analysis concept,Term that grows fastest for large n,3n^2 dominates 20n
+constant factor,analysis caveat,Multiplier ignored asymptotically,100n is O(n)
+lower-order term,analysis caveat,Term that grows more slowly,20n in 3n^2+20n
+input size,analysis unit,What n counts,records nodes edges tokens
+threshold,scalability concept,Point where cost exceeds budget,n where n^2 > 1e6

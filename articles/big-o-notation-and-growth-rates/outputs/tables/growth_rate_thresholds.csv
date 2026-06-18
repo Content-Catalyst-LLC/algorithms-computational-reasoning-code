@@ -1,0 +1,7 @@
+growth,budget,largest_n_under_budget
+linear,1000000,1000000
+n_log_n,1000000,62746
+quadratic,1000000,1000
+cubic,1000000,100
+exponential,1000000,19
+factorial,1000000,9
