@@ -1,0 +1,57 @@
+[
+  {
+    "arrival_rate": "180",
+    "completed_work": "12000",
+    "scenario": "normal_search",
+    "service_rate": "240",
+    "throughput": 200.0,
+    "time_seconds": "60",
+    "total_cost": "42.00",
+    "unit_cost": 0.0035,
+    "utilization": 0.75
+  },
+  {
+    "arrival_rate": "320",
+    "completed_work": "18000",
+    "scenario": "peak_search",
+    "service_rate": "360",
+    "throughput": 300.0,
+    "time_seconds": "60",
+    "total_cost": "76.00",
+    "unit_cost": 0.004222,
+    "utilization": 0.888889
+  },
+  {
+    "arrival_rate": "55",
+    "completed_work": "3600",
+    "scenario": "ai_retrieval",
+    "service_rate": "70",
+    "throughput": 60.0,
+    "time_seconds": "60",
+    "total_cost": "210.00",
+    "unit_cost": 0.058333,
+    "utilization": 0.785714
+  },
+  {
+    "arrival_rate": "65",
+    "completed_work": "4800",
+    "scenario": "pipeline_validation",
+    "service_rate": "80",
+    "throughput": 40.0,
+    "time_seconds": "120",
+    "total_cost": "95.00",
+    "unit_cost": 0.019792,
+    "utilization": 0.8125
+  },
+  {
+    "arrival_rate": "390",
+    "completed_work": "24000",
+    "scenario": "dashboard_cache",
+    "service_rate": "450",
+    "throughput": 400.0,
+    "time_seconds": "60",
+    "total_cost": "24.00",
+    "unit_cost": 0.001,
+    "utilization": 0.866667
+  }
+]

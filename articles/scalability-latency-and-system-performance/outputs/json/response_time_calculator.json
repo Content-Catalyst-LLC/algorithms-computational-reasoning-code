@@ -1,0 +1,8 @@
+{
+  "network_ms": 45.0,
+  "queue_ms": 20.0,
+  "compute_ms": 85.0,
+  "storage_ms": 35.0,
+  "coordination_ms": 15.0,
+  "response_time_ms": 200.0
+}

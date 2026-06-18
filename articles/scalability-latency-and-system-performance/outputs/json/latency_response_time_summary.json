@@ -1,0 +1,90 @@
+[
+  {
+    "compute_ms": "48",
+    "coordination_ms": "8",
+    "network_ms": "35",
+    "queue_ms": "12",
+    "request_id": "r001",
+    "response_time_ms": 131.0,
+    "status": "ok",
+    "storage_ms": "28",
+    "system_path": "search_fanout"
+  },
+  {
+    "compute_ms": "51",
+    "coordination_ms": "9",
+    "network_ms": "42",
+    "queue_ms": "18",
+    "request_id": "r002",
+    "response_time_ms": 151.0,
+    "status": "ok",
+    "storage_ms": "31",
+    "system_path": "search_fanout"
+  },
+  {
+    "compute_ms": "92",
+    "coordination_ms": "18",
+    "network_ms": "58",
+    "queue_ms": "45",
+    "request_id": "r003",
+    "response_time_ms": 257.0,
+    "status": "tail_slow",
+    "storage_ms": "44",
+    "system_path": "search_fanout"
+  },
+  {
+    "compute_ms": "380",
+    "coordination_ms": "20",
+    "network_ms": "55",
+    "queue_ms": "22",
+    "request_id": "r004",
+    "response_time_ms": 542.0,
+    "status": "ok",
+    "storage_ms": "65",
+    "system_path": "ai_retrieval"
+  },
+  {
+    "compute_ms": "620",
+    "coordination_ms": "40",
+    "network_ms": "70",
+    "queue_ms": "88",
+    "request_id": "r005",
+    "response_time_ms": 914.0,
+    "status": "tail_slow",
+    "storage_ms": "96",
+    "system_path": "ai_retrieval"
+  },
+  {
+    "compute_ms": "210",
+    "coordination_ms": "35",
+    "network_ms": "20",
+    "queue_ms": "140",
+    "request_id": "r006",
+    "response_time_ms": 475.0,
+    "status": "queued",
+    "storage_ms": "70",
+    "system_path": "data_pipeline"
+  },
+  {
+    "compute_ms": "240",
+    "coordination_ms": "45",
+    "network_ms": "22",
+    "queue_ms": "250",
+    "request_id": "r007",
+    "response_time_ms": 642.0,
+    "status": "queued",
+    "storage_ms": "85",
+    "system_path": "data_pipeline"
+  },
+  {
+    "compute_ms": "12",
+    "coordination_ms": "2",
+    "network_ms": "15",
+    "queue_ms": "4",
+    "request_id": "r008",
+    "response_time_ms": 41.0,
+    "status": "stale_cache",
+    "storage_ms": "8",
+    "system_path": "dashboard_cache"
+  }
+]

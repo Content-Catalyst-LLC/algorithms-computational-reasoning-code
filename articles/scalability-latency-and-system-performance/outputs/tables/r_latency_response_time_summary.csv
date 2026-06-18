@@ -1,0 +1,9 @@
+"request_id","system_path","network_ms","queue_ms","compute_ms","storage_ms","coordination_ms","status","response_time_ms"
+"r001","search_fanout",35,12,48,28,8,"ok",131
+"r002","search_fanout",42,18,51,31,9,"ok",151
+"r003","search_fanout",58,45,92,44,18,"tail_slow",257
+"r004","ai_retrieval",55,22,380,65,20,"ok",542
+"r005","ai_retrieval",70,88,620,96,40,"tail_slow",914
+"r006","data_pipeline",20,140,210,70,35,"queued",475
+"r007","data_pipeline",22,250,240,85,45,"queued",642
+"r008","dashboard_cache",15,4,12,8,2,"stale_cache",41

@@ -1,37 +1,14 @@
-# Scalability, Latency, and System Performance (planned)
+# Scalability, Latency, and System Performance
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Scalability, Latency, and System Performance**.
 
-## Purpose
+This scaffold covers scalability, latency, throughput, utilization, queueing, tail latency, bottlenecks, caching, batching, load balancing, resource efficiency, observability, performance testing, cost awareness, and system-performance governance.
 
-This folder will hold computational companion materials for the planned article:
-**Scalability, Latency, and System Performance**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

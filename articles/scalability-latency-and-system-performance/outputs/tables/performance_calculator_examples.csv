@@ -1,0 +1,2 @@
+example,network_ms,queue_ms,compute_ms,storage_ms,coordination_ms,response_time_ms
+end_to_end_response_time_ms,45,20,85,35,15,200

@@ -1,0 +1,16 @@
+data <- read.csv("data/synthetic_performance_cases.csv", stringsAsFactors = FALSE)
+data$performance_reliability_score <- 100 * (0.09*data$throughput_headroom + 0.10*data$latency_decomposition + 0.11*data$tail_latency_visibility + 0.10*data$bottleneck_clarity + 0.09*data$queue_discipline + 0.07*data$caching_policy + 0.08*data$resource_efficiency + 0.11*data$observability + 0.09*data$failure_behavior + 0.06*data$cost_awareness + 0.06*data$governance_review + 0.04*data$communication_clarity)
+data$performance_risk <- 100 * rowMeans(1 - data[, c("throughput_headroom","latency_decomposition","tail_latency_visibility","bottleneck_clarity","queue_discipline","observability","failure_behavior","cost_awareness","governance_review")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_performance_summary.csv", row.names=FALSE)
+png("outputs/figures/r_performance_reliability_vs_risk.png", width=1500, height=850)
+m <- rbind(data$performance_reliability_score, data$performance_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Performance reliability", "Performance risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Performance Reliability vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+latency <- read.csv("data/synthetic_latency_samples.csv", stringsAsFactors=FALSE)
+latency$response_time_ms <- latency$network_ms + latency$queue_ms + latency$compute_ms + latency$storage_ms + latency$coordination_ms
+write.csv(latency, "outputs/tables/r_latency_response_time_summary.csv", row.names=FALSE)
+print(data)

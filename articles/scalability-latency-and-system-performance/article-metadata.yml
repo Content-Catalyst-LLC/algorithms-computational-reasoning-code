@@ -1,0 +1,16 @@
+actual_title: "Scalability, Latency, and System Performance"
+suggested_seo_title: "Scalability, Latency, and System Performance"
+focus_keyword: "scalability latency and system performance"
+slug: "scalability-latency-and-system-performance"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "consensus-coordination-and-fault-tolerance"
+  current: "scalability-latency-and-system-performance"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/scalability-latency-and-system-performance"
+tags: [Scalability, Latency, System Performance, Throughput, Tail Latency, Queueing, Bottlenecks, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

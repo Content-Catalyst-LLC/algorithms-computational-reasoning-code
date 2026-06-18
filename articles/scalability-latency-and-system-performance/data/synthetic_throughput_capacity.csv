@@ -1,0 +1,6 @@
+scenario,completed_work,time_seconds,arrival_rate,service_rate,total_cost
+normal_search,12000,60,180,240,42.00
+peak_search,18000,60,320,360,76.00
+ai_retrieval,3600,60,55,70,210.00
+pipeline_validation,4800,120,65,80,95.00
+dashboard_cache,24000,60,390,450,24.00

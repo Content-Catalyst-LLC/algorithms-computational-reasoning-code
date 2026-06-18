@@ -1,0 +1,10 @@
+{
+  "completed_work": 12000,
+  "time_seconds": 60,
+  "throughput": 200.0,
+  "arrival_rate": 180,
+  "service_rate": 200,
+  "utilization": 0.9,
+  "average_time_in_system": 0.45,
+  "average_items_in_system": 81.0
+}

@@ -1,0 +1,10 @@
+#lang racket
+(define (response-time n q c s o) (+ n q c s o))
+(define (throughput completed seconds) (if (= seconds 0) 0 (/ completed seconds)))
+(define (utilization arrival service) (if (= service 0) 0 (/ arrival service)))
+(define (little-law arrival time) (* arrival time))
+(displayln "test_name,value")
+(displayln (format "response_time_ms,~a" (response-time 45 20 85 35 15)))
+(displayln (format "throughput,~a" (throughput 12000 60)))
+(displayln (format "utilization,~a" (utilization 180 200)))
+(displayln (format "little_law_items,~a" (little-law 180 .45)))

@@ -1,0 +1,10 @@
+term,category,definition,example
+scalability,growth behavior,ability to handle increased demand without unacceptable collapse,horizontal scaling under more users
+latency,time,response delay between request and result,end-to-end request time
+throughput,capacity,work completed per unit time,requests per second
+tail latency,distribution,slow response percentiles such as P95 or P99,P99 model-serving delay
+bottleneck,limiting component,resource or step that constrains performance,slow database query
+queueing,waiting,work waits before service,worker backlog
+backpressure,control,slow producers when consumers cannot keep up,stream pauses ingestion
+utilization,resource use,arrival rate compared with service rate,CPU or worker saturation
+SLO,governance,target for service behavior,P95 latency under threshold

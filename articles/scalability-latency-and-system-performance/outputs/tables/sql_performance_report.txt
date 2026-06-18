@@ -1,0 +1,16 @@
+case_name                         performance_risk_score
+--------------------------------  ----------------------
+Opaque fast dashboard             65.58                 
+AI retrieval and generation path  23.9                  
+Data pipeline validation backlog  21.42                 
+Distributed search fanout         18.16                 
+request_id  system_path      response_time_ms  status     
+----------  ---------------  ----------------  -----------
+r005        ai_retrieval     914.0             tail_slow  
+r007        data_pipeline    642.0             queued     
+r004        ai_retrieval     542.0             ok         
+r006        data_pipeline    475.0             queued     
+r003        search_fanout    257.0             tail_slow  
+r002        search_fanout    151.0             ok         
+r001        search_fanout    131.0             ok         
+r008        dashboard_cache  41.0              stale_cache
