@@ -1,0 +1,11 @@
+term,category,definition
+greedy algorithm,design pattern,Algorithm that commits to a local best choice at each step.
+local decision rule,selection rule,Rule for choosing the next candidate.
+candidate set,choice structure,Options available at the current step.
+feasibility check,constraint,Test that determines whether a choice can be accepted.
+greedy-choice property,proof,Condition where a local greedy choice can belong to a global optimum.
+optimal substructure,problem structure,Optimal solution contains optimal subsolutions.
+exchange argument,proof technique,Show an optimal solution can be modified to include the greedy choice.
+priority queue,data structure,Structure for repeatedly selecting highest or lowest priority item.
+counterexample,testing,Case showing the local rule can fail.
+governance,accountability,Review of local decision rules, consequences, and override authority.

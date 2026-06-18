@@ -1,37 +1,14 @@
-# Greedy Algorithms and Local Decision Rules (planned)
+# Greedy Algorithms and Local Decision Rules
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Greedy Algorithms and Local Decision Rules**.
 
-## Purpose
+This scaffold covers greedy algorithms, local decision rules, interval scheduling, Dijkstra’s algorithm, minimum spanning trees, Huffman coding, priority queues, greedy-choice property, optimal substructure, exchange arguments, counterexample testing, approximation, heuristics, traceability, and responsible local-choice governance.
 
-This folder will hold computational companion materials for the planned article:
-**Greedy Algorithms and Local Decision Rules**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,12 @@
+case_name                               greedy_quality
+--------------------------------------  --------------
+Interval scheduling by earliest finish  88.16         
+Dijkstra shortest path                  88.0          
+Risk review priority queue              72.68         
+Nearest-neighbor route heuristic        62.08         
+case_id  risk_score  urgency_score  eligibility  local_priority
+-------  ----------  -------------  -----------  --------------
+R-002    92.0        50.0           true         92.0          
+R-003    92.0        60.0           true         92.0          
+R-001    84.0        70.0           true         84.0          
+R-004    71.0        95.0           true         71.0          

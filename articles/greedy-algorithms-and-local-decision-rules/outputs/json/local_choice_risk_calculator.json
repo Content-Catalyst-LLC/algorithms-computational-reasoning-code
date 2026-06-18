@@ -1,0 +1,4 @@
+{
+  "local_choice_risk": 30.0,
+  "interpretation": "Risk rises when proxy validity, counterexample coverage, tie-breaking, override, traceability, or monitoring are weak."
+}

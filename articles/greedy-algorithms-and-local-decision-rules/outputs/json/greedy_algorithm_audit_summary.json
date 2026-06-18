@@ -1,0 +1,7 @@
+{
+  "average_greedy_quality": 79.4,
+  "average_greedy_risk": 20.88,
+  "case_count": 5,
+  "highest_quality_case": "Interval scheduling by earliest finish",
+  "highest_risk_case": "Nearest-neighbor route heuristic"
+}

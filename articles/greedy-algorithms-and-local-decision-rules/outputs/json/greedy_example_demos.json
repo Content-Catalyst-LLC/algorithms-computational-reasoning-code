@@ -1,0 +1,38 @@
+{
+  "interval_scheduling": [
+    [
+      "B",
+      1,
+      4
+    ],
+    [
+      "D",
+      5,
+      7
+    ]
+  ],
+  "dijkstra": {
+    "C": 3.0,
+    "A": 0.0,
+    "B": 2.0
+  },
+  "huffman_merge_order": [
+    [
+      14,
+      "A+B->N0"
+    ],
+    [
+      25,
+      "C+D->N1"
+    ],
+    [
+      39,
+      "N0+N1->N2"
+    ]
+  ],
+  "nearest_neighbor_route": [
+    "A",
+    "B",
+    "C"
+  ]
+}

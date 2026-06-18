@@ -1,0 +1,43 @@
+{
+  "dijkstra_distances": {
+    "A": 0.0,
+    "B": 2.0,
+    "C": 3.0,
+    "D": 4.0
+  },
+  "interval_scheduling_result": [
+    [
+      "B",
+      1,
+      4
+    ],
+    [
+      "D",
+      5,
+      7
+    ],
+    [
+      "F",
+      8,
+      11
+    ]
+  ],
+  "risk_queue_order": [
+    {
+      "case_id": "R-002",
+      "risk_score": 92
+    },
+    {
+      "case_id": "R-003",
+      "risk_score": 92
+    },
+    {
+      "case_id": "R-001",
+      "risk_score": 84
+    },
+    {
+      "case_id": "R-004",
+      "risk_score": 71
+    }
+  ]
+}

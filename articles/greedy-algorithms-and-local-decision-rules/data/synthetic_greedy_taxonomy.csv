@@ -1,0 +1,10 @@
+term,category,definition,example
+greedy algorithm,design pattern,Algorithm that commits to a local best choice at each step,interval scheduling
+local decision rule,selection rule,Rule for choosing the next candidate,earliest finish time
+greedy-choice property,proof,Condition where a local greedy choice can belong to a global optimum,interval scheduling exchange argument
+optimal substructure,problem structure,Optimal solution contains optimal subsolutions,shortest paths
+exchange argument,proof technique,Show an optimal solution can be modified to include greedy choice,interval scheduling proof
+priority queue,data structure,Structure for repeatedly selecting highest or lowest priority item,Dijkstra algorithm
+counterexample,testing,Case showing local rule can fail,nearest-neighbor route
+traceability,evidence,Ability to reconstruct local choices,decision log
+governance,accountability,Review of priority rules and consequences,triage policy review

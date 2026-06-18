@@ -1,0 +1,6 @@
+case_id,risk_score,urgency_score,eligibility,review_capacity,local_priority
+R-001,84,70,true,available,84
+R-002,92,50,true,available,92
+R-003,92,60,true,available,92
+R-004,71,95,true,available,71
+R-005,88,40,false,blocked,88

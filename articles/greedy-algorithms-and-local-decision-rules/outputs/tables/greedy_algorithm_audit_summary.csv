@@ -1,0 +1,2 @@
+case_count,average_greedy_quality,average_greedy_risk,highest_quality_case,highest_risk_case
+5,79.4,20.88,Interval scheduling by earliest finish,Nearest-neighbor route heuristic
