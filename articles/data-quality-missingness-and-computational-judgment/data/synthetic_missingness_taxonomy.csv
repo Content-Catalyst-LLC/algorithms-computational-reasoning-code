@@ -1,0 +1,11 @@
+term,category,definition,example
+missingness,data quality,absence of recorded value or relationship,blank publication date
+missing completely at random,statistical missingness,missingness unrelated to observed or unobserved values,random file transfer error
+missing at random,statistical missingness,missingness depends on observed variables,one source lacks a field
+missing not at random,statistical missingness,missingness depends on unobserved values or the value itself,sensitive outcomes underreported
+structural missingness,data quality,field does not apply to a case,graduation date for non-student
+not collected,data governance,source never gathered the field,older archive lacks timestamp
+withheld,data governance,value is restricted or redacted,privacy redaction
+imputation,data processing,estimated replacement for missing value,group median fill
+provenance,data quality evidence,source and processing evidence behind data,source file and extraction time
+fitness for purpose,judgment,whether data is adequate for a specific use,acceptable for exploration but not decisions

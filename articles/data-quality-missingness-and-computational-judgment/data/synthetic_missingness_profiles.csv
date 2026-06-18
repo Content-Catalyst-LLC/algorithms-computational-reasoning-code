@@ -1,0 +1,9 @@
+field,missing_count,total_count,missingness_reason,handling_policy
+source_id,0,1000,required field,block if missing
+publication_date,45,1000,not collected in older source,flag historical coverage gap
+review_status,120,1000,pending review,mark as pending and exclude from approved-only outputs
+citation_url,80,1000,source unavailable or print-only,preserve source note and alternate citation
+confidence_score,310,1000,not applicable to manually curated records,use structured missingness code
+entity_identifier,24,1000,entity resolution pending,route to identity review
+freshness_timestamp,60,1000,source does not expose update timestamp,display freshness limitation
+coverage_group,140,1000,not collected by source,do not generalize by group

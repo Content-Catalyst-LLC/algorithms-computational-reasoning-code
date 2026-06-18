@@ -1,0 +1,27 @@
+field                missingness_rate  completeness_score  missingness_reason                          handling_policy                                       
+-------------------  ----------------  ------------------  ------------------------------------------  ------------------------------------------------------
+confidence_score     0.31              0.69                not applicable to manually curated records  use structured missingness code                       
+coverage_group       0.14              0.86                not collected by source                     do not generalize by group                            
+review_status        0.12              0.88                pending review                              mark as pending and exclude from approved-only outputs
+citation_url         0.08              0.92                source unavailable or print-only            preserve source note and alternate citation           
+freshness_timestamp  0.06              0.94                source does not expose update timestamp     display freshness limitation                          
+publication_date     0.045             0.955               not collected in older source               flag historical coverage gap                          
+entity_identifier    0.024             0.976               entity resolution pending                   route to identity review                              
+source_id            0.0               1.0                 required field                              block if missing                                      
+check_id                     dimension                  pass_rate  threshold  status
+---------------------------  -------------------------  ---------  ---------  ------
+imputed_value_flagged        imputation_discipline      0.94       0.95       block 
+required_source_id           completeness               1.0        1.0        pass  
+freshness_threshold          freshness                  0.91       0.9        pass  
+schema_version_present       schema_stability           1.0        1.0        pass  
+valid_date_format            validity                   0.985      0.98       pass  
+missingness_reason_present   missingness_documentation  0.82       0.85       review
+provenance_present           provenance                 0.93       0.95       review
+representativeness_reviewed  representativeness         0.76       0.8        review
+uncertainty_note_present     uncertainty_communication  0.7        0.8        review
+case_name                               computational_use               quality_score
+--------------------------------------  ------------------------------  -------------
+Scientific dataset with strong lineage  reproducible research           86.72        
+Search metadata quality                 search ranking and retrieval    82.28        
+AI retrieval provenance gaps            retrieval augmented generation  69.36        
+Opaque operational dashboard            management dashboard            39.84        

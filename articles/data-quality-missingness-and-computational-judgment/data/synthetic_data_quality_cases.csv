@@ -1,0 +1,6 @@
+case_name,system_context,computational_use,completeness,validity,freshness,provenance,schema_stability,representativeness,missingness_documentation,imputation_discipline,validation_coverage,governance_review,uncertainty_communication,fitness_for_purpose
+Search metadata quality,Documents are ranked and filtered using titles tags dates source metadata and provenance,search ranking and retrieval,0.84,0.86,0.78,0.88,0.82,0.76,0.80,0.72,0.84,0.78,0.74,0.82
+AI retrieval provenance gaps,Passages are embedded and retrieved for answer generation but some lack citation and source metadata,retrieval-augmented generation,0.72,0.78,0.76,0.62,0.74,0.70,0.58,0.60,0.66,0.62,0.54,0.66
+Scientific dataset with strong lineage,Raw observations cleaned tables analysis outputs and figures are documented with validation reports,reproducible research,0.88,0.86,0.82,0.92,0.88,0.84,0.86,0.84,0.90,0.82,0.84,0.88
+Knowledge graph missing edges,Some entity relationships are absent because extraction coverage and review status are incomplete,semantic retrieval and graph search,0.76,0.80,0.78,0.74,0.76,0.70,0.68,0.62,0.70,0.68,0.64,0.72
+Opaque operational dashboard,Rows with missing values are dropped before reporting and data freshness is not displayed,management dashboard,0.46,0.54,0.42,0.34,0.44,0.36,0.20,0.18,0.30,0.28,0.16,0.32

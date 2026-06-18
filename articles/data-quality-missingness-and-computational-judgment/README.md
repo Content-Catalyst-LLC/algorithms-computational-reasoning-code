@@ -1,37 +1,14 @@
-# Data Quality, Missingness, and Computational Judgment (planned)
+# Data Quality, Missingness, and Computational Judgment
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Data Quality, Missingness, and Computational Judgment**.
 
-## Purpose
+This scaffold covers data quality, missingness, validation, completeness, provenance, schema stability, representativeness, imputation discipline, uncertainty communication, and responsible data governance.
 
-This folder will hold computational companion materials for the planned article:
-**Data Quality, Missingness, and Computational Judgment**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

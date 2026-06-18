@@ -1,0 +1,10 @@
+check_id,dimension,passed,total,threshold,gate_action
+required_source_id,completeness,1000,1000,1.00,block
+valid_date_format,validity,985,1000,0.98,review
+freshness_threshold,freshness,910,1000,0.90,warn
+provenance_present,provenance,930,1000,0.95,review
+schema_version_present,schema_stability,1000,1000,1.00,block
+representativeness_reviewed,representativeness,760,1000,0.80,review
+missingness_reason_present,missingness_documentation,820,1000,0.85,review
+imputed_value_flagged,imputation_discipline,940,1000,0.95,block
+uncertainty_note_present,uncertainty_communication,700,1000,0.80,review

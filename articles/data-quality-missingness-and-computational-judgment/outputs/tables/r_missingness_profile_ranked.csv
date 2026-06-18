@@ -1,0 +1,9 @@
+"field","missing_count","total_count","missingness_reason","handling_policy","missingness_rate","completeness_score"
+"confidence_score",310,1000,"not applicable to manually curated records","use structured missingness code",0.31,0.69
+"coverage_group",140,1000,"not collected by source","do not generalize by group",0.14,0.86
+"review_status",120,1000,"pending review","mark as pending and exclude from approved-only outputs",0.12,0.88
+"citation_url",80,1000,"source unavailable or print-only","preserve source note and alternate citation",0.08,0.92
+"freshness_timestamp",60,1000,"source does not expose update timestamp","display freshness limitation",0.06,0.94
+"publication_date",45,1000,"not collected in older source","flag historical coverage gap",0.045,0.955
+"entity_identifier",24,1000,"entity resolution pending","route to identity review",0.024,0.976
+"source_id",0,1000,"required field","block if missing",0,1

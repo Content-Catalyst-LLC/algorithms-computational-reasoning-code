@@ -1,0 +1,9 @@
+{
+  "completeness": 0.92,
+  "validity": 0.88,
+  "timeliness": 0.86,
+  "provenance": 0.9,
+  "validation": 0.89,
+  "data_quality_score": 89.32,
+  "diagnostic": "strong data-quality evidence"
+}

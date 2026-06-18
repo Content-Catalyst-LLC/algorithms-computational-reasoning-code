@@ -1,0 +1,17 @@
+actual_title: "Data Quality, Missingness, and Computational Judgment"
+suggested_seo_title: "Data Quality, Missingness, and Computational Judgment"
+focus_keyword: "data quality missingness and computational judgment"
+slug: "data-quality-missingness-and-computational-judgment"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Infrastructure and Workflow Design"
+article_order:
+  previous: "data-pipelines-and-algorithmic-workflow-design"
+  current: "data-quality-missingness-and-computational-judgment"
+  next: "workflow-orchestration-and-reproducible-computation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/data-quality-missingness-and-computational-judgment"
+tags: [Data Quality, Missingness, Computational Judgment, Data Validation, Imputation, Provenance, Uncertainty, Computational Reasoning]
+excerpt_139_words: "Data quality determines what computational systems can responsibly claim. Missingness determines what those systems cannot see. Computational judgment begins when designers, analysts, researchers, engineers, and decision-makers recognize that data is never simply given. It is collected, selected, formatted, transformed, omitted, corrected, inferred, validated, and interpreted. A dataset may look complete because every row has values. It may still be incomplete because certain people, places, events, sources, time periods, categories, or conditions were never recorded. A dashboard may look precise because it contains numbers. Those numbers may depend on fragile definitions, inconsistent measurement, silent imputation, duplicated entities, stale records, missing metadata, or excluded cases. Data quality and missingness shape what algorithms can learn, retrieve, model, cite, and responsibly decide."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

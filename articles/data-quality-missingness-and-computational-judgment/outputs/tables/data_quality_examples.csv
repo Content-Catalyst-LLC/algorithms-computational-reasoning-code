@@ -1,0 +1,3 @@
+completeness,validity,timeliness,provenance,validation,data_quality_score,diagnostic
+0.92,0.88,0.86,0.9,0.89,89.32,strong data-quality evidence
+0.62,0.7,0.48,0.42,0.55,55.84,"review completeness, validity, timeliness, provenance, and validation"
