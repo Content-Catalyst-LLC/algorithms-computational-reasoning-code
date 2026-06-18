@@ -1,0 +1,2 @@
+case_count,average_streaming_claim_quality,average_streaming_claim_risk,highest_quality_case,highest_risk_case
+5,65.996,34.062,Approximate distinct user counting,Opaque real-time dashboard

@@ -1,0 +1,9 @@
+streaming_state(counter).
+streaming_state(sketch).
+streaming_state(sample).
+streaming_state(window).
+risk(real_time_certainty).
+risk(approximation_opacity).
+risk(late_data_neglect).
+risk(alert_fatigue).
+risk(backpressure_invisibility).

@@ -1,37 +1,14 @@
-# Streaming Algorithms and Real-Time Data (planned)
+# Streaming Algorithms and Real-Time Data
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Streaming Algorithms and Real-Time Data**.
 
-## Purpose
+This scaffold covers streaming algorithms, real-time data, bounded memory, windows, event time, watermarks, reservoir sampling, sketches, approximate counting, Bloom filters, Count-Min sketches, anomaly detection, backpressure, late data, alert governance, retention, privacy, and responsible real-time claims.
 
-This folder will hold computational companion materials for the planned article:
-**Streaming Algorithms and Real-Time Data**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

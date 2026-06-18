@@ -1,0 +1,6 @@
+arrival_rate,processing_rate,utilization,stable_under_simple_model,interpretation
+50,100.0,0.5,True,stable
+75,100.0,0.75,True,stable
+90,100.0,0.9,True,stable
+100,100.0,1.0,False,backpressure risk
+120,100.0,1.2,False,backpressure risk

@@ -1,0 +1,18 @@
+[
+  {
+    "possibly_present": true,
+    "query": "A"
+  },
+  {
+    "possibly_present": false,
+    "query": "D"
+  },
+  {
+    "possibly_present": true,
+    "query": "B"
+  },
+  {
+    "possibly_present": false,
+    "query": "E"
+  }
+]

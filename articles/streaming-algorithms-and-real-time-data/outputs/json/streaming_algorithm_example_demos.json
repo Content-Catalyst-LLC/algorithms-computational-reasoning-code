@@ -1,0 +1,88 @@
+{
+  "sliding_window_sample": [
+    {
+      "time": 1,
+      "event": "A",
+      "window_size": 3,
+      "window_items": "A",
+      "counts": "{\"A\": 1}"
+    },
+    {
+      "time": 2,
+      "event": "B",
+      "window_size": 3,
+      "window_items": "A|B",
+      "counts": "{\"A\": 1, \"B\": 1}"
+    },
+    {
+      "time": 3,
+      "event": "A",
+      "window_size": 3,
+      "window_items": "A|B|A",
+      "counts": "{\"A\": 2, \"B\": 1}"
+    },
+    {
+      "time": 4,
+      "event": "C",
+      "window_size": 3,
+      "window_items": "B|A|C",
+      "counts": "{\"A\": 1, \"B\": 1, \"C\": 1}"
+    },
+    {
+      "time": 5,
+      "event": "A",
+      "window_size": 3,
+      "window_items": "A|C|A",
+      "counts": "{\"A\": 2, \"C\": 1}"
+    },
+    {
+      "time": 6,
+      "event": "D",
+      "window_size": 3,
+      "window_items": "C|A|D",
+      "counts": "{\"A\": 1, \"C\": 1, \"D\": 1}"
+    },
+    {
+      "time": 7,
+      "event": "B",
+      "window_size": 3,
+      "window_items": "A|D|B",
+      "counts": "{\"A\": 1, \"B\": 1, \"D\": 1}"
+    },
+    {
+      "time": 8,
+      "event": "E",
+      "window_size": 3,
+      "window_items": "D|B|E",
+      "counts": "{\"B\": 1, \"D\": 1, \"E\": 1}"
+    }
+  ],
+  "reservoir_sample": [
+    "A",
+    "B",
+    "E"
+  ],
+  "queue_pressure_sample": [
+    {
+      "arrival_rate": 80,
+      "processing_rate": 100.0,
+      "utilization": 0.8,
+      "stable_under_simple_model": true,
+      "interpretation": "stable"
+    },
+    {
+      "arrival_rate": 100,
+      "processing_rate": 100.0,
+      "utilization": 1.0,
+      "stable_under_simple_model": false,
+      "interpretation": "backpressure risk"
+    },
+    {
+      "arrival_rate": 120,
+      "processing_rate": 100.0,
+      "utilization": 1.2,
+      "stable_under_simple_model": false,
+      "interpretation": "backpressure risk"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+case_name                            streaming_claim                           streaming_claim_quality
+-----------------------------------  ----------------------------------------  -----------------------
+Approximate distinct user counting   memory-efficient distinct count estimate  78.44                  
+Streaming feature pipeline           fresh streaming features                  77.88                  
+Real-time infrastructure monitoring  live anomaly detection                    77.4                   
+Human review alert stream            real-time escalation                      76.62                  
+Opaque real-time dashboard           real-time accurate dashboard              19.64                  

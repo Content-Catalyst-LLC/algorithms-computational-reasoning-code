@@ -1,0 +1,37 @@
+[
+  {
+    "arrival_rate": 50,
+    "interpretation": "stable",
+    "processing_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.5
+  },
+  {
+    "arrival_rate": 75,
+    "interpretation": "stable",
+    "processing_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.75
+  },
+  {
+    "arrival_rate": 90,
+    "interpretation": "stable",
+    "processing_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.9
+  },
+  {
+    "arrival_rate": 100,
+    "interpretation": "backpressure risk",
+    "processing_rate": 100.0,
+    "stable_under_simple_model": false,
+    "utilization": 1.0
+  },
+  {
+    "arrival_rate": 120,
+    "interpretation": "backpressure risk",
+    "processing_rate": 100.0,
+    "stable_under_simple_model": false,
+    "utilization": 1.2
+  }
+]

@@ -1,0 +1,11 @@
+term,category,definition,example
+stream,core concept,Sequence of arriving items or events,logs or transactions
+bounded memory,constraint,State remains limited as stream grows,sketch or window
+sliding window,time model,Recent event subset of fixed length,last five events
+event time,time model,When event occurred,transaction timestamp
+processing time,time model,When system observed event,ingestion timestamp
+watermark,time model,Estimate that most events before time have arrived,late-data cutoff
+reservoir sampling,sampling method,Random sample from unknown-length stream,audit sample
+bloom filter,probabilistic structure,Compact membership test with false positives,duplicate hint
+count-min sketch,probabilistic structure,Compact frequency estimate,heavy hitters
+backpressure,systems concept,Downstream slows upstream flow,queue overload signal

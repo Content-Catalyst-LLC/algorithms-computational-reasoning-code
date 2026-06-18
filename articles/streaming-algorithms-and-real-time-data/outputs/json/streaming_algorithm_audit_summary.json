@@ -1,0 +1,7 @@
+{
+  "average_streaming_claim_quality": 65.996,
+  "average_streaming_claim_risk": 34.062,
+  "case_count": 5,
+  "highest_quality_case": "Approximate distinct user counting",
+  "highest_risk_case": "Opaque real-time dashboard"
+}

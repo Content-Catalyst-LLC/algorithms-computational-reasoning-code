@@ -1,0 +1,6 @@
+case_name,system_context,streaming_claim,bounded_memory_clarity,approximation_transparency,event_time_handling,late_data_policy,window_design,sampling_quality,sketch_suitability,throughput_awareness,alert_governance,retention_policy,privacy_review,fallback_readiness,communication_clarity
+Real-time infrastructure monitoring,Logs and metrics are processed continuously for anomaly alerts,live anomaly detection,0.82,0.74,0.78,0.72,0.82,0.70,0.76,0.84,0.82,0.76,0.70,0.78,0.80
+Approximate distinct user counting,Large stream of user identifiers is summarized with compact cardinality estimates,memory-efficient distinct count estimate,0.90,0.86,0.74,0.70,0.76,0.68,0.88,0.82,0.62,0.82,0.84,0.72,0.82
+Human review alert stream,Flagged events arrive continuously and are routed to limited review capacity,real-time escalation,0.72,0.70,0.78,0.76,0.74,0.72,0.62,0.82,0.88,0.80,0.82,0.80,0.84
+Streaming feature pipeline,User interaction features are updated continuously for model serving,fresh streaming features,0.80,0.74,0.82,0.76,0.78,0.70,0.76,0.86,0.74,0.78,0.76,0.80,0.82
+Opaque real-time dashboard,Dashboard claims live truth but omits sampling delay late data approximation and missing-event policies,real-time accurate dashboard,0.24,0.18,0.22,0.16,0.20,0.18,0.18,0.22,0.20,0.18,0.20,0.18,0.20

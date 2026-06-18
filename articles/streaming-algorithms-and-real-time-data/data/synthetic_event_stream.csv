@@ -1,0 +1,13 @@
+time,event_type,item,value,priority
+1,click,A,4,low
+2,click,B,2,low
+3,error,A,9,high
+4,click,C,3,low
+5,click,A,5,medium
+6,alert,D,12,high
+7,click,B,4,low
+8,click,E,2,low
+9,error,A,11,high
+10,click,C,5,medium
+11,click,F,2,low
+12,alert,A,14,high

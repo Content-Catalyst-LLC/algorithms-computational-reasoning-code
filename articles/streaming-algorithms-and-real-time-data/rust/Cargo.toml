@@ -1,0 +1,5 @@
+[package]
+name = "streaming-algorithms-and-real-time-data"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

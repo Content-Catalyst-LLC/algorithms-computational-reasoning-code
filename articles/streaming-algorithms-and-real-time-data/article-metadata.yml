@@ -1,0 +1,17 @@
+actual_title: "Streaming Algorithms and Real-Time Data"
+suggested_seo_title: "Streaming Algorithms and Real-Time Data"
+focus_keyword: "streaming algorithms and real-time data"
+slug: "streaming-algorithms-and-real-time-data"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "online-algorithms-and-decisions-under-arrival"
+  current: "streaming-algorithms-and-real-time-data"
+  next: "efficiency-vs-understanding-in-computational-systems"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/streaming-algorithms-and-real-time-data"
+tags: [Streaming Algorithms, Real-Time Data, Bounded Memory, Sliding Windows, Reservoir Sampling, Count-Min Sketch, Bloom Filters, Computational Reasoning]
+excerpt_139_words: "Streaming algorithms study how to process data that arrives continuously, too quickly, or too largely to store in full. Instead of waiting for a complete dataset, a streaming algorithm reads items as they arrive and maintains a compact state: a counter, sketch, sample, window, estimate, alert, index, or summary. This makes streaming algorithms essential for real-time systems. Clicks, transactions, sensor readings, network packets, logs, messages, location updates, model outputs, alerts, and infrastructure events do not always arrive as neat datasets. They arrive as flows. A system may need to estimate frequency, detect anomalies, count distinct users, track heavy hitters, update dashboards, trigger alerts, summarize behavior, or route events while memory remains limited and time keeps moving."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

@@ -1,0 +1,86 @@
+[
+  {
+    "counts": "{\"A\": 1}",
+    "event": "A",
+    "time": 1,
+    "window_items": "A",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 1, \"B\": 1}",
+    "event": "B",
+    "time": 2,
+    "window_items": "A|B",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"B\": 1}",
+    "event": "A",
+    "time": 3,
+    "window_items": "A|B|A",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"B\": 1, \"C\": 1}",
+    "event": "C",
+    "time": 4,
+    "window_items": "A|B|A|C",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 3, \"B\": 1, \"C\": 1}",
+    "event": "A",
+    "time": 5,
+    "window_items": "A|B|A|C|A",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"B\": 1, \"C\": 1, \"D\": 1}",
+    "event": "D",
+    "time": 6,
+    "window_items": "B|A|C|A|D",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"B\": 1, \"C\": 1, \"D\": 1}",
+    "event": "B",
+    "time": 7,
+    "window_items": "A|C|A|D|B",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 1, \"B\": 1, \"C\": 1, \"D\": 1, \"E\": 1}",
+    "event": "E",
+    "time": 8,
+    "window_items": "C|A|D|B|E",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"B\": 1, \"D\": 1, \"E\": 1}",
+    "event": "A",
+    "time": 9,
+    "window_items": "A|D|B|E|A",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 1, \"B\": 1, \"C\": 1, \"D\": 1, \"E\": 1}",
+    "event": "C",
+    "time": 10,
+    "window_items": "D|B|E|A|C",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 1, \"B\": 1, \"C\": 1, \"E\": 1, \"F\": 1}",
+    "event": "F",
+    "time": 11,
+    "window_items": "B|E|A|C|F",
+    "window_size": 5
+  },
+  {
+    "counts": "{\"A\": 2, \"C\": 1, \"E\": 1, \"F\": 1}",
+    "event": "A",
+    "time": 12,
+    "window_items": "E|A|C|F|A",
+    "window_size": 5
+  }
+]
