@@ -1,0 +1,65 @@
+[
+  {
+    "log2_n": 3.322,
+    "n": 10,
+    "n_cubed": 1000,
+    "n_log2_n": 33.219,
+    "n_squared": 100,
+    "n_value": 10,
+    "two_to_n_capped": 1024
+  },
+  {
+    "log2_n": 4.322,
+    "n": 20,
+    "n_cubed": 8000,
+    "n_log2_n": 86.439,
+    "n_squared": 400,
+    "n_value": 20,
+    "two_to_n_capped": 1048576
+  },
+  {
+    "log2_n": 4.907,
+    "n": 30,
+    "n_cubed": 27000,
+    "n_log2_n": 147.207,
+    "n_squared": 900,
+    "n_value": 30,
+    "two_to_n_capped": 1073741824
+  },
+  {
+    "log2_n": 5.644,
+    "n": 50,
+    "n_cubed": 125000,
+    "n_log2_n": 282.193,
+    "n_squared": 2500,
+    "n_value": 50,
+    "two_to_n_capped": "too_large_for_table"
+  },
+  {
+    "log2_n": 6.644,
+    "n": 100,
+    "n_cubed": 1000000,
+    "n_log2_n": 664.386,
+    "n_squared": 10000,
+    "n_value": 100,
+    "two_to_n_capped": "too_large_for_table"
+  },
+  {
+    "log2_n": 9.966,
+    "n": 1000,
+    "n_cubed": 1000000000,
+    "n_log2_n": 9965.784,
+    "n_squared": 1000000,
+    "n_value": 1000,
+    "two_to_n_capped": "too_large_for_table"
+  },
+  {
+    "log2_n": 13.288,
+    "n": 10000,
+    "n_cubed": 1000000000000,
+    "n_log2_n": 132877.124,
+    "n_squared": 100000000,
+    "n_value": 10000,
+    "two_to_n_capped": "too_large_for_table"
+  }
+]

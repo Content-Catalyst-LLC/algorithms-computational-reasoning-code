@@ -1,0 +1,5 @@
+cost_nlogn(n) = n * log2(max(n, 2))
+println("test_name,value")
+println("linear_1000,1000")
+println("nlogn_1000,$(cost_nlogn(1000))")
+println("quadratic_1000,1000000")

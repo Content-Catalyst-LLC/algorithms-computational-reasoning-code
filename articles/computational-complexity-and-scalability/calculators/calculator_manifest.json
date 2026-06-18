@@ -1,0 +1,1 @@
+{"article_slug":"computational-complexity-and-scalability","calculators":[{"name":"growth_rate_calculator","path":"python/calculators/growth_rate_calculator.py"},{"name":"scalability_threshold_calculator","path":"python/calculators/scalability_threshold_calculator.py"}],"outputs":["outputs/json/growth_rate_calculator.json","outputs/json/scalability_threshold_calculator.json"]}

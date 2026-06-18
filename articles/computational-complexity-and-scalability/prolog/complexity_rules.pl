@@ -1,0 +1,10 @@
+growth_class(constant).
+growth_class(logarithmic).
+growth_class(linear).
+growth_class(n_log_n).
+growth_class(quadratic).
+growth_class(exponential).
+risk(undefined_input_size).
+risk(hidden_memory_cost).
+risk(false_scalability_claim).
+risk(unbounded_review_queue).

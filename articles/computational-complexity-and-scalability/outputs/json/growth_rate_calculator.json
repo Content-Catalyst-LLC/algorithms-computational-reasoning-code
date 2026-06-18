@@ -1,0 +1,10 @@
+{
+  "n": 1000,
+  "constant": 1.0,
+  "log": 9.965784284662087,
+  "linear": 1000.0,
+  "n_log_n": 9965.784284662088,
+  "quadratic": 1000000.0,
+  "cubic": 1000000000.0,
+  "exponential": "too_large"
+}

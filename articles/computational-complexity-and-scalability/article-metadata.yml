@@ -1,0 +1,17 @@
+actual_title: "Computational Complexity and Scalability"
+suggested_seo_title: "Computational Complexity and Scalability: How Algorithms Grow"
+focus_keyword: "computational complexity and scalability"
+slug: "computational-complexity-and-scalability"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "evolutionary-algorithms-and-adaptive-search"
+  current: "computational-complexity-and-scalability"
+  next: "big-o-notation-and-growth-rates"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/computational-complexity-and-scalability"
+tags: [Computational Complexity, Scalability, Growth Rates, Time Complexity, Space Complexity, Resource Limits, Algorithm Analysis, Computational Reasoning]
+excerpt_139_words: "Computational complexity studies how the resources required by an algorithm grow as the size of the input grows. Those resources may include time, memory, communication, energy, storage, coordination, human review, or institutional cost. Scalability asks whether a procedure remains usable when the problem becomes larger, messier, faster, more distributed, or more consequential. This makes complexity one of the central ideas in algorithmic reasoning. An algorithm that works beautifully on ten records may fail on ten million. A model that runs in a notebook may become unusable in production. A search procedure that works on small examples may collapse when the number of possibilities grows exponentially. Complexity is not only about speed. It is about growth, limits, feasibility, trade-offs, and design judgment across computational systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

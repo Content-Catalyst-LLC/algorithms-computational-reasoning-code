@@ -1,0 +1,6 @@
+"case_name","system_context","dominant_growth","input_definition_clarity","time_complexity_clarity","space_complexity_clarity","benchmark_evidence","bottleneck_identification","threshold_reporting","degradation_planning","monitoring_readiness","governance_readiness","equity_under_scale_review","scalability_quality","scalability_risk"
+"Indexed search service","Search over a growing document corpus","roughly logarithmic or sublinear retrieval after indexing",0.9,0.84,0.82,0.86,0.84,0.8,0.78,0.84,0.8,0.76,82.84,17.6
+"All-pairs similarity comparison","Compare every record against every other record","quadratic",0.86,0.88,0.76,0.78,0.84,0.78,0.72,0.74,0.76,0.72,79.08,21.6
+"Scenario simulation platform","Run many agents time steps parameters and scenarios","multiplicative across agents time steps parameters and repetitions",0.84,0.82,0.78,0.8,0.8,0.78,0.76,0.78,0.82,0.76,79.72,20.6
+"Unbounded manual review queue","Algorithmic system creates cases faster than humans can review","linear or superlinear institutional burden",0.62,0.52,0.46,0.4,0.48,0.34,0.28,0.36,0.32,0.3,42,59.2
+"Embedding retrieval pipeline","Serve approximate retrieval across a large embedding index","indexed vector search with memory and latency constraints",0.86,0.8,0.78,0.84,0.82,0.78,0.74,0.84,0.78,0.74,80.16,20.2

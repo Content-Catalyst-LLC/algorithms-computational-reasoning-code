@@ -1,0 +1,7 @@
+{
+  "average_scalability_quality": 72.76,
+  "average_scalability_risk": 27.84,
+  "case_count": 5,
+  "highest_quality_case": "Indexed search service",
+  "highest_risk_case": "Unbounded manual review queue"
+}

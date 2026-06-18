@@ -1,37 +1,14 @@
-# Computational Complexity and Scalability (planned)
+# Computational Complexity and Scalability
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Computational Complexity and Scalability**.
 
-## Purpose
+This scaffold covers input-size analysis, time complexity, space complexity, growth rates, scalability thresholds, bottleneck review, benchmark evidence, degradation planning, monitoring, equity under scale, and responsible complexity governance.
 
-This folder will hold computational companion materials for the planned article:
-**Computational Complexity and Scalability**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

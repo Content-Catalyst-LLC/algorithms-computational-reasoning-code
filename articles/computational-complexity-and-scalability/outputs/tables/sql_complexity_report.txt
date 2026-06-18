@@ -1,0 +1,8 @@
+case_name                        scalability_quality
+-------------------------------  -------------------
+Indexed search service           82.84              
+Embedding retrieval pipeline     80.16              
+Scenario simulation platform     79.72              
+All-pairs similarity comparison  79.08              
+Unbounded manual review queue    42.0               
+case_name                        0.0                

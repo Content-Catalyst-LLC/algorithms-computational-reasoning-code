@@ -1,0 +1,2 @@
+case_count,average_scalability_quality,average_scalability_risk,highest_quality_case,highest_risk_case
+5,72.76,27.84,Indexed search service,Unbounded manual review queue

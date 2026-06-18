@@ -1,0 +1,9 @@
+{
+  "growth_at_1000": {
+    "linear": 1000.0,
+    "n_log_n": 9965.784284662088,
+    "quadratic": 1000000.0
+  },
+  "quadratic_threshold_for_one_million": 1000,
+  "multi_resource_cost_at_10000": 134127.1237954945
+}
