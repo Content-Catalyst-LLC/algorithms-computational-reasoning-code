@@ -1,0 +1,35 @@
+[
+  {
+    "fits_budget_10k_linear": true,
+    "fits_budget_10k_quadratic": true,
+    "fits_budget_1k_linear": true,
+    "fits_budget_1k_quadratic": false,
+    "fits_budget_1m_linear": true,
+    "fits_budget_1m_quadratic": true,
+    "linear_units": 100,
+    "n": 100,
+    "quadratic_units": 10000
+  },
+  {
+    "fits_budget_10k_linear": true,
+    "fits_budget_10k_quadratic": false,
+    "fits_budget_1k_linear": true,
+    "fits_budget_1k_quadratic": false,
+    "fits_budget_1m_linear": true,
+    "fits_budget_1m_quadratic": true,
+    "linear_units": 1000,
+    "n": 1000,
+    "quadratic_units": 1000000
+  },
+  {
+    "fits_budget_10k_linear": true,
+    "fits_budget_10k_quadratic": false,
+    "fits_budget_1k_linear": false,
+    "fits_budget_1k_quadratic": false,
+    "fits_budget_1m_linear": true,
+    "fits_budget_1m_quadratic": false,
+    "linear_units": 10000,
+    "n": 10000,
+    "quadratic_units": 100000000
+  }
+]

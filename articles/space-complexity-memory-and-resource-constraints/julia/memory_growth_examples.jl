@@ -1,0 +1,6 @@
+graph_storage(v, e) = (matrix=v*v, adjacency_list=v+e, ratio=(v*v)/(v+e))
+row = graph_storage(1000, 5000)
+println("test_name,value")
+println("matrix_units,$(row.matrix)")
+println("adjacency_list_units,$(row.adjacency_list)")
+println("matrix_to_list_ratio,$(row.ratio)")

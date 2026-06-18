@@ -1,0 +1,10 @@
+space_class(constant).
+space_class(logarithmic).
+space_class(linear).
+space_class(quadratic).
+memory_source(stack).
+memory_source(heap).
+memory_source(cache).
+risk(hidden_peak_memory).
+risk(auxiliary_only_claim).
+risk(ignored_data_movement).

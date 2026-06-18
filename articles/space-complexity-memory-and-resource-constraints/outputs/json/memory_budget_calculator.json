@@ -1,0 +1,12 @@
+{
+  "n": 10000,
+  "budget_units": 1000000,
+  "linear": {
+    "units": 10000,
+    "feasibility": "comfortable"
+  },
+  "quadratic": {
+    "units": 100000000,
+    "feasibility": "exceeds budget"
+  }
+}

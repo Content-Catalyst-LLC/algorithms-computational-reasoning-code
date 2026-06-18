@@ -1,0 +1,44 @@
+{
+  "graph_storage_1000_5000": {
+    "vertices": 1000,
+    "edges": 5000,
+    "adjacency_matrix_units": 1000000,
+    "adjacency_list_units": 6000,
+    "matrix_to_list_ratio": 166.667
+  },
+  "memory_budget_table": [
+    {
+      "n": 100,
+      "linear_units": 100,
+      "quadratic_units": 10000,
+      "fits_budget_1k_linear": true,
+      "fits_budget_10k_linear": true,
+      "fits_budget_1m_linear": true,
+      "fits_budget_1k_quadratic": false,
+      "fits_budget_10k_quadratic": true,
+      "fits_budget_1m_quadratic": true
+    },
+    {
+      "n": 1000,
+      "linear_units": 1000,
+      "quadratic_units": 1000000,
+      "fits_budget_1k_linear": true,
+      "fits_budget_10k_linear": true,
+      "fits_budget_1m_linear": true,
+      "fits_budget_1k_quadratic": false,
+      "fits_budget_10k_quadratic": false,
+      "fits_budget_1m_quadratic": true
+    },
+    {
+      "n": 10000,
+      "linear_units": 10000,
+      "quadratic_units": 100000000,
+      "fits_budget_1k_linear": false,
+      "fits_budget_10k_linear": true,
+      "fits_budget_1m_linear": true,
+      "fits_budget_1k_quadratic": false,
+      "fits_budget_10k_quadratic": false,
+      "fits_budget_1m_quadratic": false
+    }
+  ]
+}

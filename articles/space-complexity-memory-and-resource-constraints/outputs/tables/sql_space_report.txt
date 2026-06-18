@@ -1,0 +1,8 @@
+case_name                        claimed_space         space_claim_quality
+-------------------------------  --------------------  -------------------
+In-place array scan              O(1) auxiliary space  83.34              
+Streaming event counter          O(k) summary space    82.48              
+Dynamic programming table        O(nm)                 78.02              
+Adjacency matrix graph analysis  O(V^2)                73.56              
+Opaque memory-heavy AI pipeline  unclear               25.32              
+case_name                        claimed_space         0.0                

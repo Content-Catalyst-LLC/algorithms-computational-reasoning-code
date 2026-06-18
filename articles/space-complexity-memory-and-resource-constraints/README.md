@@ -1,37 +1,14 @@
-# Space Complexity, Memory, and Resource Constraints (planned)
+# Space Complexity, Memory, and Resource Constraints
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Space Complexity, Memory, and Resource Constraints**.
 
-## Purpose
+This scaffold covers space complexity, auxiliary space, total space, peak memory, stack and heap use, recursion, dynamic programming tables, graph representation, sparse storage, time-space trade-offs, streaming, external memory, distributed memory, I/O awareness, resource budgets, failure handling, and responsible memory claims.
 
-This folder will hold computational companion materials for the planned article:
-**Space Complexity, Memory, and Resource Constraints**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

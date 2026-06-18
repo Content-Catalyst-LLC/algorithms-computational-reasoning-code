@@ -1,0 +1,8 @@
+{
+  "vertices": 1000,
+  "edges": 5000,
+  "adjacency_matrix_units": 1000000,
+  "adjacency_list_units": 6000,
+  "matrix_to_list_ratio": 166.667,
+  "interpretation": "Sparse graphs often require far less memory with adjacency lists than adjacency matrices."
+}

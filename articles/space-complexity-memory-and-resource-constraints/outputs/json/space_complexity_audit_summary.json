@@ -1,0 +1,7 @@
+{
+  "average_space_claim_quality": 68.544,
+  "average_space_claim_risk": 31.673,
+  "case_count": 5,
+  "highest_quality_case": "In-place array scan",
+  "highest_risk_case": "Opaque memory-heavy AI pipeline"
+}

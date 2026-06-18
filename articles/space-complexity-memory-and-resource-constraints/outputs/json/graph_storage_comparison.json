@@ -1,0 +1,30 @@
+[
+  {
+    "adjacency_list_units": 400,
+    "adjacency_matrix_units": 10000,
+    "edges": 300,
+    "matrix_to_list_ratio": 25.0,
+    "vertices": 100
+  },
+  {
+    "adjacency_list_units": 6000,
+    "adjacency_matrix_units": 1000000,
+    "edges": 5000,
+    "matrix_to_list_ratio": 166.667,
+    "vertices": 1000
+  },
+  {
+    "adjacency_list_units": 40000,
+    "adjacency_matrix_units": 100000000,
+    "edges": 30000,
+    "matrix_to_list_ratio": 2500.0,
+    "vertices": 10000
+  },
+  {
+    "adjacency_list_units": 250000,
+    "adjacency_matrix_units": 2500000000,
+    "edges": 200000,
+    "matrix_to_list_ratio": 10000.0,
+    "vertices": 50000
+  }
+]

@@ -1,0 +1,4 @@
+n,linear_units,quadratic_units,fits_budget_1k_linear,fits_budget_10k_linear,fits_budget_1m_linear,fits_budget_1k_quadratic,fits_budget_10k_quadratic,fits_budget_1m_quadratic
+100,100,10000,True,True,True,False,True,True
+1000,1000,1000000,True,True,True,False,False,True
+10000,10000,100000000,False,True,True,False,False,False

@@ -1,0 +1,6 @@
+case_name,system_context,claimed_space,input_space_clarity,auxiliary_space_clarity,output_space_clarity,peak_memory_evidence,data_structure_fit,time_space_tradeoff_clarity,io_and_data_movement_awareness,streaming_or_external_memory_readiness,failure_handling,governance_readiness,communication_clarity
+In-place array scan,Scan records with counters and no copied collection,O(1) auxiliary space,0.90,0.92,0.86,0.82,0.88,0.82,0.74,0.82,0.76,0.78,0.84
+Adjacency matrix graph analysis,Store graph as dense matrix for edge lookup,O(V^2),0.88,0.84,0.78,0.80,0.62,0.76,0.72,0.54,0.66,0.70,0.78
+Dynamic programming table,Use table to avoid repeated subproblem computation,O(nm),0.86,0.88,0.78,0.78,0.82,0.88,0.70,0.60,0.70,0.74,0.80
+Opaque memory-heavy AI pipeline,Pipeline stores embeddings logs checkpoints indexes and intermediate tables without resource accounting,unclear,0.34,0.24,0.32,0.20,0.30,0.26,0.24,0.22,0.20,0.24,0.22
+Streaming event counter,Process event stream with compact counters and rolling windows,O(k) summary space,0.86,0.86,0.76,0.80,0.84,0.82,0.84,0.90,0.78,0.76,0.82

@@ -1,0 +1,1 @@
+{"article_slug":"space-complexity-memory-and-resource-constraints","calculators":[{"name":"graph_storage_calculator","path":"python/calculators/graph_storage_calculator.py"},{"name":"memory_budget_calculator","path":"python/calculators/memory_budget_calculator.py"}],"outputs":["outputs/json/graph_storage_calculator.json","outputs/json/memory_budget_calculator.json"]}

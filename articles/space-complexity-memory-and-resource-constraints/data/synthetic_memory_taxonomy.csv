@@ -1,0 +1,9 @@
+term,category,definition,example
+space complexity,complexity measure,How memory grows with input size,S(n)
+auxiliary space,space category,Extra working memory excluding input,hash table or recursion stack
+total space,space category,Input plus output plus auxiliary memory,end-to-end memory footprint
+peak memory,measurement,Maximum memory used at any point,highest resident set size
+stack space,memory source,Call-frame memory used by recursion,recursive DFS
+heap space,memory source,Dynamically allocated objects and structures,graph adjacency list
+streaming,method,Process data without storing all input,rolling counter
+external memory,method,Algorithm designed for disk or storage-backed data,out-of-core sort
