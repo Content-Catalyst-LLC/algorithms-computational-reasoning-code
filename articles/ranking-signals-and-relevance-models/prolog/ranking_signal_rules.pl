@@ -1,0 +1,13 @@
+ranking_signal(lexical).
+ranking_signal(field_weight).
+ranking_signal(metadata).
+ranking_signal(freshness).
+ranking_signal(authority).
+ranking_signal(semantic).
+ranking_signal(feedback).
+ranking_signal(provenance).
+risk(popularity_reinforcement).
+risk(freshness_distortion).
+risk(metadata_advantage).
+risk(semantic_opacity).
+risk(top_result_overconfidence).

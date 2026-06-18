@@ -1,37 +1,14 @@
-# Ranking Signals and Relevance Models (planned)
+# Ranking Signals and Relevance Models
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Ranking Signals and Relevance Models**.
 
-## Purpose
+This scaffold covers ranking signals, relevance models, lexical scoring, field weighting, TF-IDF, BM25-style scoring, metadata ranking, freshness boosts, authority signals, semantic similarity, hybrid retrieval, reranking, learning to rank, diversity, feedback governance, provenance, explainability, and responsible ranking design.
 
-This folder will hold computational companion materials for the planned article:
-**Ranking Signals and Relevance Models**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

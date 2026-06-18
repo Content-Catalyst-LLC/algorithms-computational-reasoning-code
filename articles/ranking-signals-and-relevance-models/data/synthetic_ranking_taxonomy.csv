@@ -1,0 +1,9 @@
+term,category,definition,example
+ranking signal,ranking feature,measurable feature used to order results,title match or freshness
+relevance model,ranking model,method for estimating query-document relevance,BM25 or learning to rank
+tfidf,lexical model,term frequency multiplied by inverse document frequency,rare repeated term score
+bm25,probabilistic lexical model,ranking model balancing frequency rarity and length,web and document search baseline
+freshness boost,temporal signal,score adjustment for recency,recent updates on time-sensitive query
+precision at k,evaluation metric,share of top k results that are relevant,precision at 3
+reranking,ranking stage,second-stage model that reorders candidates,semantic reranker
+diversity,ranking objective,coverage of distinct topics or sources,avoid near-duplicate top results

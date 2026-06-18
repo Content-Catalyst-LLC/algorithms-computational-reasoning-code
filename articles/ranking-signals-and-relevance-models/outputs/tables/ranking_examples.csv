@@ -1,0 +1,6 @@
+doc_id,tfidf_score,bm25_score,precision_at_3_for_example
+doc_4,3.442,3.228,0.6667
+doc_1,2.5257,2.2201,0.6667
+doc_3,0.9163,0.8594,0.6667
+doc_2,0.0,0.0,0.6667
+doc_5,0.0,0.0,0.6667

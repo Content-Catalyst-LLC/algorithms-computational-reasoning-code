@@ -1,0 +1,6 @@
+doc_id,title,body,category,tags,publication_year,source_authority,metadata_completeness
+doc_1,Ranking Signals,Ranking signals combine lexical evidence metadata freshness authority and feedback.,Algorithms,ranking relevance search,2026,0.86,0.92
+doc_2,Information Retrieval,Information retrieval systems use indexes query processing and evaluation.,Algorithms,search retrieval indexing,2026,0.82,0.88
+doc_3,Semantic Embeddings,Semantic embeddings support similarity search and retrieval augmented AI systems.,Algorithms,semantic embeddings retrieval,2026,0.76,0.82
+doc_4,Search Governance,Search governance reviews ranking explanations provenance and source quality.,Algorithms,governance ranking provenance,2026,0.88,0.90
+doc_5,Database Optimization,Database optimization uses query plans indexes joins and cardinality estimates.,Algorithms,database query optimization,2026,0.80,0.84

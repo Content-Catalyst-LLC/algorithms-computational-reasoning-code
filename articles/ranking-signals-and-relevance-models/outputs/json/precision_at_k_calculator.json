@@ -1,0 +1,5 @@
+{
+  "k": 3,
+  "precision_at_k": 0.6667,
+  "relevant_in_top_k": 2
+}

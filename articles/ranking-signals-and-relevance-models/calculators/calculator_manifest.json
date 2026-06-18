@@ -1,0 +1,1 @@
+{"article_slug":"ranking-signals-and-relevance-models","calculators":[{"name":"ranking_signal_score_calculator","path":"python/calculators/ranking_signal_score_calculator.py"},{"name":"precision_at_k_calculator","path":"python/calculators/precision_at_k_calculator.py"}],"outputs":["outputs/json/ranking_signal_score_calculator.json","outputs/json/precision_at_k_calculator.json"]}
