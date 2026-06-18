@@ -1,0 +1,10 @@
+{
+  "sequential_time": 120.0,
+  "parallel_time": 28.0,
+  "processors": 8,
+  "sequential_fraction": 0.12,
+  "observed_speedup": 4.2857,
+  "observed_efficiency": 0.5357,
+  "amdahl_speedup": 4.3478,
+  "amdahl_efficiency": 0.5435
+}

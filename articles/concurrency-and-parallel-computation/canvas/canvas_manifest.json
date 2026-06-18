@@ -1,0 +1,36 @@
+{
+  "article_slug": "concurrency-and-parallel-computation",
+  "actual_title": "Concurrency and Parallel Computation",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "concurrency-parallelism",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "task-dependencies",
+      "title": "Task Dependencies and Decomposition",
+      "category": "parallel design",
+      "status": "active",
+      "score": 98,
+      "review_date": "2026-06-18",
+      "governance_note": "Map task boundaries, dependency edges, parallel groups, and governance-gated merge/publish steps."
+    },
+    {
+      "card_id": "shared-state-synchronization",
+      "title": "Shared State and Synchronization",
+      "category": "concurrency reliability",
+      "status": "active",
+      "score": 97,
+      "review_date": "2026-06-18",
+      "governance_note": "Review shared-state ownership, synchronization, lock ordering, atomic writes, idempotence, and retries."
+    },
+    {
+      "card_id": "observability-speedup-governance",
+      "title": "Observability, Speedup, and Governance",
+      "category": "computational scale",
+      "status": "review",
+      "score": 95,
+      "review_date": "2026-06-18",
+      "governance_note": "Audit performance claims, Amdahl limits, traces, queue metrics, partial-success checks, reproducibility, and failure isolation."
+    }
+  ]
+}

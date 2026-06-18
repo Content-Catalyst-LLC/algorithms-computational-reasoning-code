@@ -1,0 +1,4 @@
+test_name,value
+observed_speedup_120_to_28,4.2857
+amdahl_speedup_8_workers,4.3478
+efficiency_8_workers,0.5357

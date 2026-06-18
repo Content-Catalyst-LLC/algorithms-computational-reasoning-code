@@ -1,0 +1,17 @@
+actual_title: "Concurrency and Parallel Computation"
+suggested_seo_title: "Concurrency and Parallel Computation"
+focus_keyword: "concurrency and parallel computation"
+slug: "concurrency-and-parallel-computation"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "parallelism-distribution-and-computational-scale"
+  current: "concurrency-and-parallel-computation"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/concurrency-and-parallel-computation"
+tags: [Concurrency, Parallel Computation, Parallel Algorithms, Asynchronous Computing, Synchronization, Race Conditions, Distributed Systems, Computational Reasoning]
+excerpt_139_words: "Concurrency and parallel computation explain how computational work can be organized when many tasks, events, processes, threads, cores, machines, or agents operate at the same time or appear to do so. Concurrency is about structuring computation so multiple activities can make progress without corrupting each other. Parallel computation is about executing multiple operations at the same time to reduce time, increase throughput, handle scale, or model interacting systems. The two ideas overlap, but they are not identical. A system can be concurrent without being physically parallel, and a system can be parallel without being safely concurrent. Responsible concurrent systems require ordering, coordination, isolation, synchronization, communication, observability, reproducibility, failure handling, and governance so scale does not hide race conditions, deadlocks, partial failures, or unreliable outputs."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

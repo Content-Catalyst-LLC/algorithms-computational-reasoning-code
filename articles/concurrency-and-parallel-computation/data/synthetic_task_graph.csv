@@ -1,0 +1,9 @@
+task_id,task_name,depends_on,parallel_group,shared_state,governance_gate
+ingest_documents,Ingest documents,,source,false,false
+parse_documents,Parse documents,ingest_documents,document_workers,false,false
+extract_metadata,Extract metadata,ingest_documents,document_workers,false,false
+generate_embeddings,Generate embeddings,parse_documents,embedding_workers,false,false
+validate_partitions,Validate partitions,parse_documents|extract_metadata,validation_workers,false,true
+merge_index,Merge index,generate_embeddings|validate_partitions,index_merge,true,true
+publish_snapshot,Publish snapshot,merge_index,publish,true,true
+monitor_run,Monitor run,publish_snapshot,observability,false,false

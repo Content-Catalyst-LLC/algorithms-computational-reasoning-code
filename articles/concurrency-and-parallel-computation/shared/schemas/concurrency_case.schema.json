@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ConcurrencyCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "computational_goal",
+    "decomposition_clarity",
+    "dependency_discipline",
+    "shared_state_control",
+    "synchronization_design",
+    "idempotence",
+    "deadlock_avoidance",
+    "load_balancing",
+    "observability",
+    "failure_isolation",
+    "reproducibility",
+    "governance_review",
+    "communication_clarity"
+  ],
+  "properties": {
+    "case_name": {
+      "type": "string"
+    },
+    "system_context": {
+      "type": "string"
+    },
+    "computational_goal": {
+      "type": "string"
+    },
+    "decomposition_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "dependency_discipline": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "shared_state_control": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "synchronization_design": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "idempotence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "deadlock_avoidance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "load_balancing": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "observability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "failure_isolation": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "reproducibility": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "governance_review": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "communication_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

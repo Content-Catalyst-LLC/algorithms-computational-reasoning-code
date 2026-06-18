@@ -1,0 +1,9 @@
+execution_order,task_id
+1,ingest_documents
+2,extract_metadata
+3,parse_documents
+4,generate_embeddings
+5,validate_partitions
+6,merge_index
+7,publish_snapshot
+8,monitor_run

@@ -1,0 +1,17 @@
+{
+  "article_slug": "concurrency-and-parallel-computation",
+  "calculators": [
+    {
+      "name": "parallel_speedup_calculator",
+      "path": "python/calculators/parallel_speedup_calculator.py"
+    },
+    {
+      "name": "concurrency_risk_score_calculator",
+      "path": "python/calculators/concurrency_risk_score_calculator.py"
+    }
+  ],
+  "outputs": [
+    "outputs/json/parallel_speedup_calculator.json",
+    "outputs/json/concurrency_risk_score_calculator.json"
+  ]
+}

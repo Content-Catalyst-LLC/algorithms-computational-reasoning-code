@@ -1,0 +1,11 @@
+term,category,definition,example
+concurrency,execution structure,multiple tasks in progress and coordinated,server interleaves requests
+parallel computation,execution structure,multiple operations execute at the same time,matrix work split across cores
+task parallelism,parallel pattern,different tasks run concurrently,validate and summarize in parallel
+data parallelism,parallel pattern,same operation applied to many records,score many documents
+shared state,coordination,state accessed by multiple tasks,shared counter or cache
+race condition,failure mode,outcome depends on uncontrolled timing,lost update
+deadlock,failure mode,tasks wait forever on each other,two locks acquired in opposite order
+idempotence,reliability,safe rerun without unintended duplication,retry task with stable key
+backpressure,flow control,slows producers when consumers cannot keep up,stream pauses ingestion
+Amdahl speedup,performance model,limit imposed by sequential fraction,parallel speedup ceiling

@@ -1,0 +1,19 @@
+case_name                          concurrency_risk_score
+---------------------------------  ----------------------
+Unsafe shared-state worker pool    71.3                  
+Asynchronous AI retrieval service  24.88                 
+Parallel document indexing         17.38                 
+Parallel scientific simulation     16.08                 
+task_id              task_name            parallel_group      shared_state  governance_gate
+-------------------  -------------------  ------------------  ------------  ---------------
+merge_index          Merge index          index_merge         1             1              
+publish_snapshot     Publish snapshot     publish             1             1              
+validate_partitions  Validate partitions  validation_workers  0             1              
+processors  observed_speedup  observed_efficiency
+----------  ----------------  -------------------
+1           1.0               1.0                
+2           1.8182            0.9091             
+4           3.1579            0.7895             
+8           4.2857            0.5357             
+16          5.0               0.3125             
+32          5.4545            0.1705             
