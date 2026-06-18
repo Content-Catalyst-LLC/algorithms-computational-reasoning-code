@@ -1,0 +1,6 @@
+case_name,problem_context,randomized_procedure,randomness_clarity,distribution_validity,seed_control,error_bound_clarity,sample_adequacy,repeatability,edge_case_coverage,variance_analysis,traceability,governance_readiness
+Randomized quicksort,Sort records while reducing dependence on input order,Randomly choose pivots and record seed for reproducibility,0.90,0.88,0.90,0.78,0.82,0.90,0.84,0.82,0.86,0.80
+Monte Carlo risk estimate,Estimate probability of exceeding a policy threshold under uncertain inputs,Sample uncertain parameters across repeated simulation trials,0.88,0.82,0.88,0.84,0.86,0.88,0.78,0.86,0.88,0.86
+Sampled data audit,Estimate error rate in a large review dataset,Draw stratified random samples and report uncertainty intervals,0.84,0.80,0.86,0.82,0.80,0.86,0.72,0.78,0.90,0.88
+Opaque stochastic ranking,A ranking system injects random exploration without documenting exposure effects,Randomly promote candidates but does not record seeds rates or group outcomes,0.42,0.36,0.28,0.30,0.44,0.24,0.36,0.32,0.30,0.34
+Randomized load balancing,Distribute requests across service nodes to reduce contention,Use randomized server choice with logged seed and latency monitoring,0.86,0.84,0.82,0.76,0.80,0.84,0.78,0.80,0.84,0.82

@@ -1,0 +1,10 @@
+term,category,definition,example
+randomized algorithm,design pattern,Algorithm whose behavior depends partly on random choices,randomized quicksort
+Las Vegas algorithm,correctness,Always correct with random running time,repeat-until-success randomized search
+Monte Carlo algorithm,correctness,Bounded running time with possible error,probabilistic primality testing
+seed,reproducibility,Initial value controlling pseudo-random sequence,20260617
+sample,estimation,Subset drawn from a larger population,random audit records
+amplification,error reduction,Repeated trials reduce failure probability,repeated probabilistic tests
+expected running time,analysis,Average runtime over random choices,randomized quicksort
+variance,uncertainty,Spread of estimates or outcomes,Monte Carlo estimate variability
+traceability,evidence,Ability to reconstruct randomized run,seed and trial log

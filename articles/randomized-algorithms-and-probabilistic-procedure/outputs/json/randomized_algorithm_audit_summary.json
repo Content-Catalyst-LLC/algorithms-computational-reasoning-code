@@ -1,0 +1,7 @@
+{
+  "average_randomized_algorithm_quality": 73.688,
+  "average_randomized_algorithm_risk": 26.36,
+  "case_count": 5,
+  "highest_quality_case": "Monte Carlo risk estimate",
+  "highest_risk_case": "Opaque stochastic ranking"
+}

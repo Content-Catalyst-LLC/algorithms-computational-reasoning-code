@@ -1,0 +1,7 @@
+{
+  "margin_of_error": 0.05,
+  "confidence_z": 1.96,
+  "assumed_proportion": 0.5,
+  "recommended_sample_size": 385,
+  "interpretation": "Simple binomial proportion sample-size estimate; adjust for population, design effect, stratification, and nonresponse when needed."
+}

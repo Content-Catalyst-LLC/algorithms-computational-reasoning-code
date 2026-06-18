@@ -1,0 +1,17 @@
+actual_title: "Randomized Algorithms and Probabilistic Procedure"
+suggested_seo_title: "Randomized Algorithms and Probabilistic Procedure: Computing with Chance"
+focus_keyword: "randomized algorithms and probabilistic procedure"
+slug: "randomized-algorithms-and-probabilistic-procedure"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "backtracking-branch-and-bound-and-exhaustive-search"
+  current: "randomized-algorithms-and-probabilistic-procedure"
+  next: "approximation-algorithms-and-practical-solvability"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/randomized-algorithms-and-probabilistic-procedure"
+tags: [Randomized Algorithms, Probabilistic Procedure, Monte Carlo, Las Vegas Algorithms, Sampling, Seed Control, Probability Bounds, Computational Reasoning]
+excerpt_139_words: "Randomized algorithms use chance as part of computation. Instead of following only fixed deterministic steps, they make random choices, sample from large spaces, shuffle inputs, select pivots, test candidates probabilistically, estimate quantities, or trade certainty for speed. Randomness can make algorithms simpler, faster, more robust, or more scalable. But probabilistic procedure also changes the meaning of correctness. Some randomized algorithms always return a correct answer but have variable running time. Others run quickly but may return an incorrect answer with small probability. Some estimate rather than decide. Some use sampling to make large problems manageable. Randomized methods appear in sorting, primality testing, hashing, load balancing, randomized search, Monte Carlo simulation, streaming algorithms, approximation, machine learning, cryptography, distributed systems, uncertainty analysis, and decision support."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

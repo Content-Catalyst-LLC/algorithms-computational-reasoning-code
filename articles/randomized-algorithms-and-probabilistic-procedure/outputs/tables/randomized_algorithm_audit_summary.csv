@@ -1,0 +1,2 @@
+case_count,average_randomized_algorithm_quality,average_randomized_algorithm_risk,highest_quality_case,highest_risk_case
+5,73.688,26.36,Monte Carlo risk estimate,Opaque stochastic ranking

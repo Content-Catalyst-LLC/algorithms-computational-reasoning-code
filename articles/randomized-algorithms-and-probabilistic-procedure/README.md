@@ -1,37 +1,14 @@
-# Randomized Algorithms and Probabilistic Procedure (planned)
+# Randomized Algorithms and Probabilistic Procedure
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Randomized Algorithms and Probabilistic Procedure**.
 
-## Purpose
+This scaffold covers randomized algorithms, probabilistic procedure, randomized quicksort, Monte Carlo estimation, sampling, seed control, probability bounds, expected running time, amplification, randomized search, hashing, variance analysis, traceability, and responsible randomness governance.
 
-This folder will hold computational companion materials for the planned article:
-**Randomized Algorithms and Probabilistic Procedure**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

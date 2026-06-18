@@ -1,0 +1,12 @@
+case_name                  randomized_algorithm_quality
+-------------------------  ----------------------------
+Monte Carlo risk estimate  85.32                       
+Randomized quicksort       85.24                       
+Sampled data audit         82.32                       
+Opaque stochastic ranking  33.88                       
+trial_id  procedure             seed      sample_size  estimate  error_bound
+--------  --------------------  --------  -----------  --------  -----------
+T-004     load_balancing        20260617  1000         0.503     0.032      
+T-001     monte_carlo_pi        20260617  5000         3.1424    0.025      
+T-003     randomized_quicksort  20260617  6            0.0       0.0        
+T-002     sampled_audit         20260617  400          0.074     0.018      

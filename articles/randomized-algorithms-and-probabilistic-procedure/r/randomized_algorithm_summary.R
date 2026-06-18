@@ -1,0 +1,17 @@
+data <- read.csv("data/synthetic_randomized_algorithm_cases.csv", stringsAsFactors = FALSE)
+data$randomized_algorithm_quality <- 100 * (0.12*data$randomness_clarity + 0.12*data$distribution_validity + 0.10*data$seed_control + 0.10*data$error_bound_clarity + 0.10*data$sample_adequacy + 0.10*data$repeatability + 0.10*data$edge_case_coverage + 0.10*data$variance_analysis + 0.08*data$traceability + 0.08*data$governance_readiness)
+data$randomized_algorithm_risk <- 100 * rowMeans(1 - data[, c("randomness_clarity","distribution_validity","seed_control","error_bound_clarity","sample_adequacy","repeatability","edge_case_coverage","variance_analysis","traceability","governance_readiness")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_randomized_algorithm_summary.csv", row.names=FALSE)
+png("outputs/figures/r_randomized_algorithm_quality_vs_risk.png", width=1400, height=800)
+m <- rbind(data$randomized_algorithm_quality, data$randomized_algorithm_risk); colnames(m) <- data$case_name; rownames(m) <- c("Randomized algorithm quality", "Randomized algorithm risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Randomized Algorithm Quality vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+set.seed(20260617)
+trials <- 5000
+x <- runif(trials); y <- runif(trials)
+inside <- x^2 + y^2 <= 1
+pi_estimate <- 4 * mean(inside)
+write.csv(data.frame(trials=trials, pi_estimate=pi_estimate, absolute_error_against_reference=abs(pi_estimate-pi)), "outputs/tables/r_monte_carlo_pi_summary.csv", row.names=FALSE)
+print(data)

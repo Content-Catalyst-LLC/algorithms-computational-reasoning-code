@@ -1,0 +1,9 @@
+randomized_pattern(random_choice).
+randomized_pattern(sampling).
+randomized_pattern(seed_control).
+randomized_pattern(repeated_trials).
+algorithm_type(las_vegas).
+algorithm_type(monte_carlo).
+risk(sampling_bias).
+risk(seed_fragility).
+risk(false_confidence).

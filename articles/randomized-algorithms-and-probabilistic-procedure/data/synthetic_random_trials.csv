@@ -1,0 +1,5 @@
+trial_id,procedure,seed,sample_size,estimate,error_bound,notes
+T-001,monte_carlo_pi,20260617,5000,3.1424,0.025,reproducible seeded run
+T-002,sampled_audit,20260617,400,0.074,0.018,stratified synthetic audit
+T-003,randomized_quicksort,20260617,6,0,0,correct sorted output with randomized pivots
+T-004,load_balancing,20260617,1000,0.503,0.032,two-server split estimate

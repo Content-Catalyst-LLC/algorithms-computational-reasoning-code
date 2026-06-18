@@ -1,0 +1,11 @@
+term,category,definition
+randomized algorithm,design pattern,Algorithm whose behavior depends partly on random choices.
+Las Vegas algorithm,correctness,Always correct with random running time.
+Monte Carlo algorithm,correctness,Bounded running time with possible error.
+seed,reproducibility,Initial value controlling pseudo-random sequence.
+sample,estimation,Subset drawn from a larger population.
+amplification,error reduction,Repeated trials reduce failure probability.
+expected running time,analysis,Average runtime over random choices.
+variance,uncertainty,Spread of estimates or outcomes.
+sampling frame,governance,Accessible population from which samples are drawn.
+traceability,evidence,Ability to reconstruct randomized run.

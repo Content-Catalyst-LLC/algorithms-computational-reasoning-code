@@ -1,0 +1,3 @@
+test_name value
+amplification_failure 0.00001
+seed 20260617

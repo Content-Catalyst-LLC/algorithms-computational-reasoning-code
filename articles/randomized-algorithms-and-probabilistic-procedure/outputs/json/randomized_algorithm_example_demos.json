@@ -1,0 +1,17 @@
+{
+  "randomized_quicksort": [
+    1,
+    3,
+    4,
+    7,
+    8,
+    9
+  ],
+  "monte_carlo_pi": 3.1728,
+  "amplification_failure_probability": 1.0000000000000003e-05,
+  "sample_mean_summary": {
+    "average_sample_mean": 4.98225,
+    "sample_mean_stddev": 1.3026885420160876,
+    "population_mean": 5
+  }
+}
