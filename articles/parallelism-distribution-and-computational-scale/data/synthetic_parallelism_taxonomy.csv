@@ -1,0 +1,9 @@
+term,category,definition,example
+task parallelism,parallelism type,Different tasks run concurrently,parse documents and compute summaries
+data parallelism,parallelism type,Same operation over data partitions,process independent records
+pipeline parallelism,parallelism type,Workflow stages run concurrently,extract transform validate store
+shared memory,communication model,Workers access common memory,threads with locks
+message passing,communication model,Workers exchange explicit messages,distributed actors
+synchronization,coordination,Workers coordinate order or state,barrier or lock
+fault tolerance,reliability,Continue or recover when parts fail,retry failed worker
+load balancing,scale property,Distribute work evenly among resources,dynamic scheduling

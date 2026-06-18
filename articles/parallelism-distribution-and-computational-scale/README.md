@@ -1,37 +1,14 @@
-# Parallelism, Distribution, and Computational Scale (planned)
+# Parallelism, Distribution, and Computational Scale
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Parallelism, Distribution, and Computational Scale**.
 
-## Purpose
+This scaffold covers task parallelism, data parallelism, pipeline parallelism, shared memory, message passing, synchronization, race conditions, load balancing, sharding, replication, fault tolerance, consistency, speedup bounds, distributed capacity, and responsible scale claims.
 
-This folder will hold computational companion materials for the planned article:
-**Parallelism, Distribution, and Computational Scale**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

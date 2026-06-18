@@ -1,0 +1,8 @@
+{
+  "workers": 8,
+  "service_rate_per_worker": 100.0,
+  "overhead_rate": 0.05,
+  "ideal_capacity": 800.0,
+  "estimated_overhead": 280.0,
+  "effective_capacity": 520.0
+}

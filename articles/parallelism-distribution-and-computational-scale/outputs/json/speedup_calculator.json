@@ -1,0 +1,6 @@
+{
+  "serial_fraction": 0.1,
+  "processors": 16,
+  "amdahl_speedup_bound": 6.4,
+  "parallel_efficiency": 0.4
+}

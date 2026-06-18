@@ -1,0 +1,35 @@
+{
+  "speedup_serial_fraction_0_10_processors_16": 6.4,
+  "capacity_table": [
+    {
+      "workers": 1,
+      "ideal_capacity": 100.0,
+      "estimated_overhead": 0.0,
+      "effective_capacity": 100.0
+    },
+    {
+      "workers": 2,
+      "ideal_capacity": 200.0,
+      "estimated_overhead": 10.0,
+      "effective_capacity": 190.0
+    },
+    {
+      "workers": 4,
+      "ideal_capacity": 400.0,
+      "estimated_overhead": 60.0,
+      "effective_capacity": 340.0
+    },
+    {
+      "workers": 8,
+      "ideal_capacity": 800.0,
+      "estimated_overhead": 280.0,
+      "effective_capacity": 520.0
+    },
+    {
+      "workers": 16,
+      "ideal_capacity": 1600.0,
+      "estimated_overhead": 1200.0,
+      "effective_capacity": 400.0
+    }
+  ]
+}

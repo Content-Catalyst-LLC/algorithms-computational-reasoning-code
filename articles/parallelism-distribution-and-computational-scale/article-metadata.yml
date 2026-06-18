@@ -1,0 +1,17 @@
+actual_title: "Parallelism, Distribution, and Computational Scale"
+suggested_seo_title: "Parallelism, Distribution, and Computational Scale"
+focus_keyword: "parallelism distribution and computational scale"
+slug: "parallelism-distribution-and-computational-scale"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "space-complexity-memory-and-resource-constraints"
+  current: "parallelism-distribution-and-computational-scale"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/parallelism-distribution-and-computational-scale"
+tags: [Parallelism, Distributed Systems, Computational Scale, Task Parallelism, Data Parallelism, Fault Tolerance, Load Balancing, Computational Reasoning]
+excerpt_139_words: "Parallelism, distribution, and computational scale explain how computation changes when work is divided across cores, processors, machines, clusters, services, queues, networks, and institutions. A single algorithm may be clear in sequential form, but real-world scale often requires many processes working at once, sharing memory, passing messages, coordinating state, tolerating failure, and managing data movement. Parallelism asks how work can be done at the same time. Distribution asks how computation can be spread across multiple machines or services. Computational scale asks what happens when input size, concurrency, traffic, memory, latency, cost, and operational complexity grow together. These ideas are essential because scale is not just more computation. It changes communication, coordination, consistency, reliability, observability, governance, and the shape of responsible system design."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

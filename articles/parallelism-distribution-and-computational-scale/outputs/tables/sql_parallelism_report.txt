@@ -1,0 +1,8 @@
+case_name                                 scale_claim                                 scale_claim_quality
+----------------------------------------  ------------------------------------------  -------------------
+Embarrassingly parallel image processing  near-linear speedup for independent tasks   81.48              
+Replicated inference service              higher throughput and availability          79.24              
+Streaming event pipeline                  scales event processing with bounded state  79.24              
+Distributed graph analytics               scales to large graphs                      72.06              
+Vague distributed automation claim        scales automatically                        20.58              
+case_name                                 scale_claim                                 0.0                

@@ -1,0 +1,38 @@
+[
+  {
+    "effective_capacity": 100.0,
+    "estimated_overhead": 0.0,
+    "ideal_capacity": 100.0,
+    "workers": 1
+  },
+  {
+    "effective_capacity": 190.0,
+    "estimated_overhead": 10.0,
+    "ideal_capacity": 200.0,
+    "workers": 2
+  },
+  {
+    "effective_capacity": 340.0,
+    "estimated_overhead": 60.0,
+    "ideal_capacity": 400.0,
+    "workers": 4
+  },
+  {
+    "effective_capacity": 520.0,
+    "estimated_overhead": 280.0,
+    "ideal_capacity": 800.0,
+    "workers": 8
+  },
+  {
+    "effective_capacity": 400.0,
+    "estimated_overhead": 1200.0,
+    "ideal_capacity": 1600.0,
+    "workers": 16
+  },
+  {
+    "effective_capacity": 0.0,
+    "estimated_overhead": 4960.0,
+    "ideal_capacity": 3200.0,
+    "workers": 32
+  }
+]

@@ -1,0 +1,1 @@
+{"article_slug":"parallelism-distribution-and-computational-scale","calculators":[{"name":"speedup_calculator","path":"python/calculators/speedup_calculator.py"},{"name":"distributed_capacity_calculator","path":"python/calculators/distributed_capacity_calculator.py"}],"outputs":["outputs/json/speedup_calculator.json","outputs/json/distributed_capacity_calculator.json"]}

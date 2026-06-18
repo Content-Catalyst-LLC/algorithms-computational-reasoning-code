@@ -1,0 +1,9 @@
+parallelism_type(task).
+parallelism_type(data).
+parallelism_type(pipeline).
+communication_model(shared_memory).
+communication_model(message_passing).
+risk(race_condition).
+risk(hidden_communication_cost).
+risk(unbalanced_partition).
+risk(weak_fault_tolerance).
