@@ -1,37 +1,14 @@
-# Search and Sorting as Foundational Algorithms (planned)
+# Search and Sorting as Foundational Algorithms
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Search and Sorting as Foundational Algorithms**.
 
-## Purpose
+This scaffold covers linear search, binary search, indexed search, graph search, tree search, exhaustive search, comparison sorting, stable sorting, insertion sort, merge sort, quicksort, heapsort, non-comparison sorting, ranking, tie-breaking, retrieval, traceability, and responsible ordering governance.
 
-This folder will hold computational companion materials for the planned article:
-**Search and Sorting as Foundational Algorithms**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

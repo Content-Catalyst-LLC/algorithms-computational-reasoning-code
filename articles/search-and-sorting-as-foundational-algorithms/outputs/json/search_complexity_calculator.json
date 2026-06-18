@@ -1,0 +1,7 @@
+{
+  "n": 1000,
+  "algorithm": "merge_sort",
+  "key_range": 100,
+  "estimated_steps": 9965.784,
+  "interpretation": "Estimate is pedagogical and depends on assumptions and implementation details."
+}

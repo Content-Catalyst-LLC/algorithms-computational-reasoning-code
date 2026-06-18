@@ -1,0 +1,11 @@
+term,category,definition,example
+linear search,search,Scan each item until match or exhaustion,find record in unsorted list
+binary search,search,Use sorted order to halve search interval,lookup sorted key
+indexed search,search,Use auxiliary structure for retrieval,database index
+graph search,search,Traverse nodes and edges,breadth-first search
+comparison sorting,sorting,Sort by pairwise comparisons,merge sort
+stable sort,sorting,Preserve relative order of equal-key items,multi-key sort
+ranking,ordering,Sort by score or priority,search results
+tie-breaking,ordering,Rule for equal or similar items,secondary key
+traceability,evidence,Ability to reconstruct search or ordering path,query log and score record
+governance,accountability,Review of ranking criteria and ordering impact,ranking review

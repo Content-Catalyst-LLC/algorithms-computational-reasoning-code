@@ -1,0 +1,29 @@
+{
+  "binary_search_target_5": 2,
+  "insertion_sort": [
+    1,
+    2,
+    5,
+    7,
+    9
+  ],
+  "is_sorted_after_insertion_sort": true,
+  "linear_search_target_9": 2,
+  "stable_multi_key_sort": [
+    {
+      "department": "Library",
+      "name": "C",
+      "priority": 1
+    },
+    {
+      "department": "Research",
+      "name": "B",
+      "priority": 1
+    },
+    {
+      "department": "Research",
+      "name": "A",
+      "priority": 2
+    }
+  ]
+}

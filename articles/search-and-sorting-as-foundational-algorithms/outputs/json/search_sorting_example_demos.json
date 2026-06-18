@@ -1,0 +1,17 @@
+{
+  "linear_search": 2,
+  "binary_search": 1,
+  "merge_sort": [
+    1,
+    3,
+    4,
+    5,
+    9
+  ],
+  "bfs_reachable": [
+    "api",
+    "domain",
+    "auth",
+    "storage"
+  ]
+}

@@ -1,0 +1,6 @@
+record_id,category,primary_score,secondary_priority,created_at
+A-001,Research,92,2,2026-06-01
+A-002,Research,92,1,2026-06-02
+B-001,Library,88,1,2026-06-03
+C-001,Platform,77,3,2026-06-04
+D-001,Governance,88,2,2026-06-05

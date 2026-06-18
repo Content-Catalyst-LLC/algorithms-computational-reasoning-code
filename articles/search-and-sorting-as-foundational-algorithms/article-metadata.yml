@@ -1,0 +1,17 @@
+actual_title: "Search and Sorting as Foundational Algorithms"
+suggested_seo_title: "Search and Sorting Algorithms: Foundations of Retrieval, Ranking, and Order"
+focus_keyword: "search and sorting algorithms"
+slug: "search-and-sorting-as-foundational-algorithms"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "iteration-recursion-and-control-flow"
+  current: "search-and-sorting-as-foundational-algorithms"
+  next: "divide-and-conquer-methods"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/search-and-sorting-as-foundational-algorithms"
+tags: [Search Algorithms, Sorting Algorithms, Binary Search, Stable Sorting, Ranking, Indexing, Retrieval, Computational Reasoning]
+excerpt_139_words: "Search and sorting are foundational algorithms because they define two of the most basic operations in computation: finding what matters and putting things in order. A search algorithm locates an item, path, record, state, document, solution, or pattern. A sorting algorithm arranges items according to a rule so that later computation becomes easier, faster, clearer, or more reliable. These operations appear everywhere. Databases search indexes. Web engines rank documents. Operating systems locate files. Data pipelines sort records. Scientific workflows organize observations. AI systems retrieve context. Public platforms prioritize information. Decision-support systems search possible actions and sort alternatives by criteria. Search and sorting reveal core questions of algorithm design: representation, comparison, ordering, indexing, traversal, termination, complexity, stability, completeness, approximation, and trust."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

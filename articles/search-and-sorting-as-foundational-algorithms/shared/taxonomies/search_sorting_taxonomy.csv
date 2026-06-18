@@ -1,0 +1,11 @@
+term,category,definition
+search,operation,Process of locating an item state path record answer or solution.
+sorting,operation,Process of arranging items according to an ordering rule.
+search space,search,Set of possibilities where an answer may exist.
+predicate,search,Condition used to identify acceptable results.
+key,sorting,Value used to order items.
+comparator,sorting,Rule for deciding which item comes first.
+stability,sorting,Property that equal-key items preserve previous order.
+index,retrieval,Auxiliary structure that makes lookup faster.
+ranking,ordering,Ordering items by relevance score priority or value.
+traceability,evidence,Ability to reconstruct search or sorting behavior.

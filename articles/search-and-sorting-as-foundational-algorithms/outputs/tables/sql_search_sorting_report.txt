@@ -1,0 +1,13 @@
+case_name                          search_sorting_quality
+---------------------------------  ----------------------
+Stable multi-key sorting           86.88                 
+Binary search over sorted records  86.28                 
+Document retrieval and ranking     84.2                  
+Opaque priority queue              50.56                 
+record_id  category    primary_score  secondary_priority
+---------  ----------  -------------  ------------------
+A-002      Research    92.0           1                 
+A-001      Research    92.0           2                 
+B-001      Library     88.0           1                 
+D-001      Governance  88.0           2                 
+C-001      Platform    77.0           3                 

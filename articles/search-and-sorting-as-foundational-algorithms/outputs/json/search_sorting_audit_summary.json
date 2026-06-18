@@ -1,0 +1,7 @@
+{
+  "average_search_sorting_quality": 78.512,
+  "average_search_sorting_risk": 21.68,
+  "case_count": 5,
+  "highest_quality_case": "Stable multi-key sorting",
+  "highest_risk_case": "Opaque priority queue"
+}
