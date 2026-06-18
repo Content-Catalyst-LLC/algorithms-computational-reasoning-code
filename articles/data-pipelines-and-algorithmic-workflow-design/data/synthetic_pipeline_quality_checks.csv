@@ -1,0 +1,9 @@
+check_id,check_name,dimension,passed,total,threshold
+schema_required_fields,Required fields present,validity,10,10,1.00
+unique_record_id,Record IDs unique,uniqueness,995,1000,0.99
+fresh_source_data,Source updated recently,freshness,1,1,1.00
+lineage_present,Output rows have lineage,provenance,980,1000,0.95
+null_rate_allowed,Null rates within bounds,completeness,96,100,0.95
+join_coverage,Join coverage meets expectation,integrity,940,1000,0.90
+monitoring_events,Monitoring events emitted,observability,8,8,1.00
+governance_approval,Governance gate approved,governance,1,1,1.00

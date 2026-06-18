@@ -1,0 +1,5 @@
+[package]
+name = "data-pipelines-and-algorithmic-workflow-design"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

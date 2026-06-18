@@ -1,0 +1,9 @@
+task_id,task_name,depends_on,task_type,expected_output,validation_required,governance_gate
+ingest_sources,Ingest source records,,ingestion,raw source table,yes,no
+validate_schema,Validate input schema,ingest_sources,validation,schema validation report,yes,yes
+normalize_records,Normalize records,validate_schema,transformation,normalized records,yes,no
+join_metadata,Join metadata,normalize_records,transformation,enriched records,yes,no
+calculate_features,Calculate features,join_metadata,feature_engineering,feature table,yes,no
+build_index,Build search index,calculate_features,indexing,index artifact,yes,yes
+publish_outputs,Publish outputs,build_index,delivery,published report and index,yes,yes
+monitor_run,Monitor run,publish_outputs,observability,monitoring summary,yes,no

@@ -1,37 +1,14 @@
-# Data Pipelines and Algorithmic Workflow Design (planned)
+# Data Pipelines and Algorithmic Workflow Design
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Data Pipelines and Algorithmic Workflow Design**.
 
-## Purpose
+This scaffold covers data pipelines, algorithmic workflow design, ingestion, validation, transformation, dependency graphs, orchestration, idempotence, provenance, lineage, monitoring, reproducibility, AI data workflows, governance gates, and responsible automation.
 
-This folder will hold computational companion materials for the planned article:
-**Data Pipelines and Algorithmic Workflow Design**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,5 @@
+freshness(days, decay=0.025) = exp(-decay * days)
+quality(validation, freshness_score, completeness, lineage, monitoring) = 100 * (0.25*validation + 0.18*freshness_score + 0.20*completeness + 0.22*lineage + 0.15*monitoring)
+println("test_name,value")
+println("freshness_3_days,$(freshness(3))")
+println("pipeline_quality_score,$(quality(.92,.86,.90,.88,.82))")

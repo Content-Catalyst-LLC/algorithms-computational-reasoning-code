@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_pipeline_cases.csv", stringsAsFactors = FALSE)
+data$pipeline_reliability_score <- 100 * (0.09*data$source_control + 0.09*data$input_contracts + 0.11*data$validation_coverage + 0.09*data$transformation_discipline + 0.08*data$dependency_clarity + 0.08*data$orchestration_quality + 0.08*data$idempotence + 0.10*data$provenance_support + 0.10*data$monitoring_observability + 0.07*data$governance_gates + 0.06*data$reproducibility + 0.05*data$communication_clarity)
+data$pipeline_risk <- 100 * rowMeans(1 - data[, c("source_control","input_contracts","validation_coverage","transformation_discipline","idempotence","provenance_support","monitoring_observability","governance_gates","reproducibility")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_pipeline_quality_summary.csv", row.names=FALSE)
+png("outputs/figures/r_pipeline_reliability_vs_risk.png", width=1500, height=850)
+m <- rbind(data$pipeline_reliability_score, data$pipeline_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Pipeline reliability", "Pipeline risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Pipeline Reliability vs. Pipeline Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

@@ -1,0 +1,20 @@
+check_id                dimension      pass_rate  threshold  status
+----------------------  -------------  ---------  ---------  ------
+null_rate_allowed       completeness   0.96       0.95       pass  
+fresh_source_data       freshness      1.0        1.0        pass  
+governance_approval     governance     1.0        1.0        pass  
+join_coverage           integrity      0.94       0.9        pass  
+monitoring_events       observability  1.0        1.0        pass  
+lineage_present         provenance     0.98       0.95       pass  
+unique_record_id        uniqueness     0.995      0.99       pass  
+schema_required_fields  validity       1.0        1.0        pass  
+task_id          task_name              task_type   expected_output           
+---------------  ---------------------  ----------  --------------------------
+build_index      Build search index     indexing    index artifact            
+publish_outputs  Publish outputs        delivery    published report and index
+validate_schema  Validate input schema  validation  schema validation report  
+run_id  run_label         validation_pass_rate  freshness_score  lineage_coverage  monitoring_status  run_quality_score
+------  ----------------  --------------------  ---------------  ----------------  -----------------  -----------------
+1       baseline run      0.97                  0.93             0.96              healthy            96.2             
+3       schema drift run  0.72                  0.92             0.81              schema warning     73.45            
+2       stale source run  0.91                  0.28             0.94              freshness warning  67.35            

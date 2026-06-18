@@ -1,0 +1,17 @@
+actual_title: "Data Pipelines and Algorithmic Workflow Design"
+suggested_seo_title: "Data Pipelines and Algorithmic Workflow Design"
+focus_keyword: "data pipelines and algorithmic workflow design"
+slug: "data-pipelines-and-algorithmic-workflow-design"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Infrastructure and Workflow Design"
+article_order:
+  previous: "knowledge-graphs-and-semantic-retrieval"
+  current: "data-pipelines-and-algorithmic-workflow-design"
+  next: "workflow-orchestration-and-reproducible-computation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/data-pipelines-and-algorithmic-workflow-design"
+tags: [Data Pipelines, Algorithmic Workflow Design, Data Validation, Workflow Orchestration, Provenance, Lineage, Reproducibility, Computational Reasoning]
+excerpt_139_words: "Data pipelines move information through computational systems. Algorithmic workflow design determines how that movement is structured, validated, sequenced, monitored, repeated, and governed. A dataset rarely arrives ready for analysis, modeling, search, decision support, or AI retrieval. It must be collected, parsed, cleaned, transformed, enriched, validated, joined, indexed, versioned, documented, and delivered to downstream systems. Each step changes what later algorithms can see and do. A broken pipeline can create missing records, duplicated entities, stale features, inconsistent schemas, biased samples, silent failures, misleading dashboards, unreliable models, or unsupported decisions. Data pipelines are not merely engineering plumbing. They are institutional reasoning systems that determine how raw records become computational evidence and whether outputs can be traced, reviewed, reproduced, trusted, and responsibly used."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

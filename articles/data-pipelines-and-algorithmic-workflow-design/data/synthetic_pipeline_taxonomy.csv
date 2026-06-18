@@ -1,0 +1,10 @@
+term,category,definition,example
+data pipeline,workflow,sequence of steps moving data from source to use,ingest validate transform publish
+input contract,quality control,declares expected input fields types ranges and freshness,required source_id timestamp
+validation gate,quality control,check that must pass before continuation,schema check before transform
+dependency graph,workflow structure,tasks and dependencies among them,ingest before validate
+idempotence,reliability,safe rerun without unintended duplication,upsert by stable key
+lineage,provenance,record of how outputs derive from inputs,output from source and transform
+orchestration,automation,coordination of tasks schedules retries and logs,workflow scheduler
+observability,monitoring,evidence about pipeline behavior,counts errors latency null rates
+governance gate,human review,review step before consequential continuation,approval before publication
