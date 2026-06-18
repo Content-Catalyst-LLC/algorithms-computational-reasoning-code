@@ -1,37 +1,14 @@
-# Relational Thinking and Query Logic (planned)
+# Relational Thinking and Query Logic
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Relational Thinking and Query Logic**.
 
-## Purpose
+This scaffold covers relational thinking, query logic, entities, predicates, selection, projection, joins, keys, set operations, quantifiers, aggregation, anti-joins, recursive queries, views, provenance, access control, representation risk, and responsible query design.
 
-This folder will hold computational companion materials for the planned article:
-**Relational Thinking and Query Logic**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

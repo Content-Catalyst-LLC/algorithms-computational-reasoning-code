@@ -1,0 +1,7 @@
+{
+  "average_query_logic_score": 70.44,
+  "average_representation_risk": 28.7,
+  "case_count": 5,
+  "highest_risk_case": "Ambiguous dashboard query",
+  "highest_score_case": "Research library source completeness"
+}

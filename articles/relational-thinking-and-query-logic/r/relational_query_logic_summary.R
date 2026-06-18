@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_relational_query_cases.csv", stringsAsFactors = FALSE)
+data$query_logic_score <- 100 * (0.10*data$entity_clarity + 0.10*data$relationship_clarity + 0.10*data$predicate_precision + 0.10*data$join_validity + 0.09*data$key_discipline + 0.09*data$missingness_handling + 0.08*data$aggregation_meaning + 0.08*data$query_reproducibility + 0.07*data$access_awareness + 0.07*data$provenance_connection + 0.06*data$recursive_relation_handling + 0.06*data$communication_clarity)
+data$representation_risk <- 100 * rowMeans(1 - data[, c("entity_clarity","relationship_clarity","predicate_precision","join_validity","key_discipline","missingness_handling","provenance_connection","communication_clarity")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_relational_query_logic_summary.csv", row.names=FALSE)
+png("outputs/figures/r_relational_query_logic_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$query_logic_score, data$representation_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Query logic score", "Representation risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Relational Query Logic Score vs. Representation Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

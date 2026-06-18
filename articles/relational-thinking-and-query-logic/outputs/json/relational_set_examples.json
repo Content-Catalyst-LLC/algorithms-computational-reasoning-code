@@ -1,0 +1,18 @@
+[
+  {
+    "operation": "intersection",
+    "result": "a1|a2|a4"
+  },
+  {
+    "operation": "anti_join_missing_references",
+    "result": "a3"
+  },
+  {
+    "operation": "published_with_repo",
+    "result": "a1|a3"
+  },
+  {
+    "operation": "missing_repo",
+    "result": "a2|a4"
+  }
+]

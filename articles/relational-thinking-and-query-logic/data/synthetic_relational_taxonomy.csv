@@ -1,0 +1,11 @@
+term,category,definition,example
+relation,relational algebra,set of tuples over domains,article table
+predicate,logic condition,condition evaluated as true or false,status equals published
+selection,relational operation,filter rows that satisfy a predicate,published articles
+projection,relational operation,choose attributes to return,title and slug
+join,relational operation,combine related tuples,articles joined to references
+anti-join,relational operation,find tuples with no related match,articles without references
+primary key,identity,unique record identifier,article_id
+foreign key,reference,link to another relation,reference.article_id
+aggregation,summary operation,count sum average group,articles by series
+recursive query,hierarchy operation,query relationships over multiple steps,category descendants

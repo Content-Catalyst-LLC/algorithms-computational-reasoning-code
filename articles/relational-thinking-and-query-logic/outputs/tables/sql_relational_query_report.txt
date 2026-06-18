@@ -1,0 +1,27 @@
+slug                                                title                                               
+--------------------------------------------------  ----------------------------------------------------
+databases-as-computational-knowledge-systems        Databases as Computational Knowledge Systems        
+relational-thinking-and-query-logic                 Relational Thinking and Query Logic                 
+metadata-provenance-and-computational-traceability  Metadata, Provenance, and Computational Traceability
+slug                                          citation                     
+--------------------------------------------  -----------------------------
+databases-as-computational-knowledge-systems  Codd 1970                    
+databases-as-computational-knowledge-systems  Date 2003                    
+relational-thinking-and-query-logic           Abiteboul Hull and Vianu 1995
+relational-thinking-and-query-logic           Codd 1970                    
+slug                                                title                                               
+--------------------------------------------------  ----------------------------------------------------
+relational-databases-and-structured-representation  Relational Databases and Structured Representation  
+metadata-provenance-and-computational-traceability  Metadata, Provenance, and Computational Traceability
+slug                                                title                                               
+--------------------------------------------------  ----------------------------------------------------
+relational-databases-and-structured-representation  Relational Databases and Structured Representation  
+metadata-provenance-and-computational-traceability  Metadata, Provenance, and Computational Traceability
+series                                publication_status  article_count
+------------------------------------  ------------------  -------------
+Algorithms & Computational Reasoning  planned             1            
+Algorithms & Computational Reasoning  published           3            
+slug                                          action   event_time         
+--------------------------------------------  -------  -------------------
+databases-as-computational-knowledge-systems  created  2026-06-18T10:00:00
+relational-thinking-and-query-logic           created  2026-06-18T11:00:00

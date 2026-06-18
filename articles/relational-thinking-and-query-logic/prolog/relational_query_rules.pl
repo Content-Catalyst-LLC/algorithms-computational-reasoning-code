@@ -1,0 +1,11 @@
+relational_operation(selection).
+relational_operation(projection).
+relational_operation(join).
+relational_operation(anti_join).
+relational_operation(aggregation).
+relational_operation(recursive_query).
+risk(bad_join).
+risk(row_multiplication).
+risk(null_confusion).
+risk(aggregation_opacity).
+risk(query_drift).

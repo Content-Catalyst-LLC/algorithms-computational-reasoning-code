@@ -1,0 +1,10 @@
+{
+  "query_logic_core_sample": {
+    "query_logic_core_score": 84.16,
+    "diagnostic": "strong core query logic"
+  },
+  "join_risk_sample": {
+    "join_risk": 18.4,
+    "diagnostic": "manageable join risk"
+  }
+}

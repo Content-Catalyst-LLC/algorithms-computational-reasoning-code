@@ -1,0 +1,17 @@
+actual_title: "Relational Thinking and Query Logic"
+suggested_seo_title: "Relational Thinking and Query Logic"
+focus_keyword: "relational thinking and query logic"
+slug: "relational-thinking-and-query-logic"
+series: "Algorithms & Computational Reasoning"
+section: "Databases and Computational Knowledge Systems"
+article_order:
+  previous: "databases-as-computational-knowledge-systems"
+  current: "relational-thinking-and-query-logic"
+  next: "relational-databases-and-structured-representation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/relational-thinking-and-query-logic"
+tags: [Relational Thinking, Query Logic, Relational Algebra, SQL, Joins, Predicates, Database Governance, Computational Reasoning]
+excerpt_139_words: "Relational thinking is the habit of understanding information through structured relationships. It asks not only what individual records contain, but how records connect, constrain, depend on, and explain one another. Query logic is the formal discipline of asking precise questions over those relationships. Together, relational thinking and query logic form one of the central foundations of computational knowledge systems. They make it possible to move from isolated facts to meaningful patterns: which records match a condition, which entities are connected, which constraints hold, which relationships are missing, which counts change over time, and which conclusions follow from structured data. The way relationships are represented determines what a system can ask, retrieve, verify, aggregate, and explain."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

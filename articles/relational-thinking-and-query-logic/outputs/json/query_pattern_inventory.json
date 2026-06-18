@@ -1,0 +1,38 @@
+[
+  {
+    "example": "published articles",
+    "formal_question": "Which records satisfy a predicate?",
+    "governance_value": "clarifies inclusion criteria",
+    "pattern": "selection"
+  },
+  {
+    "example": "title, slug, publication_status",
+    "formal_question": "Which attributes should be returned?",
+    "governance_value": "limits exposure and focuses attention",
+    "pattern": "projection"
+  },
+  {
+    "example": "articles with references",
+    "formal_question": "Which records have matching partners?",
+    "governance_value": "reconstructs context",
+    "pattern": "inner_join"
+  },
+  {
+    "example": "articles without repository links",
+    "formal_question": "Which records lack a required relationship?",
+    "governance_value": "finds missing evidence",
+    "pattern": "anti_join"
+  },
+  {
+    "example": "article count by series",
+    "formal_question": "How do summaries differ by category?",
+    "governance_value": "turns records into metrics",
+    "pattern": "group_by"
+  },
+  {
+    "example": "subtopics under a category",
+    "formal_question": "How do nested relationships unfold?",
+    "governance_value": "tracks hierarchy and inheritance",
+    "pattern": "recursive_query"
+  }
+]

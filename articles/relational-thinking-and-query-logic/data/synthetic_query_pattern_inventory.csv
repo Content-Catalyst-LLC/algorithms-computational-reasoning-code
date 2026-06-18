@@ -1,0 +1,7 @@
+pattern,formal_question,example,governance_value
+selection,Which records satisfy a predicate,published articles,clarifies inclusion criteria
+projection,Which attributes should be returned,title slug publication_status,limits exposure and focuses attention
+inner_join,Which records have matching partners,articles with references,reconstructs context
+anti_join,Which records lack a required relationship,articles without repository links,finds missing evidence
+group_by,How do summaries differ by category,article count by series,turns records into metrics
+recursive_query,How do nested relationships unfold,subtopics under a category,tracks hierarchy and inheritance

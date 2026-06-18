@@ -1,0 +1,1 @@
+{"article_slug":"relational-thinking-and-query-logic","calculators":[{"name":"query_logic_score_calculator","path":"python/calculators/query_logic_score_calculator.py"},{"name":"join_risk_calculator","path":"python/calculators/join_risk_calculator.py"}],"outputs":["outputs/json/query_logic_score_calculator.json","outputs/json/join_risk_calculator.json"]}

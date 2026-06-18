@@ -1,0 +1,5 @@
+operation,result
+intersection,a1|a2|a4
+anti_join_missing_references,a3
+published_with_repo,a1|a3
+missing_repo,a2|a4
