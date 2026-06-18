@@ -1,0 +1,11 @@
+term,category,definition
+evolutionary algorithm,search framework,Population-based adaptive search using variation and selection.
+genetic algorithm,method,Population search using selection crossover and mutation.
+evolutionary strategy,method,Continuous optimization emphasizing mutation selection and strategy adaptation.
+genetic programming,method,Evolution of programs expressions trees or rules.
+differential evolution,method,Continuous optimization using scaled population differences.
+fitness function,evaluation,Score used to evaluate candidates.
+mutation,variation,Random local change to a candidate.
+recombination,variation,Combine material from multiple candidates.
+diversity,search resource,Difference among candidates.
+premature convergence,risk,Population collapses too early around suboptimal region.

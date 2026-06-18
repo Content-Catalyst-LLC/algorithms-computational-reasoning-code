@@ -1,0 +1,7 @@
+{
+  "average_evolutionary_search_quality": 71.488,
+  "average_evolutionary_search_risk": 28.76,
+  "case_count": 5,
+  "highest_quality_case": "Multi-objective design search",
+  "highest_risk_case": "Opaque evolved ranking rule"
+}

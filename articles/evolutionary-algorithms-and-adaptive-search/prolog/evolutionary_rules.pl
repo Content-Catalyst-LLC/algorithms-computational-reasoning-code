@@ -1,0 +1,9 @@
+evolutionary_component(population).
+evolutionary_component(fitness_function).
+evolutionary_component(selection).
+evolutionary_component(mutation).
+evolutionary_component(recombination).
+risk(fitness_mismatch).
+risk(premature_convergence).
+risk(reward_hacking).
+risk(benchmark_overfitting).

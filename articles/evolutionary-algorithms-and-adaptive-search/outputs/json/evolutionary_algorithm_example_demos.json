@@ -1,0 +1,26 @@
+{
+  "binary_fitness": 3,
+  "mutation": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "crossover": [
+    1,
+    0,
+    0,
+    0
+  ],
+  "diversity": 0.6666666666666666,
+  "simple_ga": {
+    "best_fitness": 12.0,
+    "final_diversity": 0.02412280701754386
+  },
+  "multi_seed_summary": {
+    "mean_best_fitness": 12.0,
+    "stddev_best_fitness": 0.0,
+    "mean_final_diversity": 0.026228070175438593,
+    "stddev_final_diversity": 0.0061334547741801184
+  }
+}

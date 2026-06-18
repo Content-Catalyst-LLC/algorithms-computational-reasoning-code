@@ -1,0 +1,10 @@
+term,category,definition,example
+evolutionary algorithm,search framework,Population-based adaptive search using variation and selection,genetic algorithm
+population,search state,Set of candidate solutions,route candidates
+fitness function,evaluation,Score used to evaluate candidates,route cost or model accuracy
+mutation,variation,Random local change to a candidate,bit flip or Gaussian perturbation
+recombination,variation,Combine material from multiple candidates,crossover
+selection pressure,search dynamic,Strength with which high-fitness candidates dominate,tournament selection
+diversity,search resource,Difference among candidates,pairwise genotype distance
+premature convergence,risk,Population collapses too early around suboptimal region,stagnant GA
+Pareto front,multi-objective,Set of non-dominated trade-off candidates,multi-objective design

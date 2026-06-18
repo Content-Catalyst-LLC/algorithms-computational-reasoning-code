@@ -1,0 +1,7 @@
+{
+  "population_size": 20,
+  "genome_length": 12,
+  "seed": 20260617,
+  "average_pairwise_hamming_diversity": 0.505702,
+  "interpretation": "Higher diversity means candidates are more different; low diversity can indicate premature convergence."
+}

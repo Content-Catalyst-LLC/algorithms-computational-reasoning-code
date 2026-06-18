@@ -1,37 +1,14 @@
-# Evolutionary Algorithms and Adaptive Search (planned)
+# Evolutionary Algorithms and Adaptive Search
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Evolutionary Algorithms and Adaptive Search**.
 
-## Purpose
+This scaffold covers evolutionary algorithms, adaptive search, genetic algorithms, evolutionary strategies, genetic programming, differential evolution, multi-objective search, novelty search, coevolution, fitness functions, diversity tracking, benchmarking, traceability, safety review, and responsible evolutionary-search governance.
 
-This folder will hold computational companion materials for the planned article:
-**Evolutionary Algorithms and Adaptive Search**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

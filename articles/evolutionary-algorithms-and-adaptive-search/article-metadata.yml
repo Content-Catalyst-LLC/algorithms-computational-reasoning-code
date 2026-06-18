@@ -1,0 +1,17 @@
+actual_title: "Evolutionary Algorithms and Adaptive Search"
+suggested_seo_title: "Evolutionary Algorithms and Adaptive Search: Population-Based Computational Discovery"
+focus_keyword: "evolutionary algorithms and adaptive search"
+slug: "evolutionary-algorithms-and-adaptive-search"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "heuristics-and-metaheuristics"
+  current: "evolutionary-algorithms-and-adaptive-search"
+  next: "computational-complexity-and-scalability"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/evolutionary-algorithms-and-adaptive-search"
+tags: [Evolutionary Algorithms, Adaptive Search, Genetic Algorithms, Evolutionary Strategies, Genetic Programming, Multi-Objective Optimization, Diversity Tracking, Computational Reasoning]
+excerpt_139_words: "Evolutionary algorithms are adaptive search methods inspired by variation, selection, recombination, mutation, and population-level learning. Instead of searching from a single candidate solution, they maintain a population of possible solutions, evaluate them with a fitness function, preserve or recombine stronger candidates, introduce variation, and iterate across generations. These methods are useful when solution spaces are large, rugged, nonlinear, poorly understood, or difficult to optimize with exact algorithms. They appear in design optimization, scheduling, routing, engineering, symbolic regression, machine learning, feature selection, artificial life, simulation, game strategy, parameter tuning, architecture search, and adaptive systems modeling. Evolutionary algorithms do not usually guarantee global optimality. Their strength is flexible exploration. Their risk is that they can become opaque, overfit to a fitness function, converge prematurely, or produce solutions that look impressive without being robust."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

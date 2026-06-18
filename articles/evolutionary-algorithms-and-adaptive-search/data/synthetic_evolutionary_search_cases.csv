@@ -1,0 +1,6 @@
+case_name,problem_context,evolutionary_strategy,representation_clarity,fitness_alignment,variation_design,diversity_tracking,parameter_documentation,benchmark_evidence,robustness_testing,traceability,safety_review,governance_readiness
+Genetic route optimization,Search for shorter routes across many locations,Permutation encoding with swap mutation and ordered crossover,0.88,0.86,0.84,0.80,0.82,0.78,0.76,0.84,0.76,0.78
+Symbolic regression,Discover interpretable mathematical expressions from data,Tree-based genetic programming with parsimony pressure,0.84,0.82,0.80,0.78,0.80,0.82,0.78,0.82,0.74,0.76
+Multi-objective design search,Explore cost reliability and sustainability trade-offs,Population-based Pareto search with diversity preservation,0.86,0.86,0.82,0.86,0.80,0.80,0.82,0.84,0.82,0.84
+Opaque evolved ranking rule,Evolve ranking rules using engagement-only fitness,Tree-based rule evolution without held-out fairness review,0.46,0.28,0.40,0.32,0.34,0.30,0.26,0.34,0.22,0.26
+Differential evolution tuning,Tune continuous simulation parameters under noisy evaluation,Use population differences to generate adaptive search directions,0.84,0.82,0.84,0.80,0.82,0.78,0.78,0.82,0.76,0.78

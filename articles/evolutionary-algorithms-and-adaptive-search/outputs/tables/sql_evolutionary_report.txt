@@ -1,0 +1,13 @@
+case_name                      evolutionary_search_quality
+-----------------------------  ---------------------------
+Multi-objective design search  83.24                      
+Genetic route optimization     81.48                      
+Symbolic regression            79.92                      
+Opaque evolved ranking rule    32.24                      
+generation  best_fitness  average_fitness  diversity  seed      notes                                    
+----------  ------------  ---------------  ---------  --------  -----------------------------------------
+0           7.0           5.1              0.51       20260617  initial random population                
+5           10.0          7.8              0.39       20260617  selection begins concentrating population
+10          11.0          8.85             0.31       20260617  fitness improving diversity falling      
+20          12.0          10.7             0.18       20260617  near maximum fitness with lower diversity
+30          12.0          11.2             0.11       20260617  possible convergence                     
