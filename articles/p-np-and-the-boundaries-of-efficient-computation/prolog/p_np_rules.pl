@@ -1,0 +1,10 @@
+class(p).
+class(np).
+class(np_hard).
+class(np_complete).
+in_np(satisfiability).
+np_complete(satisfiability).
+np_complete(tsp_decision).
+risk(confusing_np_with_not_polynomial).
+risk(confusing_np_hard_with_np_complete).
+risk(false_optimality_claim).

@@ -1,0 +1,8 @@
+case_name                               claimed_class                             claim_quality
+--------------------------------------  ----------------------------------------  -------------
+Graph reachability                      P                                         82.78        
+Boolean satisfiability                  NP-complete                               80.36        
+Traveling salesperson decision version  NP-complete                               80.26        
+Subset sum                              NP-complete                               79.16        
+Vague optimal allocation engine         unsupported hardness or optimality claim  22.18        
+case_name                               claimed_class                             0.0          

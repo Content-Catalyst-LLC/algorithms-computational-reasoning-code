@@ -1,37 +1,14 @@
-# P, NP, and the Boundaries of Efficient Computation (planned)
+# P, NP, and the Boundaries of Efficient Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **P, NP, and the Boundaries of Efficient Computation**.
 
-## Purpose
+This scaffold covers P, NP, NP-hardness, NP-completeness, efficient verification, certificates, reductions, decision problems, search problems, optimization problems, exact feasibility, approximation readiness, benchmark support, governance, and responsible communication of computational limits.
 
-This folder will hold computational companion materials for the planned article:
-**P, NP, and the Boundaries of Efficient Computation**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,6 @@
+case_name,problem_context,claimed_class,problem_form_clarity,input_definition_clarity,certificate_clarity,verifier_clarity,reduction_evidence,class_claim_evidence,exact_method_feasibility,approximation_readiness,benchmark_support,governance_readiness,communication_clarity,complexity_class_claim_quality,complexity_class_claim_risk,diagnostic
+Graph reachability,Determine whether a path exists between two nodes,P,0.92,0.9,0.82,0.88,0.7,0.88,0.9,0.6,0.82,0.78,0.86,82.78,17.636,usable class claim with review needs
+Boolean satisfiability,Determine whether a Boolean formula has a satisfying assignment,NP-complete,0.9,0.88,0.9,0.9,0.88,0.9,0.42,0.62,0.78,0.78,0.84,80.36,20.0,usable class claim with review needs
+Traveling salesperson decision version,Determine whether a tour exists under a cost bound,NP-complete,0.88,0.86,0.88,0.88,0.84,0.86,0.4,0.82,0.78,0.8,0.84,80.26,19.636,usable class claim with review needs
+Vague optimal allocation engine,System claims optimal allocation without stating problem form certificate or solver status,unsupported hardness or optimality claim,0.28,0.3,0.22,0.24,0.1,0.18,0.26,0.24,0.2,0.24,0.2,22.18,77.636,high risk; P/NP/hardness claim may be unclear or unsupported
+Subset sum,Determine whether a subset sums to target,NP-complete,0.86,0.84,0.86,0.86,0.82,0.84,0.5,0.78,0.76,0.76,0.82,79.16,20.909,usable class claim with review needs

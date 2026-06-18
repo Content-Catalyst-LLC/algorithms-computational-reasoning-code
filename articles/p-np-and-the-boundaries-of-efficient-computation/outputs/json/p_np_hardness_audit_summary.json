@@ -1,0 +1,7 @@
+{
+  "average_complexity_class_claim_quality": 68.948,
+  "average_complexity_class_claim_risk": 31.163,
+  "case_count": 5,
+  "highest_quality_case": "Graph reachability",
+  "highest_risk_case": "Vague optimal allocation engine"
+}

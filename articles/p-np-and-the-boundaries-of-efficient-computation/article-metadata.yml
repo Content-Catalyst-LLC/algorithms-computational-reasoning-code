@@ -1,0 +1,17 @@
+actual_title: "P, NP, and the Boundaries of Efficient Computation"
+suggested_seo_title: "P, NP, and the Boundaries of Efficient Computation"
+focus_keyword: "P NP and the boundaries of efficient computation"
+slug: "p-np-and-the-boundaries-of-efficient-computation"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "tractability-intractability-and-hard-problems"
+  current: "p-np-and-the-boundaries-of-efficient-computation"
+  next: "space-complexity-memory-and-resource-constraints"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/p-np-and-the-boundaries-of-efficient-computation"
+tags: [P, NP, NP-Hard, NP-Complete, Complexity Theory, Efficient Verification, Reductions, Computational Reasoning]
+excerpt_139_words: "P, NP, and the boundaries of efficient computation sit at the center of computational complexity theory. The question is not merely whether a problem can be solved in principle, but whether it can be solved efficiently, checked efficiently, transformed into another problem, or shown to belong to a family of problems that appear resistant to efficient general solution. The famous P versus NP question asks whether every problem whose solution can be verified efficiently can also be solved efficiently. It remains one of the most important open problems in mathematics and computer science. But even without resolving it, the distinction between P, NP, NP-hard, and NP-complete shapes practical algorithm design, verification, reductions, hardness evidence, approximation, heuristics, parameterized methods, and responsible communication about what automation can and cannot promise."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

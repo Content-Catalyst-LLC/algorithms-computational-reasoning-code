@@ -1,0 +1,22 @@
+[
+  {
+    "class_or_label": "P",
+    "meaning": "Decision problems solvable in polynomial time.",
+    "practical_note": "Often treated as efficiently solvable in theory."
+  },
+  {
+    "class_or_label": "NP",
+    "meaning": "Decision problems whose yes answers have polynomial-time verifiers.",
+    "practical_note": "Verification can be easier than discovery."
+  },
+  {
+    "class_or_label": "NP-hard",
+    "meaning": "At least as hard as every problem in NP.",
+    "practical_note": "May not itself be in NP or even be a decision problem."
+  },
+  {
+    "class_or_label": "NP-complete",
+    "meaning": "Both in NP and NP-hard.",
+    "practical_note": "Efficient solution to one NP-complete problem would imply P = NP."
+  }
+]

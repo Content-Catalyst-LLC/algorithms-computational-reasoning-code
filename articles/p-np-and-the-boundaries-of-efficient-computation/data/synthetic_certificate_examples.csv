@@ -1,0 +1,6 @@
+problem,certificate,verification_task
+Boolean satisfiability,truth assignment,check whether every clause is satisfied
+TSP decision,proposed tour,check all cities visited once and cost under bound
+Graph coloring,color assignment,check adjacent vertices have different colors
+Subset sum,chosen subset,check whether values sum to target
+Scheduling feasibility,candidate schedule,check constraints deadlines and capacities

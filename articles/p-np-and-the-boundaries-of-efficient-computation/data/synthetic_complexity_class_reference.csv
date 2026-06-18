@@ -1,0 +1,5 @@
+class_or_label,meaning,practical_note
+P,Decision problems solvable in polynomial time,Often treated as efficiently solvable in theory
+NP,Decision problems whose yes answers have polynomial-time verifiers,Verification can be easier than discovery
+NP-hard,At least as hard as every problem in NP,May not itself be in NP or even be a decision problem
+NP-complete,Both in NP and NP-hard,Efficient solution to one NP-complete problem would imply P equals NP

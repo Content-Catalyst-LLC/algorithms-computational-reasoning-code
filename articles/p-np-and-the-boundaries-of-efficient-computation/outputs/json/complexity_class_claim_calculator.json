@@ -1,0 +1,5 @@
+{
+  "complexity_class_claim_quality": 85.833,
+  "complexity_class_claim_risk": 14.167,
+  "interpretation": "Higher quality requires precise problem form, certificate, verifier, reduction evidence, class evidence, and communication."
+}
