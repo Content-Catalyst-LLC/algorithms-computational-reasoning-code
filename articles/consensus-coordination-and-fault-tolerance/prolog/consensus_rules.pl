@@ -1,0 +1,13 @@
+consensus_property(agreement).
+consensus_property(validity).
+consensus_property(integrity).
+consensus_property(termination).
+failure_model(crash).
+failure_model(partition).
+failure_model(byzantine).
+requires_governance(quorum_design).
+requires_governance(leader_election).
+requires_governance(split_brain_prevention).
+risk(split_brain).
+risk(stale_leader).
+risk(unsafe_retry).

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ConsensusCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "coordination_goal"
+  ],
+  "properties": {
+    "case_name": {
+      "type": "string"
+    },
+    "system_context": {
+      "type": "string"
+    },
+    "coordination_goal": {
+      "type": "string"
+    },
+    "agreement_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "quorum_design": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "failure_model": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "leader_election": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "log_replication": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "partition_behavior": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "retry_idempotence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "observability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "recovery_design": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "security_trust": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "governance_review": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "communication_clarity": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

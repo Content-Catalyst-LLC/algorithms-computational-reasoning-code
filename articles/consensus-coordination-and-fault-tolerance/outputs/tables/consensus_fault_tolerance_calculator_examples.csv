@@ -1,0 +1,5 @@
+node_count,majority_quorum,crash_fault_tolerance,quorum_intersection_holds,majority_availability_at_99_percent_node_availability
+3,2,1,True,0.999702
+5,3,2,True,0.99999015
+7,4,3,True,0.99999966
+9,5,4,True,0.99999999

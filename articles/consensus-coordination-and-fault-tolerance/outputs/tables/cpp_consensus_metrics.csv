@@ -1,0 +1,4 @@
+test_name,value
+majority_quorum_5_nodes,3
+crash_fault_tolerance_5_nodes,2
+byzantine_replicas_for_2_faults,7

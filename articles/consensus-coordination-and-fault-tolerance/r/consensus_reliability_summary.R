@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_consensus_cases.csv", stringsAsFactors = FALSE)
+data$consensus_reliability_score <- 100 * (0.10*data$agreement_clarity + 0.10*data$quorum_design + 0.11*data$failure_model + 0.09*data$leader_election + 0.09*data$log_replication + 0.10*data$partition_behavior + 0.09*data$retry_idempotence + 0.10*data$observability + 0.08*data$recovery_design + 0.06*data$security_trust + 0.05*data$governance_review + 0.03*data$communication_clarity)
+data$consensus_risk <- 100 * rowMeans(1 - data[, c("agreement_clarity","quorum_design","failure_model","leader_election","partition_behavior","retry_idempotence","observability","recovery_design","governance_review")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_consensus_reliability_summary.csv", row.names=FALSE)
+png("outputs/figures/r_consensus_reliability_vs_risk.png", width=1500, height=850)
+m <- rbind(data$consensus_reliability_score, data$consensus_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Consensus reliability", "Consensus risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Consensus Reliability vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

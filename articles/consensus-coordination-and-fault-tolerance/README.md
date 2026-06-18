@@ -1,37 +1,14 @@
-# Consensus, Coordination, and Fault Tolerance (planned)
+# Consensus, Coordination, and Fault Tolerance
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Consensus, Coordination, and Fault Tolerance**.
 
-## Purpose
+This scaffold covers consensus, coordination, fault tolerance, quorum design, leader election, replicated logs, state-machine replication, failure models, partition behavior, retries, idempotence, split-brain prevention, observability, recovery, security, and distributed governance.
 
-This folder will hold computational companion materials for the planned article:
-**Consensus, Coordination, and Fault Tolerance**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

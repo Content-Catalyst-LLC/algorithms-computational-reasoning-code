@@ -1,0 +1,12 @@
+case_name                          consensus_risk_score
+---------------------------------  --------------------
+Unsafe split-brain service         76.38               
+AI retrieval fail-closed policy    25.32               
+Search index snapshot publication  21.04               
+Replicated database commit         14.54               
+cluster_id  node_count  quorum_size  majority_quorum  crash_fault_tolerance  quorum_intersection
+----------  ----------  -----------  ---------------  ---------------------  -------------------
+cluster_3   3           2            2                1                      intersects         
+cluster_5   5           3            3                2                      intersects         
+cluster_7   7           4            4                3                      intersects         
+cluster_9   9           5            5                4                      intersects         

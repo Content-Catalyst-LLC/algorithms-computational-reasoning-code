@@ -1,0 +1,30 @@
+{
+  "article_slug": "consensus-coordination-and-fault-tolerance",
+  "actual_title": "Consensus, Coordination, and Fault Tolerance",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "consensus-fault-tolerance",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "agreement-quorum-failure-model",
+      "title": "Agreement, Quorums, and Failure Models",
+      "category": "consensus design",
+      "status": "active",
+      "score": 98
+    },
+    {
+      "card_id": "leader-log-recovery",
+      "title": "Leader Election, Logs, and Recovery",
+      "category": "coordination",
+      "status": "active",
+      "score": 97
+    },
+    {
+      "card_id": "partition-retry-governance",
+      "title": "Partition Behavior, Retries, and Governance",
+      "category": "fault tolerance",
+      "status": "review",
+      "score": 95
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "node_count": 5,
+  "majority_quorum": 3,
+  "crash_fault_tolerance": 2,
+  "quorum_intersection_holds": true,
+  "majority_availability": 0.99999015
+}

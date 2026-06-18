@@ -1,0 +1,16 @@
+actual_title: "Consensus, Coordination, and Fault Tolerance"
+suggested_seo_title: "Consensus, Coordination, and Fault Tolerance"
+focus_keyword: "consensus coordination and fault tolerance"
+slug: "consensus-coordination-and-fault-tolerance"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "distributed-algorithms-and-networked-computation"
+  current: "consensus-coordination-and-fault-tolerance"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/consensus-coordination-and-fault-tolerance"
+tags: [Consensus, Coordination, Fault Tolerance, Quorums, Leader Election, Replicated Logs, Distributed Systems, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

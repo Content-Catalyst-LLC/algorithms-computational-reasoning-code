@@ -1,0 +1,6 @@
+event_id,term,leader,node_set,event_type,governance_note
+e001,1,node_a,node_a|node_b|node_c,leader_elected,majority confirmed
+e002,1,node_a,node_a|node_b|node_c,log_entry_committed,entry replicated to quorum
+e003,2,node_b,node_b|node_c|node_d,leader_elected,old leader fenced
+e004,2,node_b,node_b|node_c|node_d,partition_detected,minority partition read-only
+e005,3,node_c,node_a|node_c|node_d,recovery_completed,log replay verified

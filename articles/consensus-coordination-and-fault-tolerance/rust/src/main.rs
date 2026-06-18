@@ -1,0 +1,1 @@
+fn mq(n:u32)->u32{n/2+1} fn ft(n:u32)->u32{(n-1)/2} fn bft(f:u32)->u32{3*f+1} fn main(){println!("test_name,value\nmajority_quorum_5_nodes,{}\ncrash_fault_tolerance_5_nodes,{}\nbyzantine_replicas_for_2_faults,{}",mq(5),ft(5),bft(2));}

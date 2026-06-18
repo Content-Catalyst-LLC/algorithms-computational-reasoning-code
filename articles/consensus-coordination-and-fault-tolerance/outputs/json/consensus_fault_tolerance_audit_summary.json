@@ -1,0 +1,9 @@
+[
+  {
+    "average_consensus_reliability_score": 67.708,
+    "average_consensus_risk": 32.222,
+    "case_count": 5,
+    "highest_risk_case": "Unsafe split-brain service",
+    "highest_score_case": "Replicated database commit"
+  }
+]

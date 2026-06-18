@@ -1,0 +1,17 @@
+{
+  "article_slug": "consensus-coordination-and-fault-tolerance",
+  "calculators": [
+    {
+      "name": "majority_quorum_calculator",
+      "path": "python/calculators/majority_quorum_calculator.py"
+    },
+    {
+      "name": "byzantine_fault_threshold_calculator",
+      "path": "python/calculators/byzantine_fault_threshold_calculator.py"
+    }
+  ],
+  "outputs": [
+    "outputs/json/majority_quorum_calculator.json",
+    "outputs/json/byzantine_fault_threshold_calculator.json"
+  ]
+}

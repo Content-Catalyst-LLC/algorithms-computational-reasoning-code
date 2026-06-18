@@ -1,0 +1,4 @@
+{
+  "byzantine_faults": 2,
+  "minimum_replicas_3f_plus_1": 7
+}

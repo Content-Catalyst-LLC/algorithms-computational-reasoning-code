@@ -1,0 +1,2 @@
+case_count,average_consensus_reliability_score,average_consensus_risk,highest_score_case,highest_risk_case
+5,67.708,32.222,Replicated database commit,Unsafe split-brain service
