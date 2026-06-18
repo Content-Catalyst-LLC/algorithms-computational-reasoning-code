@@ -1,0 +1,1 @@
+{"article_slug":"cloud-computing-and-algorithmic-infrastructure","calculators":[{"name":"cloud_latency_calculator","path":"python/calculators/cloud_latency_calculator.py"},{"name":"cloud_unit_cost_calculator","path":"python/calculators/cloud_unit_cost_calculator.py"}],"outputs":["outputs/json/cloud_latency_calculator.json","outputs/json/cloud_unit_cost_calculator.json"]}

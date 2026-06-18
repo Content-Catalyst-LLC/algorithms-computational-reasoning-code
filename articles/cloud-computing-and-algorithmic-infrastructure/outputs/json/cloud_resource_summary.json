@@ -1,0 +1,82 @@
+[
+  {
+    "access_risk": "medium",
+    "criticality": "high",
+    "monthly_cost": "460.00",
+    "observability_level": "high",
+    "owner": "platform_team",
+    "resource_id": "res001",
+    "resource_type": "container_cluster",
+    "service_layer": "compute"
+  },
+  {
+    "access_risk": "medium",
+    "criticality": "high",
+    "monthly_cost": "95.00",
+    "observability_level": "medium",
+    "owner": "data_team",
+    "resource_id": "res002",
+    "resource_type": "object_storage",
+    "service_layer": "storage"
+  },
+  {
+    "access_risk": "medium",
+    "criticality": "high",
+    "monthly_cost": "720.00",
+    "observability_level": "medium",
+    "owner": "ai_team",
+    "resource_id": "res003",
+    "resource_type": "vector_database",
+    "service_layer": "data"
+  },
+  {
+    "access_risk": "low",
+    "criticality": "medium",
+    "monthly_cost": "120.00",
+    "observability_level": "high",
+    "owner": "platform_team",
+    "resource_id": "res004",
+    "resource_type": "managed_queue",
+    "service_layer": "coordination"
+  },
+  {
+    "access_risk": "high",
+    "criticality": "medium",
+    "monthly_cost": "60.00",
+    "observability_level": "low",
+    "owner": "data_team",
+    "resource_id": "res005",
+    "resource_type": "serverless_function",
+    "service_layer": "compute"
+  },
+  {
+    "access_risk": "low",
+    "criticality": "high",
+    "monthly_cost": "180.00",
+    "observability_level": "high",
+    "owner": "sre_team",
+    "resource_id": "res006",
+    "resource_type": "monitoring_workspace",
+    "service_layer": "observability"
+  },
+  {
+    "access_risk": "medium",
+    "criticality": "high",
+    "monthly_cost": "140.00",
+    "observability_level": "high",
+    "owner": "platform_team",
+    "resource_id": "res007",
+    "resource_type": "api_gateway",
+    "service_layer": "network"
+  },
+  {
+    "access_risk": "low",
+    "criticality": "high",
+    "monthly_cost": "45.00",
+    "observability_level": "high",
+    "owner": "security_team",
+    "resource_id": "res008",
+    "resource_type": "secrets_manager",
+    "service_layer": "security"
+  }
+]

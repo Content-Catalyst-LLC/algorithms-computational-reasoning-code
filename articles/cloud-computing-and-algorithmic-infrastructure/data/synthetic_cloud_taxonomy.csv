@@ -1,0 +1,11 @@
+term,category,definition,example
+cloud computing,infrastructure,network-accessible compute storage and services,managed virtual machines and databases
+algorithmic infrastructure,systems layer,environment that lets algorithms run scale and be governed,compute storage queues APIs observability
+infrastructure as code,reproducibility,versioned configuration for infrastructure,declaring networks databases and permissions
+autoscaling,capacity,adding or removing resources based on signals,scale workers when queue depth rises
+observability,evidence,logs metrics traces and alerts,request trace through model endpoint and database
+identity and access management,security,control who or what can act,least-privilege service account
+managed service,cloud service,provider-operated capability,managed database or queue
+serverless,event execution,function or workload run without direct server management,event-triggered function
+cost governance,resource control,tracking and limiting cloud spend,budget alert and unit-cost report
+resilience,reliability,ability to recover or degrade under failure,backup restore test and regional failover

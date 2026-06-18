@@ -1,0 +1,9 @@
+resource_id,resource_type,service_layer,monthly_cost,criticality,owner,observability_level,access_risk
+res001,container_cluster,compute,460.00,high,platform_team,high,medium
+res002,object_storage,storage,95.00,high,data_team,medium,medium
+res003,vector_database,data,720.00,high,ai_team,medium,medium
+res004,managed_queue,coordination,120.00,medium,platform_team,high,low
+res005,serverless_function,compute,60.00,medium,data_team,low,high
+res006,monitoring_workspace,observability,180.00,high,sre_team,high,low
+res007,api_gateway,network,140.00,high,platform_team,high,medium
+res008,secrets_manager,security,45.00,high,security_team,high,low

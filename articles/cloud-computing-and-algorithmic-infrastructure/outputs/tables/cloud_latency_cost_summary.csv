@@ -1,0 +1,6 @@
+case_name,compute_ms,storage_ms,network_ms,queue_ms,coordination_ms,compute_cost,storage_cost,network_cost,managed_service_cost,observability_cost,completed_work,total_latency_ms,unit_cost
+ai_retrieval,180,75,65,24,18,240.00,80.00,45.00,380.00,35.00,96000,362.0,0.008125
+search_indexing,90,120,55,140,30,320.00,110.00,60.00,220.00,42.00,180000,435.0,0.004178
+dashboard_platform,35,48,30,12,8,90.00,35.00,20.00,110.00,24.00,240000,133.0,0.001162
+simulation_cluster,600,95,45,80,25,780.00,120.00,55.00,65.00,40.00,48000,845.0,0.022083
+serverless_automation,45,55,40,20,12,70.00,40.00,25.00,95.00,8.00,72000,172.0,0.003306

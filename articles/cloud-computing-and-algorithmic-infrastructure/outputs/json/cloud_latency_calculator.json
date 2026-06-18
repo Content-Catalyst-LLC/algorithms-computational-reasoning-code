@@ -1,0 +1,8 @@
+{
+  "compute_ms": 80.0,
+  "storage_ms": 45.0,
+  "network_ms": 60.0,
+  "queue_ms": 25.0,
+  "coordination_ms": 15.0,
+  "total_latency_ms": 225.0
+}

@@ -1,0 +1,16 @@
+actual_title: "Cloud Computing and Algorithmic Infrastructure"
+suggested_seo_title: "Cloud Computing and Algorithmic Infrastructure"
+focus_keyword: "cloud computing and algorithmic infrastructure"
+slug: "cloud-computing-and-algorithmic-infrastructure"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "scalability-latency-and-system-performance"
+  current: "cloud-computing-and-algorithmic-infrastructure"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/cloud-computing-and-algorithmic-infrastructure"
+tags: [Cloud Computing, Algorithmic Infrastructure, Infrastructure as Code, Observability, IAM, Autoscaling, Managed Services, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

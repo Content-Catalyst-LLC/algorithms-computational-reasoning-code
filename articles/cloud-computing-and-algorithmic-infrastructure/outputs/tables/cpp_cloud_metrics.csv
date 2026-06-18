@@ -1,0 +1,4 @@
+test_name,value
+cloud_response_latency_ms,225
+nominal_capacity,3000
+unit_cost,0.002

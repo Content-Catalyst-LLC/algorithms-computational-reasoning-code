@@ -1,0 +1,9 @@
+[
+  {
+    "average_cloud_infrastructure_risk": 32.267,
+    "average_cloud_infrastructure_score": 68.668,
+    "case_count": 5,
+    "highest_risk_case": "Unreviewed serverless automation",
+    "highest_score_case": "Search indexing platform"
+  }
+]

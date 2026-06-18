@@ -1,0 +1,24 @@
+case_name                         cloud_risk_score
+--------------------------------  ----------------
+Unreviewed serverless automation  71.56           
+Scientific simulation cluster     22.98           
+Search indexing platform          20.58           
+AI retrieval infrastructure       20.24           
+service_layer  monthly_cost
+-------------  ------------
+data           720.0       
+compute        520.0       
+observability  180.0       
+network        140.0       
+coordination   120.0       
+storage        95.0        
+security       45.0        
+resource_id  resource_type         owner          access_risk  observability_level
+-----------  --------------------  -------------  -----------  -------------------
+res007       api_gateway           platform_team  medium       high               
+res001       container_cluster     platform_team  medium       high               
+res002       object_storage        data_team      medium       medium             
+res003       vector_database       ai_team        medium       medium             
+res006       monitoring_workspace  sre_team       low          high               
+res008       secrets_manager       security_team  low          high               
+res005       serverless_function   data_team      high         low                

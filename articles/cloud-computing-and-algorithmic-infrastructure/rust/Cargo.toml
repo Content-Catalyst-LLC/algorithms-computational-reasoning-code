@@ -1,0 +1,5 @@
+[package]
+name = "cloud-computing-and-algorithmic-infrastructure"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

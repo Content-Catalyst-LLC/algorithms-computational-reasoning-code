@@ -1,0 +1,9 @@
+{
+  "compute_cost": 120.0,
+  "storage_cost": 35.0,
+  "network_cost": 25.0,
+  "managed_service_cost": 90.0,
+  "observability_cost": 18.0,
+  "completed_work": 144000,
+  "unit_cost": 0.002
+}

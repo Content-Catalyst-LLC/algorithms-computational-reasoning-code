@@ -1,0 +1,2 @@
+example,compute_ms,storage_ms,network_ms,queue_ms,coordination_ms,total_latency_ms
+cloud_response_latency_ms,80,45,60,25,15,225

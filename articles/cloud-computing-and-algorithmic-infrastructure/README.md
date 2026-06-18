@@ -1,37 +1,14 @@
-# Cloud Computing and Algorithmic Infrastructure (planned)
+# Cloud Computing and Algorithmic Infrastructure
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Cloud Computing and Algorithmic Infrastructure**.
 
-## Purpose
+This scaffold covers cloud computing, algorithmic infrastructure, compute, storage, networking, containers, orchestration, serverless workflows, managed services, APIs, queues, event streams, autoscaling, observability, identity and access control, cost governance, resilience, deployment reproducibility, and responsible infrastructure design.
 
-This folder will hold computational companion materials for the planned article:
-**Cloud Computing and Algorithmic Infrastructure**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.
