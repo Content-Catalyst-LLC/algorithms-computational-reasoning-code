@@ -1,0 +1,13 @@
+case_name                        divide_conquer_quality
+-------------------------------  ----------------------
+Merge sort workflow              88.92                 
+Parallel aggregation pipeline    85.04                 
+Document chunking for retrieval  81.68                 
+Unreviewed spatial partition     52.04                 
+partition_id  source_size  subproblem_size  combine_rule                 boundary_check             
+------------  -----------  ---------------  ---------------------------  ---------------------------
+P-005         5000         1250             map-reduce aggregation       partition_balance_check    
+P-001         1024         512              merge sorted halves          not_applicable             
+P-002         512          256              merge sorted halves          not_applicable             
+P-003         128          64               aggregate partial summaries  cross_partition_total_check
+P-004         1            1                direct return                not_applicable             

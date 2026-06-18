@@ -1,0 +1,11 @@
+term,category,definition
+divide,pattern,Break a problem into smaller subproblems.
+solve,pattern,Solve subproblems directly or recursively.
+combine,pattern,Reassemble subproblem solutions into the full result.
+base case,recursion,Small directly solvable problem.
+progress measure,termination,Evidence that recursion moves toward stopping.
+recurrence,cost,Equation describing recursive cost.
+recursion tree,analysis,Tree of recursive subproblems.
+boundary effect,representation,Interaction crossing a partition boundary.
+traceability,evidence,Ability to link final result to partial outputs.
+governance,accountability,Review of partition rules recombination and responsibility.

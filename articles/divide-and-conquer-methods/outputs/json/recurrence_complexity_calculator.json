@@ -1,0 +1,10 @@
+{
+  "n": 1024,
+  "branches": 2,
+  "shrink": 2,
+  "combine_power": 1.0,
+  "estimated_depth": 10,
+  "estimated_leaf_count": 1024,
+  "estimated_nonrecursive_work": 11264.0,
+  "interpretation": "Pedagogical recurrence estimate for T(n)=aT(n/b)+O(n^d)."
+}

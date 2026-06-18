@@ -1,0 +1,6 @@
+partition_id,source_size,subproblem_size,base_case,combine_rule,boundary_check
+P-001,1024,512,false,merge sorted halves,not_applicable
+P-002,512,256,false,merge sorted halves,not_applicable
+P-003,128,64,false,aggregate partial summaries,cross_partition_total_check
+P-004,1,1,true,direct return,not_applicable
+P-005,5000,1250,false,map-reduce aggregation,partition_balance_check

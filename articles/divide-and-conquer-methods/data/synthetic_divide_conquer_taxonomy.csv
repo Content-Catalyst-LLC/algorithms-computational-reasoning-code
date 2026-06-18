@@ -1,0 +1,9 @@
+term,category,definition,example
+divide,pattern,Break a problem into smaller subproblems,split a list into halves
+solve,pattern,Solve each subproblem directly or recursively,sort each half
+combine,pattern,Reassemble subproblem solutions,merge sorted halves
+base case,recursion,Small directly solvable problem,list of length zero or one
+progress measure,termination,Evidence that recursion moves toward stopping,subproblem size decreases
+recurrence,cost,Equation describing recursive cost,T(n)=2T(n/2)+O(n)
+boundary handling,governance,Review of effects that cross partitions,spatial partition boundary check
+traceability,evidence,Ability to link final result to subproblem outputs,partition ID and run log

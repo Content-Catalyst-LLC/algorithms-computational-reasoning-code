@@ -1,0 +1,32 @@
+{
+  "binary_search_for_7": 3,
+  "binary_search_for_missing_10": -1,
+  "binary_search_recurrence_estimate": {
+    "estimated_combine_work": 11.0,
+    "estimated_leaf_count": 1.0,
+    "n": 1024.0,
+    "recursion_depth": 10.0
+  },
+  "merge_sort_recurrence_estimate": {
+    "estimated_combine_work": 11264.0,
+    "estimated_leaf_count": 1024.0,
+    "n": 1024.0,
+    "recursion_depth": 10.0
+  },
+  "merge_sort_result": [
+    1,
+    3,
+    4,
+    7,
+    8,
+    9
+  ],
+  "original_values": [
+    9,
+    3,
+    7,
+    1,
+    4,
+    8
+  ]
+}

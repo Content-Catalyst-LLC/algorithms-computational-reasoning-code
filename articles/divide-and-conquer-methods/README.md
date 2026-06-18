@@ -1,37 +1,14 @@
-# Divide-and-Conquer Methods (planned)
+# Divide-and-Conquer Methods
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Divide-and-Conquer Methods**.
 
-## Purpose
+This scaffold covers recursive decomposition, base cases, subproblem validity, merge sort, binary search, quicksort, recurrence relations, recursion trees, parallel partitioning, boundary handling, recombination logic, traceability, and responsible decomposition governance.
 
-This folder will hold computational companion materials for the planned article:
-**Divide-and-Conquer Methods**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

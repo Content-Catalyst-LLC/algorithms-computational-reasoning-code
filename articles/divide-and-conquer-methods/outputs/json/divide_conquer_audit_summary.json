@@ -1,0 +1,7 @@
+{
+  "average_divide_conquer_quality": 78.416,
+  "average_divide_conquer_risk": 22.0,
+  "case_count": 5,
+  "highest_quality_case": "Merge sort workflow",
+  "highest_risk_case": "Unreviewed spatial partition"
+}

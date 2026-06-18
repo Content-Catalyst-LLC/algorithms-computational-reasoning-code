@@ -1,0 +1,10 @@
+function merge_sort(xs)
+    length(xs) <= 1 && return copy(xs)
+    mid = fld(length(xs), 2)
+    left = merge_sort(xs[1:mid])
+    right = merge_sort(xs[mid+1:end])
+    return sort(vcat(left, right))
+end
+println("test_name,value")
+println("merge_sort,$(join(merge_sort([9,3,5,1]), ':'))")
+println("binary_search_index,$(searchsortedfirst([1,3,5,9], 5))")

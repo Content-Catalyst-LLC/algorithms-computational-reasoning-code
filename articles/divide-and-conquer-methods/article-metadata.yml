@@ -1,0 +1,17 @@
+actual_title: "Divide-and-Conquer Methods"
+suggested_seo_title: "Divide-and-Conquer Methods: How Algorithms Turn Scale into Structure"
+focus_keyword: "divide-and-conquer methods"
+slug: "divide-and-conquer-methods"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "search-and-sorting-as-foundational-algorithms"
+  current: "divide-and-conquer-methods"
+  next: "greedy-algorithms-and-local-choice"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/divide-and-conquer-methods"
+tags: [Divide and Conquer, Recursive Decomposition, Merge Sort, Binary Search, Quicksort, Recurrence Relations, Parallel Algorithms, Computational Reasoning]
+excerpt_139_words: "Divide-and-conquer methods solve problems by breaking them into smaller parts, solving those parts, and combining the results. This strategy is one of the most important patterns in algorithm design because it turns scale into structure. A large problem becomes a collection of smaller problems. A difficult computation becomes a recursive process. A complex task becomes a sequence of division, solution, and recombination. Divide-and-conquer reasoning appears in binary search, merge sort, quicksort, fast multiplication, computational geometry, parallel computing, distributed systems, numerical methods, signal processing, scientific computing, and data pipelines. But division alone is not enough. The subproblems must be well formed. The base cases must be clear. The combination step must be correct. The recursion must terminate. The cost of dividing and recombining must be understood."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true
