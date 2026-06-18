@@ -1,0 +1,10 @@
+{
+  "approximation_ratio_minimization": 1.5,
+  "relative_gap_minimization": 0.2,
+  "vertex_cover_size": 2,
+  "greedy_set_cover": [
+    "S1",
+    "S3"
+  ],
+  "exact_subset_cover_size": 2
+}

@@ -1,0 +1,7 @@
+{
+  "average_approximation_quality": 75.688,
+  "average_approximation_risk": 24.68,
+  "case_count": 5,
+  "highest_quality_case": "Vertex cover 2-approximation",
+  "highest_risk_case": "Opaque approximate allocation"
+}

@@ -1,0 +1,9 @@
+{
+  "problem_type": "minimization",
+  "algorithm_value": 12.0,
+  "bound_value": 10.0,
+  "absolute_gap": 2.0,
+  "relative_gap": 0.2,
+  "ratio": 1.2,
+  "interpretation": "Gap uses a known bound as reference; true optimum may differ unless bound is tight."
+}

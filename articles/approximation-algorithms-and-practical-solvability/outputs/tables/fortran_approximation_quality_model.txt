@@ -1,0 +1,3 @@
+test_name value
+relative_gap 0.200000
+approximation_ratio 1.500000

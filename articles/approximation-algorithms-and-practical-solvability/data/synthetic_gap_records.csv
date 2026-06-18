@@ -1,0 +1,5 @@
+record_id,case_name,algorithm_value,bound_value,problem_type,reported_gap,acceptable_gap,decision
+G-001,Vertex cover 2-approximation,6,3,minimization,1.000,1.000,accepted
+G-002,Greedy set cover,4,3,minimization,0.333,0.500,accepted
+G-003,Knapsack FPTAS-style scaling,95,100,maximization,0.050,0.100,accepted
+G-004,Opaque approximate allocation,0,0,unknown,NA,NA,review_required

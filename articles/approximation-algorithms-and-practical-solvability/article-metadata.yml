@@ -1,0 +1,17 @@
+actual_title: "Approximation Algorithms and Practical Solvability"
+suggested_seo_title: "Approximation Algorithms and Practical Solvability: Near-Optimal Computation"
+focus_keyword: "approximation algorithms and practical solvability"
+slug: "approximation-algorithms-and-practical-solvability"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "randomized-algorithms-and-probabilistic-procedure"
+  current: "approximation-algorithms-and-practical-solvability"
+  next: "heuristics-and-metaheuristics"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/approximation-algorithms-and-practical-solvability"
+tags: [Approximation Algorithms, Practical Solvability, Approximation Ratios, Optimality Gaps, Relaxation, Rounding, Optimization, Computational Reasoning]
+excerpt_139_words: "Approximation algorithms are designed for problems where exact optimal solutions are too expensive to compute at useful scale. Instead of pretending that every problem can be solved perfectly and quickly, approximation algorithms ask a more practical question: can we find a solution that is provably close to optimal within acceptable time? This makes approximation central to practical solvability. Some problems are easy to state but computationally difficult to solve exactly. Scheduling, routing, allocation, facility location, graph problems, clustering, covering, packing, and network design often produce enormous search spaces. An exact solution may exist in principle but be unusable in practice. Approximation algorithms respond by trading exactness for guarantees. They may promise a solution within a factor of the optimum, within an additive error, or within a tunable accuracy-cost trade-off."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

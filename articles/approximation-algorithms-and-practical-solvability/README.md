@@ -1,37 +1,14 @@
-# Approximation Algorithms and Practical Solvability (planned)
+# Approximation Algorithms and Practical Solvability
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Approximation Algorithms and Practical Solvability**.
 
-## Purpose
+This scaffold covers approximation algorithms, practical solvability, approximation ratios, optimality gaps, relaxation and rounding, greedy approximation, primal-dual reasoning, randomized approximation, PTAS and FPTAS concepts, inapproximability, traceability, and responsible approximation governance.
 
-This folder will hold computational companion materials for the planned article:
-**Approximation Algorithms and Practical Solvability**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

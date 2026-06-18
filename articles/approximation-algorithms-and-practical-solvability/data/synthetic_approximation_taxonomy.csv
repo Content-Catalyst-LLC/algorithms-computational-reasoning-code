@@ -1,0 +1,9 @@
+term,category,definition,example
+approximation algorithm,design pattern,Algorithm with a bounded relationship to optimum,vertex cover 2-approximation
+approximation ratio,guarantee,Factor relating algorithmic solution to optimum,2-approximation
+optimality gap,evidence,Distance between feasible solution and bound,relative gap report
+relaxation,method,Make hard constraints easier to solve,linear programming relaxation
+rounding,method,Convert relaxed solution into feasible discrete solution,LP rounding
+PTAS,scheme,Polynomial-time approximation scheme for fixed epsilon,tunable near-optimal algorithm
+FPTAS,scheme,Fully polynomial-time approximation scheme,knapsack scaling
+inapproximability,limit,Hardness of achieving certain approximation factors,gap hardness

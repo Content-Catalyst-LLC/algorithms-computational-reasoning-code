@@ -1,0 +1,31 @@
+{
+  "exact_set_cover_size_for_demo": 2,
+  "greedy_set_cover": {
+    "chosen_count": 2,
+    "chosen_sets": [
+      "S1",
+      "S3"
+    ]
+  },
+  "greedy_to_exact_cover_ratio": 1.0,
+  "vertex_cover_approx": {
+    "approximation_factor": 2,
+    "cover": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "cover_size": 4,
+    "selected_edges": [
+      [
+        "D",
+        "E"
+      ],
+      [
+        "B",
+        "C"
+      ]
+    ]
+  }
+}

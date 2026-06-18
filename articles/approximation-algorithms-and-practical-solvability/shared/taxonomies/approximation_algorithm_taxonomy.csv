@@ -1,0 +1,10 @@
+term,category,definition
+approximation algorithm,design pattern,Algorithm with a bounded relationship to optimum.
+approximation ratio,guarantee,Factor relating algorithmic solution to optimum.
+optimality gap,evidence,Distance between feasible solution and bound.
+relaxation,method,Make hard constraints easier to solve.
+rounding,method,Convert relaxed solution into feasible discrete solution.
+PTAS,scheme,Polynomial-time approximation scheme for fixed epsilon.
+FPTAS,scheme,Fully polynomial-time approximation scheme.
+inapproximability,limit,Hardness of achieving certain approximation factors.
+practical solvability,governance,Ability to produce useful solutions under real constraints.

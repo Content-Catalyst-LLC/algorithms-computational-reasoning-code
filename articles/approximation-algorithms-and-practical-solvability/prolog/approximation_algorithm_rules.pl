@@ -1,0 +1,10 @@
+approximation_pattern(ratio).
+approximation_pattern(optimality_gap).
+approximation_pattern(relaxation).
+approximation_pattern(rounding).
+approximation_pattern(greedy_bound).
+scheme(ptas).
+scheme(fptas).
+risk(unstated_objective).
+risk(missing_guarantee).
+risk(false_exactness).

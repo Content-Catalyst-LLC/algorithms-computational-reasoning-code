@@ -1,0 +1,2 @@
+case_count,average_approximation_quality,average_approximation_risk,highest_quality_case,highest_risk_case
+5,75.688,24.68,Vertex cover 2-approximation,Opaque approximate allocation

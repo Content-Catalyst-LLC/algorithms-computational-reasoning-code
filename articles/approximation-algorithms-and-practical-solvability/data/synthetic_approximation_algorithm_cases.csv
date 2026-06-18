@@ -1,0 +1,6 @@
+case_name,problem_context,approximation_strategy,objective_clarity,feasibility_preservation,guarantee_clarity,assumption_validity,bound_evidence,runtime_practicality,gap_reporting,edge_case_coverage,traceability,governance_readiness
+Vertex cover 2-approximation,Find a small vertex set touching every edge in a graph,Select both endpoints of uncovered edges until all edges are covered,0.92,0.92,0.90,0.88,0.88,0.92,0.84,0.82,0.86,0.82
+Greedy set cover,Cover all required elements using low-cost sets,Repeatedly choose the set with best uncovered coverage per cost,0.88,0.90,0.84,0.82,0.82,0.90,0.82,0.78,0.86,0.84
+Knapsack FPTAS-style scaling,Maximize value under a capacity constraint,Scale values and run dynamic programming on reduced value range,0.90,0.88,0.86,0.84,0.84,0.82,0.86,0.82,0.84,0.82
+Opaque approximate allocation,Allocate scarce resources using a fast approximation with unclear objective,Uses undocumented scoring and stops at an unknown optimality gap,0.38,0.62,0.26,0.34,0.24,0.78,0.22,0.36,0.30,0.32
+Randomized sketch estimate,Approximate stream frequency statistics with limited memory,Use randomized sketching with stated error probability and seed record,0.84,0.82,0.80,0.78,0.78,0.88,0.82,0.76,0.84,0.82
