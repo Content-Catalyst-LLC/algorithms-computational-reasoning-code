@@ -1,0 +1,2 @@
+case_count,average_efficiency_score,average_understanding_score,average_tradeoff_risk,highest_responsible_score_case,highest_tradeoff_risk_case
+5,76.52,59.584,26.606,Readable optimization with tests,Automation without recourse

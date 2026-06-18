@@ -1,37 +1,14 @@
-# Efficiency vs. Understanding in Computational Systems (planned)
+# Efficiency vs. Understanding in Computational Systems
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Efficiency vs. Understanding in Computational Systems**.
 
-## Purpose
+This scaffold covers efficiency, understanding, performance trade-offs, readability, debuggability, explainability, observability, auditability, reproducibility, maintainability, governance readiness, communication clarity, and responsible computational optimization.
 
-This folder will hold computational companion materials for the planned article:
-**Efficiency vs. Understanding in Computational Systems**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

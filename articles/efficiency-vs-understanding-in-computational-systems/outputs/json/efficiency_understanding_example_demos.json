@@ -1,0 +1,17 @@
+{
+  "efficiency_gain_sample": {
+    "baseline_cost": 100.0,
+    "optimized_cost": 64.0,
+    "absolute_savings": 36.0,
+    "efficiency_gain": 0.36,
+    "efficiency_gain_percent": 36.0
+  },
+  "understanding_composite_sample": {
+    "readability": 0.8,
+    "debuggability": 0.75,
+    "explainability": 0.7,
+    "auditability": 0.78,
+    "maintainability": 0.82,
+    "understanding_score": 77.0
+  }
+}

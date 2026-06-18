@@ -1,0 +1,11 @@
+term,category,definition,example
+time efficiency,efficiency dimension,Reduction in runtime or latency,faster search
+space efficiency,efficiency dimension,Reduction in memory or storage,compressed index
+understanding,interpretive dimension,Ability to reason about purpose assumptions behavior and consequences,traceable algorithm
+readability,understanding quality,Code or model is easy to inspect,clear implementation
+debuggability,understanding quality,Failures can be diagnosed,structured logs
+explainability,understanding quality,Outputs can be meaningfully explained,reason codes
+observability,operations quality,System behavior can be inferred from signals,metrics logs traces
+auditability,governance quality,Claims can be reviewed with evidence,provenance records
+maintainability,lifecycle quality,System can be safely adapted,tests and documentation
+tradeoff risk,governance metric,Efficiency gain may undermine understanding,opaque optimization

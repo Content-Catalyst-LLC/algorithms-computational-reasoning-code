@@ -1,0 +1,8 @@
+{
+  "efficiency_gain": 0.36,
+  "understanding_before": 0.82,
+  "understanding_after": 0.68,
+  "understanding_loss": 0.14,
+  "tradeoff_risk": 4.9,
+  "diagnostic": "balanced or manageable trade-off"
+}

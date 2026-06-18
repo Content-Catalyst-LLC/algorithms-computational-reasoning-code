@@ -1,0 +1,17 @@
+[
+  {
+    "absolute_savings": 38.0,
+    "baseline_cost": 100.0,
+    "efficiency_gain": 0.38,
+    "efficiency_gain_percent": 38.0,
+    "optimized_cost": 62.0
+  },
+  {
+    "auditability": 0.8,
+    "debuggability": 0.78,
+    "explainability": 0.74,
+    "maintainability": 0.84,
+    "readability": 0.82,
+    "understanding_score": 79.6
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "baseline_cost": 100.0,
+  "optimized_cost": 64.0,
+  "absolute_savings": 36.0,
+  "efficiency_gain": 0.36,
+  "efficiency_gain_percent": 36.0
+}

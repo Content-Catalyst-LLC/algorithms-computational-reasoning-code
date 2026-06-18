@@ -1,0 +1,6 @@
+case_name                         efficiency_score  understanding_score
+--------------------------------  ----------------  -------------------
+Opaque model compression          84.4              45.44              
+Approximate retrieval index       77.4              63.8               
+Automation without recourse       72.4              38.4               
+Readable optimization with tests  71.1              83.12              

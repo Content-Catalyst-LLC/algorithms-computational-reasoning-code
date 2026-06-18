@@ -1,0 +1,12 @@
+efficiency_dimension(time).
+efficiency_dimension(space).
+efficiency_dimension(cost).
+efficiency_dimension(energy).
+understanding_dimension(readability).
+understanding_dimension(debuggability).
+understanding_dimension(explainability).
+understanding_dimension(auditability).
+risk(optimization_tunnel_vision).
+risk(opacity_as_sophistication).
+risk(compression_without_accountability).
+risk(automation_without_recourse).

@@ -1,0 +1,18 @@
+actual_title: "Efficiency vs. Understanding in Computational Systems"
+suggested_seo_title: "Efficiency vs. Understanding in Computational Systems"
+focus_keyword: "efficiency vs understanding in computational systems"
+slug: "efficiency-vs-understanding-in-computational-systems"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "streaming-algorithms-and-real-time-data"
+  current: "efficiency-vs-understanding-in-computational-systems"
+  next_status: "section-complete"
+  next_label: "Complexity, Scalability, and Resource Limits"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/efficiency-vs-understanding-in-computational-systems"
+tags: [Efficiency, Computational Understanding, Optimization, Explainability, Auditability, Maintainability, Responsible Computing, Computational Reasoning]
+excerpt_139_words: "Efficiency is one of the great achievements of computational systems. Efficient algorithms reduce time, memory, cost, energy, latency, and operational burden. They make search possible, simulation feasible, infrastructure scalable, and real-time systems responsive. Without efficiency, many computational systems would remain theoretical or unusable. But efficiency can also create a problem. A system may become faster while becoming harder to understand. It may become more compressed, automated, optimized, distributed, or abstract while becoming less interpretable, less auditable, less explainable, and less accountable. The system works, but fewer people can say why it works, where it fails, what it hides, or what assumptions it depends on. Responsible computational reasoning evaluates performance gains alongside interpretability, provenance, maintainability, governance, and the ability to challenge or correct system behavior."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

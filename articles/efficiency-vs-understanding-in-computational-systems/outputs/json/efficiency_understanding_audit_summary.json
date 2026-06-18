@@ -1,0 +1,8 @@
+{
+  "average_efficiency_score": 76.52,
+  "average_tradeoff_risk": 26.606,
+  "average_understanding_score": 59.584,
+  "case_count": 5,
+  "highest_responsible_score_case": "Readable optimization with tests",
+  "highest_tradeoff_risk_case": "Automation without recourse"
+}
