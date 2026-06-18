@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_search_architecture_cases.csv", stringsAsFactors = FALSE)
+data$search_architecture_score <- 100 * (0.10*data$collection_coverage + 0.10*data$metadata_quality + 0.10*data$indexing_completeness + 0.09*data$query_interpretation + 0.09*data$ranking_clarity + 0.08*data$filter_quality + 0.08*data$freshness_management + 0.09*data$evaluation_discipline + 0.07*data$feedback_governance + 0.08*data$provenance_support + 0.06*data$accessibility_support + 0.06*data$communication_clarity)
+data$retrieval_risk <- 100 * rowMeans(1 - data[, c("collection_coverage","metadata_quality","indexing_completeness","ranking_clarity","freshness_management","evaluation_discipline","feedback_governance","provenance_support","communication_clarity")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_search_architecture_summary.csv", row.names=FALSE)
+png("outputs/figures/r_search_architecture_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$search_architecture_score, data$retrieval_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Search architecture score", "Retrieval risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Search Architecture Score vs. Retrieval Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

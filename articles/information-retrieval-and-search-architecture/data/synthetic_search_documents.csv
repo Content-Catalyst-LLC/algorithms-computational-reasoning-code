@@ -1,0 +1,6 @@
+doc_id,title,body,category,tags,publication_year
+doc_1,Information Retrieval,Information retrieval uses indexing ranking and evaluation to support search.,Algorithms,search indexing retrieval,2026
+doc_2,Database Optimization,Database optimization uses query plans indexes joins and cardinality estimates.,Algorithms,database query optimization,2026
+doc_3,Metadata Provenance,Metadata provenance and traceability improve knowledge system governance.,Algorithms,metadata provenance governance,2026
+doc_4,Search Architecture,Search architecture combines documents metadata inverted indexes ranking filters and logs.,Algorithms,search architecture metadata,2026
+doc_5,Vector Embeddings,Vector embeddings support semantic similarity search and retrieval augmented systems.,Algorithms,embeddings semantic retrieval,2026

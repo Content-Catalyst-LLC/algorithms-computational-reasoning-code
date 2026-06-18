@@ -1,37 +1,14 @@
-# Information Retrieval and Search Architecture (planned)
+# Information Retrieval and Search Architecture
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Information Retrieval and Search Architecture**.
 
-## Purpose
+This scaffold covers information retrieval, search architecture, metadata, inverted indexes, query processing, Boolean retrieval, vector-space retrieval, ranking, facets, freshness, evaluation metrics, feedback governance, retrieval-augmented AI, provenance, accessibility, and responsible search design.
 
-This folder will hold computational companion materials for the planned article:
-**Information Retrieval and Search Architecture**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

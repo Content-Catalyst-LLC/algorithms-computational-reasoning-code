@@ -1,0 +1,11 @@
+search_layer(collection).
+search_layer(index).
+search_layer(query_processing).
+search_layer(ranking).
+search_layer(evaluation).
+search_layer(governance).
+risk(collection_bias).
+risk(metadata_invisibility).
+risk(vocabulary_mismatch).
+risk(ranking_opacity).
+risk(stale_index).

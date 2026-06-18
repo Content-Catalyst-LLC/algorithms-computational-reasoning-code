@@ -1,0 +1,125 @@
+{
+  "and": [
+    "doc_1",
+    "doc_2",
+    "doc_3",
+    "doc_4",
+    "doc_5"
+  ],
+  "architecture": [
+    "doc_4"
+  ],
+  "augmented": [
+    "doc_5"
+  ],
+  "cardinality": [
+    "doc_2"
+  ],
+  "combines": [
+    "doc_4"
+  ],
+  "database": [
+    "doc_2"
+  ],
+  "documents": [
+    "doc_4"
+  ],
+  "embeddings": [
+    "doc_5"
+  ],
+  "estimates": [
+    "doc_2"
+  ],
+  "evaluation": [
+    "doc_1"
+  ],
+  "filters": [
+    "doc_4"
+  ],
+  "governance": [
+    "doc_3"
+  ],
+  "improve": [
+    "doc_3"
+  ],
+  "indexes": [
+    "doc_2",
+    "doc_4"
+  ],
+  "indexing": [
+    "doc_1"
+  ],
+  "information": [
+    "doc_1"
+  ],
+  "inverted": [
+    "doc_4"
+  ],
+  "joins": [
+    "doc_2"
+  ],
+  "knowledge": [
+    "doc_3"
+  ],
+  "logs": [
+    "doc_4"
+  ],
+  "metadata": [
+    "doc_3",
+    "doc_4"
+  ],
+  "optimization": [
+    "doc_2"
+  ],
+  "plans": [
+    "doc_2"
+  ],
+  "provenance": [
+    "doc_3"
+  ],
+  "query": [
+    "doc_2"
+  ],
+  "ranking": [
+    "doc_1",
+    "doc_4"
+  ],
+  "retrieval": [
+    "doc_1",
+    "doc_5"
+  ],
+  "search": [
+    "doc_1",
+    "doc_4",
+    "doc_5"
+  ],
+  "semantic": [
+    "doc_5"
+  ],
+  "similarity": [
+    "doc_5"
+  ],
+  "support": [
+    "doc_1",
+    "doc_5"
+  ],
+  "system": [
+    "doc_3"
+  ],
+  "systems": [
+    "doc_5"
+  ],
+  "to": [
+    "doc_1"
+  ],
+  "traceability": [
+    "doc_3"
+  ],
+  "uses": [
+    "doc_1",
+    "doc_2"
+  ],
+  "vector": [
+    "doc_5"
+  ]
+}

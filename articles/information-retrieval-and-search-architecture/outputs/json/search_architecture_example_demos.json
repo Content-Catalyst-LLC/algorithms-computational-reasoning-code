@@ -1,0 +1,10 @@
+{
+  "precision_recall_sample": {
+    "precision": 0.6667,
+    "recall": 1.0
+  },
+  "search_architecture_core_sample": {
+    "search_architecture_core_score": 83.32,
+    "diagnostic": "review collection coverage, metadata, indexing, ranking, evaluation, and provenance"
+  }
+}

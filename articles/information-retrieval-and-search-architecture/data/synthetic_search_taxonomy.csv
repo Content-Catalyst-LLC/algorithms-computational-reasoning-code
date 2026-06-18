@@ -1,0 +1,9 @@
+term,category,definition,example
+inverted index,retrieval structure,maps terms to document identifiers,database -> doc ids
+tokenization,text processing,splits text into searchable units,query algorithms -> query algorithms
+tfidf,ranking weight,term frequency multiplied by inverse document frequency,frequent rare terms score higher
+precision,evaluation metric,share of retrieved results that are relevant,relevant returned over returned
+recall,evaluation metric,share of relevant results that were retrieved,relevant returned over relevant total
+facet,navigation filter,structured dimension for narrowing results,category tag date
+reranking,ranking stage,second stage reorders candidates,cross encoder reranker
+search log,feedback evidence,record of queries clicks filters and refinements,zero result query log

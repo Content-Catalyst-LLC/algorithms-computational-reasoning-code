@@ -1,0 +1,18 @@
+doc_id  title                  category    tags                         
+------  ---------------------  ----------  -----------------------------
+doc_1   Information Retrieval  Algorithms  search indexing retrieval    
+doc_4   Search Architecture    Algorithms  search architecture metadata 
+doc_5   Vector Embeddings      Algorithms  embeddings semantic retrieval
+query_text                events
+------------------------  ------
+nonexistent topic phrase  1     
+query_text                query_events  click_events
+------------------------  ------------  ------------
+search indexing metadata  1             1           
+query optimization        1             1           
+nonexistent topic phrase  1             0           
+missing source metadata   1             1           
+query_text                avg_relevance  judged_docs
+------------------------  -------------  -----------
+search indexing metadata  2.0            3          
+query optimization        2.0            2          
