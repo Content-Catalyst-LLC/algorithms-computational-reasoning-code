@@ -1,0 +1,10 @@
+term,category,definition,example
+heuristic,design pattern,Practical rule that often works without universal optimality guarantee,nearest-neighbor route
+metaheuristic,search framework,General strategy for exploring difficult solution spaces,simulated annealing
+local search,search method,Improve a candidate by moving to nearby alternatives,swap two tasks
+hill climbing,local search,Accept improving moves until no neighbor improves,local route repair
+simulated annealing,metaheuristic,Accept occasional worse moves under a cooling schedule,schedule repair
+tabu search,metaheuristic,Use memory to avoid cycling through recent moves,allocation search
+genetic algorithm,metaheuristic,Use population selection recombination and mutation,design search
+exploration,search behavior,Search new regions of a solution space,random restarts
+exploitation,search behavior,Improve promising candidates,intensification around best solution

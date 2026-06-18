@@ -1,0 +1,5 @@
+{
+  "local_search_risk": 28.25,
+  "local_search_quality_proxy": 71.75,
+  "interpretation": "Risk proxy for local-optimum traps, seed fragility, parameter sensitivity, and edge-case failure."
+}

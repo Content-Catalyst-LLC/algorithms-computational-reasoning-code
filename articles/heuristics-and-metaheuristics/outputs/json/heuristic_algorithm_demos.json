@@ -1,0 +1,26 @@
+{
+  "multi_seed_stability": {
+    "max_best_cost": -1.9357654791693881,
+    "mean_best_cost": -1.9400184310683009,
+    "min_best_cost": -1.9406555315900964,
+    "runs": 10,
+    "stddev_best_cost": 0.001461247658355463
+  },
+  "nearest_neighbor_route": {
+    "cost": 33,
+    "heuristic": "nearest_neighbor",
+    "route": [
+      0,
+      1,
+      3,
+      2,
+      0
+    ]
+  },
+  "simulated_annealing_demo": {
+    "accepted_worse_moves": 94,
+    "best_cost": -1.9406459359338246,
+    "best_x": 2.764429704678323,
+    "seed": 20260617
+  }
+}

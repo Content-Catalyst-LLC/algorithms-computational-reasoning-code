@@ -1,0 +1,12 @@
+case_name                            heuristic_quality
+-----------------------------------  -----------------
+Simulated annealing schedule repair  80.08            
+Nearest-neighbor route heuristic     79.4             
+Tabu allocation search               78.36            
+Opaque ranking heuristic             30.28            
+record_id  case_name                            baseline_score  heuristic_score  score_direction  seed      notes                                     
+---------  -----------------------------------  --------------  ---------------  ---------------  --------  ------------------------------------------
+B-001      Nearest-neighbor route heuristic     34.0            27.0             minimize         20260617  nearest neighbor beats simple listed order
+B-002      Simulated annealing schedule repair  18.5            12.2             minimize         20260617  annealing improves conflict-weighted cost 
+B-003      Tabu allocation search               21.0            15.4             minimize         20260617  tabu memory reduces cycling               
+B-004      Opaque ranking heuristic             0.0             0.0              unknown          20260617  requires governance review                

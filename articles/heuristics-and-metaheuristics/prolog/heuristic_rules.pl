@@ -1,0 +1,11 @@
+heuristic_pattern(selection).
+heuristic_pattern(ordering).
+heuristic_pattern(scoring).
+heuristic_pattern(stopping).
+metaheuristic(simulated_annealing).
+metaheuristic(tabu_search).
+metaheuristic(genetic_algorithm).
+risk(proxy_mismatch).
+risk(local_optimum_trap).
+risk(parameter_opacity).
+risk(false_authority).

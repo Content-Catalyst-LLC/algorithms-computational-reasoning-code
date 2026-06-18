@@ -1,0 +1,2 @@
+case_count,average_heuristic_quality,average_heuristic_risk,highest_quality_case,highest_risk_case
+5,69.232,31.04,Simulated annealing schedule repair,Opaque ranking heuristic

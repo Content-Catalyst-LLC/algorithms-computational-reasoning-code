@@ -1,37 +1,14 @@
-# Heuristics and Metaheuristics (planned)
+# Heuristics and Metaheuristics
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Heuristics and Metaheuristics**.
 
-## Purpose
+This scaffold covers heuristics, metaheuristics, local search, hill climbing, simulated annealing, tabu search, genetic and evolutionary algorithms, swarm methods, exploration and exploitation, benchmarking, stress testing, traceability, monitoring, and responsible heuristic governance.
 
-This folder will hold computational companion materials for the planned article:
-**Heuristics and Metaheuristics**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

@@ -1,0 +1,1 @@
+{"article_slug":"heuristics-and-metaheuristics","calculators":[{"name":"heuristic_quality_calculator","path":"python/calculators/heuristic_quality_calculator.py"},{"name":"local_search_risk_calculator","path":"python/calculators/local_search_risk_calculator.py"}],"outputs":["outputs/json/heuristic_quality_calculator.json","outputs/json/local_search_risk_calculator.json"]}

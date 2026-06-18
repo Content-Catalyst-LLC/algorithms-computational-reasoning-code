@@ -1,0 +1,17 @@
+actual_title: "Heuristics and Metaheuristics"
+suggested_seo_title: "Heuristics and Metaheuristics: Practical Search Without Perfect Guarantees"
+focus_keyword: "heuristics and metaheuristics"
+slug: "heuristics-and-metaheuristics"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "approximation-algorithms-and-practical-solvability"
+  current: "heuristics-and-metaheuristics"
+  next: "evolutionary-algorithms-and-adaptive-search"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/heuristics-and-metaheuristics"
+tags: [Heuristics, Metaheuristics, Local Search, Simulated Annealing, Tabu Search, Genetic Algorithms, Optimization, Computational Reasoning]
+excerpt_139_words: "Heuristics and metaheuristics are practical strategies for finding useful solutions when exact algorithms, exhaustive search, or formal approximation guarantees are unavailable, too expensive, or too rigid for the problem at hand. A heuristic is a rule of thumb, search guide, scoring method, or simplifying strategy that often works well but may not guarantee optimality. A metaheuristic is a higher-level search framework that guides exploration across difficult solution spaces. Heuristics appear throughout computation: route planning, scheduling, allocation, search engines, game playing, optimization, machine learning, simulation, data cleaning, recommendation systems, policy modeling, and everyday decision support. They help systems act under uncertainty, scale, ambiguity, incomplete information, and time pressure. But heuristics require care. A heuristic may be fast, intuitive, and useful while also being biased, brittle, opaque, or wrong in edge cases."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

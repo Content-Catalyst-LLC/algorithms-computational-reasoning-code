@@ -1,0 +1,11 @@
+term,category,definition
+heuristic,design pattern,Practical rule that often works without universal optimality guarantee.
+metaheuristic,search framework,General strategy for exploring difficult solution spaces.
+local search,search method,Improve a candidate by moving to nearby alternatives.
+hill climbing,local search,Accept improving moves until no neighbor improves.
+simulated annealing,metaheuristic,Accept occasional worse moves under a cooling schedule.
+tabu search,metaheuristic,Use memory to avoid cycling through recent moves.
+genetic algorithm,metaheuristic,Use population selection recombination and mutation.
+exploration,search behavior,Search new regions of a solution space.
+exploitation,search behavior,Improve promising candidates.
+bounded rationality,theory,Decision-making under limited time information and computation.

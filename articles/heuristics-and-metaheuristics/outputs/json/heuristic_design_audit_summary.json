@@ -1,0 +1,7 @@
+{
+  "average_heuristic_quality": 69.232,
+  "average_heuristic_risk": 31.04,
+  "case_count": 5,
+  "highest_quality_case": "Simulated annealing schedule repair",
+  "highest_risk_case": "Opaque ranking heuristic"
+}
