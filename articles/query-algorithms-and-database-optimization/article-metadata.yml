@@ -1,0 +1,17 @@
+actual_title: "Query Algorithms and Database Optimization"
+suggested_seo_title: "Query Algorithms and Database Optimization"
+focus_keyword: "query algorithms and database optimization"
+slug: "query-algorithms-and-database-optimization"
+series: "Algorithms & Computational Reasoning"
+section: "Databases and Computational Knowledge Systems"
+article_order:
+  previous: "relational-databases-and-structured-representation"
+  current: "query-algorithms-and-database-optimization"
+  next: "indexes-query-plans-and-execution-models"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/query-algorithms-and-database-optimization"
+tags: [Query Algorithms, Database Optimization, Query Plans, Indexes, Join Algorithms, Cardinality Estimation, Database Performance, Computational Reasoning]
+excerpt_139_words: "Query algorithms determine how a database answers questions. Database optimization determines how those questions are answered efficiently, reliably, and at scale. Together, they connect the logic of a query to the physical work required to execute it. A user may write a query as if it were a simple request: find matching records, join tables, group results, sort output, or return top rows. But the database engine must translate that request into an execution strategy. It may scan a table, use an index, reorder joins, estimate cardinality, choose a hash join or nested loop join, materialize intermediate results, push filters downward, use statistics, parallelize execution, cache results, or rewrite the query internally. Query optimization links formal questions, computational cost, performance evidence, and responsible database design."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

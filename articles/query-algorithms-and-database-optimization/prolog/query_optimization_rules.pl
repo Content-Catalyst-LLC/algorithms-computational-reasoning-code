@@ -1,0 +1,9 @@
+join_algorithm(nested_loop).
+join_algorithm(index_nested_loop).
+join_algorithm(hash_join).
+join_algorithm(merge_join).
+optimization_move(selection_pushdown).
+optimization_move(projection_pruning).
+risk(stale_statistics).
+risk(join_explosion).
+risk(hidden_materialization).

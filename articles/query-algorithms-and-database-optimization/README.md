@@ -1,37 +1,14 @@
-# Query Algorithms and Database Optimization (planned)
+# Query Algorithms and Database Optimization
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Query Algorithms and Database Optimization**.
 
-## Purpose
+This scaffold covers query algorithms, database optimization, logical plans, physical plans, table scans, index scans, join algorithms, query rewriting, cost models, cardinality estimation, statistics, memory risk, materialized views, workload governance, and responsible performance claims.
 
-This folder will hold computational companion materials for the planned article:
-**Query Algorithms and Database Optimization**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

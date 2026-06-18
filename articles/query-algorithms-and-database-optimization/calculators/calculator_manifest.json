@@ -1,0 +1,13 @@
+{
+  "article_slug": "query-algorithms-and-database-optimization",
+  "calculators": [
+    {
+      "name": "query_cost_estimator",
+      "path": "python/calculators/query_cost_estimator.py"
+    },
+    {
+      "name": "index_tradeoff_calculator",
+      "path": "python/calculators/index_tradeoff_calculator.py"
+    }
+  ]
+}

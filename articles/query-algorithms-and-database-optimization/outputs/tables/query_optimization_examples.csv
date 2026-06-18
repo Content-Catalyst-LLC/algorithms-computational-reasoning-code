@@ -1,0 +1,2 @@
+example,table_rows,selectivity,estimated_rows
+selection_estimate,1000000,0.012,12000.0

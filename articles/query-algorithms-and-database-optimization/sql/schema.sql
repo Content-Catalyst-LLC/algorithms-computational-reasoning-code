@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS articles;
+CREATE TABLE articles(article_id INTEGER PRIMARY KEY, slug TEXT NOT NULL UNIQUE, title TEXT NOT NULL, publication_status TEXT NOT NULL, series TEXT NOT NULL, publication_year INTEGER);
+DROP TABLE IF EXISTS references_table;
+CREATE TABLE references_table(reference_id INTEGER PRIMARY KEY, article_id INTEGER NOT NULL, citation TEXT NOT NULL, source_type TEXT NOT NULL, FOREIGN KEY(article_id) REFERENCES articles(article_id));
+DROP TABLE IF EXISTS repositories;
+CREATE TABLE repositories(repo_id INTEGER PRIMARY KEY, article_id INTEGER NOT NULL, repo_url TEXT NOT NULL UNIQUE, FOREIGN KEY(article_id) REFERENCES articles(article_id));
+DROP TABLE IF EXISTS query_benchmarks;
+CREATE TABLE query_benchmarks(benchmark_id INTEGER PRIMARY KEY, query_name TEXT NOT NULL, baseline_ms REAL NOT NULL, optimized_ms REAL NOT NULL, plan_note TEXT NOT NULL);
+CREATE INDEX idx_articles_status_year ON articles(publication_status, publication_year);
+CREATE INDEX idx_references_article ON references_table(article_id);
+CREATE INDEX idx_repositories_article ON repositories(article_id);
+INSERT INTO articles VALUES (1,'relational-databases-and-structured-representation','Relational Databases and Structured Representation','published','Algorithms & Computational Reasoning',2026),(2,'query-algorithms-and-database-optimization','Query Algorithms and Database Optimization','published','Algorithms & Computational Reasoning',2026),(3,'indexes-query-plans-and-execution-models','Indexes, Query Plans, and Execution Models','planned','Algorithms & Computational Reasoning',2026),(4,'metadata-provenance-and-computational-traceability','Metadata, Provenance, and Computational Traceability','published','Algorithms & Computational Reasoning',2026);
+INSERT INTO references_table VALUES (1,1,'Codd 1970','journal'),(2,2,'Selinger et al. 1979','conference'),(3,2,'Graefe 1993','journal'),(4,2,'Chaudhuri 1998','conference');
+INSERT INTO repositories VALUES (1,1,'https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/relational-databases-and-structured-representation/'),(2,2,'https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/query-algorithms-and-database-optimization/');
+INSERT INTO query_benchmarks VALUES (1,'published_articles_with_references',120,34,'status-year index and references article index'),(2,'articles_missing_repositories',210,55,'anti-join with repository article index'),(3,'article_count_by_status',95,28,'status index and projection pruning');

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "QueryOptimizationCase",
+  "type": "object",
+  "required": [
+    "case_name",
+    "system_context",
+    "optimization_claim",
+    "logical_clarity",
+    "index_suitability",
+    "cardinality_awareness",
+    "join_strategy_quality",
+    "predicate_pushdown",
+    "projection_pruning",
+    "statistics_freshness",
+    "memory_risk_management",
+    "materialization_freshness",
+    "workload_impact_review",
+    "auditability",
+    "communication_clarity"
+  ],
+  "properties": {
+    "case_name": {
+      "type": "string"
+    },
+    "system_context": {
+      "type": "string"
+    },
+    "optimization_claim": {
+      "type": "string"
+    }
+  }
+}

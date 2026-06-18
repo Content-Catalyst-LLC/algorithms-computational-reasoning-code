@@ -1,0 +1,24 @@
+slug                                                title                                               
+--------------------------------------------------  ----------------------------------------------------
+relational-databases-and-structured-representation  Relational Databases and Structured Representation  
+query-algorithms-and-database-optimization          Query Algorithms and Database Optimization          
+metadata-provenance-and-computational-traceability  Metadata, Provenance, and Computational Traceability
+slug                                                citation            
+--------------------------------------------------  --------------------
+query-algorithms-and-database-optimization          Chaudhuri 1998      
+query-algorithms-and-database-optimization          Graefe 1993         
+query-algorithms-and-database-optimization          Selinger et al. 1979
+relational-databases-and-structured-representation  Codd 1970           
+slug                                                title                                               
+--------------------------------------------------  ----------------------------------------------------
+indexes-query-plans-and-execution-models            Indexes, Query Plans, and Execution Models          
+metadata-provenance-and-computational-traceability  Metadata, Provenance, and Computational Traceability
+publication_status  article_count
+------------------  -------------
+planned             1            
+published           3            
+query_name                          baseline_ms  optimized_ms  improvement_percent  plan_note                                     
+----------------------------------  -----------  ------------  -------------------  ----------------------------------------------
+articles_missing_repositories       210.0        55.0          73.81                anti-join with repository article index       
+published_articles_with_references  120.0        34.0          71.67                status-year index and references article index
+article_count_by_status             95.0         28.0          70.53                status index and projection pruning           

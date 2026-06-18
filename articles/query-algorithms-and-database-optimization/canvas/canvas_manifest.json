@@ -1,0 +1,30 @@
+{
+  "article_slug": "query-algorithms-and-database-optimization",
+  "actual_title": "Query Algorithms and Database Optimization",
+  "series": "Algorithms & Computational Reasoning",
+  "canvas_layer": "query-optimization",
+  "synthetic_data_only": true,
+  "cards": [
+    {
+      "card_id": "logical-and-physical-plans",
+      "title": "Logical and Physical Plans",
+      "category": "query execution",
+      "status": "active",
+      "score": 98
+    },
+    {
+      "card_id": "indexes-and-cardinality",
+      "title": "Indexes and Cardinality",
+      "category": "performance evidence",
+      "status": "active",
+      "score": 97
+    },
+    {
+      "card_id": "optimization-governance",
+      "title": "Optimization Governance",
+      "category": "governance",
+      "status": "review",
+      "score": 95
+    }
+  ]
+}

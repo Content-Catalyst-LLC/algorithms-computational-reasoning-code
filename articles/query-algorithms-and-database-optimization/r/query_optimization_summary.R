@@ -1,0 +1,8 @@
+data <- read.csv('data/synthetic_query_optimization_cases.csv', stringsAsFactors = FALSE)
+data$optimization_quality_score <- 100 * (0.10*data$logical_clarity + 0.10*data$index_suitability + 0.10*data$cardinality_awareness + 0.10*data$join_strategy_quality + 0.08*data$predicate_pushdown + 0.08*data$projection_pruning + 0.09*data$statistics_freshness + 0.09*data$memory_risk_management + 0.08*data$materialization_freshness + 0.08*data$workload_impact_review + 0.06*data$auditability + 0.04*data$communication_clarity)
+data$optimization_risk <- 100 * rowMeans(1 - data[, c('logical_clarity','cardinality_awareness','join_strategy_quality','statistics_freshness','memory_risk_management','materialization_freshness','workload_impact_review','auditability','communication_clarity')])
+dir.create('outputs/tables', recursive=TRUE, showWarnings=FALSE); dir.create('outputs/figures', recursive=TRUE, showWarnings=FALSE)
+write.csv(data, 'outputs/tables/r_query_optimization_summary.csv', row.names=FALSE)
+png('outputs/figures/r_query_optimization_quality_vs_risk.png', width=1500, height=850)
+m <- rbind(data$optimization_quality_score, data$optimization_risk); colnames(m) <- data$case_name; rownames(m) <- c('Optimization quality','Optimization risk')
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab='Score', main='Query Optimization Quality vs. Risk'); legend('topleft', legend=rownames(m), pch=15, bty='n'); grid(); dev.off(); print(data)

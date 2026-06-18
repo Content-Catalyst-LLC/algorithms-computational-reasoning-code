@@ -1,0 +1,8 @@
+{
+  "read_benefit": 82,
+  "write_cost": 14,
+  "storage_cost": 9,
+  "maintenance_cost": 6,
+  "net_index_value": 53,
+  "diagnostic": "positive index value"
+}

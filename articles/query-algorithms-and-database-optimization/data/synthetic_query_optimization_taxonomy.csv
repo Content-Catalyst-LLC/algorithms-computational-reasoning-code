@@ -1,0 +1,12 @@
+term,category,definition,example
+logical plan,plan layer,Relational operations needed to answer a query,selection join projection
+physical plan,plan layer,Concrete algorithms chosen for execution,index scan hash join sort aggregate
+table scan,access method,Read many or all rows in a table,full scan of articles
+index scan,access method,Use an index to locate matching rows,lookup by publication_status
+nested loop join,join algorithm,Search inner relation for each outer row,small outer table with indexed inner table
+hash join,join algorithm,Build hash table on one relation and probe with the other,large equi-join
+merge join,join algorithm,Join sorted inputs by walking together,ordered key join
+cardinality estimation,cost model,Predict number of rows produced by an operation,estimated join rows
+selection pushdown,rewrite,Apply filters early,status filter before join
+projection pruning,rewrite,Remove unused columns early,return slug and title only
+materialized view,optimization,Precompute a query result,monthly dashboard summary

@@ -1,0 +1,3 @@
+test_name,value
+selection_estimated_rows,12000
+join_estimated_rows,2e+06
