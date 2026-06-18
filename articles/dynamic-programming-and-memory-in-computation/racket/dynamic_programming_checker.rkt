@@ -1,0 +1,10 @@
+#lang racket
+(define (fib n)
+  (let ([v (make-vector (+ n 2) 0)])
+    (vector-set! v 1 1)
+    (for ([i (in-range 2 (+ n 1))])
+      (vector-set! v i (+ (vector-ref v (- i 1)) (vector-ref v (- i 2)))))
+    (vector-ref v n)))
+(displayln "test_name,value")
+(displayln (format "fibonacci_10,~a" (fib 10)))
+(displayln "state_space_size,100000")

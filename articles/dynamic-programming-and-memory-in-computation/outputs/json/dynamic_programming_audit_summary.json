@@ -1,0 +1,7 @@
+{
+  "average_dynamic_programming_quality": 77.088,
+  "average_dynamic_programming_risk": 23.08,
+  "case_count": 5,
+  "highest_quality_case": "Edit distance table",
+  "highest_risk_case": "Opaque staged decision model"
+}

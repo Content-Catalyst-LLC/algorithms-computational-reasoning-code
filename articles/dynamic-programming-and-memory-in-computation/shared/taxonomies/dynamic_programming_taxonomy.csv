@@ -1,0 +1,11 @@
+term,category,definition
+dynamic programming,design pattern,Solve overlapping subproblems by storing reusable results.
+memoization,memory strategy,Top-down caching of recursive subproblem results.
+tabulation,memory strategy,Bottom-up table filling from base cases.
+state,representation,Information defining a subproblem.
+recurrence,logic,Rule relating a state to smaller or earlier states.
+transition,action,Movement from one state to another.
+base case,boundary,Known value anchoring the recurrence.
+backpointer,traceability,Stored predecessor or action for reconstruction.
+state explosion,risk,Excessively large state space.
+cache governance,accountability,Policy for validity, staleness, and reuse of stored values.

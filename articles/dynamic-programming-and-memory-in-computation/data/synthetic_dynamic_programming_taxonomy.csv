@@ -1,0 +1,10 @@
+term,category,definition,example
+dynamic programming,design pattern,Solve overlapping subproblems by storing reusable results,edit distance
+memoization,memory strategy,Top-down caching of recursive subproblem results,Fibonacci cache
+tabulation,memory strategy,Bottom-up table filling from base cases,knapsack table
+state,representation,Information defining a subproblem,index and capacity
+recurrence,logic,Rule relating a state to smaller or earlier states,DP[i][w] recurrence
+transition,action,Movement from one state to another,include item
+base case,boundary,Known value anchoring the recurrence,zero capacity value
+backpointer,traceability,Stored predecessor or action for reconstruction,alignment path
+cache governance,accountability,Policy for validity staleness and reuse of stored values,versioned table

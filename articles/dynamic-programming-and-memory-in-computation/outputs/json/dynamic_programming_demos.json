@@ -1,0 +1,12 @@
+{
+  "edit_distance_kitten_sitting": 3,
+  "fibonacci_10": 55,
+  "knapsack_demo": {
+    "capacity": 5,
+    "max_value": 22,
+    "selected_item_indices": [
+      1,
+      2
+    ]
+  }
+}

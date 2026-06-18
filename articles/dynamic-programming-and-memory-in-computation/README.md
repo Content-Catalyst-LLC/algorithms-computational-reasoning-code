@@ -1,37 +1,14 @@
-# Dynamic Programming and Memory in Computation (planned)
+# Dynamic Programming and Memory in Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Dynamic Programming and Memory in Computation**.
 
-## Purpose
+This scaffold covers dynamic programming, memory in computation, memoization, tabulation, recurrence relations, state representation, transition functions, edit distance, knapsack optimization, sequence alignment, value functions, backpointers, cache governance, traceability, and responsible memory design.
 
-This folder will hold computational companion materials for the planned article:
-**Dynamic Programming and Memory in Computation**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

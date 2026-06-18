@@ -1,0 +1,13 @@
+{
+  "dimensions": [
+    100,
+    50,
+    20
+  ],
+  "state_count": 100000,
+  "value_memory_bytes": 800000,
+  "backpointer_memory_bytes": 400000,
+  "total_memory_bytes": 1200000,
+  "total_memory_megabytes": 1.144,
+  "interpretation": "Memory estimate assumes dense tabulation; sparse or rolling storage may reduce memory but can reduce traceability."
+}

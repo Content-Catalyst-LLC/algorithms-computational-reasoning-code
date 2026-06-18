@@ -1,0 +1,17 @@
+actual_title: "Dynamic Programming and Memory in Computation"
+suggested_seo_title: "Dynamic Programming and Memory in Computation: How Algorithms Remember"
+focus_keyword: "dynamic programming and memory in computation"
+slug: "dynamic-programming-and-memory-in-computation"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "greedy-algorithms-and-local-decision-rules"
+  current: "dynamic-programming-and-memory-in-computation"
+  next: "backtracking-branch-and-bound-and-exhaustive-search"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/dynamic-programming-and-memory-in-computation"
+tags: [Dynamic Programming, Memoization, Tabulation, Recurrence Relations, State Representation, Memory, Optimization, Computational Reasoning]
+excerpt_139_words: "Dynamic programming is a method for solving problems by remembering the results of subproblems. Instead of recomputing the same work again and again, a dynamic programming algorithm stores useful partial results and reuses them. This makes memory a central part of the computation. Where greedy algorithms commit to a local choice, dynamic programming compares possibilities across subproblems. It is especially powerful when a problem has overlapping subproblems and optimal substructure: the same smaller problems appear repeatedly, and the best solution to the whole can be built from the best solutions to its parts. Dynamic programming appears in optimization, sequence alignment, edit distance, routing, scheduling, resource allocation, reinforcement learning, inventory planning, text processing, computational biology, economics, operations research, and AI systems."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

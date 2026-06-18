@@ -1,0 +1,5 @@
+[package]
+name = "dynamic-programming-and-memory-in-computation"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
