@@ -1,0 +1,8 @@
+case_name                           database_role                         knowledge_system_score
+----------------------------------  ------------------------------------  ----------------------
+Research library database           institutional knowledge archive       82.04                 
+AI feature store                    model input knowledge infrastructure  78.84                 
+Opaque spreadsheet like data store  fragile operational memory            19.88                 
+slug                                                title                                             
+--------------------------------------------------  --------------------------------------------------
+relational-databases-and-structured-representation  Relational Databases and Structured Representation

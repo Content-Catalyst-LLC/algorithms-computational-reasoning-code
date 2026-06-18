@@ -1,0 +1,5 @@
+question,query_type,governance_value
+Which articles lack repository links?,anti-join,Find missing computational companions.
+Which references support each article?,join,Trace source support.
+Which records changed last week?,audit query,Support change review.
+Which fields have missing metadata?,data quality query,Improve interpretability.

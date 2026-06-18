@@ -1,0 +1,11 @@
+term,category,definition,example
+schema,knowledge structure,Defines fields types relationships and constraints,article table design
+primary key,identity structure,Uniquely identifies a record,article_id
+foreign key,relationship structure,Links one record to another,article_id in references
+query,formal question,Computational expression of a question,select articles with missing metadata
+index,retrieval structure,Accelerates search or lookup,slug index
+transaction,reliability structure,Groups operations into reliable changes,audit event and content update
+metadata,interpretive layer,Describes meaning source units and limits,data dictionary
+provenance,accountability layer,Tracks where data came from,source system
+lineage,transformation layer,Tracks how data moved and changed,ETL steps
+governance,institutional layer,Defines access correction retention and accountability,permission policy

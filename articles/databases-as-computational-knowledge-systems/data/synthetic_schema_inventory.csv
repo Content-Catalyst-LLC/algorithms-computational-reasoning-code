@@ -1,0 +1,6 @@
+table_name,primary_key,knowledge_role,critical_constraints
+articles,article_id,publication object,unique slug; required title; publication status
+authors,author_id,creator identity,unique author identifier; verified display name
+references,reference_id,source evidence,required citation text; source type; article linkage
+repositories,repo_id,executable companion knowledge,unique URL; article linkage; license status
+audit_events,event_id,change history,timestamp; actor; action; affected record

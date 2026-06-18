@@ -1,0 +1,10 @@
+[
+  {
+    "diagnostic": "strong schema quality",
+    "schema_quality_score": 85.16
+  },
+  {
+    "database_governance_risk": 20.0,
+    "diagnostic": "manageable governance risk"
+  }
+]

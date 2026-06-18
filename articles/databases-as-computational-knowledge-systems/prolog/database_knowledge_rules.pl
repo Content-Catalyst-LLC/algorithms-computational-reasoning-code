@@ -1,0 +1,10 @@
+knowledge_layer(schema).
+knowledge_layer(constraint).
+knowledge_layer(query).
+knowledge_layer(metadata).
+knowledge_layer(provenance).
+knowledge_layer(governance).
+risk(schema_as_reality).
+risk(missingness_confusion).
+risk(provenance_loss).
+risk(query_blindness).

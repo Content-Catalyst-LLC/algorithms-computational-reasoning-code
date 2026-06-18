@@ -1,37 +1,14 @@
-# Databases as Computational Knowledge Systems (planned)
+# Databases as Computational Knowledge Systems
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Databases as Computational Knowledge Systems**.
 
-## Purpose
+This scaffold covers databases as computational knowledge systems, schema design, relationships, constraints, queries, indexes, transactions, metadata, provenance, lineage, access control, correction workflows, retention, interoperability, governance, and responsible knowledge representation.
 
-This folder will hold computational companion materials for the planned article:
-**Databases as Computational Knowledge Systems**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

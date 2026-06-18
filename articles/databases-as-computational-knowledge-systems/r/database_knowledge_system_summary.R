@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_database_knowledge_cases.csv", stringsAsFactors = FALSE)
+data$knowledge_system_score <- 100 * (0.09*data$schema_clarity + 0.08*data$relationship_modeling + 0.08*data$constraint_discipline + 0.08*data$query_expressiveness + 0.07*data$indexing_strategy + 0.08*data$transaction_reliability + 0.08*data$metadata_quality + 0.08*data$provenance_lineage + 0.07*data$access_control + 0.07*data$correction_workflow + 0.06*data$retention_policy + 0.06*data$interoperability + 0.06*data$governance_readiness + 0.04*data$communication_clarity)
+data$representation_risk <- 100 * rowMeans(1 - data[, c("schema_clarity","relationship_modeling","constraint_discipline","metadata_quality","provenance_lineage","correction_workflow","governance_readiness","communication_clarity")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_database_knowledge_system_summary.csv", row.names=FALSE)
+png("outputs/figures/r_database_knowledge_system_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$knowledge_system_score, data$representation_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Knowledge system score", "Representation risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Database Knowledge System Score vs. Representation Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

@@ -1,0 +1,22 @@
+[
+  {
+    "governance_value": "Find missing computational companions.",
+    "query_type": "anti-join",
+    "question": "Which articles lack repository links?"
+  },
+  {
+    "governance_value": "Trace source support.",
+    "query_type": "join",
+    "question": "Which references support each article?"
+  },
+  {
+    "governance_value": "Support change review.",
+    "query_type": "audit query",
+    "question": "Which records changed last week?"
+  },
+  {
+    "governance_value": "Improve interpretability.",
+    "query_type": "data quality query",
+    "question": "Which fields have missing metadata?"
+  }
+]

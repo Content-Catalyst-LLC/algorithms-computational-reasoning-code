@@ -1,0 +1,32 @@
+[
+  {
+    "critical_constraints": "unique slug; required title; publication status",
+    "knowledge_role": "publication object",
+    "primary_key": "article_id",
+    "table_name": "articles"
+  },
+  {
+    "critical_constraints": "unique author identifier; verified display name",
+    "knowledge_role": "creator identity",
+    "primary_key": "author_id",
+    "table_name": "authors"
+  },
+  {
+    "critical_constraints": "required citation text; source type; article linkage",
+    "knowledge_role": "source evidence",
+    "primary_key": "reference_id",
+    "table_name": "references"
+  },
+  {
+    "critical_constraints": "unique URL; article linkage; license status",
+    "knowledge_role": "executable companion knowledge",
+    "primary_key": "repo_id",
+    "table_name": "repositories"
+  },
+  {
+    "critical_constraints": "timestamp; actor; action; affected record",
+    "knowledge_role": "change history",
+    "primary_key": "event_id",
+    "table_name": "audit_events"
+  }
+]
