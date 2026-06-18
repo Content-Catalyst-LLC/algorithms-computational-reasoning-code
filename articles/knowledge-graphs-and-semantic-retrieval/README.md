@@ -1,37 +1,14 @@
-# Knowledge Graphs and Semantic Retrieval (planned)
+# Knowledge Graphs and Semantic Retrieval
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Databases, Search Architecture, and Information Retrieval  
-**Status:** planned
+Companion code and reproducible workflows for **Knowledge Graphs and Semantic Retrieval**.
 
-## Purpose
+This scaffold covers knowledge graphs, semantic retrieval, entity resolution, relationship modeling, ontologies, graph traversal, path-based retrieval, graph embeddings, hybrid graph-vector search, provenance, traceability, evaluation, explainability, and responsible semantic search design.
 
-This folder will hold computational companion materials for the planned article:
-**Knowledge Graphs and Semantic Retrieval**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

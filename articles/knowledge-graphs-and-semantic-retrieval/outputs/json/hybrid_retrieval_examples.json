@@ -1,0 +1,16 @@
+[
+  {
+    "graph": 0.88,
+    "hybrid_score": 84.5,
+    "lexical": 0.82,
+    "provenance": 0.9,
+    "vector": 0.78
+  },
+  {
+    "graph": 0.42,
+    "hybrid_score": 54.5,
+    "lexical": 0.6,
+    "provenance": 0.3,
+    "vector": 0.86
+  }
+]

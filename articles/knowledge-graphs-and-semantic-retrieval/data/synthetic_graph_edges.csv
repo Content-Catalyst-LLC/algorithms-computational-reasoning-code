@@ -1,0 +1,16 @@
+subject,predicate,object,source,confidence,review_status
+Information Retrieval,related_to,Search Architecture,curated article map,0.94,reviewed
+Search Architecture,uses,Inverted Index,article body,0.92,reviewed
+Search Architecture,uses,Ranking Signals,article body,0.91,reviewed
+Ranking Signals,related_to,Relevance Models,article body,0.95,reviewed
+Knowledge Graphs,supports,Semantic Retrieval,article body,0.96,reviewed
+Semantic Retrieval,uses,Entity Resolution,article body,0.91,reviewed
+Semantic Retrieval,uses,Graph Traversal,article body,0.93,reviewed
+Semantic Retrieval,uses,Vector Retrieval,article body,0.86,reviewed
+Knowledge Graphs,requires,Ontology Governance,article body,0.88,reviewed
+Knowledge Graphs,requires,Provenance,article body,0.92,reviewed
+Provenance,supports,Traceability,article body,0.96,reviewed
+Graph Traversal,supports,Path Explanation,article body,0.90,reviewed
+Knowledge Graphs,related_to,Linked Data,article sequence,0.88,planned
+Linked Data,uses,RDF,semantic web standard,0.94,reviewed
+RDF,queried_by,SPARQL,semantic web standard,0.95,reviewed

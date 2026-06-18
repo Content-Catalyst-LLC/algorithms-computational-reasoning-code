@@ -1,0 +1,8 @@
+{
+  "path_length": 3,
+  "relationship_confidence": 0.9,
+  "provenance_strength": 0.92,
+  "review_status": 0.95,
+  "graph_path_score": 77.183,
+  "diagnostic": "review path length, confidence, provenance, and review status"
+}

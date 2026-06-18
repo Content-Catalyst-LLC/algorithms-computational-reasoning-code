@@ -1,0 +1,7 @@
+{
+  "average_knowledge_graph_score": 70.424,
+  "average_semantic_retrieval_risk": 30.266,
+  "case_count": 5,
+  "highest_risk_case": "Opaque entity network",
+  "highest_score_case": "Legal semantic retrieval graph"
+}

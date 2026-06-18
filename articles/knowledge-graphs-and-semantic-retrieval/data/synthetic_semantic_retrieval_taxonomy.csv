@@ -1,0 +1,10 @@
+term,category,definition,example
+knowledge graph,representation,network of entities relationships attributes and provenance,articles cite sources
+semantic retrieval,retrieval method,finds information by meaning relationship and context,topic article source path
+entity resolution,identity process,decides whether mentions refer to same entity,IR equals information retrieval
+triple,graph representation,subject predicate object statement,article cites source
+ontology,semantic model,formal model of classes relationships and constraints,Article cites Reference
+graph traversal,retrieval method,follows edges to retrieve connected entities,topic to article to repository
+path explanation,explainability,relationship chain explaining retrieval,concept article source
+hybrid retrieval,retrieval architecture,combines lexical vector graph and provenance signals,semantic graph-vector search
+provenance,evidence,source and process behind a graph assertion,citation or curator record

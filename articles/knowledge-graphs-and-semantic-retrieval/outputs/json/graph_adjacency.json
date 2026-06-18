@@ -1,0 +1,80 @@
+{
+  "Graph Traversal": [
+    [
+      "supports",
+      "Path Explanation"
+    ]
+  ],
+  "Information Retrieval": [
+    [
+      "related_to",
+      "Search Architecture"
+    ]
+  ],
+  "Knowledge Graphs": [
+    [
+      "supports",
+      "Semantic Retrieval"
+    ],
+    [
+      "requires",
+      "Ontology Governance"
+    ],
+    [
+      "requires",
+      "Provenance"
+    ],
+    [
+      "related_to",
+      "Linked Data"
+    ]
+  ],
+  "Linked Data": [
+    [
+      "uses",
+      "RDF"
+    ]
+  ],
+  "Provenance": [
+    [
+      "supports",
+      "Traceability"
+    ]
+  ],
+  "RDF": [
+    [
+      "queried_by",
+      "SPARQL"
+    ]
+  ],
+  "Ranking Signals": [
+    [
+      "related_to",
+      "Relevance Models"
+    ]
+  ],
+  "Search Architecture": [
+    [
+      "uses",
+      "Inverted Index"
+    ],
+    [
+      "uses",
+      "Ranking Signals"
+    ]
+  ],
+  "Semantic Retrieval": [
+    [
+      "uses",
+      "Entity Resolution"
+    ],
+    [
+      "uses",
+      "Graph Traversal"
+    ],
+    [
+      "uses",
+      "Vector Retrieval"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "example": "shortest_path_knowledge_graphs_to_traceability",
+    "value": "Knowledge Graphs -> Provenance -> Traceability"
+  },
+  {
+    "example": "semantic_retrieval_neighborhood_radius_2",
+    "value": "4"
+  },
+  {
+    "example": "graph_path_score_example",
+    "value": "77.183"
+  }
+]

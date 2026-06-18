@@ -1,0 +1,8 @@
+{
+  "lexical": 0.82,
+  "vector": 0.78,
+  "graph": 0.88,
+  "provenance": 0.9,
+  "hybrid_retrieval_score": 84.5,
+  "diagnostic": "strong hybrid retrieval balance"
+}

@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_knowledge_graph_cases.csv", stringsAsFactors = FALSE)
+data$knowledge_graph_score <- 100 * (0.10*data$graph_schema_clarity + 0.09*data$entity_resolution + 0.10*data$relationship_quality + 0.09*data$ontology_discipline + 0.08*data$semantic_indexing + 0.08*data$path_retrieval + 0.08*data$hybrid_retrieval + 0.10*data$provenance_support + 0.09*data$evaluation_discipline + 0.08*data$governance_process + 0.06*data$explainability + 0.05*data$communication_clarity)
+data$semantic_retrieval_risk <- 100 * rowMeans(1 - data[, c("graph_schema_clarity","entity_resolution","relationship_quality","ontology_discipline","provenance_support","evaluation_discipline","governance_process","explainability","communication_clarity")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_knowledge_graph_retrieval_summary.csv", row.names=FALSE)
+png("outputs/figures/r_knowledge_graph_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$knowledge_graph_score, data$semantic_retrieval_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Knowledge graph score", "Semantic retrieval risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Knowledge Graph Score vs. Semantic Retrieval Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

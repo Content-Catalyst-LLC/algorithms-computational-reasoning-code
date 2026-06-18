@@ -1,0 +1,16 @@
+subject,predicate,object
+Information Retrieval,related_to,Search Architecture
+Search Architecture,uses,Inverted Index
+Search Architecture,uses,Ranking Signals
+Ranking Signals,related_to,Relevance Models
+Knowledge Graphs,supports,Semantic Retrieval
+Semantic Retrieval,uses,Entity Resolution
+Semantic Retrieval,uses,Graph Traversal
+Semantic Retrieval,uses,Vector Retrieval
+Knowledge Graphs,requires,Ontology Governance
+Knowledge Graphs,requires,Provenance
+Provenance,supports,Traceability
+Graph Traversal,supports,Path Explanation
+Knowledge Graphs,related_to,Linked Data
+Linked Data,uses,RDF
+RDF,queried_by,SPARQL

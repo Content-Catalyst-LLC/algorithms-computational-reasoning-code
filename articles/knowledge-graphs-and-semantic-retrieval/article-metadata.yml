@@ -1,0 +1,17 @@
+actual_title: "Knowledge Graphs and Semantic Retrieval"
+suggested_seo_title: "Knowledge Graphs and Semantic Retrieval"
+focus_keyword: "knowledge graphs and semantic retrieval"
+slug: "knowledge-graphs-and-semantic-retrieval"
+series: "Algorithms & Computational Reasoning"
+section: "Databases, Search, and Computational Knowledge Systems"
+article_order:
+  previous: "ranking-signals-and-relevance-models"
+  current: "knowledge-graphs-and-semantic-retrieval"
+  next: "ontologies-linked-data-and-semantic-web-standards"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/knowledge-graphs-and-semantic-retrieval"
+tags: [Knowledge Graphs, Semantic Retrieval, Graph Search, Ontologies, Entity Resolution, Linked Data, Provenance, Computational Reasoning]
+excerpt_139_words: "Knowledge graphs organize information as entities, relationships, attributes, categories, and meanings. Semantic retrieval uses those structures to find information by concept, context, relationship, and inference rather than by keywords alone. A keyword search may find documents that contain the words database, retrieval, or algorithm. A semantic retrieval system asks a richer question: which entities are involved, how are they related, what concepts do they instantiate, which sources support those relationships, what neighboring ideas matter, what paths connect them, and which evidence can be traced? This matters because many knowledge systems are networks of people, places, topics, sources, citations, institutions, datasets, decisions, concepts, events, claims, workflows, and provenance records. Knowledge graphs make those relationships explicit, searchable, explainable, and governable."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

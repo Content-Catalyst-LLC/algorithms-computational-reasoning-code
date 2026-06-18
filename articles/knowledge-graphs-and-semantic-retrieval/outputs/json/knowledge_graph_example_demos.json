@@ -1,0 +1,17 @@
+{
+  "graph_path_score": {
+    "path_length": 3,
+    "relationship_confidence": 0.9,
+    "provenance_strength": 0.92,
+    "review_status": 0.95,
+    "graph_path_score": 77.183,
+    "diagnostic": "review path length, confidence, provenance, and review status"
+  },
+  "hybrid_retrieval_score": {
+    "lexical": 0.82,
+    "vector": 0.78,
+    "graph": 0.88,
+    "provenance": 0.9,
+    "hybrid_score": 84.5
+  }
+}

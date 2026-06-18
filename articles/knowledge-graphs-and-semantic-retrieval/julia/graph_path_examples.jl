@@ -1,0 +1,5 @@
+hybrid_score(lexical, vector, graph, provenance) = 100 * (0.25*lexical + 0.25*vector + 0.25*graph + 0.25*provenance)
+path_score(path_length, confidence, provenance, review) = 100 * (0.25*(1/(1+max(path_length-1,0))) + 0.30*confidence + 0.30*provenance + 0.15*review)
+println("test_name,value")
+println("hybrid_score,$(hybrid_score(.82,.78,.88,.90))")
+println("graph_path_score,$(path_score(3,.90,.92,.95))")
