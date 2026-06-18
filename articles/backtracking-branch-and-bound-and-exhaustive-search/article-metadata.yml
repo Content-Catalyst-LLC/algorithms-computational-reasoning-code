@@ -1,0 +1,17 @@
+actual_title: "Backtracking, Branch and Bound, and Exhaustive Search"
+suggested_seo_title: "Backtracking, Branch and Bound, and Exhaustive Search: Exploring Possibility Spaces"
+focus_keyword: "backtracking branch and bound exhaustive search"
+slug: "backtracking-branch-and-bound-and-exhaustive-search"
+series: "Algorithms & Computational Reasoning"
+section: "Algorithm Design and Procedural Strategy"
+article_order:
+  previous: "dynamic-programming-and-memory-in-computation"
+  current: "backtracking-branch-and-bound-and-exhaustive-search"
+  next: "randomized-algorithms-and-probabilistic-procedure"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/backtracking-branch-and-bound-and-exhaustive-search"
+tags: [Backtracking, Branch and Bound, Exhaustive Search, Constraint Satisfaction, Pruning, Combinatorial Optimization, Search Spaces, Computational Reasoning]
+excerpt_139_words: "Backtracking, branch and bound, and exhaustive search are algorithmic strategies for exploring spaces of possible solutions. Where greedy algorithms commit quickly and dynamic programming remembers subproblem results, search-based methods systematically examine alternatives. They are used when the answer cannot be found by a simple local rule, when possibilities must be tested against constraints, or when optimality requires comparing many candidate solutions. Exhaustive search considers every relevant possibility. Backtracking explores possibilities step by step and abandons partial solutions that cannot succeed. Branch and bound adds optimization discipline by pruning branches whose best possible outcome cannot improve the current best solution. These methods appear in puzzles, scheduling, constraint satisfaction, routing, combinatorial optimization, verification, model checking, planning, resource allocation, operations research, AI reasoning, and institutional decision support."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

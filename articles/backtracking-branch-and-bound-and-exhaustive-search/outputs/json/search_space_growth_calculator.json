@@ -1,0 +1,7 @@
+{
+  "candidate_type": "tree",
+  "branching_factor": 3,
+  "depth_or_n": 8,
+  "estimated_candidates": 9841,
+  "interpretation": "Pedagogical estimate of search-space growth; pruning and constraints may reduce explored nodes."
+}

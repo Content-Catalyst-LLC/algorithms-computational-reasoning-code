@@ -1,0 +1,13 @@
+case_name                         search_strategy_quality
+--------------------------------  -----------------------
+Branch and bound knapsack         87.64                  
+Exhaustive small-case validation  86.68                  
+Backtracking graph coloring       84.68                  
+Opaque eligibility search         38.84                  
+candidate_id  search_family          depth  feasible  objective_value  pruned  prune_reason              
+------------  ---------------------  -----  --------  ---------------  ------  --------------------------
+C-001         exhaustive_subset      0      true      0.0              false   none                      
+C-002         exhaustive_subset      1      true      3.0              false   none                      
+C-003         backtracking_coloring  2      false     0.0              true    constraint_violation      
+C-004         branch_bound_knapsack  3      true      22.0             false   incumbent_update          
+C-005         branch_bound_knapsack  4      false     18.0             true    bound_worse_than_incumbent

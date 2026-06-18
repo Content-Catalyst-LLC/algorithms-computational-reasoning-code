@@ -1,0 +1,19 @@
+{
+  "backtracking_permutations_count": 6,
+  "branch_and_bound_knapsack": {
+    "best_item_indices": [
+      1,
+      2
+    ],
+    "best_value": 22,
+    "explored_nodes": 13,
+    "pruned_nodes": 2
+  },
+  "exhaustive_subset_search": {
+    "best_subset_indices": [
+      3
+    ],
+    "best_value": 9,
+    "checked_candidates": 16
+  }
+}

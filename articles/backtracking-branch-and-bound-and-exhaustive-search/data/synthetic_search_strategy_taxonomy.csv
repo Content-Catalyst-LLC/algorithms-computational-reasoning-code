@@ -1,0 +1,10 @@
+term,category,definition,example
+exhaustive search,search strategy,Enumerate all relevant candidates,all subsets of a small item set
+backtracking,search strategy,Build partial solutions and abandon invalid branches,Sudoku solver
+branch and bound,optimization search,Branch into subproblems and prune by bounds,knapsack optimizer
+search space,representation,Set of possible states or candidate solutions,assignments or permutations
+candidate generation,procedure,Method for producing possibilities,combinations recursion permutations
+constraint pruning,pruning,Reject partial solutions violating constraints,graph coloring conflict
+bound,optimization,Estimate of best possible branch outcome,upper bound on remaining value
+incumbent,optimization,Best feasible solution found so far,current best route
+traceability,evidence,Ability to reconstruct explored and pruned paths,branch log

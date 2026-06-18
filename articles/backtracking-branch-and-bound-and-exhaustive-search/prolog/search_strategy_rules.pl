@@ -1,0 +1,10 @@
+search_strategy(exhaustive_search).
+search_strategy(backtracking).
+search_strategy(branch_and_bound).
+search_component(candidate_generation).
+search_component(constraint_check).
+search_component(pruning).
+search_component(bound).
+risk(unsound_pruning).
+risk(incomplete_search_space).
+risk(timeout_opacity).

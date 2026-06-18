@@ -1,0 +1,11 @@
+term,category,definition
+exhaustive search,search strategy,Enumerate all relevant candidates.
+backtracking,search strategy,Build partial solutions and abandon invalid branches.
+branch and bound,optimization search,Branch into subproblems and prune by bounds.
+search space,representation,Set of possible states or candidate solutions.
+candidate generation,procedure,Method for producing possibilities.
+constraint pruning,pruning,Reject partial solutions violating constraints.
+bound,optimization,Estimate of best possible branch outcome.
+incumbent,optimization,Best feasible solution found so far.
+combinatorial explosion,risk,Rapid growth of candidate spaces.
+traceability,evidence,Ability to reconstruct explored and pruned paths.

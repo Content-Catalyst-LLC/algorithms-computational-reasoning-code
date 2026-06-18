@@ -1,0 +1,7 @@
+{
+  "average_search_strategy_quality": 76.536,
+  "average_search_strategy_risk": 23.68,
+  "case_count": 5,
+  "highest_quality_case": "Branch and bound knapsack",
+  "highest_risk_case": "Opaque eligibility search"
+}

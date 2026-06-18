@@ -1,37 +1,14 @@
-# Backtracking, Branch and Bound, and Exhaustive Search (planned)
+# Backtracking, Branch and Bound, and Exhaustive Search
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Algorithm Design and Procedural Strategy  
-**Status:** planned
+Companion code and reproducible workflows for **Backtracking, Branch and Bound, and Exhaustive Search**.
 
-## Purpose
+This scaffold covers backtracking, branch and bound, exhaustive search, search spaces, candidate generation, constraint satisfaction, pruning, bounds, incumbent tracking, combinatorial optimization, counterexample generation, complexity analysis, traceability, and responsible search governance.
 
-This folder will hold computational companion materials for the planned article:
-**Backtracking, Branch and Bound, and Exhaustive Search**.
+## Run
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

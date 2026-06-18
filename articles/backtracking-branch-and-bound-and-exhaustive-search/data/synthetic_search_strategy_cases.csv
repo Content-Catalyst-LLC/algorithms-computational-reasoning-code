@@ -1,0 +1,6 @@
+case_name,problem_context,search_strategy,search_space_clarity,candidate_generation_completeness,constraint_quality,pruning_soundness,bound_validity,objective_clarity,edge_case_coverage,traceability,complexity_awareness,governance_readiness
+Backtracking graph coloring,Assign colors to graph nodes without adjacent conflicts,Recursive backtracking with constraint pruning and variable ordering,0.90,0.88,0.90,0.88,0.70,0.82,0.84,0.84,0.88,0.80
+Branch and bound knapsack,Maximize value under a capacity constraint,Branch on include/exclude decisions and prune using upper-bound estimates,0.90,0.90,0.88,0.86,0.88,0.90,0.84,0.86,0.90,0.82
+Exhaustive small-case validation,Validate a heuristic by checking all small candidate solutions,Enumerate all feasible candidates and compare heuristic output to exact optimum,0.92,0.94,0.86,0.80,0.72,0.88,0.90,0.88,0.90,0.84
+Opaque eligibility search,A decision system searches eligible configurations using undocumented pruning rules,Partial search with hidden exclusions and unclear stopping criteria,0.42,0.38,0.44,0.30,0.28,0.46,0.40,0.32,0.50,0.36
+Counterexample generation for greedy rule,Search small inputs to find where a local decision rule fails,Exhaustive enumeration with feasibility checks and counterexample logging,0.88,0.90,0.84,0.78,0.66,0.86,0.92,0.90,0.88,0.86

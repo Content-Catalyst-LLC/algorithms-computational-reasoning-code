@@ -1,0 +1,15 @@
+{
+  "exhaustive_subset_search": [
+    9,
+    [
+      3
+    ]
+  ],
+  "backtracking_permutations_count": 6,
+  "graph_coloring": {
+    "A": "red",
+    "B": "blue",
+    "C": "red"
+  },
+  "search_space_growth": 364
+}
