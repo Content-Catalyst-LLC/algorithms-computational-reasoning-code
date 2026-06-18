@@ -1,0 +1,44 @@
+[
+  {
+    "arrival_rate": 40,
+    "interpretation": "stable",
+    "service_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.4
+  },
+  {
+    "arrival_rate": 60,
+    "interpretation": "stable",
+    "service_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.6
+  },
+  {
+    "arrival_rate": 80,
+    "interpretation": "stable",
+    "service_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.8
+  },
+  {
+    "arrival_rate": 95,
+    "interpretation": "stable",
+    "service_rate": 100.0,
+    "stable_under_simple_model": true,
+    "utilization": 0.95
+  },
+  {
+    "arrival_rate": 100,
+    "interpretation": "backlog risk",
+    "service_rate": 100.0,
+    "stable_under_simple_model": false,
+    "utilization": 1.0
+  },
+  {
+    "arrival_rate": 110,
+    "interpretation": "backlog risk",
+    "service_rate": 100.0,
+    "stable_under_simple_model": false,
+    "utilization": 1.1
+  }
+]

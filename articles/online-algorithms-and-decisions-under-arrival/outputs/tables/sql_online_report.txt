@@ -1,0 +1,8 @@
+case_name                           online_decision                 online_decision_quality
+----------------------------------  ------------------------------  -----------------------
+Cloud autoscaling                   scale capacity up or down       78.56                  
+Human review triage queue           escalate defer or auto-resolve  77.64                  
+Cache eviction policy               evict item on cache miss        77.5                   
+Online ad allocation                assign impression to campaign   76.42                  
+Opaque real-time allocation engine  allocate opportunity            21.04                  
+case_name                           online_decision                 0.0                    

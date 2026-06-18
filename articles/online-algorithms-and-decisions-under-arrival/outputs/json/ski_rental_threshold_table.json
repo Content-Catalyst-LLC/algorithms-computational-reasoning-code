@@ -1,0 +1,98 @@
+[
+  {
+    "buy_now_cost": 50.0,
+    "days": 1,
+    "offline_optimum_cost": 10.0,
+    "rent_only_cost": 10.0,
+    "threshold_strategy_cost": 10.0,
+    "threshold_to_offline_ratio": 1.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 2,
+    "offline_optimum_cost": 20.0,
+    "rent_only_cost": 20.0,
+    "threshold_strategy_cost": 20.0,
+    "threshold_to_offline_ratio": 1.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 3,
+    "offline_optimum_cost": 30.0,
+    "rent_only_cost": 30.0,
+    "threshold_strategy_cost": 30.0,
+    "threshold_to_offline_ratio": 1.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 4,
+    "offline_optimum_cost": 40.0,
+    "rent_only_cost": 40.0,
+    "threshold_strategy_cost": 40.0,
+    "threshold_to_offline_ratio": 1.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 5,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 50.0,
+    "threshold_strategy_cost": 50.0,
+    "threshold_to_offline_ratio": 1.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 6,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 60.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 7,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 70.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 8,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 80.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 9,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 90.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 10,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 100.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 11,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 110.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  },
+  {
+    "buy_now_cost": 50.0,
+    "days": 12,
+    "offline_optimum_cost": 50.0,
+    "rent_only_cost": 120.0,
+    "threshold_strategy_cost": 100.0,
+    "threshold_to_offline_ratio": 2.0
+  }
+]

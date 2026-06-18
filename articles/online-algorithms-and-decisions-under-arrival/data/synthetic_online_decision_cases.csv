@@ -1,0 +1,6 @@
+case_name,system_context,online_decision,information_at_decision_clarity,arrival_model_clarity,commitment_awareness,threshold_transparency,prediction_error_handling,competitive_or_regret_evidence,queue_and_capacity_awareness,fairness_under_arrival_review,fallback_readiness,governance_readiness,communication_clarity
+Cache eviction policy,Limited cache receives request stream and must evict without future knowledge,evict item on cache miss,0.90,0.82,0.84,0.72,0.68,0.82,0.84,0.62,0.76,0.70,0.76
+Human review triage queue,Cases arrive over time and are routed to scarce reviewer capacity,escalate defer or auto-resolve,0.82,0.74,0.82,0.76,0.72,0.58,0.84,0.86,0.78,0.84,0.82
+Cloud autoscaling,Traffic arrives over time and capacity must be expanded or reduced under cost and latency constraints,scale capacity up or down,0.84,0.80,0.78,0.78,0.80,0.66,0.88,0.68,0.84,0.78,0.80
+Online ad allocation,Impressions arrive sequentially and budgets must be preserved while serving current demand,assign impression to campaign,0.80,0.76,0.80,0.74,0.76,0.74,0.78,0.72,0.76,0.76,0.78
+Opaque real-time allocation engine,System assigns scarce opportunities to arrivals without stating thresholds uncertainty reversibility or queue effects,allocate opportunity,0.28,0.24,0.22,0.18,0.20,0.16,0.22,0.18,0.20,0.20,0.22

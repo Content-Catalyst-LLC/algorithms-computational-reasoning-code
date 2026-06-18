@@ -1,0 +1,95 @@
+{
+  "capacity": 3,
+  "hit_rate": 0.2,
+  "hits": 2,
+  "misses": 8,
+  "trace": [
+    {
+      "cache": [
+        "A"
+      ],
+      "outcome": "miss",
+      "request": "A"
+    },
+    {
+      "cache": [
+        "A",
+        "B"
+      ],
+      "outcome": "miss",
+      "request": "B"
+    },
+    {
+      "cache": [
+        "A",
+        "B",
+        "C"
+      ],
+      "outcome": "miss",
+      "request": "C"
+    },
+    {
+      "cache": [
+        "B",
+        "C",
+        "A"
+      ],
+      "outcome": "hit",
+      "request": "A"
+    },
+    {
+      "cache": [
+        "C",
+        "A",
+        "D"
+      ],
+      "outcome": "miss",
+      "request": "D"
+    },
+    {
+      "cache": [
+        "A",
+        "D",
+        "B"
+      ],
+      "outcome": "miss",
+      "request": "B"
+    },
+    {
+      "cache": [
+        "D",
+        "B",
+        "E"
+      ],
+      "outcome": "miss",
+      "request": "E"
+    },
+    {
+      "cache": [
+        "B",
+        "E",
+        "A"
+      ],
+      "outcome": "miss",
+      "request": "A"
+    },
+    {
+      "cache": [
+        "E",
+        "A",
+        "B"
+      ],
+      "outcome": "hit",
+      "request": "B"
+    },
+    {
+      "cache": [
+        "A",
+        "B",
+        "C"
+      ],
+      "outcome": "miss",
+      "request": "C"
+    }
+  ]
+}

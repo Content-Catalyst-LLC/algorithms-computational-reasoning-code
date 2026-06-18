@@ -1,0 +1,4 @@
+test_name,value
+threshold_strategy,100.000
+offline_optimum,50.000
+ratio,2.000

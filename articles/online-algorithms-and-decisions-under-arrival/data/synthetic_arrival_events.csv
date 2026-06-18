@@ -1,0 +1,9 @@
+time,event_type,value,priority,decision
+1,request,42,low,serve
+2,request,68,medium,serve
+3,case,91,high,escalate
+4,request,35,low,defer
+5,case,83,high,escalate
+6,request,51,medium,serve
+7,request,29,low,reject
+8,case,77,medium,defer

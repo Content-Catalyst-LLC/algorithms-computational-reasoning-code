@@ -1,0 +1,7 @@
+arrival_rate,service_rate,utilization,stable_under_simple_model,interpretation
+40,100.0,0.4,True,stable
+60,100.0,0.6,True,stable
+80,100.0,0.8,True,stable
+95,100.0,0.95,True,stable
+100,100.0,1.0,False,backlog risk
+110,100.0,1.1,False,backlog risk

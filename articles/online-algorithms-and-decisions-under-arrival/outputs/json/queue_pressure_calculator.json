@@ -1,0 +1,7 @@
+{
+  "arrival_rate": 95.0,
+  "service_rate": 100.0,
+  "utilization": 0.95,
+  "stable_under_simple_model": true,
+  "interpretation": "stable"
+}

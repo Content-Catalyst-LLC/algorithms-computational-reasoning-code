@@ -1,0 +1,146 @@
+{
+  "ski_rental_sample": [
+    {
+      "days": 1,
+      "rent_only_cost": 10.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 10.0,
+      "offline_optimum_cost": 10.0,
+      "threshold_to_offline_ratio": 1.0
+    },
+    {
+      "days": 2,
+      "rent_only_cost": 20.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 20.0,
+      "offline_optimum_cost": 20.0,
+      "threshold_to_offline_ratio": 1.0
+    },
+    {
+      "days": 3,
+      "rent_only_cost": 30.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 30.0,
+      "offline_optimum_cost": 30.0,
+      "threshold_to_offline_ratio": 1.0
+    },
+    {
+      "days": 4,
+      "rent_only_cost": 40.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 40.0,
+      "offline_optimum_cost": 40.0,
+      "threshold_to_offline_ratio": 1.0
+    },
+    {
+      "days": 5,
+      "rent_only_cost": 50.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 50.0,
+      "offline_optimum_cost": 50.0,
+      "threshold_to_offline_ratio": 1.0
+    },
+    {
+      "days": 6,
+      "rent_only_cost": 60.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 100.0,
+      "offline_optimum_cost": 50.0,
+      "threshold_to_offline_ratio": 2.0
+    },
+    {
+      "days": 7,
+      "rent_only_cost": 70.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 100.0,
+      "offline_optimum_cost": 50.0,
+      "threshold_to_offline_ratio": 2.0
+    },
+    {
+      "days": 8,
+      "rent_only_cost": 80.0,
+      "buy_now_cost": 50.0,
+      "threshold_strategy_cost": 100.0,
+      "offline_optimum_cost": 50.0,
+      "threshold_to_offline_ratio": 2.0
+    }
+  ],
+  "queue_pressure_sample": [
+    {
+      "arrival_rate": 80,
+      "service_rate": 100.0,
+      "utilization": 0.8,
+      "stable_under_simple_model": true,
+      "interpretation": "stable"
+    },
+    {
+      "arrival_rate": 100,
+      "service_rate": 100.0,
+      "utilization": 1.0,
+      "stable_under_simple_model": false,
+      "interpretation": "backlog risk"
+    },
+    {
+      "arrival_rate": 120,
+      "service_rate": 100.0,
+      "utilization": 1.2,
+      "stable_under_simple_model": false,
+      "interpretation": "backlog risk"
+    }
+  ],
+  "lru_cache_sample": {
+    "capacity": 2,
+    "hits": 1,
+    "misses": 5,
+    "hit_rate": 0.167,
+    "trace": [
+      {
+        "request": "A",
+        "outcome": "miss",
+        "cache": [
+          "A"
+        ]
+      },
+      {
+        "request": "B",
+        "outcome": "miss",
+        "cache": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "request": "A",
+        "outcome": "hit",
+        "cache": [
+          "B",
+          "A"
+        ]
+      },
+      {
+        "request": "C",
+        "outcome": "miss",
+        "cache": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "request": "D",
+        "outcome": "miss",
+        "cache": [
+          "C",
+          "D"
+        ]
+      },
+      {
+        "request": "A",
+        "outcome": "miss",
+        "cache": [
+          "D",
+          "A"
+        ]
+      }
+    ]
+  }
+}

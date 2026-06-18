@@ -1,0 +1,11 @@
+{
+  "rent_cost": 10.0,
+  "buy_cost": 50.0,
+  "days": 8,
+  "break_even_day": 5,
+  "rent_only_cost": 80.0,
+  "buy_now_cost": 50.0,
+  "threshold_strategy_cost": 100.0,
+  "offline_optimum_cost": 50.0,
+  "threshold_to_offline_ratio": 2.0
+}

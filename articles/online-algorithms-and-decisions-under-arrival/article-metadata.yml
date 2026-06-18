@@ -1,0 +1,17 @@
+actual_title: "Online Algorithms and Decisions Under Arrival"
+suggested_seo_title: "Online Algorithms and Decisions Under Arrival"
+focus_keyword: "online algorithms and decisions under arrival"
+slug: "online-algorithms-and-decisions-under-arrival"
+series: "Algorithms & Computational Reasoning"
+section: "Complexity, Scalability, and Resource Limits"
+article_order:
+  previous: "parallelism-distribution-and-computational-scale"
+  current: "online-algorithms-and-decisions-under-arrival"
+  next: "streaming-algorithms-and-real-time-data"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/online-algorithms-and-decisions-under-arrival"
+tags: [Online Algorithms, Decisions Under Arrival, Competitive Analysis, Caching, Scheduling, Online Matching, Queue Governance, Computational Reasoning]
+excerpt_139_words: "Online algorithms study decisions that must be made as inputs arrive over time. Unlike offline algorithms, which can inspect the full input before choosing a solution, online algorithms act without knowing the future. They must commit, update, reject, accept, allocate, route, schedule, cache, or prioritize under partial information. This makes online algorithms central to real systems. Requests arrive before future requests are known. Jobs enter queues before the day’s full workload is visible. Packets move through networks before traffic patterns are complete. Ads are auctioned, inventory is allocated, rides are matched, fraud alerts are triaged, recommendations are served, and emergency resources are assigned before all relevant information has arrived. Online reasoning clarifies uncertainty, commitment, thresholds, queue pressure, fairness, fallback, and responsible decisions under arrival."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

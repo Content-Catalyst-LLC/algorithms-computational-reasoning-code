@@ -1,0 +1,9 @@
+term,category,definition,example
+online algorithm,core concept,Algorithm that must act before future inputs are known,cache eviction
+offline optimum,benchmark,Best solution with full hindsight,optimal cache with future requests
+competitive ratio,evaluation,Worst-case comparison to offline optimum,ski-rental bound
+arrival model,assumption,How inputs arrive over time,adversarial stochastic or random order
+threshold rule,policy,Accept or act when observed value crosses threshold,escalation threshold
+prediction augmented,method,Uses forecasts while preserving robustness,forecasted demand allocation
+regret,evaluation,Cumulative loss relative to benchmark,online learning policy
+queue pressure,systems concept,Arrival rate approaches or exceeds service capacity,review backlog

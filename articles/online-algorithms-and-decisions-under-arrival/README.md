@@ -1,37 +1,14 @@
-# Online Algorithms and Decisions Under Arrival (planned)
+# Online Algorithms and Decisions Under Arrival
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Complexity, Efficiency, and Computational Limits  
-**Status:** planned
+Companion code and reproducible workflows for **Online Algorithms and Decisions Under Arrival**.
 
-## Purpose
+This scaffold covers online algorithms, decisions under arrival, competitive analysis, threshold rules, caching, paging, ski-rental reasoning, online scheduling, online matching, prediction-augmented online algorithms, regret, queues, fallback readiness, and responsible governance of real-time decisions.
 
-This folder will hold computational companion materials for the planned article:
-**Online Algorithms and Decisions Under Arrival**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.
