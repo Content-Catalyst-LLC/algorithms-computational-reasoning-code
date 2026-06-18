@@ -1,0 +1,17 @@
+actual_title: "Distributed Algorithms and Networked Computation"
+suggested_seo_title: "Distributed Algorithms and Networked Computation"
+focus_keyword: "distributed algorithms and networked computation"
+slug: "distributed-algorithms-and-networked-computation"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "concurrency-and-parallel-computation"
+  current: "distributed-algorithms-and-networked-computation"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/distributed-algorithms-and-networked-computation"
+tags: [Distributed Algorithms, Networked Computation, Consensus, Replication, Quorums, Fault Tolerance, Distributed Systems, Computational Reasoning]
+excerpt_139_words: "Distributed algorithms and networked computation explain how computational work happens when no single machine, process, database, organization, or agent has total control. Modern computation is networked: services communicate across APIs, databases replicate across regions, workers coordinate through queues, search systems crawl distributed sources, AI systems retrieve evidence from remote stores, sensors stream observations, and cloud platforms divide workloads across machines. A distributed algorithm is a procedure designed for multiple computational nodes that communicate, coordinate, fail, recover, and make progress through messages. These systems are powerful because they can scale, tolerate some failures, and connect many resources. They are difficult because timing, ordering, latency, partial failure, trust, replication, consistency, and coordination become part of the algorithmic problem."
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

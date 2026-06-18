@@ -1,0 +1,2 @@
+case_count,average_distributed_reliability_score,average_distributed_risk,highest_score_case,highest_risk_case
+5,69.32,31.6,Replicated database cluster,Opaque microservice chain

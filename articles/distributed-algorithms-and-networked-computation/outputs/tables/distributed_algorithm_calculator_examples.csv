@@ -1,0 +1,5 @@
+node_count,majority_quorum,crash_fault_tolerance
+3,2,1
+5,3,2
+7,4,3
+9,5,4

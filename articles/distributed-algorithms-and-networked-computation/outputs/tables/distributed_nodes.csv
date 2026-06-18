@@ -1,0 +1,8 @@
+node_id,node_type,region,role,replica_group,availability,trust_boundary
+search_shard_a,search_shard,us-central,document partition A,search_index,0.995,internal
+search_shard_b,search_shard,us-east,document partition B,search_index,0.993,internal
+coordinator,service,us-central,query coordinator,search_frontend,0.997,internal
+vector_store,vector_database,us-central,embedding retrieval,ai_retrieval,0.992,internal
+document_store,database,us-east,source document records,ai_retrieval,0.991,internal
+model_endpoint,model_service,us-west,generation endpoint,ai_retrieval,0.989,external
+logger,observability,us-central,trace and provenance logs,observability,0.996,internal

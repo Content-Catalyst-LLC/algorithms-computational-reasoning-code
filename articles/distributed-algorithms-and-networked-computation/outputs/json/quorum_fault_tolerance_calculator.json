@@ -1,0 +1,7 @@
+{
+  "node_count": 5,
+  "majority_quorum": 3,
+  "crash_fault_tolerance": 2,
+  "node_availability": 0.99,
+  "replicated_availability": 1.0
+}

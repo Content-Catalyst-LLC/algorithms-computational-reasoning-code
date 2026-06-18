@@ -1,0 +1,9 @@
+message_id,source_node,target_node,message_type,requires_ack,security_requirement,governance_note
+m001,coordinator,search_shard_a,query,true,signed_request,trace query fanout
+m002,coordinator,search_shard_b,query,true,signed_request,trace query fanout
+m003,search_shard_a,coordinator,response,true,integrity_check,include shard version
+m004,search_shard_b,coordinator,response,true,integrity_check,include shard version
+m005,coordinator,logger,event,false,signed_event,record partial failures
+m006,vector_store,document_store,lookup,true,access_control,preserve provenance
+m007,document_store,model_endpoint,context_payload,true,encryption,do not expose restricted records
+m008,model_endpoint,logger,event,false,signed_event,record generation version

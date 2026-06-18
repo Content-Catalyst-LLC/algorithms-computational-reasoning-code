@@ -1,0 +1,10 @@
+#lang racket
+(define (quorum-size n) (+ (quotient n 2) 1))
+(define (fault-tolerance n) (quotient (- n 1) 2))
+(define (availability replicas node-availability) (- 1 (expt (- 1 node-availability) replicas)))
+(define (latency compute network queue) (+ compute network queue))
+(displayln "test_name,value")
+(displayln (format "quorum_5_nodes,~a" (quorum-size 5)))
+(displayln (format "fault_tolerance_5_nodes,~a" (fault-tolerance 5)))
+(displayln (format "availability_3_replicas,~a" (availability 3 .99)))
+(displayln (format "distributed_latency_ms,~a" (latency 35 80 20)))

@@ -1,0 +1,11 @@
+term,category,definition,example
+distributed algorithm,algorithmic model,procedure executed by multiple communicating nodes,consensus protocol
+node,system element,participant with local state,server process replica or sensor
+message,communication,data sent from one node to another,heartbeat request vote update
+replication,availability,data copied across nodes,database replicas
+consistency,correctness,guarantee about replica agreement,strong eventual causal
+consensus,coordination,nodes agree on value or log entry,Raft Paxos style agreement
+quorum,fault tolerance,subset large enough to decide,majority of replicas
+partition,failure mode,nodes cannot communicate across network split,regional outage
+logical clock,ordering,event-ordering mechanism without perfect physical time,Lamport timestamp
+provenance,accountability,evidence of source service version and message path,trace logs

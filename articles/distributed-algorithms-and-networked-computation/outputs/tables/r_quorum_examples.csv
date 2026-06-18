@@ -1,0 +1,5 @@
+"node_count","write_quorum","read_quorum","node_availability","majority_quorum","crash_fault_tolerance"
+3,2,2,0.99,2,1
+5,3,3,0.99,3,2
+7,4,4,0.99,4,3
+9,5,5,0.99,5,4

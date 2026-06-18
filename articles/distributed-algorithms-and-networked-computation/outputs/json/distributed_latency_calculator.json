@@ -1,0 +1,6 @@
+{
+  "compute_ms": 35.0,
+  "network_ms": 80.0,
+  "queue_ms": 20.0,
+  "response_ms": 135.0
+}

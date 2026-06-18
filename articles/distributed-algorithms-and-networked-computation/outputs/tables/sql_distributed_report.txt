@@ -1,0 +1,20 @@
+case_name                    distributed_risk_score
+---------------------------  ----------------------
+Opaque microservice chain    70.26                 
+AI retrieval architecture    25.66                 
+Distributed search index     19.04                 
+Replicated database cluster  15.22                 
+trust_boundary  node_count  avg_availability
+--------------  ----------  ----------------
+external        1           0.989           
+internal        6           0.994           
+message_id  source_node     target_node     message_type     requires_ack  security_requirement  governance_note                 
+----------  --------------  --------------  ---------------  ------------  --------------------  --------------------------------
+m001        coordinator     search_shard_a  query            1             signed_request        trace query fanout              
+m002        coordinator     search_shard_b  query            1             signed_request        trace query fanout              
+m003        search_shard_a  coordinator     response         1             integrity_check       include shard version           
+m004        search_shard_b  coordinator     response         1             integrity_check       include shard version           
+m006        vector_store    document_store  lookup           1             access_control        preserve provenance             
+m007        document_store  model_endpoint  context_payload  1             encryption            do not expose restricted records
+m005        coordinator     logger          event            0             signed_event          record partial failures         
+m008        model_endpoint  logger          event            0             signed_event          record generation version       

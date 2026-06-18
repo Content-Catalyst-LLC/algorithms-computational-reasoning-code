@@ -1,0 +1,5 @@
+node_count,write_quorum,read_quorum,node_availability
+3,2,2,0.99
+5,3,3,0.99
+7,4,4,0.99
+9,5,5,0.99

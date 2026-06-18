@@ -1,0 +1,5 @@
+test_name value
+quorum_5_nodes     3
+fault_tolerance_5_nodes     2
+availability_3_replicas   0.999999
+distributed_latency_ms    135.000

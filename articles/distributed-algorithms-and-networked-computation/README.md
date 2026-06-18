@@ -1,37 +1,14 @@
-# Distributed Algorithms and Networked Computation (planned)
+# Distributed Algorithms and Networked Computation
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Distributed Algorithms and Networked Computation**.
 
-## Purpose
+This scaffold covers distributed algorithms, networked computation, nodes, links, messages, latency, routing, replication, consistency, consensus, leader election, quorums, fault tolerance, distributed data processing, observability, provenance, security, and responsible networked-system governance.
 
-This folder will hold computational companion materials for the planned article:
-**Distributed Algorithms and Networked Computation**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

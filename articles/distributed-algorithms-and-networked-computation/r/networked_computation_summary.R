@@ -1,0 +1,17 @@
+data <- read.csv("data/synthetic_distributed_cases.csv", stringsAsFactors = FALSE)
+data$distributed_reliability_score <- 100 * (0.08*data$node_design + 0.09*data$message_discipline + 0.11*data$failure_handling + 0.09*data$replication_strategy + 0.10*data$consistency_clarity + 0.08*data$consensus_readiness + 0.07*data$latency_awareness + 0.10*data$observability + 0.08*data$security_trust + 0.08*data$provenance_support + 0.05*data$reproducibility + 0.04*data$governance_review + 0.03*data$communication_clarity)
+data$distributed_risk <- 100 * rowMeans(1 - data[, c("message_discipline","failure_handling","replication_strategy","consistency_clarity","consensus_readiness","observability","security_trust","provenance_support","governance_review")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_networked_computation_summary.csv", row.names=FALSE)
+png("outputs/figures/r_distributed_reliability_vs_risk.png", width=1500, height=850)
+m <- rbind(data$distributed_reliability_score, data$distributed_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Distributed reliability", "Distributed risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Distributed Reliability vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+quorums <- read.csv("data/synthetic_quorum_examples.csv", stringsAsFactors=FALSE)
+quorums$majority_quorum <- floor(quorums$node_count/2) + 1
+quorums$crash_fault_tolerance <- floor((quorums$node_count - 1)/2)
+write.csv(quorums, "outputs/tables/r_quorum_examples.csv", row.names=FALSE)
+print(data)
