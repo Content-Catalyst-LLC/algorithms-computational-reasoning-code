@@ -1,0 +1,9 @@
+[
+  {
+    "average_search_space_risk": 35.6,
+    "average_search_space_score": 64.87,
+    "case_count": 4,
+    "highest_risk_case": "Opaque eligibility search",
+    "highest_score_case": "Graph pathfinding audit"
+  }
+]

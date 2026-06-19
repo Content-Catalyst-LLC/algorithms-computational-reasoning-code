@@ -1,0 +1,16 @@
+actual_title: "Search Spaces and Computational Exploration"
+suggested_seo_title: "Search Spaces and Computational Exploration"
+focus_keyword: "search spaces and computational exploration"
+slug: "search-spaces-and-computational-exploration"
+series: "Algorithms & Computational Reasoning"
+section: "Search, Optimization, Constraint Reasoning, and Decision Rules"
+article_order:
+  previous: "algorithmic-infrastructure-and-platform-power"
+  current: "search-spaces-and-computational-exploration"
+  next: "optimization-objectives-and-constraints"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/search-spaces-and-computational-exploration"
+tags: [Search Spaces, Computational Exploration, Graph Search, Heuristics, Pruning, Branching Factor, Path Cost, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

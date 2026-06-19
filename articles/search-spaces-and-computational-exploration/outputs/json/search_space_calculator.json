@@ -1,0 +1,15 @@
+{
+  "branching_factor": 3,
+  "depth": 5,
+  "state_count": 364,
+  "edge_costs": [
+    2.5,
+    3.0,
+    1.25,
+    4.75
+  ],
+  "path_cost": 11.5,
+  "known_cost": 8.0,
+  "estimated_remaining_cost": 5.5,
+  "heuristic_score": 13.5
+}

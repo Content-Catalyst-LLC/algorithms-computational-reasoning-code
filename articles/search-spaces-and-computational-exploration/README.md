@@ -1,37 +1,14 @@
-# Search Spaces and Computational Exploration (planned)
+# Search Spaces and Computational Exploration
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+Companion code and reproducible workflows for **Search Spaces and Computational Exploration**.
 
-## Purpose
+This scaffold covers search spaces, states, transitions, actions, frontiers, explored sets, path costs, heuristics, pruning, backtracking, branching factors, coverage reporting, stopping conditions, traceability, and governance.
 
-This folder will hold computational companion materials for the planned article:
-**Search Spaces and Computational Exploration**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

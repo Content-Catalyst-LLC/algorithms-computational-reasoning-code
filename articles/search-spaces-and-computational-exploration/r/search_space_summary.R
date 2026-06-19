@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_search_space_cases.csv", stringsAsFactors = FALSE)
+data$search_space_score <- 100 * (0.10*data$state_clarity + 0.10*data$transition_clarity + 0.10*data$goal_definition + 0.09*data$constraint_documentation + 0.09*data$heuristic_transparency + 0.08*data$pruning_discipline + 0.08*data$frontier_discipline + 0.09*data$coverage_reporting + 0.09*data$stopping_clarity + 0.09*data$traceability + 0.06*data$governance_review + 0.03*data$communication_clarity)
+data$search_space_risk <- 100 * rowMeans(1 - data[, c("state_clarity","transition_clarity","goal_definition","constraint_documentation","heuristic_transparency","pruning_discipline","coverage_reporting","stopping_clarity","traceability","governance_review")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_search_space_summary.csv", row.names=FALSE)
+png("outputs/figures/r_search_space_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$search_space_score, data$search_space_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Search space score", "Search space risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Search Space Score vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)

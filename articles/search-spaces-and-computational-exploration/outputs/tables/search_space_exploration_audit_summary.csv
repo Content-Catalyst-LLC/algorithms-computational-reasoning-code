@@ -1,0 +1,2 @@
+case_count,average_search_space_score,average_search_space_risk,highest_score_case,highest_risk_case
+4,64.87,35.6,Graph pathfinding audit,Opaque eligibility search

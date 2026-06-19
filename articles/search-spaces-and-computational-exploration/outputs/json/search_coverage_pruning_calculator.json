@@ -1,0 +1,8 @@
+{
+  "explored_states": 850,
+  "reachable_states": 5000,
+  "coverage_ratio": 0.17,
+  "pruned_states": 1200,
+  "generated_states": 4200,
+  "pruning_ratio": 0.285714
+}

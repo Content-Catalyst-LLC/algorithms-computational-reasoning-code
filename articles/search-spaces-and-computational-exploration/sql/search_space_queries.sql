@@ -1,0 +1,4 @@
+.headers on
+.mode column
+SELECT case_name, ROUND(100.0 * (0.10*state_clarity + 0.10*transition_clarity + 0.10*goal_definition + 0.09*constraint_documentation + 0.09*heuristic_transparency + 0.08*pruning_discipline + 0.08*frontier_discipline + 0.09*coverage_reporting + 0.09*stopping_clarity + 0.09*traceability + 0.06*governance_review + 0.03*communication_clarity),2) AS search_space_score FROM search_cases ORDER BY search_space_score DESC;
+SELECT case_name, branching_factor, depth, ROUND((POWER(branching_factor, depth + 1) - 1) / (branching_factor - 1),2) AS state_count, path_cost, ROUND(known_cost + estimated_remaining_cost,2) AS heuristic_score, ROUND(explored_states / reachable_states,4) AS coverage_ratio, ROUND(pruned_states / generated_states,4) AS pruning_ratio FROM search_metrics ORDER BY state_count DESC;

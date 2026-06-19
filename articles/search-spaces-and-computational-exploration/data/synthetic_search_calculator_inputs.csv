@@ -1,0 +1,5 @@
+case_name,branching_factor,depth,edge_costs,known_cost,estimated_remaining_cost,explored_states,reachable_states,pruned_states,generated_states
+small_tree,3,5,"2.5;3.0;1.25;4.75",8.0,5.5,850,5000,1200,4200
+wide_tree,5,4,"1.0;2.0;2.0;3.0",6.0,7.0,1200,10000,3600,9000
+deep_tree,2,10,"1.0;1.0;1.0;1.0;1.0",4.0,6.0,1500,4096,900,3000
+retrieval_space,8,3,"0.4;0.7;1.1;0.3",2.0,1.4,400,12000,3200,8000

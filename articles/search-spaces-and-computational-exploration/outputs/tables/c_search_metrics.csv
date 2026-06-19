@@ -1,0 +1,6 @@
+test_name,value
+branching_state_count,364
+path_cost,11.500
+heuristic_score,13.500
+coverage_ratio,0.170000
+pruning_ratio,0.285714

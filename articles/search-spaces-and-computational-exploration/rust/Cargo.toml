@@ -1,0 +1,5 @@
+[package]
+name = "search-spaces-and-computational-exploration"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

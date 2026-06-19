@@ -1,0 +1,11 @@
+term,category,definition,example
+search space,representation,set of possible states candidates paths or solutions,all possible schedules or routes
+state,representation,one possible configuration or situation,current graph node or partial assignment
+transition,dynamics,allowed move from one state to another,edge traversal or task assignment
+frontier,memory,discovered states not yet expanded,BFS queue or priority queue
+explored set,memory,states already visited,closed set in graph search
+heuristic,guidance,estimate or rule for prioritizing exploration,distance-to-goal estimate
+pruning,efficiency,removal of states or branches before expansion,constraint violation cut-off
+backtracking,control flow,returning to earlier choices after a dead end,undo assignment in constraint search
+coverage,accountability,share of space explored or represented,explored states divided by reachable states
+stopping condition,governance,rule that determines when search ends,goal found budget exhausted or confidence reached
