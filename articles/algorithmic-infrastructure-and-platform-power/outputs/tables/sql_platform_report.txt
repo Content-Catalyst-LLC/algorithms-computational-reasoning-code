@@ -1,0 +1,12 @@
+case_name                     platform_power_risk
+----------------------------  -------------------
+Marketplace seller ecosystem  72.14              
+Search-dependent publisher    63.08              
+AI model API dependency       61.78              
+Cloud-native data platform    60.18              
+case_name                     dependency_score  switching_cost  api_dependency_ratio  visibility_share
+----------------------------  ----------------  --------------  --------------------  ----------------
+marketplace_seller_ecosystem  82.64             272000.0        0.5818                0.072           
+search_dependent_publisher    77.44             170000.0        0.3                   0.05            
+ai_model_api_dependency       68.52             282000.0        0.85                  0.05            
+cloud_native_data_platform    67.68             405000.0        0.85                  0.0343          

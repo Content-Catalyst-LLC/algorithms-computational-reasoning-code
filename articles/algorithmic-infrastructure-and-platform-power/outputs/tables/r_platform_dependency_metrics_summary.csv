@@ -1,0 +1,6 @@
+"case_name","access_dependence","visibility_dependence","cost_dependence","switching_difficulty","evidence_dependence","migration","rebuild","training","downtime","lost_network","platform_requests","total_requests","actor_exposure","total_exposure","dependency_score","switching_cost","api_dependency_ratio","visibility_share"
+"search_dependent_publisher",0.8,0.92,0.6,0.78,0.72,20000,45000,8000,12000,85000,150000,500000,250000,5000000,77.44,170000,0.3,0.05
+"cloud_native_data_platform",0.74,0.2,0.82,0.9,0.76,95000,180000,45000,60000,25000,850000,1000000,120000,3500000,67.68,405000,0.85,0.0342857142857143
+"marketplace_seller_ecosystem",0.88,0.9,0.84,0.82,0.62,30000,75000,14000,28000,125000,320000,550000,180000,2500000,82.64,272000,0.581818181818182,0.072
+"ai_model_api_dependency",0.84,0.34,0.78,0.78,0.7,45000,120000,18000,24000,75000,850000,1000000,90000,1800000,68.52,282000,0.85,0.05
+"public_sector_platform_dependence",0.9,0.52,0.76,0.88,0.84,120000,250000,70000,110000,60000,600000,800000,140000,2300000,77.8,610000,0.75,0.0608695652173913

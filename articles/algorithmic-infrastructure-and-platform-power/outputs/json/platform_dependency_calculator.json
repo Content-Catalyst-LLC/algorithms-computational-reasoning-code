@@ -1,0 +1,8 @@
+{
+  "access_dependence": 0.8,
+  "visibility_dependence": 0.9,
+  "cost_dependence": 0.7,
+  "switching_difficulty": 0.85,
+  "evidence_dependence": 0.65,
+  "dependency_score": 79.5
+}

@@ -1,37 +1,14 @@
-# Algorithmic Infrastructure and Platform Power (planned)
+# Algorithmic Infrastructure and Platform Power
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Algorithmic Infrastructure and Platform Power**.
 
-## Purpose
+This scaffold covers algorithmic infrastructure, platform power, APIs, ranking systems, data extraction, cloud dependencies, marketplace gatekeeping, identity rails, payment rails, AI model platforms, interoperability, portability, lock-in, auditability, appeals, and governance.
 
-This folder will hold computational companion materials for the planned article:
-**Algorithmic Infrastructure and Platform Power**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

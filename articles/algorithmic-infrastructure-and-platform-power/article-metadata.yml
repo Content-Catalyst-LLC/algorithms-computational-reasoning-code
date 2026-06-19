@@ -1,0 +1,16 @@
+actual_title: "Algorithmic Infrastructure and Platform Power"
+suggested_seo_title: "Algorithmic Infrastructure and Platform Power"
+focus_keyword: "algorithmic infrastructure and platform power"
+slug: "algorithmic-infrastructure-and-platform-power"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "edge-computing-and-embedded-algorithms"
+  current: "algorithmic-infrastructure-and-platform-power"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/algorithmic-infrastructure-and-platform-power"
+tags: [Algorithmic Infrastructure, Platform Power, APIs, Ranking Systems, Platform Governance, Interoperability, Lock-In, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true
