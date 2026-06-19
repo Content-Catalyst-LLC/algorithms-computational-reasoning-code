@@ -1,0 +1,2 @@
+example,sense_ms,filter_ms,compute_ms,actuate_ms,edge_response_time_ms,deadline_ms,meets_deadline
+edge_response_time,8,6,14,5,33,50,True

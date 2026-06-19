@@ -1,0 +1,6 @@
+"case_name","sense_ms","filter_ms","compute_ms","actuate_ms","deadline_ms","uplink_ms","cloud_compute_ms","downlink_ms","battery_wh","average_power_w","signal_value","threshold","edge_response_time_ms","cloud_response_time_ms","edge_meets_deadline","cloud_meets_deadline","battery_life_hours","local_action"
+"environmental_sensor",8,6,14,5,50,90,60,90,12,0.08,0.82,0.75,33,253,TRUE,FALSE,150,"alert"
+"industrial_vibration",4,8,18,6,45,65,80,65,24,0.65,0.68,0.7,36,220,TRUE,FALSE,36.9230769230769,"monitor"
+"medical_wearable",3,7,16,4,35,80,75,80,4.8,0.06,0.91,0.86,30,242,TRUE,FALSE,80,"alert"
+"traffic_signal",5,6,20,8,60,55,70,55,120,7.5,0.74,0.8,39,193,TRUE,FALSE,16,"monitor"
+"smart_controller",10,4,8,7,40,100,50,100,8,0.2,0.6,0.55,29,267,TRUE,FALSE,40,"alert"

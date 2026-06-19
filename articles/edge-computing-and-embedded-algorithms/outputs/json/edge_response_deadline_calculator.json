@@ -1,0 +1,9 @@
+{
+  "sense_ms": 8.0,
+  "filter_ms": 6.0,
+  "compute_ms": 14.0,
+  "actuate_ms": 5.0,
+  "edge_response_time_ms": 33.0,
+  "deadline_ms": 50.0,
+  "meets_deadline": true
+}

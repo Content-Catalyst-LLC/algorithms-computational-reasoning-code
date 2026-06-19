@@ -1,0 +1,4 @@
+test_name value
+edge_response_time_ms     33.000
+cloud_response_time_ms    253.000
+battery_life_hours    150.000

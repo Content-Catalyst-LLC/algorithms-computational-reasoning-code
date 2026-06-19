@@ -1,0 +1,9 @@
+[
+  {
+    "average_edge_embedded_risk": 30.044,
+    "average_edge_embedded_score": 70.676,
+    "case_count": 5,
+    "highest_risk_case": "Unreviewed smart controller",
+    "highest_score_case": "Medical wearable signal filter"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "battery_wh": 12.0,
+  "average_power_w": 0.08,
+  "battery_life_hours": 150.0,
+  "signal_value": 0.82,
+  "threshold": 0.75,
+  "action": "alert"
+}

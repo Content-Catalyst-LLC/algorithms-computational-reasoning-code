@@ -1,37 +1,14 @@
-# Edge Computing and Embedded Algorithms (planned)
+# Edge Computing and Embedded Algorithms
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Concurrency, Distributed Systems, and Computational Infrastructure  
-**Status:** planned
+Companion code and reproducible workflows for **Edge Computing and Embedded Algorithms**.
 
-## Purpose
+This scaffold covers edge computing, embedded algorithms, local inference, real-time deadlines, sensor validation, power budgets, memory constraints, offline behavior, firmware updates, device observability, fail-safe design, security, data minimization, and governance.
 
-This folder will hold computational companion materials for the planned article:
-**Edge Computing and Embedded Algorithms**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.

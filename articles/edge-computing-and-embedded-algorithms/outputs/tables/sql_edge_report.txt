@@ -1,0 +1,13 @@
+case_name                       edge_risk_score
+------------------------------  ---------------
+Unreviewed smart controller     67.38          
+Environmental sensor node       22.36          
+Industrial vibration monitor    21.16          
+Medical wearable signal filter  16.92          
+case_name             edge_response_time_ms  deadline_ms  edge_status     cloud_response_time_ms  local_action
+--------------------  ---------------------  -----------  --------------  ----------------------  ------------
+traffic_signal        39.0                   60.0         meets_deadline  193.0                   monitor     
+industrial_vibration  36.0                   45.0         meets_deadline  220.0                   monitor     
+environmental_sensor  33.0                   50.0         meets_deadline  253.0                   alert       
+medical_wearable      30.0                   35.0         meets_deadline  242.0                   alert       
+smart_controller      29.0                   40.0         meets_deadline  267.0                   alert       

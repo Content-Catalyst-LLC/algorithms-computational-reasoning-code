@@ -1,0 +1,10 @@
+#lang racket
+(define (edge-response-time s f c a) (+ s f c a))
+(define (cloud-response-time s u c d a) (+ s u c d a))
+(define (battery-life b p) (if (= p 0) 0 (/ b p)))
+(define (local-action signal threshold) (if (>= signal threshold) "alert" "monitor"))
+(displayln "test_name,value")
+(displayln (format "edge_response_time_ms,~a" (edge-response-time 8 6 14 5)))
+(displayln (format "cloud_response_time_ms,~a" (cloud-response-time 8 90 60 90 5)))
+(displayln (format "battery_life_hours,~a" (battery-life 12 .08)))
+(displayln (format "local_action,~a" (local-action .82 .75)))

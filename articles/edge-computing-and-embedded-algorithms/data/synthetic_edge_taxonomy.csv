@@ -1,0 +1,11 @@
+term,category,definition,example
+edge computing,architecture,computation near users devices sensors or local environments,local gateway processing sensor events
+embedded algorithm,device computation,algorithm designed for constrained hardware,firmware threshold rule
+real-time deadline,timing,latest acceptable completion time,control loop must finish before next cycle
+sensor validation,input quality,checks for noise drift missing data or conflict,calibration status and quality flag
+offline behavior,resilience,device behavior without network connectivity,local fallback policy
+fail-safe design,safety,conservative behavior under failure or uncertainty,safe mode when sensor fails
+firmware lifecycle,maintenance,versioned update and rollback management,signed OTA update
+edge AI,local inference,machine learning inference on device or edge gateway,quantized anomaly detector
+data minimization,privacy,limiting stored or transmitted data,local summary instead of raw stream
+field diagnostics,observability,compact evidence preserved on device,error code and decision trace

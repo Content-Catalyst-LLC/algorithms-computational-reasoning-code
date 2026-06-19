@@ -1,0 +1,16 @@
+actual_title: "Edge Computing and Embedded Algorithms"
+suggested_seo_title: "Edge Computing and Embedded Algorithms"
+focus_keyword: "edge computing and embedded algorithms"
+slug: "edge-computing-and-embedded-algorithms"
+series: "Algorithms & Computational Reasoning"
+section: "Computational Complexity, Scale, and Runtime Systems"
+article_order:
+  previous: "cloud-computing-and-algorithmic-infrastructure"
+  current: "edge-computing-and-embedded-algorithms"
+  next: "online-algorithms-and-decisions-under-arrival"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/edge-computing-and-embedded-algorithms"
+tags: [Edge Computing, Embedded Algorithms, Real-Time Systems, Sensor Validation, Edge AI, Firmware, Fail-Safe Design, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true
