@@ -1,0 +1,11 @@
+{
+  "title": "Algorithmic Game Theory and Strategic Behavior",
+  "slug": "algorithmic-game-theory-and-strategic-behavior",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "multi-objective-optimization-and-trade-off-reasoning",
+  "next_article": "cryptographic-algorithms-and-secure-communication",
+  "seo_title": "Algorithmic Game Theory and Strategic Behavior",
+  "focus_keyword": "algorithmic game theory and strategic behavior",
+  "github_folder": "articles/algorithmic-game-theory-and-strategic-behavior",
+  "summary": "Executable companion materials for algorithmic game theory, strategic behavior, incentives, mechanism design, auctions, best responses, Nash equilibrium, price of anarchy, manipulation review, incentive sensitivity, traceability, and governance."
+}

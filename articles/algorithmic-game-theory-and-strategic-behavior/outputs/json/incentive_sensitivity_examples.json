@@ -1,0 +1,142 @@
+[
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 1.0,
+    "net_gain_from_manipulation": 9.0,
+    "penalty": 0.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 1.0,
+    "net_gain_from_manipulation": 7.0,
+    "penalty": 2.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 1.0,
+    "net_gain_from_manipulation": 4.0,
+    "penalty": 5.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 1.0,
+    "net_gain_from_manipulation": 1.0,
+    "penalty": 8.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 3.0,
+    "net_gain_from_manipulation": 7.0,
+    "penalty": 0.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 3.0,
+    "net_gain_from_manipulation": 5.0,
+    "penalty": 2.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 3.0,
+    "net_gain_from_manipulation": 2.0,
+    "penalty": 5.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 3.0,
+    "net_gain_from_manipulation": -1.0,
+    "penalty": 8.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 6.0,
+    "net_gain_from_manipulation": 4.0,
+    "penalty": 0.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 6.0,
+    "net_gain_from_manipulation": 2.0,
+    "penalty": 2.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 6.0,
+    "net_gain_from_manipulation": -1.0,
+    "penalty": 5.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 6.0,
+    "net_gain_from_manipulation": -4.0,
+    "penalty": 8.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": true,
+    "manipulation_cost": 9.0,
+    "net_gain_from_manipulation": 1.0,
+    "penalty": 0.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 9.0,
+    "net_gain_from_manipulation": -1.0,
+    "penalty": 2.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 9.0,
+    "net_gain_from_manipulation": -4.0,
+    "penalty": 5.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 9.0,
+    "net_gain_from_manipulation": -7.0,
+    "penalty": 8.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 12.0,
+    "net_gain_from_manipulation": -2.0,
+    "penalty": 0.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 12.0,
+    "net_gain_from_manipulation": -4.0,
+    "penalty": 2.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 12.0,
+    "net_gain_from_manipulation": -7.0,
+    "penalty": 5.0
+  },
+  {
+    "base_reward": 10.0,
+    "manipulation_attractive": false,
+    "manipulation_cost": 12.0,
+    "net_gain_from_manipulation": -10.0,
+    "penalty": 8.0
+  }
+]

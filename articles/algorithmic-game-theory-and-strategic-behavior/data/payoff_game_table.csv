@@ -1,0 +1,5 @@
+player_one_strategy,player_two_strategy,player_one_payoff,player_two_payoff,total_welfare
+cooperate,cooperate,3,3,6
+cooperate,defect,0,5,5
+defect,cooperate,5,0,5
+defect,defect,1,1,2

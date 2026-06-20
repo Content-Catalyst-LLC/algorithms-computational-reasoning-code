@@ -1,0 +1,6 @@
+{
+  "interpretation": "For welfare maximization, this ratio compares best possible welfare with the worst equilibrium welfare.",
+  "optimal_welfare": 6.0,
+  "welfare_price_of_anarchy": 3.0,
+  "worst_equilibrium_welfare": 2.0
+}

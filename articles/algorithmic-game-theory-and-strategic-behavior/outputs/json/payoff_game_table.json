@@ -1,0 +1,34 @@
+[
+  {
+    "player_one_payoff": 3.0,
+    "player_one_strategy": "cooperate",
+    "player_two_payoff": 3.0,
+    "player_two_strategy": "cooperate",
+    "pure_nash_equilibrium": false,
+    "total_welfare": 6.0
+  },
+  {
+    "player_one_payoff": 0.0,
+    "player_one_strategy": "cooperate",
+    "player_two_payoff": 5.0,
+    "player_two_strategy": "defect",
+    "pure_nash_equilibrium": false,
+    "total_welfare": 5.0
+  },
+  {
+    "player_one_payoff": 5.0,
+    "player_one_strategy": "defect",
+    "player_two_payoff": 0.0,
+    "player_two_strategy": "cooperate",
+    "pure_nash_equilibrium": false,
+    "total_welfare": 5.0
+  },
+  {
+    "player_one_payoff": 1.0,
+    "player_one_strategy": "defect",
+    "player_two_payoff": 1.0,
+    "player_two_strategy": "defect",
+    "pure_nash_equilibrium": true,
+    "total_welfare": 2.0
+  }
+]

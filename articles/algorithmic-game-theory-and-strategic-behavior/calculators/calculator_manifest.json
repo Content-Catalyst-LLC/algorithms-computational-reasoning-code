@@ -1,0 +1,12 @@
+{
+  "article": "Algorithmic Game Theory and Strategic Behavior",
+  "slug": "algorithmic-game-theory-and-strategic-behavior",
+  "calculators": [
+    {
+      "name": "Strategic behavior incentive calculator",
+      "python": "calculators/python/strategic_behavior_calculator.py",
+      "r": "calculators/r/strategic_behavior_calculator.R",
+      "description": "Calculates expected net gain from manipulation under different penalties and detection probabilities."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "attractive_manipulation_scenarios": 10,
+  "pure_nash_equilibrium_count": 1,
+  "summary": "Strategic algorithm review should document agents, actions, payoffs, mechanisms, manipulation paths, sensitivity, welfare, fairness, and governance.",
+  "welfare_price_of_anarchy": 3.0
+}

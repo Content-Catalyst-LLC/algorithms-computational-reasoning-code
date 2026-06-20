@@ -1,37 +1,30 @@
-# Algorithmic Game Theory and Strategic Behavior (planned)
+# Algorithmic Game Theory and Strategic Behavior
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Algorithmic Game Theory and Strategic Behavior** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+It provides reproducible teaching workflows for:
 
-This folder will hold computational companion materials for the planned article:
-**Algorithmic Game Theory and Strategic Behavior**.
+- players, actions, strategies, and payoffs
+- best responses and pure-strategy Nash equilibria
+- mechanism design and incentive compatibility
+- auctions, routing games, and platform incentives
+- price of anarchy and welfare comparison
+- manipulation review and gaming pathways
+- strategic sensitivity and incentive sensitivity
+- multiagent adaptation and governance
 
-## Standard Folder Layout
+## Sequence
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+- Previous: `multi-objective-optimization-and-trade-off-reasoning`
+- Current: `algorithmic-game-theory-and-strategic-behavior`
+- Next: `cryptographic-algorithms-and-secure-communication`
 
-## Notes
+## Quick start
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+```bash
+python3 python/algorithmic_game_theory/audit.py
+python3 python/algorithmic_game_theory/cli.py
+Rscript r/algorithmic_game_theory_strategic_behavior_summary.R
+```
+
+Generated files are written to `outputs/tables`, `outputs/json`, `outputs/figures`, and `outputs/cli`.

@@ -1,0 +1,5 @@
+player_one_payoff,player_one_strategy,player_two_payoff,player_two_strategy,pure_nash_equilibrium,total_welfare
+3.0,cooperate,3.0,cooperate,False,6.0
+0.0,cooperate,5.0,defect,False,5.0
+5.0,defect,0.0,cooperate,False,5.0
+1.0,defect,1.0,defect,True,2.0

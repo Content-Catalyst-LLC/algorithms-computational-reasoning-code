@@ -1,0 +1,1 @@
+public class StrategicBehavior { public static void main(String[] args) { String[] p = {"cooperate/cooperate", "cooperate/defect", "defect/cooperate", "defect/defect"}; double[] w = {6,5,5,2}; for (int i=0;i<p.length;i++) System.out.printf("%s welfare=%.1f%n", p[i], w[i]); } }

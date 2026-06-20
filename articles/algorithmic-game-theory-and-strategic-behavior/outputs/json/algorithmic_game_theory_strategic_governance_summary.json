@@ -1,0 +1,11 @@
+{
+  "attractive_manipulation_scenarios": 10,
+  "average_strategic_governance_risk": 36.541,
+  "average_strategic_governance_score": 63.545,
+  "case_count": 4,
+  "highest_risk_case": "Opaque engagement platform",
+  "highest_score_case": "Truthful auction mechanism",
+  "interpretation": "Strategic governance depends on agent inventories, action-space clarity, payoff documentation, mechanism documentation, incentive alignment, manipulation review, sensitivity testing, equilibrium review, welfare analysis, fairness review, traceability, and governance.",
+  "pure_nash_equilibrium_count": 1,
+  "welfare_price_of_anarchy": 3.0
+}

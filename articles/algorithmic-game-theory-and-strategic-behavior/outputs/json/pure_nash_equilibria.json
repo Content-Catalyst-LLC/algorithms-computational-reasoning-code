@@ -1,0 +1,9 @@
+[
+  {
+    "player_one_payoff": 1.0,
+    "player_one_strategy": "defect",
+    "player_two_payoff": 1.0,
+    "player_two_strategy": "defect",
+    "total_welfare": 2.0
+  }
+]
