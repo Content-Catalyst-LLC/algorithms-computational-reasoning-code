@@ -1,0 +1,37 @@
+[
+  {
+    "diverged": false,
+    "final_bias": 0.494077,
+    "final_loss": 3.35015,
+    "final_weight": 0.975373,
+    "learning_rate": 0.005
+  },
+  {
+    "diverged": false,
+    "final_bias": 1.200959,
+    "final_loss": 0.193253,
+    "final_weight": 2.035893,
+    "learning_rate": 0.02
+  },
+  {
+    "diverged": false,
+    "final_bias": 1.491156,
+    "final_loss": 0.037368,
+    "final_weight": 2.260644,
+    "learning_rate": 0.08
+  },
+  {
+    "diverged": false,
+    "final_bias": 1.492553,
+    "final_loss": 0.037366,
+    "final_weight": 2.260731,
+    "learning_rate": 0.2
+  },
+  {
+    "diverged": false,
+    "final_bias": 1.492553,
+    "final_loss": 0.037366,
+    "final_weight": 2.260731,
+    "learning_rate": 0.5
+  }
+]

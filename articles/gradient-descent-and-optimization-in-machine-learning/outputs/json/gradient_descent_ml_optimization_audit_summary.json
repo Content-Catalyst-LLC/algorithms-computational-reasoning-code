@@ -1,0 +1,11 @@
+{
+  "average_ml_optimization_governance_risk": 37.417,
+  "average_ml_optimization_governance_score": 62.785,
+  "case_count": 4,
+  "final_loss": 0.037366,
+  "highest_risk_case": "Opaque deep-learning workflow",
+  "highest_score_case": "Document classifier training",
+  "initial_loss": 9.429086,
+  "interpretation": "Machine learning optimization governance depends on objective documentation, data documentation, feature scaling, optimizer documentation, learning-rate rationale, validation discipline, regularization review, robustness review, fairness review, reproducibility, traceability, governance, and communication clarity.",
+  "loss_reduction": 9.39172
+}

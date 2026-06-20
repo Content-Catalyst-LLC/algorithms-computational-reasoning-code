@@ -1,0 +1,24 @@
+{
+  "article_slug": "gradient-descent-and-optimization-in-machine-learning",
+  "article_title": "Gradient Descent and Optimization in Machine Learning",
+  "series": "Algorithms & Computational Reasoning",
+  "artifacts": [
+    "outputs/tables/gradient_descent_ml_optimization_audit.csv",
+    "outputs/tables/gradient_descent_training_trace.csv",
+    "outputs/tables/learning_rate_sensitivity.csv",
+    "calculators/outputs/gradient_descent_calculator_trace.csv"
+  ],
+  "governance_topics": [
+    "objective documentation",
+    "data documentation",
+    "feature scaling",
+    "optimizer documentation",
+    "learning-rate rationale",
+    "validation discipline",
+    "regularization review",
+    "robustness review",
+    "fairness review",
+    "reproducibility",
+    "traceability"
+  ]
+}

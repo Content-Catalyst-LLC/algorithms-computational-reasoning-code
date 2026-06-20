@@ -1,37 +1,22 @@
-# Gradient Descent and Optimization in Machine Learning (planned)
+# Gradient Descent and Optimization in Machine Learning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Gradient Descent and Optimization in Machine Learning** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+The folder contains reproducible workflows, calculators, synthetic teaching data, governance checklists, and multi-language examples for loss functions, gradients, parameter updates, learning rates, stochastic and mini-batch gradient descent, momentum, adaptive optimization, training traces, validation monitoring, regularization, robustness, fairness review, reproducibility, traceability, and machine learning governance.
 
-This folder will hold computational companion materials for the planned article:
-**Gradient Descent and Optimization in Machine Learning**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `linear-programming-and-convex-optimization`
+- Current: `gradient-descent-and-optimization-in-machine-learning`
+- Next: `multi-objective-optimization-and-trade-off-reasoning`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Run the main workflows
 
-## Notes
+```bash
+make smoke
+make all
+```
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+## Core idea
+
+Gradient descent turns learning into iterative optimization: compute loss, compute the gradient, update parameters, evaluate performance, and repeat until a stopping condition is met. The optimization path depends on data, objective design, learning rates, feature scaling, regularization, initialization, validation discipline, and governance.

@@ -1,0 +1,31 @@
+title: "Gradient Descent and Optimization in Machine Learning"
+slug: "gradient-descent-and-optimization-in-machine-learning"
+series: "Algorithms & Computational Reasoning"
+previous_article:
+  title: "Linear Programming and Convex Optimization"
+  slug: "linear-programming-and-convex-optimization"
+next_article:
+  title: "Multi-Objective Optimization and Trade-Off Reasoning"
+  slug: "multi-objective-optimization-and-trade-off-reasoning"
+repository_article_path: "articles/gradient-descent-and-optimization-in-machine-learning/"
+focus_keyword: "gradient descent and optimization in machine learning"
+summary: "Gradient descent and optimization in machine learning explain how algorithms iteratively adjust model parameters to reduce loss, improve fit, and navigate training landscapes under data, objective, and governance constraints."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran
+  - Java
+  - TypeScript
+  - Prolog
+  - Racket
+calculators:
+  - gradient_descent_regression_calculator
+  - learning_rate_sensitivity_calculator
+  - optimization_governance_score_calculator
