@@ -1,0 +1,4 @@
+metric,value,interpretation
+case_count,4,Number of secure-communication governance cases evaluated.
+highest_risk_case,Legacy encrypted file transfer,Case with the weakest governance posture in the synthetic audit.
+message_authentication_demo_checks,2,Educational HMAC verification checks generated with Python's standard library.

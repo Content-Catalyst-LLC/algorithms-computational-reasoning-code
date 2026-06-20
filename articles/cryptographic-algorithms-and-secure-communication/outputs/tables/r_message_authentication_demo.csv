@@ -1,0 +1,3 @@
+"check_name","interpretation","message","tag_prefix","verified"
+"original message","Original message verifies with the shared secret.","approved software update manifest","iQ4OT_gnO2eWQql2","True"
+"altered message","Altered message fails verification with the original tag.","tampered software update manifest","iQ4OT_gnO2eWQql2","False"

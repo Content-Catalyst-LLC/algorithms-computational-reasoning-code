@@ -1,0 +1,6 @@
+"governance_note","preferred_property","primitive_area","review_question"
+"Use reviewed libraries and approved protocol configurations rather than custom encryption code.","authenticated encryption","symmetric encryption","Does the implementation protect confidentiality and integrity together?"
+"Certificate validation and trust-anchor management must be documented.","validated key exchange or signature scheme","public-key cryptography","Are public keys correctly bound to identities and validated before trust?"
+"A bare hash is not sender authentication unless the reference is trusted.","cryptographic hash, MAC, or digital signature","message integrity","Is integrity anchored to a trusted reference, shared secret, or public key?"
+"Predictable randomness can undermine strong algorithms.","cryptographic random generation","randomness","Are keys, nonces, salts, and tokens generated with appropriate randomness?"
+"Key lifecycle failures are common causes of security breakdown.","generation, storage, access, rotation, revocation, destruction","key lifecycle","Can every secret be inventoried and retired after compromise?"

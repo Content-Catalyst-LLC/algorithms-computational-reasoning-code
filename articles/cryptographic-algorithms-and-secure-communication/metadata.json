@@ -1,0 +1,11 @@
+{
+  "title": "Cryptographic Algorithms and Secure Communication",
+  "slug": "cryptographic-algorithms-and-secure-communication",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "algorithmic-game-theory-and-strategic-behavior",
+  "next_article": "hash-functions-integrity-and-verification",
+  "seo_title": "Cryptographic Algorithms and Secure Communication",
+  "focus_keyword": "cryptographic algorithms and secure communication",
+  "github_folder": "articles/cryptographic-algorithms-and-secure-communication",
+  "summary": "Executable companion materials for cryptographic algorithms, secure communication, encryption concepts, public-key systems, digital signatures, key exchange, message authentication, integrity, key management, certificate validation, threat modeling, protocol review, implementation risk, governance, traceability, and accountability."
+}

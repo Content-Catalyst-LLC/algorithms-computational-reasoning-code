@@ -1,0 +1,11 @@
+{
+  "average_secure_communication_risk": 34.709,
+  "average_secure_communication_score": 65.8,
+  "case_count": 4,
+  "failed_message_authentication_checks": 1,
+  "highest_risk_case": "Legacy encrypted file transfer",
+  "highest_score_case": "Web service secure channel",
+  "interpretation": "Secure communication depends on threat modeling, approved protocols, key management, certificate validation, message integrity, authentication, randomness, secret storage, rotation, implementation review, monitoring, incident response, and clear communication of limits.",
+  "message_authentication_checks": 2,
+  "primitive_inventory_count": 5
+}

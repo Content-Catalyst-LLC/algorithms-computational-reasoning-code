@@ -1,37 +1,32 @@
-# Cryptographic Algorithms and Secure Communication (planned)
+# Cryptographic Algorithms and Secure Communication
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Security, Cryptography, Privacy, and Trust  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Cryptographic Algorithms and Secure Communication** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+It provides reproducible teaching workflows for:
 
-This folder will hold computational companion materials for the planned article:
-**Cryptographic Algorithms and Secure Communication**.
+- secure communication goals
+- confidentiality, integrity, authentication, freshness, and verification
+- symmetric and public-key cryptographic concepts
+- key exchange, digital signatures, and certificate validation
+- message authentication and tamper detection
+- key lifecycle, randomness, secrets, rotation, and revocation
+- threat modeling, protocol review, implementation risk, and governance
 
-## Standard Folder Layout
+These examples are educational governance and audit workflows. They do **not** implement production encryption.
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Sequence
 
-## Notes
+- Previous: `algorithmic-game-theory-and-strategic-behavior`
+- Current: `cryptographic-algorithms-and-secure-communication`
+- Next: `hash-functions-integrity-and-verification`
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+## Quick start
+
+```bash
+python3 python/cryptographic_algorithms/audit.py
+python3 python/cryptographic_algorithms/cli.py
+Rscript r/cryptographic_algorithms_secure_communication_summary.R
+python3 calculators/python/secure_communication_calculator.py
+```
+
+Generated files are written to `outputs/tables`, `outputs/json`, `outputs/figures`, `outputs/cli`, and `calculators/outputs`.
