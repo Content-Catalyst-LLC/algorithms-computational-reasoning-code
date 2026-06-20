@@ -1,37 +1,30 @@
-# Multi-Objective Optimization and Trade-Off Reasoning (planned)
+# Multi-Objective Optimization and Trade-Off Reasoning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Multi-Objective Optimization and Trade-Off Reasoning** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+It provides reproducible teaching workflows for:
 
-This folder will hold computational companion materials for the planned article:
-**Multi-Objective Optimization and Trade-Off Reasoning**.
+- multi-objective optimization
+- Pareto dominance and Pareto-efficient alternatives
+- Pareto frontier reasoning
+- weighted-sum scalarization
+- lexicographic and threshold priority logic
+- sensitivity and robustness review
+- fairness and stakeholder impact review
+- traceability and governance documentation
 
-## Standard Folder Layout
+## Sequence
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+- Previous: `gradient-descent-and-optimization-in-machine-learning`
+- Current: `multi-objective-optimization-and-trade-off-reasoning`
+- Next: `algorithmic-game-theory-and-strategic-behavior`
 
-## Notes
+## Quick start
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+```bash
+python3 python/multi_objective_tradeoff/audit.py
+python3 python/multi_objective_tradeoff/cli.py
+Rscript r/multi_objective_optimization_tradeoff_summary.R
+```
+
+Generated files are written to `outputs/tables`, `outputs/json`, and `outputs/figures`.

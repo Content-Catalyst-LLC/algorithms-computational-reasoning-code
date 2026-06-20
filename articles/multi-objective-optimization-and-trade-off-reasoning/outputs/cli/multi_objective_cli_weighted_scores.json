@@ -1,0 +1,79 @@
+[
+  {
+    "alternative": "F",
+    "normalized_access": 1.0,
+    "normalized_burden": 1.0,
+    "normalized_cost": 0.0,
+    "normalized_emissions": 1.0,
+    "normalized_risk": 1.0,
+    "normalized_robustness": 1.0,
+    "normalized_service_quality": 1.0,
+    "weighted_score": 0.8
+  },
+  {
+    "alternative": "C",
+    "normalized_access": 0.904762,
+    "normalized_burden": 0.923077,
+    "normalized_cost": 0.28125,
+    "normalized_emissions": 0.681818,
+    "normalized_risk": 0.928571,
+    "normalized_robustness": 0.833333,
+    "normalized_service_quality": 0.863636,
+    "weighted_score": 0.738984
+  },
+  {
+    "alternative": "E",
+    "normalized_access": 0.761905,
+    "normalized_burden": 0.769231,
+    "normalized_cost": 0.625,
+    "normalized_emissions": 0.909091,
+    "normalized_risk": 0.75,
+    "normalized_robustness": 0.666667,
+    "normalized_service_quality": 0.5,
+    "weighted_score": 0.705778
+  },
+  {
+    "alternative": "G",
+    "normalized_access": 0.666667,
+    "normalized_burden": 0.615385,
+    "normalized_cost": 0.875,
+    "normalized_emissions": 0.636364,
+    "normalized_risk": 0.464286,
+    "normalized_robustness": 0.375,
+    "normalized_service_quality": 0.272727,
+    "weighted_score": 0.57249
+  },
+  {
+    "alternative": "A",
+    "normalized_access": 0.619048,
+    "normalized_burden": 0.692308,
+    "normalized_cost": 0.5625,
+    "normalized_emissions": 0.363636,
+    "normalized_risk": 0.642857,
+    "normalized_robustness": 0.541667,
+    "normalized_service_quality": 0.590909,
+    "weighted_score": 0.565892
+  },
+  {
+    "alternative": "B",
+    "normalized_access": 0.333333,
+    "normalized_burden": 0.461538,
+    "normalized_cost": 0.8125,
+    "normalized_emissions": 0.545455,
+    "normalized_risk": 0.392857,
+    "normalized_robustness": 0.333333,
+    "normalized_service_quality": 0.318182,
+    "weighted_score": 0.477027
+  },
+  {
+    "alternative": "D",
+    "normalized_access": 0.0,
+    "normalized_burden": 0.0,
+    "normalized_cost": 1.0,
+    "normalized_emissions": 0.0,
+    "normalized_risk": 0.0,
+    "normalized_robustness": 0.0,
+    "normalized_service_quality": 0.0,
+    "weighted_score": 0.2
+  }
+]

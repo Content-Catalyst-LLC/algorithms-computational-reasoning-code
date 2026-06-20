@@ -1,0 +1,72 @@
+[
+  {
+    "access": 76,
+    "alternative": "A",
+    "burden": 28,
+    "cost": 72,
+    "emissions": 42,
+    "risk": 34,
+    "robustness": 71,
+    "service_quality": 82
+  },
+  {
+    "access": 70,
+    "alternative": "B",
+    "burden": 34,
+    "cost": 64,
+    "emissions": 38,
+    "risk": 41,
+    "robustness": 66,
+    "service_quality": 76
+  },
+  {
+    "access": 82,
+    "alternative": "C",
+    "burden": 22,
+    "cost": 81,
+    "emissions": 35,
+    "risk": 26,
+    "robustness": 78,
+    "service_quality": 88
+  },
+  {
+    "access": 63,
+    "alternative": "D",
+    "burden": 46,
+    "cost": 58,
+    "emissions": 50,
+    "risk": 52,
+    "robustness": 58,
+    "service_quality": 69
+  },
+  {
+    "access": 79,
+    "alternative": "E",
+    "burden": 26,
+    "cost": 70,
+    "emissions": 30,
+    "risk": 31,
+    "robustness": 74,
+    "service_quality": 80
+  },
+  {
+    "access": 84,
+    "alternative": "F",
+    "burden": 20,
+    "cost": 90,
+    "emissions": 28,
+    "risk": 24,
+    "robustness": 82,
+    "service_quality": 91
+  },
+  {
+    "access": 77,
+    "alternative": "G",
+    "burden": 30,
+    "cost": 62,
+    "emissions": 36,
+    "risk": 39,
+    "robustness": 67,
+    "service_quality": 75
+  }
+]

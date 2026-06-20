@@ -1,0 +1,10 @@
+{
+  "average_tradeoff_governance_risk": 37.182,
+  "average_tradeoff_governance_score": 62.96,
+  "case_count": 4,
+  "highest_risk_case": "Opaque weighted-score allocation",
+  "highest_score_case": "Public infrastructure planning",
+  "interpretation": "Multi-objective governance depends on objective inventories, valid metrics, documented weights, clear constraints, Pareto analysis, sensitivity review, robustness review, fairness review, stakeholder review, traceability, governance, and communication clarity.",
+  "pareto_efficient_alternatives": "A,B,C,D,E,F,G",
+  "top_weighted_alternative": "F"
+}

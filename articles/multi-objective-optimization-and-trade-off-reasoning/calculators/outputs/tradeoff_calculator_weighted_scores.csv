@@ -1,0 +1,5 @@
+alternative,cost,risk,service_quality,weighted_score
+C,81,26,88,0.65
+A,72,34,82,0.584123
+B,64,41,76,0.514566
+D,58,52,69,0.35

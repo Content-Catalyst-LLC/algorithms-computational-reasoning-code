@@ -1,0 +1,11 @@
+{
+  "title": "Multi-Objective Optimization and Trade-Off Reasoning",
+  "slug": "multi-objective-optimization-and-trade-off-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "gradient-descent-and-optimization-in-machine-learning",
+  "next_article": "algorithmic-game-theory-and-strategic-behavior",
+  "seo_title": "Multi-Objective Optimization and Trade-Off Reasoning",
+  "focus_keyword": "multi-objective optimization and trade-off reasoning",
+  "github_folder": "articles/multi-objective-optimization-and-trade-off-reasoning",
+  "summary": "Executable companion materials for multi-objective optimization, Pareto dominance, Pareto frontiers, weighted sums, scalarization, sensitivity analysis, robustness, fairness review, stakeholder review, traceability, and trade-off governance."
+}

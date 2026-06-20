@@ -1,0 +1,30 @@
+[
+  {
+    "alternative": "C",
+    "cost": 81,
+    "risk": 26,
+    "service_quality": 88,
+    "weighted_score": 0.65
+  },
+  {
+    "alternative": "A",
+    "cost": 72,
+    "risk": 34,
+    "service_quality": 82,
+    "weighted_score": 0.584123
+  },
+  {
+    "alternative": "B",
+    "cost": 64,
+    "risk": 41,
+    "service_quality": 76,
+    "weighted_score": 0.514566
+  },
+  {
+    "alternative": "D",
+    "cost": 58,
+    "risk": 52,
+    "service_quality": 69,
+    "weighted_score": 0.35
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "article": "Multi-Objective Optimization and Trade-Off Reasoning",
+  "slug": "multi-objective-optimization-and-trade-off-reasoning",
+  "calculators": [
+    {
+      "name": "Trade-off weighted-score calculator",
+      "language": "python",
+      "path": "calculators/python/tradeoff_calculator.py",
+      "outputs": [
+        "calculators/outputs/tradeoff_calculator_weighted_scores.csv",
+        "calculators/outputs/tradeoff_calculator_weighted_scores.json"
+      ]
+    },
+    {
+      "name": "Trade-off weighted-score calculator",
+      "language": "r",
+      "path": "calculators/r/tradeoff_calculator.R",
+      "outputs": [
+        "calculators/outputs/r_tradeoff_calculator_weighted_scores.csv"
+      ]
+    }
+  ]
+}
