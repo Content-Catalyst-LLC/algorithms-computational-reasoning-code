@@ -1,0 +1,34 @@
+[
+  {
+    "attribute_rarity": 0.1,
+    "cell_count": 1280,
+    "group": "large_urban_region",
+    "reidentification_risk_score": 6.75,
+    "review_recommendation": "standard release controls",
+    "small_cell_risk": 0.05
+  },
+  {
+    "attribute_rarity": 0.22,
+    "cell_count": 185,
+    "group": "mid_sized_program",
+    "reidentification_risk_score": 10.95,
+    "review_recommendation": "standard release controls",
+    "small_cell_risk": 0.05
+  },
+  {
+    "attribute_rarity": 0.55,
+    "cell_count": 18,
+    "group": "small_rural_region",
+    "reidentification_risk_score": 61.5,
+    "review_recommendation": "review",
+    "small_cell_risk": 0.65
+  },
+  {
+    "attribute_rarity": 0.9,
+    "cell_count": 6,
+    "group": "rare_condition_group",
+    "reidentification_risk_score": 96.5,
+    "review_recommendation": "suppress or aggregate",
+    "small_cell_risk": 1.0
+  }
+]

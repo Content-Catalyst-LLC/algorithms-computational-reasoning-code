@@ -1,0 +1,16 @@
+{
+  "article": "Secure Computation and Privacy-Preserving Algorithms",
+  "slug": "secure-computation-and-privacy-preserving-algorithms",
+  "cards": [
+    "privacy_goals_and_threat_models",
+    "differential_privacy_and_budget",
+    "secure_aggregation_and_federated_learning",
+    "reidentification_and_output_leakage",
+    "privacy_governance_and_accountability"
+  ],
+  "outputs": [
+    "outputs/tables/privacy_preserving_governance_audit.csv",
+    "outputs/tables/privacy_budget_ledger.csv",
+    "outputs/tables/reidentification_risk_review.csv"
+  ]
+}

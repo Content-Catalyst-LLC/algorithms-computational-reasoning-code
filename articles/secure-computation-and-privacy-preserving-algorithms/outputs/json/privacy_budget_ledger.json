@@ -1,0 +1,26 @@
+[
+  {
+    "cumulative_epsilon": 0.25,
+    "epsilon": 0.25,
+    "purpose": "public reporting",
+    "release": "aggregate_count_by_region"
+  },
+  {
+    "cumulative_epsilon": 0.45,
+    "epsilon": 0.2,
+    "purpose": "equity analysis",
+    "release": "aggregate_count_by_age_band"
+  },
+  {
+    "cumulative_epsilon": 0.75,
+    "epsilon": 0.3,
+    "purpose": "operations planning",
+    "release": "aggregate_count_by_program"
+  },
+  {
+    "cumulative_epsilon": 1.0,
+    "epsilon": 0.25,
+    "purpose": "performance monitoring",
+    "release": "aggregate_outcome_rate"
+  }
+]

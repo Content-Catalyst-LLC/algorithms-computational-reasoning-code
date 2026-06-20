@@ -1,0 +1,26 @@
+[
+  {
+    "mask": 7,
+    "masked_value_sent": 25,
+    "participant": "site_a",
+    "private_value": 18
+  },
+  {
+    "mask": -3,
+    "masked_value_sent": 21,
+    "participant": "site_b",
+    "private_value": 24
+  },
+  {
+    "mask": -4,
+    "masked_value_sent": 11,
+    "participant": "site_c",
+    "private_value": 15
+  },
+  {
+    "mask": 0,
+    "masked_value_sent": 57,
+    "participant": "aggregate",
+    "private_value": 57
+  }
+]

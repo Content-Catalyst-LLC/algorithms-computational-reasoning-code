@@ -1,0 +1,2 @@
+"absolute_error","epsilon","interpretation","laplace_scale","noise","noisy_count","sensitivity","true_count"
+0.653826,0.5,"Lower epsilon increases the noise scale and can reduce precision while strengthening privacy.",2,-0.653826,247.346174,1,248

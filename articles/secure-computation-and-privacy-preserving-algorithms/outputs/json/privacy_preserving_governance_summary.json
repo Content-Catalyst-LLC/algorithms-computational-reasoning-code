@@ -1,0 +1,14 @@
+{
+  "average_privacy_governance_risk": 37.333,
+  "average_privacy_governance_score": 63.01,
+  "case_count": 4,
+  "dp_absolute_error": 0.653826,
+  "dp_noisy_count": 247.346174,
+  "federated_global_weight": 0.5048,
+  "final_cumulative_epsilon": 1.0,
+  "high_reidentification_risk_cells": 1,
+  "highest_risk_case": "Informal anonymized data release",
+  "highest_score_case": "Differentially private public statistics",
+  "interpretation": "Privacy-preserving computation depends on data minimization, threat models, method fit, parameter documentation, privacy budgets, secure aggregation, output review, re-identification analysis, utility validation, access controls, audit logs, incident response, and clear communication of limits.",
+  "secure_aggregate_value": 57
+}

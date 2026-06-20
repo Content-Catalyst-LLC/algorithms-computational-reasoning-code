@@ -1,0 +1,5 @@
+cumulative_epsilon,epsilon,purpose,release
+0.25,0.25,public reporting,aggregate_count_by_region
+0.45,0.2,equity analysis,aggregate_count_by_age_band
+0.75,0.3,operations planning,aggregate_count_by_program
+1.0,0.25,performance monitoring,aggregate_outcome_rate

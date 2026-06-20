@@ -1,0 +1,7 @@
+calculator,epsilon,global_weight,mask_sum,masked_sum,masked_values,noise,noisy_count,private_sum,scale,sensitivity,true_count
+dp_count,0.25,,,,,1.737523,249.737523,,4.0,1.0,248
+dp_count,0.5,,,,,0.868762,248.868762,,2.0,1.0,248
+dp_count,1.0,,,,,0.434381,248.434381,,1.0,1.0,248
+dp_count,2.0,,,,,0.21719,248.21719,,0.5,1.0,248
+secure_aggregate,,,0,57,"[25, 21, 11]",,,57,,,
+federated_average,,0.5048,,,,,,,,,

@@ -1,0 +1,5 @@
+mask,masked_value_sent,participant,private_value
+7,25,site_a,18
+-3,21,site_b,24
+-4,11,site_c,15
+0,57,aggregate,57

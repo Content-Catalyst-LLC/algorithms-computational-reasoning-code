@@ -1,0 +1,3 @@
+module secure_computation_privacy_preserving_algorithms
+
+go 1.21

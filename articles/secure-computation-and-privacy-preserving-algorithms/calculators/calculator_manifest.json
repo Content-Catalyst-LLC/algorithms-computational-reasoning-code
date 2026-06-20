@@ -1,0 +1,16 @@
+{
+  "article": "Secure Computation and Privacy-Preserving Algorithms",
+  "slug": "secure-computation-and-privacy-preserving-algorithms",
+  "calculators": [
+    {
+      "name": "Differential privacy count calculator",
+      "language": "python",
+      "path": "calculators/python/privacy_preserving_calculator.py"
+    },
+    {
+      "name": "Differential privacy count calculator",
+      "language": "r",
+      "path": "calculators/r/privacy_preserving_calculator.R"
+    }
+  ]
+}

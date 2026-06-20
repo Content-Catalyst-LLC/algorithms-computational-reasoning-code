@@ -1,0 +1,5 @@
+attribute_rarity,cell_count,group,reidentification_risk_score,review_recommendation,small_cell_risk
+0.1,1280,large_urban_region,6.75,standard release controls,0.05
+0.22,185,mid_sized_program,10.95,standard release controls,0.05
+0.55,18,small_rural_region,61.5,review,0.65
+0.9,6,rare_condition_group,96.5,suppress or aggregate,1.0
