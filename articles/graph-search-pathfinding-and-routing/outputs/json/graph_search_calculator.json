@@ -1,0 +1,19 @@
+{
+  "source": "A",
+  "target": "E",
+  "bfs_path": [
+    "A",
+    "C",
+    "E"
+  ],
+  "dijkstra": {
+    "path": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "cost": 5.5
+  }
+}

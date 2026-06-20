@@ -1,0 +1,16 @@
+actual_title: "Graph Search, Pathfinding, and Routing"
+suggested_seo_title: "Graph Search, Pathfinding, and Routing"
+focus_keyword: "graph search pathfinding and routing"
+slug: "graph-search-pathfinding-and-routing"
+series: "Algorithms & Computational Reasoning"
+section: "Search, Optimization, Constraint Reasoning, and Decision Rules"
+article_order:
+  previous: "constraint-satisfaction-and-feasible-solutions"
+  current: "graph-search-pathfinding-and-routing"
+  next: "ranking-filtering-and-recommendation"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/graph-search-pathfinding-and-routing"
+tags: [Graph Search, Pathfinding, Routing, Shortest Paths, Dijkstra, Breadth-First Search, Network Algorithms, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

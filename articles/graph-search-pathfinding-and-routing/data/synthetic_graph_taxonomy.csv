@@ -1,0 +1,11 @@
+term,category,definition,example
+graph,representation,set of nodes and edges,road network or dependency graph
+node,representation,entity state place document machine or concept,city server article task
+edge,representation,connection transition dependency link or route,road citation API dependency
+directed edge,structure,edge with one-way direction,one-way road or dependency
+weighted edge,cost,edge with cost score risk distance time or latency,travel time or bandwidth cost
+path,traversal,sequence of connected nodes,A to B to C
+reachability,property,whether a path exists from one node to another,can packet reach server
+frontier,search memory,nodes discovered but not yet expanded,BFS queue or Dijkstra priority queue
+explored set,search memory,nodes already visited or settled,closed set in graph search
+routing accountability,governance,ability to explain graph path costs constraints and alternatives,path trace and cost report

@@ -1,0 +1,8 @@
+edges = Dict("A" => [("B",2.0),("C",5.0)], "B" => [("C",1.0),("D",4.0)], "C" => [("D",1.5),("E",3.0)], "D" => [("E",1.0)], "E" => [])
+edge_count(g) = sum(length(v) for v in values(g))
+density(g) = edge_count(g) / (length(keys(g)) * (length(keys(g))-1))
+println("test_name,value")
+println("node_count,$(length(keys(edges)))")
+println("edge_count,$(edge_count(edges))")
+println("density,$(density(edges))")
+println("manual_shortest_path_cost,5.5")

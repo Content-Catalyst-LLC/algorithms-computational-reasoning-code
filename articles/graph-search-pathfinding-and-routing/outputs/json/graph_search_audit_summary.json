@@ -1,0 +1,9 @@
+[
+  {
+    "average_graph_search_risk": 35.2,
+    "average_graph_search_score": 65.272,
+    "case_count": 5,
+    "highest_risk_case": "Opaque platform discovery path",
+    "highest_score_case": "Network packet routing"
+  }
+]

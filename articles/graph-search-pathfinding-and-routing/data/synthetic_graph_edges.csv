@@ -1,0 +1,8 @@
+source,target,weight,status,edge_type,risk_score,notes
+A,B,2.0,open,road,0.10,low-cost link
+A,C,5.0,open,road,0.20,longer direct link
+B,C,1.0,open,road,0.15,connector
+B,D,4.0,open,road,0.25,moderate cost route
+C,D,1.5,open,road,0.12,short connector
+C,E,3.0,open,road,0.18,alternative destination path
+D,E,1.0,open,road,0.08,final low-cost link

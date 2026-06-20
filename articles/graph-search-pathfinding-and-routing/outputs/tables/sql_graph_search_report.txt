@@ -1,0 +1,18 @@
+case_name                       graph_search_score
+------------------------------  ------------------
+Network packet routing          78.46             
+Road routing audit              76.72             
+Knowledge graph retrieval       65.32             
+Opaque platform discovery path  29.6              
+source  target  weight  risk_score
+------  ------  ------  ----------
+B       C       1.0     0.15      
+D       E       1.0     0.08      
+C       D       1.5     0.12      
+A       B       2.0     0.1       
+C       E       3.0     0.18      
+B       D       4.0     0.25      
+A       C       5.0     0.2       
+node_count
+----------
+5         

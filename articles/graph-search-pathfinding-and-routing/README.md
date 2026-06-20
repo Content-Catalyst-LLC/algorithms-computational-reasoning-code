@@ -1,37 +1,14 @@
-# Graph Search, Pathfinding, and Routing (planned)
+# Graph Search, Pathfinding, and Routing
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+Companion code and reproducible workflows for **Graph Search, Pathfinding, and Routing**.
 
-## Purpose
+This scaffold covers graphs, nodes, edges, weighted paths, reachability, breadth-first search, depth-first search, Dijkstra-style shortest paths, heuristic routing, graph density, failure handling, traceability, and governance.
 
-This folder will hold computational companion materials for the planned article:
-**Graph Search, Pathfinding, and Routing**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.
