@@ -1,0 +1,4 @@
+"FN","FP","TN","TP","accuracy","error_cost","false_negative_cost","false_negative_rate","false_positive_cost","false_positive_rate","precision","recall","specificity","threshold"
+1,4,1,4,0.5,7,3,0.2,1,0.8,0.5,0.8,0.2,0.3
+2,2,3,3,0.6,8,3,0.4,1,0.4,0.6,0.6,0.6,0.5
+3,1,4,2,0.6,10,3,0.6,1,0.2,0.666667,0.4,0.8,0.7

@@ -1,0 +1,25 @@
+title: "Decision Rules, Thresholds, and Classification"
+slug: "decision-rules-thresholds-and-classification"
+series: "Algorithms & Computational Reasoning"
+previous_article:
+  title: "Ranking, Filtering, and Recommendation"
+  slug: "ranking-filtering-and-recommendation"
+next_article:
+  title: "Linear Programming and Convex Optimization"
+  slug: "linear-programming-and-convex-optimization"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code"
+article_folder: "articles/decision-rules-thresholds-and-classification"
+primary_concepts:
+  - decision rules
+  - thresholds
+  - classification
+  - score interpretation
+  - confusion matrices
+  - precision
+  - recall
+  - specificity
+  - calibration
+  - fairness review
+  - human review
+  - appeals
+  - governance

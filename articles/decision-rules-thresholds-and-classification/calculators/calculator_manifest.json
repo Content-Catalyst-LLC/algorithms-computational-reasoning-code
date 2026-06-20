@@ -1,0 +1,15 @@
+{
+  "article": "Decision Rules, Thresholds, and Classification",
+  "calculators": [
+    {
+      "description": "Classify one score using a selected threshold.",
+      "name": "Threshold classifier calculator",
+      "path": "calculators/threshold_classifier_calculator.py"
+    },
+    {
+      "description": "Compute TP, FP, TN, FN, precision, recall, and specificity for a score table.",
+      "name": "Confusion matrix calculator",
+      "path": "calculators/confusion_matrix_calculator.py"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "average_classification_governance_risk": 38.909,
+  "average_classification_governance_score": 61.175,
+  "case_count": 4,
+  "highest_risk_case": "Opaque eligibility classifier",
+  "highest_score_case": "Medical screening threshold",
+  "interpretation": "Classification governance depends on rule documentation, threshold rationale, feature documentation, score interpretability, calibration review, error-cost review, fairness review, human review paths, appeal paths, traceability, governance review, and communication clarity."
+}

@@ -1,0 +1,18 @@
+{
+  "cards": [
+    {
+      "summary": "Connects conditions to labels or actions.",
+      "title": "Decision rule"
+    },
+    {
+      "summary": "Defines a cutoff between outcomes.",
+      "title": "Threshold"
+    },
+    {
+      "summary": "Reviews metrics, errors, fairness, traceability, and governance.",
+      "title": "Classification audit"
+    }
+  ],
+  "slug": "decision-rules-thresholds-and-classification",
+  "title": "Decision Rules, Thresholds, and Classification"
+}

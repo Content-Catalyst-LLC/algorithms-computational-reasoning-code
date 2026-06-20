@@ -1,0 +1,11 @@
+case_id,score,actual,group,notes
+A,0.92,1,G1,clear positive
+B,0.81,1,G1,likely positive
+C,0.77,0,G2,false alarm candidate
+D,0.66,1,G2,borderline positive
+E,0.58,0,G1,borderline negative
+F,0.49,1,G2,miss candidate
+G,0.42,0,G1,likely negative
+H,0.31,0,G2,clear negative
+I,0.24,0,G1,clear negative
+J,0.18,1,G2,missed positive

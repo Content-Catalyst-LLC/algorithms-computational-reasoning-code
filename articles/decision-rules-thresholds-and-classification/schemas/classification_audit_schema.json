@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "case_name": {
+      "type": "string"
+    },
+    "classification_governance_risk": {
+      "type": "number"
+    },
+    "classification_governance_score": {
+      "type": "number"
+    },
+    "diagnostic": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "case_name",
+    "classification_governance_score",
+    "classification_governance_risk",
+    "diagnostic"
+  ],
+  "title": "Decision Rules Thresholds Classification Audit Row",
+  "type": "object"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "FN": 1,
+    "FP": 4,
+    "TN": 1,
+    "TP": 4,
+    "accuracy": 0.5,
+    "error_cost": 7.0,
+    "false_negative_cost": 3.0,
+    "false_negative_rate": 0.2,
+    "false_positive_cost": 1.0,
+    "false_positive_rate": 0.8,
+    "precision": 0.5,
+    "recall": 0.8,
+    "specificity": 0.2,
+    "threshold": 0.3
+  },
+  {
+    "FN": 2,
+    "FP": 2,
+    "TN": 3,
+    "TP": 3,
+    "accuracy": 0.6,
+    "error_cost": 8.0,
+    "false_negative_cost": 3.0,
+    "false_negative_rate": 0.4,
+    "false_positive_cost": 1.0,
+    "false_positive_rate": 0.4,
+    "precision": 0.6,
+    "recall": 0.6,
+    "specificity": 0.6,
+    "threshold": 0.5
+  },
+  {
+    "FN": 3,
+    "FP": 1,
+    "TN": 4,
+    "TP": 2,
+    "accuracy": 0.6,
+    "error_cost": 10.0,
+    "false_negative_cost": 3.0,
+    "false_negative_rate": 0.6,
+    "false_positive_cost": 1.0,
+    "false_positive_rate": 0.2,
+    "precision": 0.666667,
+    "recall": 0.4,
+    "specificity": 0.8,
+    "threshold": 0.7
+  }
+]
