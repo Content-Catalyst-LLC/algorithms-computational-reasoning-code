@@ -1,0 +1,11 @@
+case_name                       optimization_score
+------------------------------  ------------------
+Resource allocation             79.14             
+Route optimization              76.6              
+Machine learning training       64.28             
+Opaque engagement maximization  32.64             
+case_name               linear_objective  constraint_margin  penalty_objective  normalized_tradeoff_score
+----------------------  ----------------  -----------------  -----------------  -------------------------
+allocation_example      87.5              13.5               62.0               0.7605                   
+routing_example         58.0              13.0               67.0               0.689                    
+model_training_example  0.496             0.06               0.37               0.7435                   

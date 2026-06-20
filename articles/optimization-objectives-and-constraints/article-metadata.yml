@@ -1,0 +1,16 @@
+actual_title: "Optimization, Objectives, and Constraints"
+suggested_seo_title: "Optimization, Objectives, and Constraints"
+focus_keyword: "optimization objectives and constraints"
+slug: "optimization-objectives-and-constraints"
+series: "Algorithms & Computational Reasoning"
+section: "Search, Optimization, Constraint Reasoning, and Decision Rules"
+article_order:
+  previous: "search-spaces-and-computational-exploration"
+  current: "optimization-objectives-and-constraints"
+  next: "constraint-satisfaction-and-feasible-solutions"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/optimization-objectives-and-constraints"
+tags: [Optimization, Objective Functions, Constraints, Feasible Sets, Trade-Offs, Linear Programming, Robustness, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

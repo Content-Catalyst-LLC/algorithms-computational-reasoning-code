@@ -1,0 +1,5 @@
+case_name,coefficients,decision_values,limit,observed_value,base_objective,penalty,penalty_weight,cost_score,quality_score,risk_score
+allocation_example,"4.0;2.0;1.5","10.0;20.0;5.0",100.0,86.5,42.0,8.0,2.5,0.30,0.82,0.25
+routing_example,"1.2;0.8;3.0","20.0;35.0;2.0",75.0,62.0,58.0,5.0,1.8,0.40,0.76,0.30
+model_training_example,"0.6;0.3;0.1","0.72;0.18;0.10",1.0,0.94,0.28,0.12,0.75,0.25,0.84,0.42
+public_policy_example,"2.5;3.5;1.0","12.0;9.0;6.0",80.0,78.0,50.0,10.0,3.0,0.45,0.78,0.20

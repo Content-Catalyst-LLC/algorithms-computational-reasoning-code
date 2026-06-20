@@ -1,0 +1,2 @@
+example,coefficients,decision_values,objective_value
+linear_objective,"[4.0, 2.0, 1.5]","[10.0, 20.0, 5.0]",87.5

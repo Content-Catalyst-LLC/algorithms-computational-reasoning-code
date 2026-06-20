@@ -1,0 +1,5 @@
+test_name value
+linear_objective     87.500
+constraint_margin     13.500
+penalty_objective     62.000
+normalized_tradeoff_score   0.760500

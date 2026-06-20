@@ -1,0 +1,5 @@
+test_name,value
+linear_objective,87.5
+constraint_margin,13.5
+penalty_objective,62
+normalized_tradeoff_score,0.7605

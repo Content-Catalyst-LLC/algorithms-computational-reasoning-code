@@ -1,0 +1,5 @@
+"case_name","coefficients","decision_values","limit","observed_value","base_objective","penalty","penalty_weight","cost_score","quality_score","risk_score","linear_objective","constraint_margin","penalty_objective","normalized_tradeoff_score"
+"allocation_example","4.0;2.0;1.5","10.0;20.0;5.0",100,86.5,42,8,2.5,0.3,0.82,0.25,87.5,13.5,62,0.7605
+"routing_example","1.2;0.8;3.0","20.0;35.0;2.0",75,62,58,5,1.8,0.4,0.76,0.3,58,13,67,0.689
+"model_training_example","0.6;0.3;0.1","0.72;0.18;0.10",1,0.94,0.28,0.12,0.75,0.25,0.84,0.42,0.496,0.06,0.37,0.7435
+"public_policy_example","2.5;3.5;1.0","12.0;9.0;6.0",80,78,50,10,3,0.45,0.78,0.2,67.5,2,80,0.7045

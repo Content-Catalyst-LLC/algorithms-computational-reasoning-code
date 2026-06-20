@@ -1,0 +1,10 @@
+#lang racket
+(define (linear-objective c x) (apply + (map * c x)))
+(define (constraint-margin limit observed) (- limit observed))
+(define (penalty-objective base penalty weight) (+ base (* weight penalty)))
+(define (tradeoff cost quality risk) (+ (* .35 (- 1 cost)) (* .40 quality) (* .25 (- 1 risk))))
+(displayln "test_name,value")
+(displayln (format "linear_objective,~a" (linear-objective '(4.0 2.0 1.5) '(10.0 20.0 5.0))))
+(displayln (format "constraint_margin,~a" (constraint-margin 100.0 86.5)))
+(displayln (format "penalty_objective,~a" (penalty-objective 42.0 8.0 2.5)))
+(displayln (format "normalized_tradeoff_score,~a" (tradeoff 0.30 0.82 0.25)))

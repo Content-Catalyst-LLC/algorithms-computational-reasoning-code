@@ -1,0 +1,5 @@
+[package]
+name = "optimization-objectives-and-constraints"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

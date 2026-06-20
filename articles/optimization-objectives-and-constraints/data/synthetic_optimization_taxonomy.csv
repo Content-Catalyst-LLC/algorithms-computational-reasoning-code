@@ -1,0 +1,11 @@
+term,category,definition,example
+objective function,purpose,mathematical expression of what is minimized or maximized,minimize cost or maximize coverage
+decision variable,choice,quantity the optimization process can choose,resource allocation to each region
+constraint,boundary,rule restricting allowable solutions,budget cannot exceed limit
+feasible set,representation,set of all solutions satisfying constraints,all schedules obeying coverage and labor rules
+penalty function,soft constraint,additional cost for undesirable behavior,penalty for late delivery
+regularization,model control,penalty discouraging excessive complexity,L2 penalty in model training
+local optimum,landscape,solution better than nearby alternatives but not necessarily best overall,local minimum in nonconvex surface
+global optimum,landscape,best solution across feasible set,minimum cost over all feasible allocations
+sensitivity,review,change in result when assumptions change,demand forecast changed by ten percent
+robustness,review,performance across uncertainty and disturbance,solution remains feasible under demand variation

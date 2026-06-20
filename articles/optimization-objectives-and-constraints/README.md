@@ -1,37 +1,14 @@
-# Optimization, Objectives, and Constraints (planned)
+# Optimization, Objectives, and Constraints
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+Companion code and reproducible workflows for **Optimization, Objectives, and Constraints**.
 
-## Purpose
+This scaffold covers objective functions, feasible sets, constraints, decision variables, cost functions, utility functions, penalties, regularization, trade-offs, sensitivity, robustness, fairness review, traceability, and governance.
 
-This folder will hold computational companion materials for the planned article:
-**Optimization, Objectives, and Constraints**.
+Run:
 
-## Standard Folder Layout
+```bash
+make smoke
+make all
+```
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
-
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Synthetic teaching data only.
