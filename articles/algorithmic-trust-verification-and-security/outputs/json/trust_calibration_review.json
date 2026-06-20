@@ -1,0 +1,34 @@
+[
+  {
+    "calibration_direction": "underreliance",
+    "calibration_gap": 0.14,
+    "human_reliance": 0.62,
+    "review_recommendation": "monitor",
+    "system_reliability": 0.76,
+    "user_group": "expert reviewers"
+  },
+  {
+    "calibration_direction": "overreliance",
+    "calibration_gap": 0.16,
+    "human_reliance": 0.88,
+    "review_recommendation": "monitor",
+    "system_reliability": 0.72,
+    "user_group": "frontline operators"
+  },
+  {
+    "calibration_direction": "underreliance",
+    "calibration_gap": 0.26,
+    "human_reliance": 0.42,
+    "review_recommendation": "intervention needed",
+    "system_reliability": 0.68,
+    "user_group": "new users"
+  },
+  {
+    "calibration_direction": "overreliance",
+    "calibration_gap": 0.1,
+    "human_reliance": 0.8,
+    "review_recommendation": "monitor",
+    "system_reliability": 0.7,
+    "user_group": "managers"
+  }
+]

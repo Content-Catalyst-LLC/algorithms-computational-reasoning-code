@@ -1,0 +1,52 @@
+[
+  {
+    "control_strength": 0.62,
+    "initial_impact": 0.75,
+    "initial_likelihood": 0.7,
+    "initial_risk_score": 52.5,
+    "residual_risk_score": 19.95,
+    "review_priority": "medium",
+    "risk": "distribution shift",
+    "risk_reduction": 32.55
+  },
+  {
+    "control_strength": 0.7,
+    "initial_impact": 0.9,
+    "initial_likelihood": 0.45,
+    "initial_risk_score": 40.5,
+    "residual_risk_score": 12.15,
+    "review_priority": "medium",
+    "risk": "dependency compromise",
+    "risk_reduction": 28.35
+  },
+  {
+    "control_strength": 0.52,
+    "initial_impact": 0.65,
+    "initial_likelihood": 0.5,
+    "initial_risk_score": 32.5,
+    "residual_risk_score": 15.6,
+    "review_priority": "medium",
+    "risk": "audit log incompleteness",
+    "risk_reduction": 16.9
+  },
+  {
+    "control_strength": 0.48,
+    "initial_impact": 0.72,
+    "initial_likelihood": 0.62,
+    "initial_risk_score": 44.64,
+    "residual_risk_score": 23.213,
+    "review_priority": "medium",
+    "risk": "automation overreliance",
+    "risk_reduction": 21.427
+  },
+  {
+    "control_strength": 0.78,
+    "initial_impact": 0.88,
+    "initial_likelihood": 0.32,
+    "initial_risk_score": 28.16,
+    "residual_risk_score": 6.195,
+    "review_priority": "standard",
+    "risk": "unauthorized model artifact change",
+    "risk_reduction": 21.965
+  }
+]

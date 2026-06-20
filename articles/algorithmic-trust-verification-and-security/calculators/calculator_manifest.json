@@ -1,0 +1,16 @@
+{
+  "article": "Algorithmic Trust, Verification, and Security",
+  "slug": "algorithmic-trust-verification-and-security",
+  "calculators": [
+    {
+      "name": "algorithmic_trust_calculator_python",
+      "path": "calculators/python/algorithmic_trust_calculator.py",
+      "outputs": ["calculators/outputs/algorithmic_trust_calculator_python.json"]
+    },
+    {
+      "name": "algorithmic_trust_calculator_r",
+      "path": "calculators/r/algorithmic_trust_calculator.R",
+      "outputs": ["calculators/outputs/algorithmic_trust_calculator_r.csv"]
+    }
+  ]
+}

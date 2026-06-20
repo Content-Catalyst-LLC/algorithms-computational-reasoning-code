@@ -1,0 +1,5 @@
+calibration_direction,calibration_gap,human_reliance,review_recommendation,system_reliability,user_group
+underreliance,0.14,0.62,monitor,0.76,expert reviewers
+overreliance,0.16,0.88,monitor,0.72,frontline operators
+underreliance,0.26,0.42,intervention needed,0.68,new users
+overreliance,0.1,0.8,monitor,0.7,managers

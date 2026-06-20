@@ -1,0 +1,7 @@
+average_coverage,evidence,governance,security,traceability,validation,verification
+51.0,formal specification,0.45,0.3,0.55,0.35,0.9
+53.4,domain validation report,0.65,0.25,0.55,0.92,0.3
+59.8,threat model and control map,0.72,0.92,0.6,0.4,0.35
+66.4,signed artifact manifest,0.7,0.72,0.92,0.2,0.78
+68.4,monitoring and incident log,0.88,0.68,0.86,0.55,0.45
+47.4,user guidance and limitations note,0.82,0.3,0.35,0.65,0.25

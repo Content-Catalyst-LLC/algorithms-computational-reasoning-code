@@ -1,0 +1,56 @@
+[
+  {
+    "average_coverage": 51.0,
+    "evidence": "formal specification",
+    "governance": 0.45,
+    "security": 0.3,
+    "traceability": 0.55,
+    "validation": 0.35,
+    "verification": 0.9
+  },
+  {
+    "average_coverage": 53.4,
+    "evidence": "domain validation report",
+    "governance": 0.65,
+    "security": 0.25,
+    "traceability": 0.55,
+    "validation": 0.92,
+    "verification": 0.3
+  },
+  {
+    "average_coverage": 59.8,
+    "evidence": "threat model and control map",
+    "governance": 0.72,
+    "security": 0.92,
+    "traceability": 0.6,
+    "validation": 0.4,
+    "verification": 0.35
+  },
+  {
+    "average_coverage": 66.4,
+    "evidence": "signed artifact manifest",
+    "governance": 0.7,
+    "security": 0.72,
+    "traceability": 0.92,
+    "validation": 0.2,
+    "verification": 0.78
+  },
+  {
+    "average_coverage": 68.4,
+    "evidence": "monitoring and incident log",
+    "governance": 0.88,
+    "security": 0.68,
+    "traceability": 0.86,
+    "validation": 0.55,
+    "verification": 0.45
+  },
+  {
+    "average_coverage": 47.4,
+    "evidence": "user guidance and limitations note",
+    "governance": 0.82,
+    "security": 0.3,
+    "traceability": 0.35,
+    "validation": 0.65,
+    "verification": 0.25
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "article": "Algorithmic Trust, Verification, and Security",
+  "slug": "algorithmic-trust-verification-and-security",
+  "cards": [
+    "trust_claims_and_evidence",
+    "verification_validation_and_assurance",
+    "security_and_integrity_controls",
+    "provenance_auditability_and_monitoring",
+    "trust_calibration_and_governance"
+  ],
+  "outputs": [
+    "outputs/tables/algorithmic_trust_audit.csv",
+    "outputs/tables/trust_evidence_coverage_matrix.csv",
+    "outputs/tables/residual_risk_register.csv",
+    "outputs/tables/trust_calibration_review.csv"
+  ]
+}

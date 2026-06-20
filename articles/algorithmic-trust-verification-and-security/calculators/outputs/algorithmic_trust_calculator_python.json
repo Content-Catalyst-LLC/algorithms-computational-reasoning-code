@@ -1,0 +1,6 @@
+{
+  "trust_quality_score": 85.74,
+  "residual_risk_score": 19.95,
+  "calibration_gap": 0.16,
+  "interpretation": "Trust quality combines verification, validation, security, provenance, monitoring, and governance; residual risk and calibration gaps still require review."
+}

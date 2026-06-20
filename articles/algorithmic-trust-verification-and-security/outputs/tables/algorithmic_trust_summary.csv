@@ -1,0 +1,2 @@
+average_evidence_coverage,average_residual_trust_risk,average_trust_quality_score,case_count,high_priority_residual_risks,highest_residual_risk_case,highest_trust_quality_case,interpretation,trust_calibration_interventions
+57.733,38.864,61.31,4,0,Unmonitored automated scoring script,Signed release and model registry,"Algorithmic trust depends on verification, validation, security, provenance, auditability, monitoring, incident response, robustness testing, trust calibration, governance ownership, and clear communication of limits.",1
