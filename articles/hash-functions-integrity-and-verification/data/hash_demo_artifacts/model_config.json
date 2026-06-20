@@ -1,0 +1,5 @@
+{
+  "model": "demo",
+  "threshold": 0.72,
+  "seed": 1234
+}

@@ -1,0 +1,13 @@
+{
+  "average_hash_verification_risk": 45.273,
+  "average_hash_verification_score": 54.995,
+  "case_count": 4,
+  "fully_verified_artifact_count": 4,
+  "highest_risk_case": "Decorative hash publication",
+  "highest_score_case": "Signed software release manifest",
+  "hmac_failure_count": 1,
+  "interpretation": "Hash verification depends on current algorithms, protected reference values, signed manifests, automation, mismatch escalation, provenance metadata, legacy review, key or signature binding, audit logging, and governance.",
+  "manifest_artifact_count": 4,
+  "merkle_root": "7d529905bad9e7f6cf50e47a4020e58f40a66fc518b49024f28de959408c56c4",
+  "tamper_detected_count": 1
+}

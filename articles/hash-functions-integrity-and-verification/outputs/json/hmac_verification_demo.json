@@ -1,0 +1,14 @@
+[
+  {
+    "interpretation": "Original message verifies with the keyed digest.",
+    "message_case": "original",
+    "tag_prefix": "1d32364e8b6ced05",
+    "verified": true
+  },
+  {
+    "interpretation": "Altered message fails verification with the original keyed digest.",
+    "message_case": "altered",
+    "tag_prefix": "1d32364e8b6ced05",
+    "verified": false
+  }
+]

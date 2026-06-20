@@ -1,0 +1,11 @@
+{
+  "title": "Hash Functions, Integrity, and Verification",
+  "slug": "hash-functions-integrity-and-verification",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "cryptographic-algorithms-and-secure-communication",
+  "next_article": "secure-computation-and-privacy-preserving-algorithms",
+  "seo_title": "Hash Functions, Integrity, and Verification",
+  "focus_keyword": "hash functions integrity and verification",
+  "github_folder": "articles/hash-functions-integrity-and-verification",
+  "summary": "Executable companion materials for hash functions, integrity verification, cryptographic hashes, digests, fingerprints, checksums, collision resistance, preimage resistance, tamper detection, signed manifests, HMAC, Merkle trees, content addressing, provenance records, reproducible workflows, password-hashing concepts, audit trails, hash governance, traceability, and accountability."
+}

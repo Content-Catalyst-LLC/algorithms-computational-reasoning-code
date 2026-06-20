@@ -1,0 +1,9 @@
+Hash Functions, Integrity, and Verification CLI Summary
+Cases: 4
+Average score: 54.995
+Average risk: 45.273
+Highest score case: Signed software release manifest
+Highest risk case: Decorative hash publication
+Manifest artifacts: 4
+Tamper detected count: 1
+Merkle root prefix: 7d529905bad9e7f6cf50e47a4020e58f

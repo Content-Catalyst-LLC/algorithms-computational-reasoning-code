@@ -1,0 +1,3 @@
+case,algorithm,digest_prefix,matches_original,text_length
+original,sha256,df60eb575308915e,True,26
+altered,sha256,930b69bec18bebcc,False,27

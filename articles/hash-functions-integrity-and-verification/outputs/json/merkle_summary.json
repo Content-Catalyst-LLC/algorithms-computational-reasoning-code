@@ -1,0 +1,6 @@
+{
+  "hash_algorithm": "sha256",
+  "interpretation": "The Merkle root commits to the ordered set of artifact digests in this synthetic manifest.",
+  "leaf_count": 4,
+  "merkle_root": "7d529905bad9e7f6cf50e47a4020e58f40a66fc518b49024f28de959408c56c4"
+}

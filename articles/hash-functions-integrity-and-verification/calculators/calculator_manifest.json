@@ -1,0 +1,18 @@
+{
+  "article": "Hash Functions, Integrity, and Verification",
+  "slug": "hash-functions-integrity-and-verification",
+  "calculators": [
+    {
+      "name": "Hash verification calculator",
+      "language": "python",
+      "path": "calculators/python/hash_verification_calculator.py",
+      "outputs": ["calculators/outputs/hash_verification_calculator.csv"]
+    },
+    {
+      "name": "R teaching checksum calculator",
+      "language": "r",
+      "path": "calculators/r/hash_verification_calculator.R",
+      "outputs": ["calculators/outputs/r_hash_verification_calculator.csv"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "file_name": "analysis_report.csv",
+    "relative_path": "data/hash_demo_artifacts/analysis_report.csv",
+    "sha256": "4e9ce92e95aa24e171471b9b8cd3d7cab2cbb1b2426efd44cad08402a65f77ab",
+    "sha3_256": "5f3ddb066c41b67757868607036e69de8eed0334d1b15847eafb6678b45af9b2",
+    "size_bytes": 55
+  },
+  {
+    "file_name": "governance_note.md",
+    "relative_path": "data/hash_demo_artifacts/governance_note.md",
+    "sha256": "11f442b08cbb0a30966755cb62b3a676f3e3bc7b1f2b911bb034eb9fb503bf0e",
+    "sha3_256": "f6c42fde703719cd42c079bcd04c11c7346bbfd1bfeac2db44d7790eafc9f024",
+    "size_bytes": 74
+  },
+  {
+    "file_name": "model_config.json",
+    "relative_path": "data/hash_demo_artifacts/model_config.json",
+    "sha256": "789f407188a1cbcf36a3ad17f1bfc399de96e49ac4eedb8700b7e1f48542b86a",
+    "sha3_256": "c1ee6a1e4d447fec1395f00e0f9f482b939b0a8174ecfcea486c75f7dd13b203",
+    "size_bytes": 59
+  },
+  {
+    "file_name": "release_manifest.txt",
+    "relative_path": "data/hash_demo_artifacts/release_manifest.txt",
+    "sha256": "844d1952ff0451655fe2977d14d26b4805b41ea305721ca4bb888e4bc002105d",
+    "sha3_256": "ac574891c9e525e7c30d8c5662ff581c05b109946ef81197ad419900bcc2b006",
+    "size_bytes": 53
+  }
+]

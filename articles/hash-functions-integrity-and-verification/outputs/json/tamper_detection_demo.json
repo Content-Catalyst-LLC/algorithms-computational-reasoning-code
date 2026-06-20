@@ -1,0 +1,10 @@
+[
+  {
+    "expected_sha256": "4e9ce92e95aa24e171471b9b8cd3d7cab2cbb1b2426efd44cad08402a65f77ab",
+    "interpretation": "The tampered file fails verification against the original reference digest.",
+    "original_file": "analysis_report.csv",
+    "tampered_file": "analysis_report_tampered.csv",
+    "tampered_sha256": "8ebe01c9c0f0ea9bb033772e6904ec46675b142b27457ab0f9acf9b06b8639e0",
+    "verified_against_original": false
+  }
+]
