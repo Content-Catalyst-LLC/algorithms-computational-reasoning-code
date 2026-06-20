@@ -1,0 +1,17 @@
+actual_title: "Ranking, Filtering, and Recommendation"
+suggested_seo_title: "Ranking, Filtering, and Recommendation"
+focus_keyword: "ranking filtering and recommendation"
+slug: "ranking-filtering-and-recommendation"
+series: "Algorithms & Computational Reasoning"
+section: "Search, Optimization, Constraint Reasoning, and Decision Rules"
+article_order:
+  previous: "graph-search-pathfinding-and-routing"
+  current: "ranking-filtering-and-recommendation"
+  next: "decision-rules-thresholds-and-classification"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/ranking-filtering-and-recommendation"
+tags: [Ranking, Filtering, Recommendation Systems, Relevance, Collaborative Filtering, Content-Based Recommendation, Feedback Loops, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_layer: true
+excerpt_139_words: "Ranking, filtering, and recommendation explain how computational systems decide what to show, hide, prioritize, suppress, retrieve, sort, suggest, or promote. Once information becomes abundant, algorithms are used not only to find possible items, but to order them according to relevance, quality, similarity, authority, preference, popularity, predicted usefulness, institutional policy, or commercial value. Ranking turns candidates into an ordered list. Filtering removes candidates that do not meet rules or thresholds. Recommendation suggests items, people, documents, products, courses, videos, routes, actions, or decisions based on signals, relationships, behavior, metadata, content, context, or predicted fit. Responsible systems document candidate sources, filters, signals, scores, personalization, diversity goals, feedback loops, exposure effects, fairness review, traceability, governance, and representation risk so visibility remains explainable, contestable, accountable, and aligned with purpose."

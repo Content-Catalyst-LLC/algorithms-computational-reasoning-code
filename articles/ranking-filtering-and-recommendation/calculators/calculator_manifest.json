@@ -1,0 +1,18 @@
+{
+  "article": "Ranking, Filtering, and Recommendation",
+  "slug": "ranking-filtering-and-recommendation",
+  "calculators": [
+    {
+      "name": "ranking_score_calculator",
+      "language": "python",
+      "path": "python/calculators/ranking_score_calculator.py",
+      "purpose": "Compute a transparent ranking score from text match, quality, freshness, diversity bonus, and risk penalty."
+    },
+    {
+      "name": "similarity_recommendation_calculator",
+      "language": "python",
+      "path": "python/calculators/similarity_recommendation_calculator.py",
+      "purpose": "Compute cosine similarity for content-based recommendation examples."
+    }
+  ]
+}

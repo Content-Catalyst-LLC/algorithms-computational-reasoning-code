@@ -1,0 +1,6 @@
+python audit workflow: skipped_or_failed
+python cli workflow: skipped_or_failed
+calculator smoke tests: pass
+python tests: skipped_or_failed
+R summary workflow: pass
+sqlite syntax: pass

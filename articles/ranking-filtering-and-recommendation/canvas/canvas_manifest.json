@@ -1,0 +1,13 @@
+{
+  "article": "Ranking, Filtering, and Recommendation",
+  "slug": "ranking-filtering-and-recommendation",
+  "cards": [
+    "candidate_generation",
+    "filtering_rules",
+    "ranking_signals",
+    "recommendation_methods",
+    "feedback_loops",
+    "ranking_governance"
+  ],
+  "synthetic_data_only": true
+}

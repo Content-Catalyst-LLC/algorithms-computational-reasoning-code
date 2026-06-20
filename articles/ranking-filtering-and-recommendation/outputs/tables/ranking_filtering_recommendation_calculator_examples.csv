@@ -1,0 +1,2 @@
+example,left_vector,right_vector,similarity
+cosine_similarity,"[0.8, 0.2, 0.4]","[0.7, 0.3, 0.5]",0.982054

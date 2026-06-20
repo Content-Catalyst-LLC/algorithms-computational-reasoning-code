@@ -1,0 +1,9 @@
+signal,meaning,governance_question
+text_match,How closely candidate text matches query,Does lexical match crowd out semantic relevance?
+quality,Editorial or technical quality,How is quality defined and reviewed?
+freshness,How recent the candidate is,Does recency bury durable knowledge?
+diversity_bonus,Value added by variety and coverage,How is diversity defined?
+risk_penalty,Penalty for policy or reliability risk,Is risk documented and contestable?
+popularity,Prior visibility or engagement,Does popularity create feedback loops?
+personalization,Fit to user context or history,Does personalization support agency?
+authority,Source reputation or network authority,Does authority preserve hierarchy?

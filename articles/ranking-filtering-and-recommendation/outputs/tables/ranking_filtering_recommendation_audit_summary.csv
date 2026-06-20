@@ -1,0 +1,2 @@
+case_count,average_ranking_system_score,average_ranking_system_risk,highest_score_case,highest_risk_case,interpretation
+4,57.885,42.55,Research library search,Opaque attention feed,"Ranking-system reliability depends on candidate transparency, filter documentation, signal documentation, score traceability, alternative visibility, diversity review, feedback-loop awareness, personalization clarity, fairness review, governance review, and communication clarity."

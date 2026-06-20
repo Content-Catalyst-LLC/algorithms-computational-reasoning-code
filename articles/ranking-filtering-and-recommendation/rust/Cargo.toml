@@ -1,0 +1,4 @@
+[package]
+name = "ranking_filtering_recommendation"
+version = "0.1.0"
+edition = "2021"

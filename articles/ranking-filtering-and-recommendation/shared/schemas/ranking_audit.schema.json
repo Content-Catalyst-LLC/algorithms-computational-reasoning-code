@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RankingFilteringRecommendationAudit",
+  "type": "object",
+  "required": ["case_name", "ranking_system_score", "ranking_system_risk", "diagnostic"],
+  "properties": {
+    "case_name": {"type": "string"},
+    "system_context": {"type": "string"},
+    "ranking_goal": {"type": "string"},
+    "ranking_system_score": {"type": "number", "minimum": 0, "maximum": 100},
+    "ranking_system_risk": {"type": "number", "minimum": 0, "maximum": 100},
+    "diagnostic": {"type": "string"}
+  }
+}

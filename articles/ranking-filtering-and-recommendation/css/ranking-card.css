@@ -1,0 +1,9 @@
+.cc-ranking-card {
+  border: 1px solid #d8cfbd;
+  background: #fbf7ef;
+  color: #24211c;
+  padding: 1.25rem;
+  border-radius: 14px;
+  max-width: 760px;
+}
+.cc-ranking-card h2 { margin-top: 0; }
