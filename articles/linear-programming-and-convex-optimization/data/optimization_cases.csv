@@ -1,0 +1,5 @@
+case_name,decision_context,optimization_goal,variable_clarity,objective_documentation,constraint_documentation,data_provenance,feasibility_logic,sensitivity_review,robustness_review,fairness_review,traceability,governance_review,communication_clarity
+Production planning model,"Choose production quantities under labor, material, machine, and demand constraints","maximize feasible profit while documenting constraints and sensitivity",0.88,0.86,0.84,0.78,0.86,0.80,0.74,0.62,0.82,0.76,0.80
+Public resource allocation,"Allocate limited public-service resources across regions and needs","balance service coverage, cost, capacity, equity, and accountability",0.82,0.78,0.84,0.72,0.80,0.76,0.78,0.86,0.80,0.84,0.78
+Portfolio optimization,"Choose asset weights under expected return, risk, liquidity, and exposure constraints","optimize risk-return trade-offs while testing sensitivity to uncertain estimates",0.80,0.76,0.78,0.68,0.82,0.84,0.82,0.50,0.76,0.72,0.74
+Opaque cost minimization,"Minimize operational cost using undocumented constraints and incomplete impact measures","reduce total reported cost",0.42,0.30,0.28,0.24,0.36,0.20,0.18,0.16,0.24,0.22,0.34

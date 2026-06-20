@@ -1,0 +1,10 @@
+"x","objective","is_global_minimum"
+-3,26,FALSE
+-2,17,FALSE
+-1,10,FALSE
+0,5,FALSE
+1,2,FALSE
+2,1,TRUE
+3,2,FALSE
+4,5,FALSE
+5,10,FALSE

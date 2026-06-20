@@ -1,37 +1,36 @@
-# Linear Programming and Convex Optimization (planned)
+# Linear Programming and Convex Optimization
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Search, Optimization, Constraint Reasoning, and Decision Rules  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Linear Programming and Convex Optimization** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+The folder contains reproducible workflows, calculators, synthetic teaching data, governance checklists, and multi-language examples for decision variables, objectives, constraints, feasible regions, linear programming, convex functions, slack, shadow prices, sensitivity, robustness, fairness review, and traceability.
 
-This folder will hold computational companion materials for the planned article:
-**Linear Programming and Convex Optimization**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `decision-rules-thresholds-and-classification`
+- Current: `linear-programming-and-convex-optimization`
+- Next: `gradient-descent-and-optimization-in-machine-learning`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Run the main workflows
 
-## Notes
+```bash
+make smoke
+make all
+```
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+Or run the Python audit directly:
+
+```bash
+python3 python/lp_convex/audit.py
+python3 python/lp_convex/cli.py
+```
+
+## Calculator examples
+
+```bash
+python3 calculators/python/linear_programming_calculator.py
+Rscript calculators/r/convex_quadratic_calculator.R
+```
+
+## Governance framing
+
+Optimization outputs should be interpreted relative to the model that defines variables, objectives, constraints, data, and feasible sets. A mathematically optimal solution is not automatically an institutionally legitimate solution.

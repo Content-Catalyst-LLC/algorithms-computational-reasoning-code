@@ -1,0 +1,31 @@
+title: "Linear Programming and Convex Optimization"
+slug: "linear-programming-and-convex-optimization"
+series: "Algorithms & Computational Reasoning"
+previous_article:
+  title: "Decision Rules, Thresholds, and Classification"
+  slug: "decision-rules-thresholds-and-classification"
+next_article:
+  title: "Gradient Descent and Optimization in Machine Learning"
+  slug: "gradient-descent-and-optimization-in-machine-learning"
+repository_article_path: "articles/linear-programming-and-convex-optimization/"
+focus_keyword: "linear programming and convex optimization"
+summary: "Linear programming and convex optimization explain how algorithms solve structured decision problems by combining objectives, variables, constraints, feasible regions, and efficient solution methods."
+languages:
+  - Python
+  - R
+  - Julia
+  - SQL
+  - Haskell
+  - Rust
+  - Go
+  - C
+  - C++
+  - Fortran
+  - Java
+  - TypeScript
+  - Prolog
+  - Racket
+calculators:
+  - linear_programming_feasible_grid_calculator
+  - convex_quadratic_calculator
+  - sensitivity_shadow_price_calculator

@@ -1,0 +1,21 @@
+{
+  "article": "Linear Programming and Convex Optimization",
+  "slug": "linear-programming-and-convex-optimization",
+  "cards": [
+    "decision variables",
+    "objective functions",
+    "constraints",
+    "feasible regions",
+    "binding constraints",
+    "slack",
+    "shadow prices",
+    "convexity",
+    "global optimum",
+    "sensitivity analysis",
+    "governance"
+  ],
+  "outputs": [
+    "outputs/tables/linear_programming_convex_optimization_audit.csv",
+    "outputs/json/linear_programming_convex_optimization_audit.json"
+  ]
+}

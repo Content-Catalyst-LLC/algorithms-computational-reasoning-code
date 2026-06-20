@@ -1,0 +1,19 @@
+checklist:
+  - id: variables
+    question: "Are decision variables clear and tied to real choices?"
+  - id: objective
+    question: "Is the objective documented and aligned with institutional purpose?"
+  - id: constraints
+    question: "Are constraints complete, current, and legitimate?"
+  - id: data
+    question: "Are coefficients traceable to reliable data sources?"
+  - id: feasibility
+    question: "Is feasibility checked and explained?"
+  - id: sensitivity
+    question: "Has sensitivity to uncertain inputs been evaluated?"
+  - id: robustness
+    question: "Does the solution remain acceptable under plausible scenarios?"
+  - id: fairness
+    question: "Have distributional consequences been reviewed?"
+  - id: traceability
+    question: "Can the solution be reconstructed from assumptions to output?"

@@ -1,0 +1,23 @@
+{
+  "article": "Linear Programming and Convex Optimization",
+  "calculators": [
+    {
+      "id": "linear_programming_feasible_grid_calculator",
+      "language": "python",
+      "path": "calculators/python/linear_programming_calculator.py",
+      "purpose": "Enumerates a transparent two-variable teaching LP over a small integer grid."
+    },
+    {
+      "id": "convex_quadratic_calculator_python",
+      "language": "python",
+      "path": "calculators/python/convex_quadratic_calculator.py",
+      "purpose": "Evaluates a convex quadratic objective and identifies its grid minimum."
+    },
+    {
+      "id": "convex_quadratic_calculator_r",
+      "language": "r",
+      "path": "calculators/r/convex_quadratic_calculator.R",
+      "purpose": "Creates a base-R convex quadratic teaching table."
+    }
+  ]
+}

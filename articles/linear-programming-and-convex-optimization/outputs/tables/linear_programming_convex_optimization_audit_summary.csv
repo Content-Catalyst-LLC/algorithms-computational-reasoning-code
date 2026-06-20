@@ -1,0 +1,2 @@
+average_optimization_governance_risk,average_optimization_governance_score,case_count,highest_risk_case,highest_score_case,interpretation
+34.9,65.425,4,Opaque cost minimization,Production planning model,"Optimization governance depends on variable clarity, objective documentation, constraint documentation, data provenance, feasibility logic, sensitivity review, robustness review, fairness review, traceability, governance review, and communication clarity."

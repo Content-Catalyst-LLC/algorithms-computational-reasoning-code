@@ -1,0 +1,13 @@
+{
+  "best_solution": {
+    "labor_slack": 1,
+    "labor_used": 7,
+    "material_slack": 0,
+    "material_used": 8,
+    "objective_value": 18,
+    "x": 2,
+    "y": 3
+  },
+  "candidate_count": 17,
+  "interpretation": "Small integer grid enumeration used only as a transparent teaching calculator for a two-variable linear program."
+}

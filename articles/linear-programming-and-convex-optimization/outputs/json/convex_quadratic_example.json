@@ -1,0 +1,47 @@
+[
+  {
+    "convex_objective_value": 26,
+    "is_global_minimum": false,
+    "x": -3
+  },
+  {
+    "convex_objective_value": 17,
+    "is_global_minimum": false,
+    "x": -2
+  },
+  {
+    "convex_objective_value": 10,
+    "is_global_minimum": false,
+    "x": -1
+  },
+  {
+    "convex_objective_value": 5,
+    "is_global_minimum": false,
+    "x": 0
+  },
+  {
+    "convex_objective_value": 2,
+    "is_global_minimum": false,
+    "x": 1
+  },
+  {
+    "convex_objective_value": 1,
+    "is_global_minimum": true,
+    "x": 2
+  },
+  {
+    "convex_objective_value": 2,
+    "is_global_minimum": false,
+    "x": 3
+  },
+  {
+    "convex_objective_value": 5,
+    "is_global_minimum": false,
+    "x": 4
+  },
+  {
+    "convex_objective_value": 10,
+    "is_global_minimum": false,
+    "x": 5
+  }
+]
