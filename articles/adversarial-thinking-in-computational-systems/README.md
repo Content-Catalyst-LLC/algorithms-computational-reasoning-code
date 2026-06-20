@@ -1,37 +1,40 @@
-# Adversarial Thinking in Computational Systems (planned)
+# Adversarial Thinking in Computational Systems
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Security, Cryptography, Privacy, and Trust  
-**Status:** planned
+This article folder supports the Sustainable Catalyst article **Adversarial Thinking in Computational Systems** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+It includes reproducible, educational workflows for:
 
-This folder will hold computational companion materials for the planned article:
-**Adversarial Thinking in Computational Systems**.
+- adversarial readiness and residual-risk scoring;
+- attack-surface inventories and trust-boundary review;
+- threshold evasion demonstrations;
+- perturbation sensitivity examples;
+- abuse-case and misuse-path reasoning;
+- red-team, incident-response, and governance review;
+- calculator scripts for adversarial risk, evasion, perturbation, and control coverage;
+- multi-language examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket.
 
-## Standard Folder Layout
+These examples are educational scaffolds, not production security, machine learning robustness, compliance, or incident-response tools.
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Article sequence
+
+- Previous: `secure-computation-and-privacy-preserving-algorithms`
+- Current: `adversarial-thinking-in-computational-systems`
+- Next: `algorithmic-trust-verification-and-security`
+
+## Run core workflows
+
+```bash
+python3 python/adversarial_thinking_computational_systems_audit.py
+Rscript r/adversarial_thinking_computational_systems_summary.R
+```
+
+## Run calculators
+
+```bash
+python3 calculators/python/adversarial_risk_calculator.py
+Rscript calculators/r/adversarial_risk_calculator.R
+```
 
 ## Notes
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The examples intentionally use small synthetic records. They are designed for reasoning about adversarial systems, not for assessing live systems without expert security, privacy, domain, and governance review.

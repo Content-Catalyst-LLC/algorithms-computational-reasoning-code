@@ -1,0 +1,42 @@
+[
+  {
+    "adversarial_shift": 0.0,
+    "after_shift_flagged": false,
+    "case_id": "ordinary_low_risk",
+    "evasion_success": false,
+    "original_flagged": false,
+    "original_score": 0.42,
+    "shifted_score": 0.42,
+    "threshold": 0.7
+  },
+  {
+    "adversarial_shift": -0.05,
+    "after_shift_flagged": false,
+    "case_id": "near_threshold_evasion",
+    "evasion_success": true,
+    "original_flagged": true,
+    "original_score": 0.72,
+    "shifted_score": 0.67,
+    "threshold": 0.7
+  },
+  {
+    "adversarial_shift": -0.08,
+    "after_shift_flagged": true,
+    "case_id": "strong_signal_case",
+    "evasion_success": false,
+    "original_flagged": true,
+    "original_score": 0.91,
+    "shifted_score": 0.83,
+    "threshold": 0.7
+  },
+  {
+    "adversarial_shift": -0.1,
+    "after_shift_flagged": false,
+    "case_id": "gaming_success_case",
+    "evasion_success": true,
+    "original_flagged": true,
+    "original_score": 0.76,
+    "shifted_score": 0.66,
+    "threshold": 0.7
+  }
+]

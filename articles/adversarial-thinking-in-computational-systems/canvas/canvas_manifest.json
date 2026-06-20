@@ -1,0 +1,16 @@
+{
+  "article": "Adversarial Thinking in Computational Systems",
+  "slug": "adversarial-thinking-in-computational-systems",
+  "cards": [
+    "threat_models_and_assumptions",
+    "attack_surfaces_and_trust_boundaries",
+    "abuse_cases_and_misuse_paths",
+    "adversarial_examples_and_evasion",
+    "defense_monitoring_and_governance"
+  ],
+  "outputs": [
+    "outputs/tables/adversarial_readiness_audit.csv",
+    "outputs/tables/threshold_evasion_demo.csv",
+    "outputs/tables/attack_surface_inventory.csv"
+  ]
+}

@@ -1,0 +1,4 @@
+"scenario","readiness","attack_success_probability","residual_risk"
+"strong_defense",82.96,8.0352,28.08
+"partial_defense",53.48,29.792,50.84
+"weak_defense",24.68,55.0056,75.6

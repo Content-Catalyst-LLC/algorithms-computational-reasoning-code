@@ -1,0 +1,5 @@
+attack,capability,control_strength,estimated_attack_success_probability,exposure
+prompt injection,0.8,0.62,22.8,0.75
+threshold evasion,0.72,0.55,22.032,0.68
+data poisoning,0.58,0.7,9.048,0.52
+credential replay,0.6,0.82,4.968,0.46

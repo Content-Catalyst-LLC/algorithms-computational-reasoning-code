@@ -1,0 +1,31 @@
+{
+  "scenarios": [
+    {
+      "scenario": "strong_defense",
+      "readiness": 82.96,
+      "attack_success_probability": 8.035200000000001,
+      "residual_risk": 28.08
+    },
+    {
+      "scenario": "partial_defense",
+      "readiness": 53.480000000000004,
+      "attack_success_probability": 29.792,
+      "residual_risk": 50.839999999999996
+    },
+    {
+      "scenario": "weak_defense",
+      "readiness": 24.68,
+      "attack_success_probability": 55.0056,
+      "residual_risk": 75.6
+    }
+  ],
+  "threshold_evasion_example": {
+    "original_score": 0.72,
+    "adversarial_shift": -0.05,
+    "threshold": 0.7,
+    "shifted_score": 0.67,
+    "original_flagged": true,
+    "after_shift_flagged": false,
+    "evasion_success": true
+  }
+}

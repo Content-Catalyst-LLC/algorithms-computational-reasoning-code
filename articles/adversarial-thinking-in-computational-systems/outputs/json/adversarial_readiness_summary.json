@@ -1,0 +1,12 @@
+{
+  "average_adversarial_readiness_score": 62.64,
+  "average_adversarial_risk_score": 37.637,
+  "case_count": 4,
+  "high_risk_attack_surfaces": 3,
+  "highest_readiness_case": "Fraud detection platform",
+  "highest_risk_case": "Unreviewed public form automation",
+  "interpretation": "Adversarial readiness depends on threat-model clarity, attack-surface mapping, trust-boundary review, abuse-case coverage, validation, monitoring, defense depth, incident response, red teaming, false-positive review, governance ownership, and communication of residual risk.",
+  "max_estimated_attack_success_probability": 22.8,
+  "perturbation_label_changes": 3,
+  "threshold_evasion_successes": 2
+}

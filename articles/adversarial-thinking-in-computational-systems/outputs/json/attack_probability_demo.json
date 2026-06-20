@@ -1,0 +1,30 @@
+[
+  {
+    "attack": "prompt injection",
+    "capability": 0.8,
+    "control_strength": 0.62,
+    "estimated_attack_success_probability": 22.8,
+    "exposure": 0.75
+  },
+  {
+    "attack": "threshold evasion",
+    "capability": 0.72,
+    "control_strength": 0.55,
+    "estimated_attack_success_probability": 22.032,
+    "exposure": 0.68
+  },
+  {
+    "attack": "data poisoning",
+    "capability": 0.58,
+    "control_strength": 0.7,
+    "estimated_attack_success_probability": 9.048,
+    "exposure": 0.52
+  },
+  {
+    "attack": "credential replay",
+    "capability": 0.6,
+    "control_strength": 0.82,
+    "estimated_attack_success_probability": 4.968,
+    "exposure": 0.46
+  }
+]

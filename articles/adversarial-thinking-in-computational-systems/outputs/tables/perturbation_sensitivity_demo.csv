@@ -1,0 +1,11 @@
+base_margin,example_id,label_changed,original_label,perturbation,shifted_label,shifted_margin
+-0.0881,example_01,False,negative,-0.1257,negative,-0.2138
+0.0755,example_02,True,positive,-0.1539,negative,-0.0785
+0.0179,example_03,True,positive,-0.0484,negative,-0.0304
+-0.221,example_04,False,negative,0.0027,negative,-0.2183
+-0.2313,example_05,False,negative,-0.0239,negative,-0.2551
+-0.2151,example_06,False,negative,-0.1473,negative,-0.3624
+-0.0377,example_07,True,negative,0.1177,positive,0.0799
+-0.1881,example_08,False,negative,-0.0996,negative,-0.2877
+0.0637,example_09,False,positive,0.1612,positive,0.2249
+0.0386,example_10,False,positive,-0.0372,positive,0.0014

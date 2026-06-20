@@ -1,0 +1,32 @@
+[
+  {
+    "control": "authentication, authorization, quotas, input validation, monitoring",
+    "possible_attack": "credential abuse, scraping, injection, denial of service",
+    "risk_level": "high",
+    "surface": "public API"
+  },
+  {
+    "control": "provenance, anomaly detection, label audit, source review",
+    "possible_attack": "poisoning, label manipulation, source compromise",
+    "risk_level": "high",
+    "surface": "training data pipeline"
+  },
+  {
+    "control": "context isolation, tool permissioning, instruction hierarchy",
+    "possible_attack": "prompt injection, instruction conflict, data exfiltration",
+    "risk_level": "high",
+    "surface": "prompt and retrieved context"
+  },
+  {
+    "control": "behavioral monitoring, graph analysis, abuse-case review",
+    "possible_attack": "coordinated manipulation, bot engagement, gaming",
+    "risk_level": "medium",
+    "surface": "ranking feedback signals"
+  },
+  {
+    "control": "escalation policy, reviewer support, sampling audits",
+    "possible_attack": "review fatigue, social engineering, appeal flooding",
+    "risk_level": "medium",
+    "surface": "human review queue"
+  }
+]

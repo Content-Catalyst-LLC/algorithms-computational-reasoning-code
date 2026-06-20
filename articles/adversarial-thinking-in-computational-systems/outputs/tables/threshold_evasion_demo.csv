@@ -1,0 +1,5 @@
+adversarial_shift,after_shift_flagged,case_id,evasion_success,original_flagged,original_score,shifted_score,threshold
+0.0,False,ordinary_low_risk,False,False,0.42,0.42,0.7
+-0.05,False,near_threshold_evasion,True,True,0.72,0.67,0.7
+-0.08,True,strong_signal_case,False,True,0.91,0.83,0.7
+-0.1,False,gaming_success_case,True,True,0.76,0.66,0.7

@@ -1,0 +1,6 @@
+control,possible_attack,risk_level,surface
+"authentication, authorization, quotas, input validation, monitoring","credential abuse, scraping, injection, denial of service",high,public API
+"provenance, anomaly detection, label audit, source review","poisoning, label manipulation, source compromise",high,training data pipeline
+"context isolation, tool permissioning, instruction hierarchy","prompt injection, instruction conflict, data exfiltration",high,prompt and retrieved context
+"behavioral monitoring, graph analysis, abuse-case review","coordinated manipulation, bot engagement, gaming",medium,ranking feedback signals
+"escalation policy, reviewer support, sampling audits","review fatigue, social engineering, appeal flooding",medium,human review queue

@@ -1,0 +1,92 @@
+[
+  {
+    "base_margin": -0.0881,
+    "example_id": "example_01",
+    "label_changed": false,
+    "original_label": "negative",
+    "perturbation": -0.1257,
+    "shifted_label": "negative",
+    "shifted_margin": -0.2138
+  },
+  {
+    "base_margin": 0.0755,
+    "example_id": "example_02",
+    "label_changed": true,
+    "original_label": "positive",
+    "perturbation": -0.1539,
+    "shifted_label": "negative",
+    "shifted_margin": -0.0785
+  },
+  {
+    "base_margin": 0.0179,
+    "example_id": "example_03",
+    "label_changed": true,
+    "original_label": "positive",
+    "perturbation": -0.0484,
+    "shifted_label": "negative",
+    "shifted_margin": -0.0304
+  },
+  {
+    "base_margin": -0.221,
+    "example_id": "example_04",
+    "label_changed": false,
+    "original_label": "negative",
+    "perturbation": 0.0027,
+    "shifted_label": "negative",
+    "shifted_margin": -0.2183
+  },
+  {
+    "base_margin": -0.2313,
+    "example_id": "example_05",
+    "label_changed": false,
+    "original_label": "negative",
+    "perturbation": -0.0239,
+    "shifted_label": "negative",
+    "shifted_margin": -0.2551
+  },
+  {
+    "base_margin": -0.2151,
+    "example_id": "example_06",
+    "label_changed": false,
+    "original_label": "negative",
+    "perturbation": -0.1473,
+    "shifted_label": "negative",
+    "shifted_margin": -0.3624
+  },
+  {
+    "base_margin": -0.0377,
+    "example_id": "example_07",
+    "label_changed": true,
+    "original_label": "negative",
+    "perturbation": 0.1177,
+    "shifted_label": "positive",
+    "shifted_margin": 0.0799
+  },
+  {
+    "base_margin": -0.1881,
+    "example_id": "example_08",
+    "label_changed": false,
+    "original_label": "negative",
+    "perturbation": -0.0996,
+    "shifted_label": "negative",
+    "shifted_margin": -0.2877
+  },
+  {
+    "base_margin": 0.0637,
+    "example_id": "example_09",
+    "label_changed": false,
+    "original_label": "positive",
+    "perturbation": 0.1612,
+    "shifted_label": "positive",
+    "shifted_margin": 0.2249
+  },
+  {
+    "base_margin": 0.0386,
+    "example_id": "example_10",
+    "label_changed": false,
+    "original_label": "positive",
+    "perturbation": -0.0372,
+    "shifted_label": "positive",
+    "shifted_margin": 0.0014
+  }
+]
