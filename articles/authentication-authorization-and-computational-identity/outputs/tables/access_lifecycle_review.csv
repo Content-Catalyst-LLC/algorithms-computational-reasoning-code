@@ -1,0 +1,6 @@
+active,approx_last_review_timestamp,identity,identity_type,last_review_days,needs_review,privileged,recommendation
+True,1778370164,alice,human,42,False,False,standard monitoring
+True,1772494964,carol_admin,human,110,True,True,urgent review
+True,1763854964,service_ingest,service,210,True,True,urgent review
+True,1748302964,legacy_export_job,service,390,True,True,urgent review
+False,1758670964,former_contractor,human,270,True,False,remove or disable

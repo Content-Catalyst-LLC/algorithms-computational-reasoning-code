@@ -1,0 +1,7 @@
+action,decision,emergency,mfa,reason,resource,role,sensitivity,subject
+read,allow,False,True,same-department clinician read with MFA,patient_record_100,clinician,restricted,alice
+delete,deny,False,True,default deny,patient_record_100,clinician,restricted,alice
+read,allow,False,False,researcher read deidentified data,deidentified_dataset_7,researcher,deidentified,bob
+read,deny,False,True,default deny,patient_record_100,researcher,restricted,bob
+delete,allow,False,True,admin with MFA,patient_record_100,admin,restricted,carol
+write,deny,False,False,default deny,deidentified_dataset_7,service,deidentified,service_ingest

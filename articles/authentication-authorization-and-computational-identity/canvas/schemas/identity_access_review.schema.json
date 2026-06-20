@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IdentityAccessReview",
+  "type": "object",
+  "required": ["system", "identity_types", "protected_resources", "authorization_model", "audit_logging"],
+  "properties": {
+    "system": {"type": "string"},
+    "identity_types": {"type": "array", "items": {"type": "string"}},
+    "protected_resources": {"type": "array", "items": {"type": "string"}},
+    "authorization_model": {"type": "string"},
+    "audit_logging": {"type": "boolean"},
+    "notes": {"type": "string"}
+  }
+}

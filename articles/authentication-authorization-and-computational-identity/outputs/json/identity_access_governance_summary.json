@@ -1,0 +1,12 @@
+{
+  "accounts_needing_lifecycle_review": 4,
+  "authorization_allowed_count": 3,
+  "authorization_denied_count": 3,
+  "average_identity_access_risk": 39.409,
+  "average_identity_access_score": 60.69,
+  "case_count": 4,
+  "high_risk_access_paths": 0,
+  "highest_risk_case": "Legacy internal admin script",
+  "highest_score_case": "Clinical record access platform",
+  "interpretation": "Identity and access governance depends on authentication strength, authorization granularity, least privilege, token control, machine identity, audit logging, lifecycle review, privilege escalation controls, privacy review, incident response, and governance ownership."
+}

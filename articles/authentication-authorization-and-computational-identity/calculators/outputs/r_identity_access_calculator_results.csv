@@ -1,0 +1,3 @@
+"scenario","authentication_strength","authorization_granularity","least_privilege_alignment","session_token_control","machine_identity_governance","audit_logging","access_lifecycle_review","privilege_escalation_controls","privacy_and_inclusion_review","incident_response","governance_ownership","communication_clarity","identity_access_score","identity_access_risk"
+"mature_identity_governance",0.88,0.84,0.8,0.82,0.78,0.9,0.82,0.8,0.76,0.82,0.84,0.78,82.42,17.6363636363636
+"legacy_overprivileged_access",0.36,0.24,0.2,0.28,0.18,0.3,0.22,0.2,0.3,0.28,0.24,0.34,25.56,74.5454545454546

@@ -1,0 +1,52 @@
+[
+  {
+    "access_path": "admin_console",
+    "control_strength": 0.78,
+    "credential_exposure": 0.35,
+    "inherent_access_risk": 31.587,
+    "privilege_level": 0.95,
+    "residual_access_risk": 6.949,
+    "resource_sensitivity": 0.95,
+    "review_priority": "standard"
+  },
+  {
+    "access_path": "service_account_data_export",
+    "control_strength": 0.52,
+    "credential_exposure": 0.55,
+    "inherent_access_risk": 37.4,
+    "privilege_level": 0.8,
+    "residual_access_risk": 17.952,
+    "resource_sensitivity": 0.85,
+    "review_priority": "medium"
+  },
+  {
+    "access_path": "standard_user_profile_edit",
+    "control_strength": 0.66,
+    "credential_exposure": 0.4,
+    "inherent_access_risk": 6.3,
+    "privilege_level": 0.35,
+    "residual_access_risk": 2.142,
+    "resource_sensitivity": 0.45,
+    "review_priority": "standard"
+  },
+  {
+    "access_path": "research_dataset_read",
+    "control_strength": 0.7,
+    "credential_exposure": 0.3,
+    "inherent_access_risk": 10.5,
+    "privilege_level": 0.5,
+    "residual_access_risk": 3.15,
+    "resource_sensitivity": 0.7,
+    "review_priority": "standard"
+  },
+  {
+    "access_path": "break_glass_emergency_access",
+    "control_strength": 0.64,
+    "credential_exposure": 0.5,
+    "inherent_access_risk": 42.75,
+    "privilege_level": 0.9,
+    "residual_access_risk": 15.39,
+    "resource_sensitivity": 0.95,
+    "review_priority": "medium"
+  }
+]

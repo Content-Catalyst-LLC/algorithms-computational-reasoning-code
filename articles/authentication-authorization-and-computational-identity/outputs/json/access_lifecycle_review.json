@@ -1,0 +1,52 @@
+[
+  {
+    "active": true,
+    "approx_last_review_timestamp": 1778370164,
+    "identity": "alice",
+    "identity_type": "human",
+    "last_review_days": 42,
+    "needs_review": false,
+    "privileged": false,
+    "recommendation": "standard monitoring"
+  },
+  {
+    "active": true,
+    "approx_last_review_timestamp": 1772494964,
+    "identity": "carol_admin",
+    "identity_type": "human",
+    "last_review_days": 110,
+    "needs_review": true,
+    "privileged": true,
+    "recommendation": "urgent review"
+  },
+  {
+    "active": true,
+    "approx_last_review_timestamp": 1763854964,
+    "identity": "service_ingest",
+    "identity_type": "service",
+    "last_review_days": 210,
+    "needs_review": true,
+    "privileged": true,
+    "recommendation": "urgent review"
+  },
+  {
+    "active": true,
+    "approx_last_review_timestamp": 1748302964,
+    "identity": "legacy_export_job",
+    "identity_type": "service",
+    "last_review_days": 390,
+    "needs_review": true,
+    "privileged": true,
+    "recommendation": "urgent review"
+  },
+  {
+    "active": false,
+    "approx_last_review_timestamp": 1758670964,
+    "identity": "former_contractor",
+    "identity_type": "human",
+    "last_review_days": 270,
+    "needs_review": true,
+    "privileged": false,
+    "recommendation": "remove or disable"
+  }
+]

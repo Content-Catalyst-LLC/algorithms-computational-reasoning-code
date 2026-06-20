@@ -1,0 +1,6 @@
+access_path,control_strength,credential_exposure,inherent_access_risk,privilege_level,residual_access_risk,resource_sensitivity,review_priority
+admin_console,0.78,0.35,31.587,0.95,6.949,0.95,standard
+service_account_data_export,0.52,0.55,37.4,0.8,17.952,0.85,medium
+standard_user_profile_edit,0.66,0.4,6.3,0.35,2.142,0.45,standard
+research_dataset_read,0.7,0.3,10.5,0.5,3.15,0.7,standard
+break_glass_emergency_access,0.64,0.5,42.75,0.9,15.39,0.95,medium

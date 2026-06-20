@@ -1,0 +1,68 @@
+[
+  {
+    "action": "read",
+    "decision": "allow",
+    "emergency": false,
+    "mfa": true,
+    "reason": "same-department clinician read with MFA",
+    "resource": "patient_record_100",
+    "role": "clinician",
+    "sensitivity": "restricted",
+    "subject": "alice"
+  },
+  {
+    "action": "delete",
+    "decision": "deny",
+    "emergency": false,
+    "mfa": true,
+    "reason": "default deny",
+    "resource": "patient_record_100",
+    "role": "clinician",
+    "sensitivity": "restricted",
+    "subject": "alice"
+  },
+  {
+    "action": "read",
+    "decision": "allow",
+    "emergency": false,
+    "mfa": false,
+    "reason": "researcher read deidentified data",
+    "resource": "deidentified_dataset_7",
+    "role": "researcher",
+    "sensitivity": "deidentified",
+    "subject": "bob"
+  },
+  {
+    "action": "read",
+    "decision": "deny",
+    "emergency": false,
+    "mfa": true,
+    "reason": "default deny",
+    "resource": "patient_record_100",
+    "role": "researcher",
+    "sensitivity": "restricted",
+    "subject": "bob"
+  },
+  {
+    "action": "delete",
+    "decision": "allow",
+    "emergency": false,
+    "mfa": true,
+    "reason": "admin with MFA",
+    "resource": "patient_record_100",
+    "role": "admin",
+    "sensitivity": "restricted",
+    "subject": "carol"
+  },
+  {
+    "action": "write",
+    "decision": "deny",
+    "emergency": false,
+    "mfa": false,
+    "reason": "default deny",
+    "resource": "deidentified_dataset_7",
+    "role": "service",
+    "sensitivity": "deidentified",
+    "subject": "service_ingest"
+  }
+]
