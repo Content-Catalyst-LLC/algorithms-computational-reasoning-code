@@ -1,0 +1,16 @@
+actual_title: "Constraint Satisfaction and Feasible Solutions"
+suggested_seo_title: "Constraint Satisfaction and Feasible Solutions"
+focus_keyword: "constraint satisfaction and feasible solutions"
+slug: "constraint-satisfaction-and-feasible-solutions"
+series: "Algorithms & Computational Reasoning"
+section: "Search, Optimization, Constraint Reasoning, and Decision Rules"
+article_order:
+  previous: "optimization-objectives-and-constraints"
+  current: "constraint-satisfaction-and-feasible-solutions"
+  next: "graph-search-pathfinding-and-routing"
+github_repository: "https://github.com/Content-Catalyst-LLC/algorithms-computational-reasoning-code/tree/main/articles/constraint-satisfaction-and-feasible-solutions"
+tags: [Constraint Satisfaction, Feasible Solutions, Constraint Programming, Backtracking, Pruning, Satisfiability, Feasibility Checking, Computational Reasoning]
+languages: [python, r, julia, sql, haskell, rust, go, c, cpp, fortran, java, typescript, prolog, racket]
+synthetic_data_only: true
+canvas_layer: true
+calculator_scripts: true

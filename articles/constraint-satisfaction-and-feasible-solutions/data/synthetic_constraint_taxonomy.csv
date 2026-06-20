@@ -1,0 +1,12 @@
+term,category,definition,example
+variable,representation,object needing a value,course or worker
+domain,representation,allowable values for a variable,available rooms or time slots
+assignment,solution structure,chosen value for a variable,course A assigned to Room 2
+constraint,rule,condition limiting allowable assignments,two meetings cannot use the same room
+feasible solution,status,complete assignment satisfying all constraints,valid timetable
+infeasible candidate,status,assignment violating at least one constraint,same worker assigned to two shifts at once
+unsatisfiable problem,status,no assignment satisfies all constraints,conflicting requirements
+backtracking,search,reversing a failed assignment path,undo a room assignment after conflict
+pruning,search,removing impossible branches before full exploration,discard values that violate constraints
+constraint propagation,inference,using constraints to reduce domains,remove unavailable time slots
+arc consistency,inference,each value has support in connected variables,every course time has a compatible room

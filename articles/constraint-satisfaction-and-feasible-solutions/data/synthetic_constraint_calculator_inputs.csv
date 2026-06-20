@@ -1,0 +1,5 @@
+case_name,variables,domain_values,constraints,candidate_assignment
+three_color_pairwise,"A;B;C","red;blue","not_equal:A:B|not_equal:B:C","A=red;B=blue;C=red"
+invalid_pairwise,"A;B;C","red;blue","not_equal:A:B|not_equal:B:C","A=red;B=red;C=blue"
+all_different_small,"A;B;C","red;blue;green","not_equal:A:B|not_equal:A:C|not_equal:B:C","A=red;B=blue;C=green"
+overconstrained_small,"A;B","red","not_equal:A:B","A=red;B=red"

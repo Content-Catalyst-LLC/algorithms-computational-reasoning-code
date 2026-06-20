@@ -1,0 +1,5 @@
+case_name,variables,domain_values,constraints,candidate_assignment,variable_count,domain_size,constraint_count,feasible_assignment_count,candidate_is_feasible,candidate_violation_count
+three_color_pairwise,A;B;C,red;blue,not_equal:A:B|not_equal:B:C,A=red;B=blue;C=red,3,2,2,2,True,0
+invalid_pairwise,A;B;C,red;blue,not_equal:A:B|not_equal:B:C,A=red;B=red;C=blue,3,2,2,2,False,1
+all_different_small,A;B;C,red;blue;green,not_equal:A:B|not_equal:A:C|not_equal:B:C,A=red;B=blue;C=green,3,3,3,6,True,0
+overconstrained_small,A;B,red,not_equal:A:B,A=red;B=red,2,1,1,0,False,1

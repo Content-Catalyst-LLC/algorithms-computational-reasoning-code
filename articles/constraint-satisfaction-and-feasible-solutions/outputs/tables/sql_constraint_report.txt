@@ -1,0 +1,6 @@
+case_name                 constraint_system_score
+------------------------  -----------------------
+Worker shift assignment   80.96                  
+Course scheduling         79.1                   
+Product configuration     75.1                   
+Opaque eligibility rules  28.88                  

@@ -1,0 +1,20 @@
+{
+  "variables": [
+    "A",
+    "B",
+    "C"
+  ],
+  "domain_values": [
+    "red",
+    "blue"
+  ],
+  "constraint_count": 2,
+  "feasible_assignment_count": 2,
+  "candidate_assignment": {
+    "A": "red",
+    "B": "blue",
+    "C": "red"
+  },
+  "candidate_violation_count": 0,
+  "candidate_is_feasible": true
+}

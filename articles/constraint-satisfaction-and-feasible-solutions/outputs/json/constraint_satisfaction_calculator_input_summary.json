@@ -1,0 +1,54 @@
+[
+  {
+    "candidate_assignment": "A=red;B=blue;C=red",
+    "candidate_is_feasible": true,
+    "candidate_violation_count": 0,
+    "case_name": "three_color_pairwise",
+    "constraint_count": 2,
+    "constraints": "not_equal:A:B|not_equal:B:C",
+    "domain_size": 2,
+    "domain_values": "red;blue",
+    "feasible_assignment_count": 2,
+    "variable_count": 3,
+    "variables": "A;B;C"
+  },
+  {
+    "candidate_assignment": "A=red;B=red;C=blue",
+    "candidate_is_feasible": false,
+    "candidate_violation_count": 1,
+    "case_name": "invalid_pairwise",
+    "constraint_count": 2,
+    "constraints": "not_equal:A:B|not_equal:B:C",
+    "domain_size": 2,
+    "domain_values": "red;blue",
+    "feasible_assignment_count": 2,
+    "variable_count": 3,
+    "variables": "A;B;C"
+  },
+  {
+    "candidate_assignment": "A=red;B=blue;C=green",
+    "candidate_is_feasible": true,
+    "candidate_violation_count": 0,
+    "case_name": "all_different_small",
+    "constraint_count": 3,
+    "constraints": "not_equal:A:B|not_equal:A:C|not_equal:B:C",
+    "domain_size": 3,
+    "domain_values": "red;blue;green",
+    "feasible_assignment_count": 6,
+    "variable_count": 3,
+    "variables": "A;B;C"
+  },
+  {
+    "candidate_assignment": "A=red;B=red",
+    "candidate_is_feasible": false,
+    "candidate_violation_count": 1,
+    "case_name": "overconstrained_small",
+    "constraint_count": 1,
+    "constraints": "not_equal:A:B",
+    "domain_size": 1,
+    "domain_values": "red",
+    "feasible_assignment_count": 0,
+    "variable_count": 2,
+    "variables": "A;B"
+  }
+]

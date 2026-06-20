@@ -1,0 +1,5 @@
+[package]
+name = "constraint-satisfaction-and-feasible-solutions"
+version = "0.1.0"
+edition = "2021"
+[dependencies]

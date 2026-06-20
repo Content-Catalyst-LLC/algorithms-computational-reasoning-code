@@ -1,0 +1,13 @@
+data <- read.csv("data/synthetic_constraint_cases.csv", stringsAsFactors = FALSE)
+data$constraint_system_score <- 100 * (0.10*data$variable_clarity + 0.10*data$domain_clarity + 0.12*data$constraint_documentation + 0.11*data$feasibility_logic + 0.09*data$inconsistency_handling + 0.08*data$pruning_transparency + 0.08*data$propagation_transparency + 0.09*data$traceability + 0.07*data$exception_handling + 0.06*data$governance_review + 0.07*data$fairness_review + 0.03*data$communication_clarity)
+data$constraint_system_risk <- 100 * rowMeans(1 - data[, c("variable_clarity","domain_clarity","constraint_documentation","feasibility_logic","inconsistency_handling","pruning_transparency","propagation_transparency","traceability","exception_handling","governance_review","fairness_review")])
+dir.create("outputs/tables", recursive=TRUE, showWarnings=FALSE)
+dir.create("outputs/figures", recursive=TRUE, showWarnings=FALSE)
+write.csv(data, "outputs/tables/r_constraint_satisfaction_summary.csv", row.names=FALSE)
+png("outputs/figures/r_constraint_system_score_vs_risk.png", width=1500, height=850)
+m <- rbind(data$constraint_system_score, data$constraint_system_risk)
+colnames(m) <- data$case_name
+rownames(m) <- c("Constraint system score", "Constraint system risk")
+barplot(m, beside=TRUE, las=2, ylim=c(0,100), ylab="Score", main="Constraint System Score vs. Risk")
+legend("topleft", legend=rownames(m), pch=15, bty="n"); grid(); dev.off()
+print(data)
