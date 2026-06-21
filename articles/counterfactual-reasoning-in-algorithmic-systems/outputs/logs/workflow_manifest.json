@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-06-21T07:09:15.013056+00:00",
+  "outputs": [
+    "synthetic_algorithmic_decisions.csv",
+    "counterfactual_candidates.csv",
+    "minimal_recourse_actions.csv",
+    "feasibility_review.csv",
+    "threshold_sensitivity.csv",
+    "counterfactual_audit_summary.json"
+  ],
+  "synthetic_only": true,
+  "workflow": "counterfactual_reasoning_audit_workflow"
+}

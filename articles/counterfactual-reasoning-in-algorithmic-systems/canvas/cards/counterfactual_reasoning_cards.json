@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Counterfactual Change",
+    "question": "What would have changed if one input, rule, threshold, or institutional condition had differed?",
+    "review_prompt": "Name the changed condition and the unchanged background assumptions.",
+    "governance_warning": "A model-level change is not automatically a world-level causal intervention."
+  },
+  {
+    "title": "Recourse Feasibility",
+    "question": "Can the proposed change realistically be made by the affected person or institution?",
+    "review_prompt": "Separate mathematical possibility from actionable recourse.",
+    "governance_warning": "Do not present immutable, protected, historical, or structural constraints as individual responsibility."
+  },
+  {
+    "title": "Threshold Sensitivity",
+    "question": "How many outcomes change when the decision boundary moves?",
+    "review_prompt": "Identify near-boundary cases and escalation rules.",
+    "governance_warning": "Small threshold changes can create large institutional consequences."
+  }
+]

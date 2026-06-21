@@ -1,0 +1,56 @@
+[
+  {
+    "allowed_for_recourse": false,
+    "average_cost_for_flips": null,
+    "candidate_count": 2776,
+    "feasibility_note": "Structural constraint should not be framed as individual recourse.",
+    "feature": "access_constraint",
+    "flip_count": 0,
+    "governance_status": "do_not_present_as_recourse"
+  },
+  {
+    "allowed_for_recourse": true,
+    "average_cost_for_flips": 0.393239,
+    "candidate_count": 4000,
+    "feasibility_note": "Can improve through documented qualifying activity but may take time.",
+    "feature": "baseline_score",
+    "flip_count": 398,
+    "governance_status": "actionable_candidate"
+  },
+  {
+    "allowed_for_recourse": true,
+    "average_cost_for_flips": 0.203769,
+    "candidate_count": 3920,
+    "feasibility_note": "Can often improve through corrected or complete documentation.",
+    "feature": "document_quality",
+    "flip_count": 325,
+    "governance_status": "actionable_candidate"
+  },
+  {
+    "allowed_for_recourse": false,
+    "average_cost_for_flips": null,
+    "candidate_count": 3064,
+    "feasibility_note": "Historical marker should not be used as an action recommendation.",
+    "feature": "prior_flag",
+    "flip_count": 0,
+    "governance_status": "do_not_present_as_recourse"
+  },
+  {
+    "allowed_for_recourse": false,
+    "average_cost_for_flips": 27.759664,
+    "candidate_count": 4000,
+    "feasibility_note": "Internal model component is not directly actionable.",
+    "feature": "risk_adjustment",
+    "flip_count": 137,
+    "governance_status": "do_not_present_as_recourse"
+  },
+  {
+    "allowed_for_recourse": true,
+    "average_cost_for_flips": 0.310295,
+    "candidate_count": 3880,
+    "feasibility_note": "Can improve in future cycles but may be constrained by access.",
+    "feature": "timeliness",
+    "flip_count": 202,
+    "governance_status": "actionable_candidate"
+  }
+]

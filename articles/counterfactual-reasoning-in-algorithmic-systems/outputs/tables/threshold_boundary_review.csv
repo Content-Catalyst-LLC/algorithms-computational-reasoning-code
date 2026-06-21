@@ -1,0 +1,8 @@
+threshold,favorable_count,near_boundary_count,near_boundary_share,interpretation
+0.56,362,36,0.072,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.58,347,43,0.086,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.6,332,39,0.078,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.62,322,34,0.068,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.64,310,32,0.064,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.66,304,36,0.072,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.
+0.68,285,56,0.112,Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes.

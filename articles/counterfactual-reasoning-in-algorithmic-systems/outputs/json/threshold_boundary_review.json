@@ -1,0 +1,51 @@
+[
+  {
+    "threshold": 0.56,
+    "favorable_count": 362,
+    "near_boundary_count": 36,
+    "near_boundary_share": 0.072,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.58,
+    "favorable_count": 347,
+    "near_boundary_count": 43,
+    "near_boundary_share": 0.086,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.6,
+    "favorable_count": 332,
+    "near_boundary_count": 39,
+    "near_boundary_share": 0.078,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.62,
+    "favorable_count": 322,
+    "near_boundary_count": 34,
+    "near_boundary_share": 0.068,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.64,
+    "favorable_count": 310,
+    "near_boundary_count": 32,
+    "near_boundary_share": 0.064,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.66,
+    "favorable_count": 304,
+    "near_boundary_count": 36,
+    "near_boundary_share": 0.072,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  },
+  {
+    "threshold": 0.68,
+    "favorable_count": 285,
+    "near_boundary_count": 56,
+    "near_boundary_share": 0.112,
+    "interpretation": "Near-boundary cases deserve special explanation and appeal review because small threshold changes alter outcomes."
+  }
+]

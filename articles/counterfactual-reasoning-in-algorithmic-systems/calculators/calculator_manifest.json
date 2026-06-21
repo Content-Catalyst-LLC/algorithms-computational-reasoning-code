@@ -1,0 +1,26 @@
+{
+  "article": "Counterfactual Reasoning in Algorithmic Systems",
+  "slug": "counterfactual-reasoning-in-algorithmic-systems",
+  "calculators": [
+    {
+      "name": "Threshold Flip Calculator",
+      "path": "calculators/python/threshold_flip_calculator.py",
+      "purpose": "Estimate the feature change required to cross a decision threshold."
+    },
+    {
+      "name": "Recourse Distance Calculator",
+      "path": "calculators/python/recourse_distance_calculator.py",
+      "purpose": "Compute synthetic distance and cost between current and target feature values."
+    },
+    {
+      "name": "Counterfactual Contrast Calculator",
+      "path": "calculators/python/counterfactual_contrast_calculator.py",
+      "purpose": "Compare original and counterfactual scores and labels."
+    },
+    {
+      "name": "Feasibility Score Calculator",
+      "path": "calculators/python/feasibility_score_calculator.py",
+      "purpose": "Combine action magnitude, cost, and feasibility into a review score."
+    }
+  ]
+}

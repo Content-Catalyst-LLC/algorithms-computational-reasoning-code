@@ -1,0 +1,4 @@
+burden_bucket,case_count,share_of_recourse_cases,interpretation
+low_burden,49,0.544444,"Feasible recourse should be evaluated by burden, not only by mathematical possibility."
+moderate_burden,20,0.222222,"Feasible recourse should be evaluated by burden, not only by mathematical possibility."
+high_burden,21,0.233333,"Feasible recourse should be evaluated by burden, not only by mathematical possibility."

@@ -1,0 +1,7 @@
+allowed_for_recourse,average_cost_for_flips,candidate_count,feasibility_note,feature,flip_count,governance_status
+False,,2776,Structural constraint should not be framed as individual recourse.,access_constraint,0,do_not_present_as_recourse
+True,0.393239,4000,Can improve through documented qualifying activity but may take time.,baseline_score,398,actionable_candidate
+True,0.203769,3920,Can often improve through corrected or complete documentation.,document_quality,325,actionable_candidate
+False,,3064,Historical marker should not be used as an action recommendation.,prior_flag,0,do_not_present_as_recourse
+False,27.759664,4000,Internal model component is not directly actionable.,risk_adjustment,137,do_not_present_as_recourse
+True,0.310295,3880,Can improve in future cycles but may be constrained by access.,timeliness,202,actionable_candidate

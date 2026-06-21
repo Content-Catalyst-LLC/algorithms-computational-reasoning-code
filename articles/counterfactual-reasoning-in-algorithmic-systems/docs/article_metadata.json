@@ -1,0 +1,31 @@
+{
+  "title": "Counterfactual Reasoning in Algorithmic Systems",
+  "slug": "counterfactual-reasoning-in-algorithmic-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "causal-inference-and-computational-reasoning",
+  "next": "causal-algorithms-and-intervention-modeling",
+  "repo_folder": "articles/counterfactual-reasoning-in-algorithmic-systems",
+  "status": "article-companion-repository",
+  "license": "MIT for code; educational synthetic data only",
+  "primary_workflows": [
+    "synthetic decision generation",
+    "counterfactual candidate search",
+    "minimal recourse computation",
+    "threshold sensitivity review",
+    "feasibility and actionability audit",
+    "governance documentation",
+    "calculator smoke tests"
+  ],
+  "topics": [
+    "counterfactual reasoning",
+    "algorithmic systems",
+    "recourse",
+    "counterfactual explanations",
+    "thresholds",
+    "decision review",
+    "causal reasoning",
+    "algorithmic governance",
+    "contestability",
+    "responsible automation"
+  ]
+}

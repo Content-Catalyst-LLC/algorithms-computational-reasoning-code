@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Counterfactual Reasoning Card",
+  "type": "object",
+  "required": ["title", "question", "review_prompt", "governance_warning"],
+  "properties": {
+    "title": {"type": "string"},
+    "question": {"type": "string"},
+    "review_prompt": {"type": "string"},
+    "governance_warning": {"type": "string"}
+  }
+}

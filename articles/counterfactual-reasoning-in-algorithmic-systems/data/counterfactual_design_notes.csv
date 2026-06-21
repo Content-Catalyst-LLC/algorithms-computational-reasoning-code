@@ -1,0 +1,8 @@
+item,description,review_question
+case_definition,Define the person institution event or object being reviewed,What unit does the counterfactual describe?
+decision_boundary,Define the threshold rule or decision condition,What exactly must change for the decision to change?
+mutable_features,List features allowed to change in explanations,Which features are genuinely actionable?
+immutable_features,List features that should not be changed,Which features are historical protected or structurally constrained?
+causal_order,Check whether the proposed change can occur before the decision,Does the counterfactual violate timing?
+feasibility,Review whether a proposed change is realistic,Could the affected person or institution actually make this change?
+contestability,Provide an appeal or review path,Can the explanation be challenged?

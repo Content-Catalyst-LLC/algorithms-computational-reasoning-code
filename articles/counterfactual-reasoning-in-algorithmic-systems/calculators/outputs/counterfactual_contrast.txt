@@ -1,0 +1,4 @@
+original_label=not_favorable
+counterfactual_label=favorable
+score_change=0.080000
+decision_flipped=True

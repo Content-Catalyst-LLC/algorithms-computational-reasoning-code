@@ -1,0 +1,9 @@
+{
+  "article": "counterfactual_reasoning_in_algorithmic_systems",
+  "decision_threshold": 0.62,
+  "max_counterfactual_delta": 0.4,
+  "n": 500,
+  "review_band_low": 0.52,
+  "seed": 2026,
+  "step": 0.05
+}

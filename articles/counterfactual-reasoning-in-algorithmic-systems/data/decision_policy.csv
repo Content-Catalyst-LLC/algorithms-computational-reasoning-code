@@ -1,0 +1,6 @@
+policy_item,value,description
+decision_threshold,0.62,Synthetic score threshold for favorable decision.
+review_band_low,0.52,Scores above this but below threshold receive review.
+max_counterfactual_delta,0.40,Maximum feature change tested for a single local counterfactual.
+recourse_cost_limit,0.55,Maximum normalized cost for low-burden recourse.
+minimum_explanation_paths,2,Preferred number of distinct feasible recourse paths.

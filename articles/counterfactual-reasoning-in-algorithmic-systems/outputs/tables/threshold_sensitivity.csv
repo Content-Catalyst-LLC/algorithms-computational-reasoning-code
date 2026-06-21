@@ -1,0 +1,12 @@
+favorable_count,favorable_share,interpretation,review_count,threshold,unfavorable_count
+392,0.784,Changing the decision threshold changes outcomes even when underlying cases do not change.,0,0.5,108
+386,0.772,Changing the decision threshold changes outcomes even when underlying cases do not change.,0,0.52,114
+376,0.752,Changing the decision threshold changes outcomes even when underlying cases do not change.,10,0.54,114
+362,0.724,Changing the decision threshold changes outcomes even when underlying cases do not change.,24,0.56,114
+347,0.694,Changing the decision threshold changes outcomes even when underlying cases do not change.,39,0.58,114
+332,0.664,Changing the decision threshold changes outcomes even when underlying cases do not change.,54,0.6,114
+322,0.644,Changing the decision threshold changes outcomes even when underlying cases do not change.,64,0.62,114
+310,0.62,Changing the decision threshold changes outcomes even when underlying cases do not change.,76,0.64,114
+304,0.608,Changing the decision threshold changes outcomes even when underlying cases do not change.,82,0.66,114
+285,0.57,Changing the decision threshold changes outcomes even when underlying cases do not change.,101,0.68,114
+270,0.54,Changing the decision threshold changes outcomes even when underlying cases do not change.,116,0.7,114

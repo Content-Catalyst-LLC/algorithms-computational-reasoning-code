@@ -1,0 +1,7 @@
+feature,allowed_for_recourse,min_value,max_value,unit_cost,reason
+baseline_score,true,0,1,1.40,Can improve through documented qualifying activity but may take time.
+document_quality,true,0,1,0.75,Can often improve through corrected or complete documentation.
+timeliness,true,0,1,1.10,Can improve in future cycles but may be constrained by access.
+prior_flag,false,0,1,99.00,Historical marker should not be used as an action recommendation.
+access_constraint,false,0,1,99.00,Structural constraint should not be framed as individual recourse.
+risk_adjustment,false,0,1,99.00,Internal model component is not directly actionable.

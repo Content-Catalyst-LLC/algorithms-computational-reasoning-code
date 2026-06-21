@@ -1,0 +1,20 @@
+{
+  "article": "counterfactual_reasoning_in_algorithmic_systems",
+  "candidate_flip_count": 1062,
+  "cases_with_feasible_single_feature_recourse": 90,
+  "counterfactual_candidate_count": 21640,
+  "decision_threshold": 0.62,
+  "favorable_count": 322,
+  "features_marked_do_not_present_as_recourse": [
+    "access_constraint",
+    "prior_flag",
+    "risk_adjustment"
+  ],
+  "interpretation": "Counterfactual reasoning should distinguish decision-flipping mathematical alternatives from feasible, causal, contestable, and responsible recourse explanations.",
+  "n_cases": 500,
+  "non_actionable_flip_count": 137,
+  "review_count": 64,
+  "share_of_nonfavorable_cases_with_feasible_recourse": 0.505618,
+  "timestamp_utc": "2026-06-21T07:09:14.905041+00:00",
+  "unfavorable_count": 114
+}

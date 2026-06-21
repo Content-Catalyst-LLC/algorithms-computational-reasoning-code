@@ -1,0 +1,20 @@
+[
+  {
+    "burden_bucket": "low_burden",
+    "case_count": 49,
+    "share_of_recourse_cases": 0.544444,
+    "interpretation": "Feasible recourse should be evaluated by burden, not only by mathematical possibility."
+  },
+  {
+    "burden_bucket": "moderate_burden",
+    "case_count": 20,
+    "share_of_recourse_cases": 0.222222,
+    "interpretation": "Feasible recourse should be evaluated by burden, not only by mathematical possibility."
+  },
+  {
+    "burden_bucket": "high_burden",
+    "case_count": 21,
+    "share_of_recourse_cases": 0.233333,
+    "interpretation": "Feasible recourse should be evaluated by burden, not only by mathematical possibility."
+  }
+]

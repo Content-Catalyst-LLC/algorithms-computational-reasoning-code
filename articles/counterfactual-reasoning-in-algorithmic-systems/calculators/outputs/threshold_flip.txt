@@ -1,0 +1,4 @@
+score=0.580000
+threshold=0.620000
+gap=0.040000
+required_delta=0.033333
