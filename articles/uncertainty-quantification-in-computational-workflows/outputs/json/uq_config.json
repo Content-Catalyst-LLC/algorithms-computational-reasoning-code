@@ -1,0 +1,10 @@
+{
+  "baseline_adaptation_rate": 0.3,
+  "baseline_capacity": 0.5,
+  "baseline_demand": 0.55,
+  "baseline_failure_rate": 0.22,
+  "ensemble_size": 3000,
+  "experiment_name": "uncertainty_quantification_computational_workflows",
+  "seed": 2026,
+  "threshold": 0.62
+}

@@ -1,0 +1,9 @@
+{
+  "runs": 250,
+  "threshold": 0.62,
+  "mean": 0.48227,
+  "std": 0.071917,
+  "min": 0.263621,
+  "max": 0.658468,
+  "exceedance_probability": 0.016
+}

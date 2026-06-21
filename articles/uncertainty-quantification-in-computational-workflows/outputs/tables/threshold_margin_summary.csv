@@ -1,0 +1,2 @@
+interpretation,near_threshold_count,near_threshold_margin,near_threshold_share,threshold
+Near-threshold cases may require caution because small uncertainty can change decision categories.,156,0.03,0.052,0.62

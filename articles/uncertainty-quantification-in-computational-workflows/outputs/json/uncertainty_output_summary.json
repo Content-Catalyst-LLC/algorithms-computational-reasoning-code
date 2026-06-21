@@ -1,0 +1,15 @@
+{
+  "interpretation": "The ensemble summarizes output uncertainty from sampled inputs, parameters, and measurement noise.",
+  "max_risk_score": 0.738433,
+  "mean_risk_score": 0.479737,
+  "median_risk_score": 0.479218,
+  "min_risk_score": 0.24791,
+  "p05_risk_score": 0.363347,
+  "p25_risk_score": 0.429967,
+  "p75_risk_score": 0.529806,
+  "p95_risk_score": 0.596336,
+  "runs": 3000,
+  "std_risk_score": 0.071379,
+  "threshold": 0.62,
+  "threshold_exceedance_probability": 0.022
+}

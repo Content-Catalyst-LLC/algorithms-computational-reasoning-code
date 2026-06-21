@@ -1,0 +1,17 @@
+{
+  "article": "uncertainty-quantification-in-computational-workflows",
+  "calculators": [
+    {
+      "language": "python",
+      "path": "calculators/python/model_calculator.py",
+      "modes": ["single", "ensemble"],
+      "description": "Self-contained uncertainty propagation and threshold exceedance calculator."
+    },
+    {
+      "language": "r",
+      "path": "calculators/r/model_calculator.R",
+      "modes": ["single", "ensemble"],
+      "description": "Base R uncertainty propagation calculator."
+    }
+  ]
+}

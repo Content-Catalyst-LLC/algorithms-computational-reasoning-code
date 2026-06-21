@@ -1,0 +1,7 @@
+{
+  "interpretation": "Near-threshold cases may require caution because small uncertainty can change decision categories.",
+  "near_threshold_count": 156,
+  "near_threshold_margin": 0.03,
+  "near_threshold_share": 0.052,
+  "threshold": 0.62
+}

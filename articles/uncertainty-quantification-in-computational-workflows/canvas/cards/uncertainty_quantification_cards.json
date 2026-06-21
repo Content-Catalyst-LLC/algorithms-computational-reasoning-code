@@ -1,0 +1,14 @@
+[
+  {
+    "uncertainty_source": "parameter uncertainty",
+    "source_type": "estimated_parameter",
+    "review_question": "How much do output intervals change across plausible parameter values?",
+    "governance_implication": "Document assumptions and monitor influential parameters."
+  },
+  {
+    "uncertainty_source": "structural uncertainty",
+    "source_type": "model_form",
+    "review_question": "Do alternative model structures support the same conclusion?",
+    "governance_implication": "Report model disagreement and restrict use where structure drives results."
+  }
+]

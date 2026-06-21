@@ -1,0 +1,6 @@
+absolute_correlation,correlation_with_output,input_max,input_min,input_std,interpretation,uncertainty_source
+0.636291,0.636291,1.0,0.123301,0.119064,Higher absolute correlation indicates stronger association with output uncertainty in this audit.,demand
+0.518491,0.518491,0.151891,-0.113645,0.034743,Higher absolute correlation indicates stronger association with output uncertainty in this audit.,measurement_noise
+0.449762,-0.449762,0.861541,0.154185,0.099073,Higher absolute correlation indicates stronger association with output uncertainty in this audit.,capacity
+0.296684,0.296684,0.496384,0.0,0.081199,Higher absolute correlation indicates stronger association with output uncertainty in this audit.,failure_rate
+0.238203,-0.238203,0.630097,0.0,0.09931,Higher absolute correlation indicates stronger association with output uncertainty in this audit.,adaptation_rate

@@ -1,0 +1,42 @@
+[
+  {
+    "center": 0.55,
+    "distribution": "bounded_normal",
+    "interpretation": "Future demand is uncertain and affects system pressure.",
+    "name": "demand",
+    "source": "forecast_input",
+    "spread": 0.12
+  },
+  {
+    "center": 0.5,
+    "distribution": "bounded_normal",
+    "interpretation": "Available capacity is uncertain because staffing, infrastructure, and resources vary.",
+    "name": "capacity",
+    "source": "planning_assumption",
+    "spread": 0.1
+  },
+  {
+    "center": 0.22,
+    "distribution": "bounded_normal",
+    "interpretation": "Failure rate is estimated from limited evidence and may shift under stress.",
+    "name": "failure_rate",
+    "source": "estimated_parameter",
+    "spread": 0.08
+  },
+  {
+    "center": 0.3,
+    "distribution": "bounded_normal",
+    "interpretation": "Adaptation rate represents uncertain response and learning behavior.",
+    "name": "adaptation_rate",
+    "source": "behavioral_parameter",
+    "spread": 0.1
+  },
+  {
+    "center": 0.0,
+    "distribution": "normal",
+    "interpretation": "Measurement and reporting noise affect observed signals.",
+    "name": "measurement_noise",
+    "source": "measurement_error",
+    "spread": 0.035
+  }
+]

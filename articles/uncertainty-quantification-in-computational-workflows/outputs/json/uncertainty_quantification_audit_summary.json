@@ -1,0 +1,14 @@
+{
+  "article": "uncertainty_quantification_in_computational_workflows",
+  "ensemble_size": 3000,
+  "interpretation": "Uncertainty quantification supports responsible computational reasoning by documenting sources, propagation, intervals, exceedance probabilities, influential uncertainties, and governance implications.",
+  "mean_risk_score": 0.479737,
+  "most_influential_uncertainty_source": "demand",
+  "near_threshold_share": 0.052,
+  "p05_risk_score": 0.363347,
+  "p95_risk_score": 0.596336,
+  "review_items_needing_attention": 4,
+  "threshold": 0.62,
+  "threshold_exceedance_probability": 0.022,
+  "timestamp_utc": "2026-06-21T05:42:58.288436+00:00"
+}

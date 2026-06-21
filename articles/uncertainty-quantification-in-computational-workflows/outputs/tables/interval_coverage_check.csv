@@ -1,0 +1,2 @@
+empirical_coverage,interpretation,interval_type,lower_bound,upper_bound
+0.9,Empirical ensemble coverage checks whether the reported interval matches the generated distribution.,central_90_percent_empirical_interval,0.363347,0.596336

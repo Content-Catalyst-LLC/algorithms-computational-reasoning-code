@@ -1,0 +1,6 @@
+center,distribution,interpretation,name,source,spread
+0.55,bounded_normal,Future demand is uncertain and affects system pressure.,demand,forecast_input,0.12
+0.5,bounded_normal,"Available capacity is uncertain because staffing, infrastructure, and resources vary.",capacity,planning_assumption,0.1
+0.22,bounded_normal,Failure rate is estimated from limited evidence and may shift under stress.,failure_rate,estimated_parameter,0.08
+0.3,bounded_normal,Adaptation rate represents uncertain response and learning behavior.,adaptation_rate,behavioral_parameter,0.1
+0.0,normal,Measurement and reporting noise affect observed signals.,measurement_noise,measurement_error,0.035

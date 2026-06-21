@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Uncertainty Quantification Card",
+  "type": "object",
+  "required": ["uncertainty_source", "source_type", "review_question", "governance_implication"],
+  "properties": {
+    "uncertainty_source": {"type": "string"},
+    "source_type": {"type": "string"},
+    "review_question": {"type": "string"},
+    "governance_implication": {"type": "string"}
+  }
+}

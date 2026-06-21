@@ -1,0 +1,10 @@
+check,question,status
+uncertainty_inventory_created,Are major uncertainty sources listed and described?,complete
+uncertainty_ranges_documented,"Are uncertainty ranges tied to evidence, calibration, or expert review?",partial
+propagation_method_documented,Is the propagation method described?,complete
+ensemble_size_recorded,Is the number of simulation runs recorded?,complete
+threshold_exceedance_reported,Is decision-relevant threshold probability reported?,complete
+influential_sources_identified,Are the main contributors to output uncertainty identified?,complete
+structural_uncertainty_reviewed,Are alternative model structures compared?,needs_review
+uncertainty_communication_reviewed,Are uncertainty summaries explained in plain language for intended users?,partial
+governance_implications_documented,"Are uncertainty findings tied to use limits, review triggers, or decision safeguards?",partial

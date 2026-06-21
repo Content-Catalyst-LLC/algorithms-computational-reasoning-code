@@ -1,0 +1,47 @@
+[
+  {
+    "absolute_correlation": 0.636291,
+    "correlation_with_output": 0.636291,
+    "input_max": 1.0,
+    "input_min": 0.123301,
+    "input_std": 0.119064,
+    "interpretation": "Higher absolute correlation indicates stronger association with output uncertainty in this audit.",
+    "uncertainty_source": "demand"
+  },
+  {
+    "absolute_correlation": 0.518491,
+    "correlation_with_output": 0.518491,
+    "input_max": 0.151891,
+    "input_min": -0.113645,
+    "input_std": 0.034743,
+    "interpretation": "Higher absolute correlation indicates stronger association with output uncertainty in this audit.",
+    "uncertainty_source": "measurement_noise"
+  },
+  {
+    "absolute_correlation": 0.449762,
+    "correlation_with_output": -0.449762,
+    "input_max": 0.861541,
+    "input_min": 0.154185,
+    "input_std": 0.099073,
+    "interpretation": "Higher absolute correlation indicates stronger association with output uncertainty in this audit.",
+    "uncertainty_source": "capacity"
+  },
+  {
+    "absolute_correlation": 0.296684,
+    "correlation_with_output": 0.296684,
+    "input_max": 0.496384,
+    "input_min": 0.0,
+    "input_std": 0.081199,
+    "interpretation": "Higher absolute correlation indicates stronger association with output uncertainty in this audit.",
+    "uncertainty_source": "failure_rate"
+  },
+  {
+    "absolute_correlation": 0.238203,
+    "correlation_with_output": -0.238203,
+    "input_max": 0.630097,
+    "input_min": 0.0,
+    "input_std": 0.09931,
+    "interpretation": "Higher absolute correlation indicates stronger association with output uncertainty in this audit.",
+    "uncertainty_source": "adaptation_rate"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "empirical_coverage": 0.9,
+  "interpretation": "Empirical ensemble coverage checks whether the reported interval matches the generated distribution.",
+  "interval_type": "central_90_percent_empirical_interval",
+  "lower_bound": 0.363347,
+  "upper_bound": 0.596336
+}

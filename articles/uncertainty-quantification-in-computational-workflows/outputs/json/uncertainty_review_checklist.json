@@ -1,0 +1,47 @@
+[
+  {
+    "check": "uncertainty_inventory_created",
+    "question": "Are major uncertainty sources listed and described?",
+    "status": "complete"
+  },
+  {
+    "check": "uncertainty_ranges_documented",
+    "question": "Are uncertainty ranges tied to evidence, calibration, or expert review?",
+    "status": "partial"
+  },
+  {
+    "check": "propagation_method_documented",
+    "question": "Is the propagation method described?",
+    "status": "complete"
+  },
+  {
+    "check": "ensemble_size_recorded",
+    "question": "Is the number of simulation runs recorded?",
+    "status": "complete"
+  },
+  {
+    "check": "threshold_exceedance_reported",
+    "question": "Is decision-relevant threshold probability reported?",
+    "status": "complete"
+  },
+  {
+    "check": "influential_sources_identified",
+    "question": "Are the main contributors to output uncertainty identified?",
+    "status": "complete"
+  },
+  {
+    "check": "structural_uncertainty_reviewed",
+    "question": "Are alternative model structures compared?",
+    "status": "needs_review"
+  },
+  {
+    "check": "uncertainty_communication_reviewed",
+    "question": "Are uncertainty summaries explained in plain language for intended users?",
+    "status": "partial"
+  },
+  {
+    "check": "governance_implications_documented",
+    "question": "Are uncertainty findings tied to use limits, review triggers, or decision safeguards?",
+    "status": "partial"
+  }
+]
