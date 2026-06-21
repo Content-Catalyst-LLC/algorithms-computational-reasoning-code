@@ -1,0 +1,10 @@
+check,question,status
+baseline_defined,Is the reference case documented?,complete
+parameters_identified,"Are inputs, parameters, thresholds, and assumptions listed?",complete
+ranges_justified,"Are tested ranges tied to evidence, uncertainty, or plausible scenarios?",partial
+one_at_a_time_sweep_completed,Was a first-pass parameter sweep performed?,complete
+scenario_comparison_completed,Were structured scenarios compared?,complete
+threshold_sensitivity_completed,Were decision cutoffs tested?,complete
+seed_sensitivity_completed,Were stochastic runs repeated across seeds?,complete
+structural_sensitivity_reviewed,Were alternative model structures compared?,needs_review
+governance_implications_documented,"Are sensitivity findings tied to monitoring, use limits, or decision governance?",partial

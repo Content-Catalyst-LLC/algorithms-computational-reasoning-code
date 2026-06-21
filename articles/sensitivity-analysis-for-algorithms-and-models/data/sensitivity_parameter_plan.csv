@@ -1,0 +1,7 @@
+parameter,baseline,low,high,review_reason
+demand_growth,0.45,0.20,0.75,Tests demand-side uncertainty and pressure on system risk
+capacity_investment,0.35,0.10,0.70,Tests whether added capacity stabilizes outputs
+failure_rate,0.25,0.05,0.60,Tests vulnerability to breakdown or loss of function
+adaptation_rate,0.30,0.05,0.65,Tests learning recovery and adaptive response
+threshold,0.60,0.35,0.85,Tests decision cutoff sensitivity
+noise_scale,0.015,0.000,0.050,Tests stochastic variation across runs

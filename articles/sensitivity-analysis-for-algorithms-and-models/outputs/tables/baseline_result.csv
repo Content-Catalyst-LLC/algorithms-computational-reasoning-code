@@ -1,0 +1,2 @@
+adaptation_rate,average_risk,capacity_investment,demand_growth,failure_rate,interpretation,name,noise_scale,periods,seed,stability_margin,threshold,threshold_crossings
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",baseline,0.015,40,2026,0.172227,0.6,0

@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": ["check", "status", "question"],
+  "properties": {
+    "check": {"type": "string"},
+    "status": {"type": "string"},
+    "question": {"type": "string"}
+  }
+}

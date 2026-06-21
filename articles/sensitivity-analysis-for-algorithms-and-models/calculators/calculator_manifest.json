@@ -1,0 +1,11 @@
+{
+  "article": "Sensitivity Analysis for Algorithms and Models",
+  "slug": "sensitivity-analysis-for-algorithms-and-models",
+  "calculators": [
+    "local_sensitivity",
+    "normalized_sensitivity",
+    "threshold_flip_rate",
+    "one_at_a_time_sweep"
+  ],
+  "purpose": "Reusable calculator layer for sensitivity review, robustness testing, and future website interaction."
+}

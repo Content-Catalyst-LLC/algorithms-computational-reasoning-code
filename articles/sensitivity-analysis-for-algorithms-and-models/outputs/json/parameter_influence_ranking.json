@@ -1,0 +1,52 @@
+[
+  {
+    "interpretation": "Larger ranges indicate stronger influence on outputs across tested values.",
+    "max_absolute_change_from_baseline": 0.257701,
+    "max_average_risk": 0.685474,
+    "min_average_risk": 0.280173,
+    "parameter": "failure_rate",
+    "risk_range": 0.405301,
+    "tested_values": 5,
+    "threshold_crossing_range": 24.0
+  },
+  {
+    "interpretation": "Larger ranges indicate stronger influence on outputs across tested values.",
+    "max_absolute_change_from_baseline": 0.22855,
+    "max_average_risk": 0.591023,
+    "min_average_risk": 0.199223,
+    "parameter": "adaptation_rate",
+    "risk_range": 0.3918,
+    "tested_values": 5,
+    "threshold_crossing_range": 17.0
+  },
+  {
+    "interpretation": "Larger ranges indicate stronger influence on outputs across tested values.",
+    "max_absolute_change_from_baseline": 0.1707,
+    "max_average_risk": 0.598473,
+    "min_average_risk": 0.285523,
+    "parameter": "demand_growth",
+    "risk_range": 0.31295,
+    "tested_values": 5,
+    "threshold_crossing_range": 18.0
+  },
+  {
+    "interpretation": "Larger ranges indicate stronger influence on outputs across tested values.",
+    "max_absolute_change_from_baseline": 0.17675,
+    "max_average_risk": 0.554023,
+    "min_average_risk": 0.251023,
+    "parameter": "capacity_investment",
+    "risk_range": 0.303,
+    "tested_values": 5,
+    "threshold_crossing_range": 14.0
+  },
+  {
+    "interpretation": "Larger ranges indicate stronger influence on outputs across tested values.",
+    "max_absolute_change_from_baseline": 0.093628,
+    "max_average_risk": 0.4679,
+    "min_average_risk": 0.334145,
+    "parameter": "noise_scale",
+    "risk_range": 0.133755,
+    "tested_values": 5,
+    "threshold_crossing_range": 0.0
+  }
+]

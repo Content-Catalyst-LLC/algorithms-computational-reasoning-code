@@ -1,0 +1,8 @@
+adaptation_rate,average_risk,capacity_investment,demand_growth,failure_rate,interpretation,name,noise_scale,periods,seed,stability_margin,sweep_type,threshold,threshold_crossings
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",baseline,0.015,40,2026,0.172227,scenario,0.6,0
+0.3,0.598473,0.35,0.75,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",high_demand,0.015,40,2026,0.001527,scenario,0.6,18
+0.3,0.554023,0.1,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",low_capacity,0.015,40,2026,0.045977,scenario,0.6,14
+0.3,0.685474,0.35,0.45,0.6,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",high_failure,0.015,40,2026,-0.085474,scenario,0.6,24
+0.65,0.199223,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",rapid_adaptation,0.015,40,2026,0.400777,scenario,0.6,0
+0.1,0.912876,0.1,0.8,0.65,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",stress_case,0.015,40,2026,-0.312876,scenario,0.6,39
+0.7,0.01902,0.7,0.3,0.1,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",resilience_case,0.015,40,2026,0.58098,scenario,0.6,0

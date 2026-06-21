@@ -1,0 +1,12 @@
+{
+  "article": "sensitivity_analysis_for_algorithms_and_models",
+  "baseline_average_risk": 0.427773,
+  "baseline_threshold_crossings": 0,
+  "high_risk_run_share": 0.0625,
+  "interpretation": "Sensitivity analysis identifies which assumptions drive results, which conclusions remain robust, and which choices require governance review.",
+  "most_influential_parameter": "failure_rate",
+  "most_influential_parameter_risk_range": 0.405301,
+  "review_items_needing_attention": 3,
+  "runs_reviewed": 80,
+  "timestamp_utc": "2026-06-21T04:04:09.567094+00:00"
+}

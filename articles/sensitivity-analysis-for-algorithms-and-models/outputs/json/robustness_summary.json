@@ -1,0 +1,12 @@
+{
+  "high_risk_run_count": 5,
+  "high_risk_run_share": 0.0625,
+  "interpretation": "Robustness review compares whether conclusions remain stable across sweeps, scenarios, thresholds, and seeds.",
+  "max_average_risk": 0.912876,
+  "max_threshold_crossings": 39,
+  "mean_average_risk": 0.455627,
+  "min_average_risk": 0.01902,
+  "min_threshold_crossings": 0,
+  "runs_reviewed": 80,
+  "std_average_risk": 0.114315
+}

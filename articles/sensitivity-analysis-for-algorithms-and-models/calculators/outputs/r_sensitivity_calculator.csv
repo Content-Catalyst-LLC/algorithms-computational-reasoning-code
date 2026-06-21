@@ -1,0 +1,5 @@
+"parameter","baseline_output","perturbed_output","local_sensitivity","normalized_sensitivity"
+"demand",0.6325,0.6355,0.3,0.213439
+"capacity",0.6325,0.6305,-0.2,-0.110672
+"failure",0.6325,0.635,0.25,0.098814
+"adaptation",0.6325,0.631,-0.15,-0.071146

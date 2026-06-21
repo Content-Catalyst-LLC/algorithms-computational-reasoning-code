@@ -1,0 +1,8 @@
+adaptation_rate,average_risk,capacity_investment,demand_growth,failure_rate,interpretation,name,noise_scale,periods,seed,stability_margin,sweep_type,threshold,threshold_crossings,varied_parameter,varied_value
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.35,0.015,40,2026,-0.077773,threshold_sweep,0.35,39,threshold,0.35
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.45,0.015,40,2026,0.022227,threshold_sweep,0.45,16,threshold,0.45
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.55,0.015,40,2026,0.122227,threshold_sweep,0.55,0,threshold,0.55
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.6,0.015,40,2026,0.172227,threshold_sweep,0.6,0,threshold,0.6
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.65,0.015,40,2026,0.222227,threshold_sweep,0.65,0,threshold,0.65
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.75,0.015,40,2026,0.322227,threshold_sweep,0.75,0,threshold,0.75
+0.3,0.427773,0.35,0.45,0.25,"Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",threshold_0.85,0.015,40,2026,0.422227,threshold_sweep,0.85,0,threshold,0.85

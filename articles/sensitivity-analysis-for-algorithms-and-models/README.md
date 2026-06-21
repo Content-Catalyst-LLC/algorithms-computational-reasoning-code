@@ -1,37 +1,51 @@
-# Sensitivity Analysis for Algorithms and Models (planned)
+# Sensitivity Analysis for Algorithms and Models
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Simulation, Modeling, and Scientific Computing  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Sensitivity Analysis for Algorithms and Models** in the **Algorithms & Computational Reasoning** series.
 
-## Purpose
+The article examines how computational outputs change when assumptions, inputs, parameters, thresholds, rules, data, random seeds, or model structures shift. The goal is to make algorithmic conclusions more inspectable, reproducible, testable, and accountable.
 
-This folder will hold computational companion materials for the planned article:
-**Sensitivity Analysis for Algorithms and Models**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `model-validation-testing-and-computational-evidence`
+- Current: `sensitivity-analysis-for-algorithms-and-models`
+- Next: `uncertainty-quantification-in-computational-workflows`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Core workflow
 
-## Notes
+Run the Python reference workflow:
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+```bash
+python3 python/sensitivity_analysis_audit.py
+```
+
+Then summarize with R when available:
+
+```bash
+Rscript r/sensitivity_summary.R
+```
+
+Run the calculator layer smoke test:
+
+```bash
+bash calculators/run_calculator_smoke_tests.sh
+```
+
+Run all available checks:
+
+```bash
+bash run_all_available.sh
+```
+
+## Outputs
+
+Generated outputs are written to:
+
+- `outputs/tables/`
+- `outputs/json/`
+- `outputs/figures/`
+- `outputs/logs/`
+- `calculators/outputs/`
+
+## Governance note
+
+Sensitivity analysis should expose dependence, not create false confidence. Every sweep should document what varied, what stayed fixed, why ranges were selected, and how findings affect validation, monitoring, and decision use.

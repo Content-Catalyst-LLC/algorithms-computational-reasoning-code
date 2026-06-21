@@ -1,0 +1,47 @@
+[
+  {
+    "check": "baseline_defined",
+    "question": "Is the reference case documented?",
+    "status": "complete"
+  },
+  {
+    "check": "parameters_identified",
+    "question": "Are inputs, parameters, thresholds, and assumptions listed?",
+    "status": "complete"
+  },
+  {
+    "check": "ranges_justified",
+    "question": "Are tested ranges tied to evidence, uncertainty, or plausible scenarios?",
+    "status": "partial"
+  },
+  {
+    "check": "one_at_a_time_sweep_completed",
+    "question": "Was a first-pass parameter sweep performed?",
+    "status": "complete"
+  },
+  {
+    "check": "scenario_comparison_completed",
+    "question": "Were structured scenarios compared?",
+    "status": "complete"
+  },
+  {
+    "check": "threshold_sensitivity_completed",
+    "question": "Were decision cutoffs tested?",
+    "status": "complete"
+  },
+  {
+    "check": "seed_sensitivity_completed",
+    "question": "Were stochastic runs repeated across seeds?",
+    "status": "complete"
+  },
+  {
+    "check": "structural_sensitivity_reviewed",
+    "question": "Were alternative model structures compared?",
+    "status": "needs_review"
+  },
+  {
+    "check": "governance_implications_documented",
+    "question": "Are sensitivity findings tied to monitoring, use limits, or decision governance?",
+    "status": "partial"
+  }
+]

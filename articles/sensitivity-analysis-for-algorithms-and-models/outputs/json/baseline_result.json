@@ -1,0 +1,15 @@
+{
+  "adaptation_rate": 0.3,
+  "average_risk": 0.427773,
+  "capacity_investment": 0.35,
+  "demand_growth": 0.45,
+  "failure_rate": 0.25,
+  "interpretation": "Outputs depend on demand, capacity, failure, adaptation, threshold, noise, and random seed.",
+  "name": "baseline",
+  "noise_scale": 0.015,
+  "periods": 40,
+  "seed": 2026,
+  "stability_margin": 0.172227,
+  "threshold": 0.6,
+  "threshold_crossings": 0
+}

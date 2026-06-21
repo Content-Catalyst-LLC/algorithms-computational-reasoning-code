@@ -1,0 +1,6 @@
+interpretation,max_absolute_change_from_baseline,max_average_risk,min_average_risk,parameter,risk_range,tested_values,threshold_crossing_range
+Larger ranges indicate stronger influence on outputs across tested values.,0.257701,0.685474,0.280173,failure_rate,0.405301,5,24.0
+Larger ranges indicate stronger influence on outputs across tested values.,0.22855,0.591023,0.199223,adaptation_rate,0.3918,5,17.0
+Larger ranges indicate stronger influence on outputs across tested values.,0.1707,0.598473,0.285523,demand_growth,0.31295,5,18.0
+Larger ranges indicate stronger influence on outputs across tested values.,0.17675,0.554023,0.251023,capacity_investment,0.303,5,14.0
+Larger ranges indicate stronger influence on outputs across tested values.,0.093628,0.4679,0.334145,noise_scale,0.133755,5,0.0

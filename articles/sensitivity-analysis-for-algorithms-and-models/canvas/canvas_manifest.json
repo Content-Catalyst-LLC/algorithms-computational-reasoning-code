@@ -1,0 +1,10 @@
+{
+  "article": "Sensitivity Analysis for Algorithms and Models",
+  "slug": "sensitivity-analysis-for-algorithms-and-models",
+  "cards": [
+    "sensitivity-review-checklist",
+    "parameter-influence-ranking",
+    "threshold-sensitivity",
+    "scenario-comparison"
+  ]
+}

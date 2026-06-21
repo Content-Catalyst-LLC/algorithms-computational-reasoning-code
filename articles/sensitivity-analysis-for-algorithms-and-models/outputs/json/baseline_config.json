@@ -1,0 +1,10 @@
+{
+  "adaptation_rate": 0.3,
+  "capacity_investment": 0.35,
+  "demand_growth": 0.45,
+  "failure_rate": 0.25,
+  "name": "baseline",
+  "noise_scale": 0.015,
+  "seed": 2026,
+  "threshold": 0.6
+}
