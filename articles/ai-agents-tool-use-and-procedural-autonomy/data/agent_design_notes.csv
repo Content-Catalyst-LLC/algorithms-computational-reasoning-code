@@ -1,0 +1,8 @@
+item,description,review_question
+goal,Define the bounded workflow objective,Is the goal clear safe and reversible?
+tool_registry,List tools and allowed actions,Which tools can read write execute send or update?
+permissions,Define least privilege and approval gates,What actions require human approval?
+state_trace,Record state action observation sequences,Can the workflow be reconstructed after failure?
+escalation,Set thresholds for human review,When must the agent stop or escalate?
+security,Review prompt injection and unsafe tool calls,How is untrusted content separated from instructions?
+governance,Connect autonomy to accountability,Who owns the system and its consequences?

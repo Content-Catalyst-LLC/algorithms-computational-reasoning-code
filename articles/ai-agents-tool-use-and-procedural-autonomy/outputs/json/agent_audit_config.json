@@ -1,0 +1,6 @@
+{
+  "article": "ai_agents_tool_use_and_procedural_autonomy",
+  "escalation_threshold": 0.65,
+  "max_steps_without_review": 3,
+  "require_approval_for_write_actions": true
+}

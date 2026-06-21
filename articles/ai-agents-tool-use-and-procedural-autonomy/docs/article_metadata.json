@@ -1,0 +1,19 @@
+{
+  "title": "AI Agents, Tool Use, and Procedural Autonomy",
+  "slug": "ai-agents-tool-use-and-procedural-autonomy",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "next": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "repo_folder": "articles/ai-agents-tool-use-and-procedural-autonomy",
+  "topics": [
+    "AI agents",
+    "tool use",
+    "procedural autonomy",
+    "workflow automation",
+    "permission design",
+    "human oversight",
+    "prompt injection",
+    "agentic AI governance",
+    "risk management"
+  ]
+}

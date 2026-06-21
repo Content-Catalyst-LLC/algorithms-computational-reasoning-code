@@ -1,0 +1,8 @@
+item,review_question,status
+intended_use,What workflow may the agent support?,required
+tool_permissions,Which tools are allowed for this task?,required
+approval_gates,Which actions require human confirmation?,required
+state_logging,Can steps and observations be reconstructed?,required
+security_controls,How are prompt injection and unsafe tool calls handled?,required
+rollback,Can harmful or mistaken actions be reversed?,required
+contestability,Can affected people challenge outputs or actions?,required

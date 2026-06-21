@@ -1,0 +1,4 @@
+control,risk,scenario,status
+"Treat retrieved content as data, not instruction.",Untrusted document tells agent to ignore system instructions.,retrieved_document_contains_instruction,required
+Validate tool outputs and block command execution without approval.,External tool output asks agent to execute a hidden command.,tool_output_contains_command,required
+Deny access and log incident.,Prompt attempts to reveal secrets or private data.,credential_exfiltration_request,required

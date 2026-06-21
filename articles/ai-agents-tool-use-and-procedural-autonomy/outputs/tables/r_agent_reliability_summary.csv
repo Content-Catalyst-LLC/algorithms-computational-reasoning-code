@@ -1,0 +1,2 @@
+"actions_reviewed","actions_passed","actions_escalated","actions_blocked","approval_violations","untrusted_instruction_events","mean_tool_risk","recommended_autonomy_level","diagnostic_note"
+6,3,0,3,3,2,0.558333,"supervised_action_only","Agent reliability should be reviewed through tool permissions, approval gates, escalation thresholds, prompt-injection controls, and workflow logs."

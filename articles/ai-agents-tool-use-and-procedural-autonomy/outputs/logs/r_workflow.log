@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+  actions_reviewed actions_passed actions_escalated actions_blocked
+1                6              3                 0               3
+  approval_violations untrusted_instruction_events mean_tool_risk
+1                   3                            2       0.558333
+  recommended_autonomy_level
+1     supervised_action_only
+                                                                                                                                      diagnostic_note
+1 Agent reliability should be reviewed through tool permissions, approval gates, escalation thresholds, prompt-injection controls, and workflow logs.

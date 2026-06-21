@@ -1,0 +1,8 @@
+action_type,approval_required,permission_scope,risk,tool
+read,0,selected_documents,0.2,document_search
+compute,0,local_calculation,0.1,calculator
+execute,1,sandbox_only,0.55,code_runner
+draft,0,draft_only,0.35,email_draft
+external_write,1,external_communication,0.85,email_send
+write,1,restricted_records,0.9,database_update
+execute,1,blocked_by_default,0.95,shell_command

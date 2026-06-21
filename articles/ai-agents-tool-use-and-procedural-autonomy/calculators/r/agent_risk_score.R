@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+risk <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.65)
+observation_quality <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.80)
+review_score <- max(0, min(1, observation_quality - risk + 0.5))
+cat(sprintf("risk=%.6f\n", risk))
+cat(sprintf("observation_quality=%.6f\n", observation_quality))
+cat(sprintf("review_score=%.6f\n", review_score))

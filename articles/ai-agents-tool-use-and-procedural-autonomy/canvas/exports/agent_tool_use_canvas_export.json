@@ -1,0 +1,18 @@
+{
+  "article": "ai-agents-tool-use-and-procedural-autonomy",
+  "canvas_cards": [
+    "Tools Need Boundaries",
+    "Autonomy Is a Governance Level",
+    "Treat Retrieved Content as Data"
+  ],
+  "review_layers": [
+    "goal",
+    "tool_registry",
+    "permissions",
+    "state_trace",
+    "approval_gates",
+    "prompt_injection",
+    "escalation",
+    "governance"
+  ]
+}

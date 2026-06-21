@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgentToolUseAudit",
+  "type": "object",
+  "required": [
+    "step",
+    "tool",
+    "action_type",
+    "approval_required",
+    "status"
+  ],
+  "properties": {
+    "step": {
+      "type": "integer"
+    },
+    "tool": {
+      "type": "string"
+    },
+    "action_type": {
+      "type": "string"
+    },
+    "tool_risk": {
+      "type": "number"
+    },
+    "approval_required": {
+      "type": "integer"
+    },
+    "approved": {
+      "type": "integer"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

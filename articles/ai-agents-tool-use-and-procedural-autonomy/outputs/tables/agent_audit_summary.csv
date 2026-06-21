@@ -1,0 +1,2 @@
+actions_blocked,actions_escalated,actions_passed,actions_reviewed,approval_violations,article,interpretation,mean_tool_risk,recommended_autonomy_level,security_checks,timestamp_utc,tools_registered,untrusted_instruction_events
+3,0,3,6,3,ai_agents_tool_use_and_procedural_autonomy,"Agentic systems should be audited as procedural workflows with permissions, approvals, observations, escalation, security controls, and accountability records.",0.558333,supervised_action_only,3,2026-06-21T18:17:46.591085+00:00,7,2

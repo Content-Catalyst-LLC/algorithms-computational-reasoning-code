@@ -1,0 +1,23 @@
+{
+  "article": "ai-agents-tool-use-and-procedural-autonomy",
+  "calculators": [
+    {
+      "name": "permission_gate_calculator",
+      "language": "python",
+      "path": "calculators/python/permission_gate_calculator.py",
+      "purpose": "Evaluate whether a tool action passes approval and risk gates."
+    },
+    {
+      "name": "autonomy_level_calculator",
+      "language": "python",
+      "path": "calculators/python/autonomy_level_calculator.py",
+      "purpose": "Recommend an autonomy level from workflow audit counts."
+    },
+    {
+      "name": "agent_risk_score",
+      "language": "r",
+      "path": "calculators/r/agent_risk_score.R",
+      "purpose": "Combine risk and observation quality into a simple review score."
+    }
+  ]
+}

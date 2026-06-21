@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "tool_permissions",
+    "title": "Tools Need Boundaries",
+    "prompt": "Separate read, compute, execute, draft, write, and external-write actions before granting agent permissions."
+  },
+  {
+    "card_id": "procedural_autonomy",
+    "title": "Autonomy Is a Governance Level",
+    "prompt": "Increase autonomy only when approval, monitoring, rollback, and incident response improve with it."
+  },
+  {
+    "card_id": "prompt_injection",
+    "title": "Treat Retrieved Content as Data",
+    "prompt": "Untrusted documents and tool outputs should not become instructions."
+  }
+]

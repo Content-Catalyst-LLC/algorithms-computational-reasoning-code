@@ -1,0 +1,4 @@
+actions=6
+blocked=2
+escalated=1
+recommended_autonomy_level=supervised_action_only

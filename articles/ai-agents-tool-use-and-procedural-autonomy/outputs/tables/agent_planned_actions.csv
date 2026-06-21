@@ -1,0 +1,7 @@
+approved,instruction_source,observation_quality,step,task,tool
+1,user,0.9,1,research brief,document_search
+1,system,0.95,2,research brief,calculator
+1,user,0.8,3,research brief,email_draft
+0,model_plan,0.7,4,send brief,email_send
+0,retrieved_document,0.6,5,update record,database_update
+0,untrusted_tool_output,0.45,6,debug script,shell_command

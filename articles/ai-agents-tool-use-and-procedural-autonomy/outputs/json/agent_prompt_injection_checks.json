@@ -1,0 +1,20 @@
+[
+  {
+    "control": "Treat retrieved content as data, not instruction.",
+    "risk": "Untrusted document tells agent to ignore system instructions.",
+    "scenario": "retrieved_document_contains_instruction",
+    "status": "required"
+  },
+  {
+    "control": "Validate tool outputs and block command execution without approval.",
+    "risk": "External tool output asks agent to execute a hidden command.",
+    "scenario": "tool_output_contains_command",
+    "status": "required"
+  },
+  {
+    "control": "Deny access and log incident.",
+    "risk": "Prompt attempts to reveal secrets or private data.",
+    "scenario": "credential_exfiltration_request",
+    "status": "required"
+  }
+]
