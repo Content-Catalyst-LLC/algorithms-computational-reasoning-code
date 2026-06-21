@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "task_stakes",
+    "front": "Why classify LLM task stakes?",
+    "back": "Stakes determine verification, review, and escalation requirements."
+  },
+  {
+    "card_id": "source_grounding",
+    "front": "What is source grounding?",
+    "back": "Connecting factual claims to cited, retrievable, authoritative evidence."
+  },
+  {
+    "card_id": "tool_use",
+    "front": "Why is tool use a governance issue?",
+    "back": "Tool calls can calculate, retrieve, write, send, or act beyond text generation."
+  },
+  {
+    "card_id": "hallucination",
+    "front": "What is hallucination risk?",
+    "back": "The risk that fluent output contains unsupported, fabricated, or misleading claims."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "title": "Large Language Models and Procedural Reasoning",
+  "slug": "large-language-models-and-procedural-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "neural-networks-and-representation-learning",
+  "next": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "repo_folder": "articles/large-language-models-and-procedural-reasoning",
+  "topics": [
+    "large language models",
+    "procedural reasoning",
+    "transformers",
+    "prompting",
+    "retrieval augmented generation",
+    "chain-of-thought",
+    "tool use",
+    "hallucination",
+    "evaluation",
+    "governance"
+  ]
+}

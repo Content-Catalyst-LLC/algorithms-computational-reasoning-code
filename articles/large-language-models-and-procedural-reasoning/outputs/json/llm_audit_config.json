@@ -1,0 +1,14 @@
+{
+  "article": "large_language_models_and_procedural_reasoning",
+  "high_stakes_penalty": 0.25,
+  "minimum_steps": 3,
+  "require_citations_for_factual_claims": true,
+  "risk_terms": [
+    "guaranteed",
+    "always",
+    "never",
+    "proven",
+    "certain",
+    "definitely"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "article": "large-language-models-and-procedural-reasoning",
+  "calculators": [
+    {
+      "name": "procedural_score",
+      "path": "calculators/python/procedural_score_calculator.py"
+    },
+    {
+      "name": "source_support",
+      "path": "calculators/python/source_support_calculator.py"
+    },
+    {
+      "name": "risk_escalation",
+      "path": "calculators/python/risk_escalation_calculator.py"
+    },
+    {
+      "name": "context_budget",
+      "path": "calculators/python/context_budget_calculator.py"
+    }
+  ]
+}

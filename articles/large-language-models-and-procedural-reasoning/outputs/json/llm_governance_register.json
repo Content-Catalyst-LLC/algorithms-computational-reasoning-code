@@ -1,0 +1,32 @@
+[
+  {
+    "item": "intended_use",
+    "review_question": "What tasks may the LLM support?",
+    "status": "required"
+  },
+  {
+    "item": "source_grounding",
+    "review_question": "Which claims require citations or retrieved evidence?",
+    "status": "required"
+  },
+  {
+    "item": "tool_permissions",
+    "review_question": "What tools or actions may the model initiate?",
+    "status": "required"
+  },
+  {
+    "item": "human_review",
+    "review_question": "Who checks outputs before consequential use?",
+    "status": "required"
+  },
+  {
+    "item": "escalation",
+    "review_question": "When must the output be escalated to expert review?",
+    "status": "required"
+  },
+  {
+    "item": "use_boundary",
+    "review_question": "Where should the system not be used?",
+    "status": "required"
+  }
+]

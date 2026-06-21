@@ -1,0 +1,32 @@
+[
+  {
+    "allowed_without_approval": true,
+    "control": "citation review and source freshness check",
+    "risk": "stale or irrelevant evidence",
+    "tool_type": "retrieval"
+  },
+  {
+    "allowed_without_approval": true,
+    "control": "expression inspection and independent check",
+    "risk": "wrong expression or units",
+    "tool_type": "calculator"
+  },
+  {
+    "allowed_without_approval": false,
+    "control": "sandbox and permission review",
+    "risk": "unsafe code or data exposure",
+    "tool_type": "code_execution"
+  },
+  {
+    "allowed_without_approval": false,
+    "control": "explicit user approval before sending or changing",
+    "risk": "external consequence",
+    "tool_type": "email_or_calendar_action"
+  },
+  {
+    "allowed_without_approval": false,
+    "control": "role-based access and rollback",
+    "risk": "record alteration",
+    "tool_type": "database_write"
+  }
+]

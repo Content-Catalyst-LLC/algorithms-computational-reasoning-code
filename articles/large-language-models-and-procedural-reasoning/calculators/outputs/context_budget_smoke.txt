@@ -1,0 +1,4 @@
+estimated_input_tokens=3591
+reserved_output_tokens=1200
+remaining_context_tokens=3401
+fits=True

@@ -1,0 +1,13 @@
+field,description,review_note
+case_id,Synthetic case identifier,No real users or operational records are represented
+task,Task the LLM-style output is supposed to support,Used to classify procedural expectations
+output,Synthetic model-like response,Educational example only
+expected_sources,Synthetic source identifiers expected for grounded outputs,Used for citation coverage checks
+stakes,Low medium or high review level,High-stakes cases trigger stricter escalation
+requires_factual_support,Whether the output should cite sources,1 means source support is required
+steps_found,Number of explicit step markers detected,Simple procedural adequacy proxy
+procedural_score,Score based on step sufficiency,Does not prove reasoning quality
+source_score,Score based on required source coverage,Does not verify source truth by itself
+risk_score,Score based on certainty and overclaim language,Used to identify escalation needs
+overall_score,Combined diagnostic score,For review prioritization only
+status,pass review or escalate,Governance status not operational approval

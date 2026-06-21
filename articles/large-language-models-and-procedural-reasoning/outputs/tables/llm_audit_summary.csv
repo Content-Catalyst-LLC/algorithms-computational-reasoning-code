@@ -1,0 +1,2 @@
+article,cases_escalated,cases_passed,cases_requiring_review,cases_reviewed,interpretation,mean_overall_score,mean_procedural_score,mean_risk_score,mean_source_score,timestamp_utc
+large_language_models_and_procedural_reasoning,2,4,0,6,"LLM procedural outputs should be treated as reviewable artifacts, not self-validating reasoning.",0.736111,0.833333,0.666667,0.833333,2026-06-21T17:28:26.885216+00:00

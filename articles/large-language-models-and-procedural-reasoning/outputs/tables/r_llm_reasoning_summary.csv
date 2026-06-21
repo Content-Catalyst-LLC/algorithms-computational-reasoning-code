@@ -1,0 +1,2 @@
+"cases_reviewed","cases_passed","cases_requiring_review","cases_escalated","mean_overall_score","diagnostic_note"
+6,4,0,2,0.736111,"LLM outputs should be reviewed for source support, procedural adequacy, risk language, tool use, and escalation requirements."

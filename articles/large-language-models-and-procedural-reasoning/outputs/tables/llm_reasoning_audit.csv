@@ -1,0 +1,7 @@
+case_id,interpretation,missing_sources,overall_score,procedural_score,requires_factual_support,risk_flags,risk_score,source_score,stakes,status,steps_found,task,tool_used
+summary_001,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",,1.0,1.0,True,,1.0,1.0,medium,pass,3,summarize sourced policy note,retrieval
+code_002,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",,1.0,1.0,False,,1.0,1.0,medium,pass,3,generate data-cleaning function,code_draft
+health_003,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",h,0.0,0.0,True,guaranteed;always,0.0,0.0,high,escalate,0,answer high-stakes health question,none
+research_004,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",,1.0,1.0,True,,1.0,1.0,medium,pass,3,compare two papers,retrieval
+planning_005,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",,1.0,1.0,False,,1.0,1.0,low,pass,4,draft implementation plan,none
+legal_006,"LLM outputs should be reviewed for procedural structure, source support, risk language, stakes, tool use, and escalation needs.",,0.416667,1.0,True,certain,0.0,1.0,high,escalate,3,draft legal-adjacent compliance summary,retrieval

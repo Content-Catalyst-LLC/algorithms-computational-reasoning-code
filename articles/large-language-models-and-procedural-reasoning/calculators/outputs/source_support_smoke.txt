@@ -1,0 +1,4 @@
+expected=a;b
+found=a;b
+missing=
+source_score=1.000000

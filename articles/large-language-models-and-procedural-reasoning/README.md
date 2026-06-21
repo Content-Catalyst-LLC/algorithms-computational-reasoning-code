@@ -1,37 +1,44 @@
-# Large Language Models and Procedural Reasoning (planned)
+# Large Language Models and Procedural Reasoning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Machine Learning, AI, and Automated Reasoning  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Large Language Models and Procedural Reasoning**.
 
-## Purpose
+It provides reproducible, teaching-oriented workflows for auditing LLM-style procedural outputs, prompt constraints, source grounding, hallucination risk, tool-use oversight, escalation decisions, evaluation artifacts, governance records, and responsible deployment boundaries.
 
-This folder will hold computational companion materials for the planned article:
-**Large Language Models and Procedural Reasoning**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `neural-networks-and-representation-learning`
+- Current: `large-language-models-and-procedural-reasoning`
+- Next: `automated-reasoning-symbolic-ai-and-hybrid-systems`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## What this folder demonstrates
 
-## Notes
+This folder treats large language models as computational reasoning systems embedded in wider procedural workflows. It does not call a commercial or external LLM. Instead, it creates synthetic LLM-style outputs and audits them using transparent, dependency-light checks:
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+1. procedural structure and step sufficiency;
+2. source-grounding and citation coverage;
+3. risky certainty language;
+4. stakes-sensitive escalation;
+5. tool-permission and human-review requirements;
+6. governance documentation for LLM-assisted workflows.
+
+## Contents
+
+- `python/` — reference LLM procedural-reasoning audit workflow and tests
+- `r/` — diagnostic summaries and plots when R is available
+- `sql/` — schema and review queries for LLM audit records
+- `calculators/` — self-contained calculators for step scores, source support, risk escalation, and token budgeting
+- `docs/` — method notes, data dictionary, governance checklist, prompt review notes, and use-boundary documentation
+- `canvas/` — Canvas-ready cards, schemas, and exports
+- language folders — compact examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
+
+All datasets and outputs are synthetic and educational. They are not intended for operational, legal, medical, financial, or other high-stakes decisions.
+
+## Quick start
+
+```bash
+make run
+make test
+make calculator-smoke
+```
+
+Optional R diagnostics run automatically when `Rscript` is available.

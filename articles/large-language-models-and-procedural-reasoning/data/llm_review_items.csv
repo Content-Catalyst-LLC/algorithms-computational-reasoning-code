@@ -1,0 +1,9 @@
+item,description,review_question
+prompt_scope,Define task and limits,What is the model being asked to do?
+source_grounding,Require support for factual claims,Which sources support the answer?
+procedural_steps,Check stepwise adequacy,Are the steps sufficient and reviewable?
+tool_permissions,Bound external actions,What can the model call or change?
+hallucination_risk,Identify unsupported claims,What might be fabricated or overconfident?
+stakes_level,Classify consequence level,Who is affected if the output is wrong?
+human_review,Assign accountable reviewer,Who verifies and approves the result?
+use_boundary,Define where not to use,Where should this workflow be prohibited?

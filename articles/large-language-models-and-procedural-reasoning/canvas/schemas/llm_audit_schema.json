@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "required": [
+    "case_id",
+    "task",
+    "stakes",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "task": {
+      "type": "string"
+    },
+    "stakes": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "pass",
+        "review",
+        "escalate"
+      ]
+    },
+    "overall_score": {
+      "type": "number"
+    }
+  }
+}

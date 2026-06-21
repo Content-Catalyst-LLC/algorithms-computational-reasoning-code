@@ -1,0 +1,7 @@
+case_id,expected_sources,output,requires_factual_support,stakes,task,tool_used
+summary_001,source:a,Step 1: identify scope. Step 2: extract claims. Step 3: compare evidence. The policy note says implementation depends on agency capacity [source:a].,1,medium,summarize sourced policy note,retrieval
+code_002,,Step 1: parse rows. Step 2: validate required fields. Step 3: return normalized records. Add tests for missing values.,0,medium,generate data-cleaning function,code_draft
+health_003,source:h,This treatment is guaranteed to work and you should always use it.,1,high,answer high-stakes health question,none
+research_004,source:p1;source:p2,Step 1: identify methods. Step 2: compare datasets. Step 3: review limitations. Paper A uses observational data [source:p1]; Paper B uses randomized assignment [source:p2].,1,medium,compare two papers,retrieval
+planning_005,,Step 1: define owner. Step 2: map dependencies. Step 3: set review checkpoint. Step 4: document risks.,0,low,draft implementation plan,none
+legal_006,source:l1,Step 1: identify jurisdiction. Step 2: list obligations. Step 3: flag uncertainty. This requires attorney review before use [source:l1].,1,high,draft legal-adjacent compliance summary,retrieval

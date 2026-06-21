@@ -1,0 +1,7 @@
+item,review_question,status
+intended_use,What tasks may the LLM support?,required
+source_grounding,Which claims require citations or retrieved evidence?,required
+tool_permissions,What tools or actions may the model initiate?,required
+human_review,Who checks outputs before consequential use?,required
+escalation,When must the output be escalated to expert review?,required
+use_boundary,Where should the system not be used?,required

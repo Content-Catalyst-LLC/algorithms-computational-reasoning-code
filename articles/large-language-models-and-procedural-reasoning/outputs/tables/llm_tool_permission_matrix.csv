@@ -1,0 +1,6 @@
+allowed_without_approval,control,risk,tool_type
+True,citation review and source freshness check,stale or irrelevant evidence,retrieval
+True,expression inspection and independent check,wrong expression or units,calculator
+False,sandbox and permission review,unsafe code or data exposure,code_execution
+False,explicit user approval before sending or changing,external consequence,email_or_calendar_action
+False,role-based access and rollback,record alteration,database_write
