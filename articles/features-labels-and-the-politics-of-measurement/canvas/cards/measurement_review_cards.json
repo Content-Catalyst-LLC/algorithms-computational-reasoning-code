@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "prompt": "What concept is the model supposed to learn?",
+      "title": "Construct"
+    },
+    {
+      "prompt": "What observable measurement is being used as evidence?",
+      "title": "Feature"
+    },
+    {
+      "prompt": "Who assigned the label and under what process?",
+      "title": "Label"
+    },
+    {
+      "prompt": "What does this variable substitute for or obscure?",
+      "title": "Proxy Risk"
+    },
+    {
+      "prompt": "Where is the measurement too weak for automated action?",
+      "title": "Use Boundary"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+check,review_question,status
+label_disagreement,Is the training label close enough to the intended construct?,needs_review
+prior_access_missingness,Is missingness patterned by institutional access or group membership?,needs_review
+construct_definition,Has the construct been defined independently of easy-to-measure proxies?,required
+use_boundary,Where is measurement too weak for model deployment or automated action?,required

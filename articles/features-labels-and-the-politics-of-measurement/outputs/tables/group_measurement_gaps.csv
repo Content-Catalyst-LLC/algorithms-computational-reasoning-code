@@ -1,0 +1,7 @@
+absolute_gap,group_A,group_B,interpretation,metric
+0.043856,0.88417,0.840314,"Group gaps in measurement are audit signals, not proof of real-world difference.",label_positive_rate
+0.223999,0.202703,0.426702,"Group gaps in measurement are audit signals, not proof of real-world difference.",construct_positive_rate
+0.200115,0.739382,0.539267,"Group gaps in measurement are audit signals, not proof of real-world difference.",label_disagreement_rate
+0.059991,0.891041,0.83105,"Group gaps in measurement are audit signals, not proof of real-world difference.",false_positive_rate
+0.004382,0.142857,0.147239,"Group gaps in measurement are audit signals, not proof of real-world difference.",false_negative_rate
+0.079888,0.194981,0.274869,"Group gaps in measurement are audit signals, not proof of real-world difference.",missing_prior_access_rate

@@ -1,0 +1,6 @@
+{
+  "article": "Features, Labels, and the Politics of Measurement",
+  "cards_path": "canvas/cards/measurement_review_cards.json",
+  "schema_path": "canvas/schemas/measurement_audit_schema.json",
+  "workflow": "feature_label_measurement_review"
+}

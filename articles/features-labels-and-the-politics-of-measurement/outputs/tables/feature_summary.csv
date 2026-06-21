@@ -1,0 +1,6 @@
+feature,interpretation,maximum,mean,minimum,standard_deviation
+engagement_count,"Feature summary supports review of scale, spread, and proxy behavior.",15.182466,7.455976,0.0,2.337481
+application_completeness,"Feature summary supports review of scale, spread, and proxy behavior.",1.0,0.713317,0.260963,0.1499
+delay_days,"Feature summary supports review of scale, spread, and proxy behavior.",46.343028,18.851628,0.0,6.848045
+proxy_score,"Feature summary supports review of scale, spread, and proxy behavior.",0.949606,0.779971,0.508042,0.078005
+prior_access_observed_only,"Prior access excludes missing values, so interpretation must include missingness review.",1.0,0.56398,0.095478,0.171351

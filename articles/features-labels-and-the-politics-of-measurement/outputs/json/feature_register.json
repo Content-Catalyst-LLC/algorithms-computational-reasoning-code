@@ -1,0 +1,37 @@
+[
+  {
+    "construct_role": "behavioral proxy",
+    "feature_name": "engagement_count",
+    "proxy_risk": "medium",
+    "review_question": "Does engagement reflect capacity, access, surveillance, or genuine interest?",
+    "source_process": "platform or administrative log"
+  },
+  {
+    "construct_role": "documentation proxy",
+    "feature_name": "application_completeness",
+    "proxy_risk": "high",
+    "review_question": "Does completeness measure need or ability to navigate institutional paperwork?",
+    "source_process": "form-processing workflow"
+  },
+  {
+    "construct_role": "process timing variable",
+    "feature_name": "delay_days",
+    "proxy_risk": "medium",
+    "review_question": "Does delay reflect need, institutional backlog, geography, or staffing?",
+    "source_process": "case-management workflow"
+  },
+  {
+    "construct_role": "historical access variable",
+    "feature_name": "prior_access",
+    "proxy_risk": "high",
+    "review_question": "Does prior access encode historical advantage or institutional exclusion?",
+    "source_process": "legacy service record"
+  },
+  {
+    "construct_role": "training target",
+    "feature_name": "observed_label",
+    "proxy_risk": "high",
+    "review_question": "Does the label measure the construct or reproduce a prior decision rule?",
+    "source_process": "thresholded administrative decision"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "check": "label_disagreement",
+    "review_question": "Is the training label close enough to the intended construct?",
+    "status": "needs_review"
+  },
+  {
+    "check": "prior_access_missingness",
+    "review_question": "Is missingness patterned by institutional access or group membership?",
+    "status": "needs_review"
+  },
+  {
+    "check": "construct_definition",
+    "review_question": "Has the construct been defined independently of easy-to-measure proxies?",
+    "status": "required"
+  },
+  {
+    "check": "use_boundary",
+    "review_question": "Where is measurement too weak for model deployment or automated action?",
+    "status": "required"
+  }
+]

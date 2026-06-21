@@ -1,0 +1,6 @@
+construct_role,feature_name,proxy_risk,review_question,source_process
+behavioral proxy,engagement_count,medium,"Does engagement reflect capacity, access, surveillance, or genuine interest?",platform or administrative log
+documentation proxy,application_completeness,high,Does completeness measure need or ability to navigate institutional paperwork?,form-processing workflow
+process timing variable,delay_days,medium,"Does delay reflect need, institutional backlog, geography, or staffing?",case-management workflow
+historical access variable,prior_access,high,Does prior access encode historical advantage or institutional exclusion?,legacy service record
+training target,observed_label,high,Does the label measure the construct or reproduce a prior decision rule?,thresholded administrative decision

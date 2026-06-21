@@ -1,0 +1,10 @@
+{
+  "article": "features_labels_and_the_politics_of_measurement",
+  "governance_items_requiring_review": 4,
+  "interpretation": "Feature and label choices are measurement decisions. Model quality depends on whether measured variables validly represent the intended construct and whether error is distributed responsibly.",
+  "largest_group_measurement_gap": 0.223999,
+  "n": 900,
+  "overall_label_disagreement_rate": 0.654444,
+  "threshold": 0.55,
+  "timestamp_utc": "2026-06-21T08:59:51.207433+00:00"
+}

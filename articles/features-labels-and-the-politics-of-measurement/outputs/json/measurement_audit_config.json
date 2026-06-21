@@ -1,0 +1,7 @@
+{
+  "experiment_name": "features_labels_measurement_audit",
+  "missingness_multiplier": 0.14,
+  "n": 900,
+  "seed": 2026,
+  "threshold": 0.55
+}

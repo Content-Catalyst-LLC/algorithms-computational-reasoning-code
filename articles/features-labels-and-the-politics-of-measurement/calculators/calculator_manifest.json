@@ -1,0 +1,25 @@
+{
+  "article": "Features, Labels, and the Politics of Measurement",
+  "calculators": [
+    {
+      "language": "python",
+      "name": "confusion_metric_calculator",
+      "purpose": "Compute sensitivity, specificity, false positive rate, and false negative rate."
+    },
+    {
+      "language": "python",
+      "name": "label_noise_impact_calculator",
+      "purpose": "Estimate expected mislabeled records from a sample size and noise rate."
+    },
+    {
+      "language": "python",
+      "name": "proxy_weight_audit_calculator",
+      "purpose": "Flag proxy dominance and missingness risk in feature design."
+    },
+    {
+      "language": "r",
+      "name": "measurement_error_calculator",
+      "purpose": "Base-R confusion metric calculator."
+    }
+  ]
+}

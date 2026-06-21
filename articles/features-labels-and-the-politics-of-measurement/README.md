@@ -1,37 +1,44 @@
-# Features, Labels, and the Politics of Measurement (planned)
+# Features, Labels, and the Politics of Measurement
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Machine Learning, AI, and Automated Reasoning  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Features, Labels, and the Politics of Measurement**.
 
-## Purpose
+It provides reproducible, teaching-oriented workflows for examining how features, labels, proxies, measurement choices, construct definitions, missingness, label noise, threshold choices, and institutional categories shape machine-learning systems.
 
-This folder will hold computational companion materials for the planned article:
-**Features, Labels, and the Politics of Measurement**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `supervised-unsupervised-and-reinforcement-learning`
+- Current: `features-labels-and-the-politics-of-measurement`
+- Next: `training-testing-and-generalization`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## What this repository folder demonstrates
 
-## Notes
+This article folder treats machine learning measurement as a computational and institutional problem. The workflow generates synthetic records, creates imperfect features and labels, compares labels against a latent teaching construct, audits measurement reliability, evaluates group-level label noise, records feature provenance, and exports review artifacts for governance.
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The examples are intentionally dependency-light. They are designed to run in ordinary terminal environments while producing tables, JSON records, logs, calculator outputs, and cross-language teaching examples.
+
+## Contents
+
+- `python/` — reference measurement audit workflow
+- `tests/` — smoke tests for generated outputs and audit invariants
+- `r/` — base-R diagnostic plots and summary tables
+- `sql/` — schema and review queries for feature/label governance
+- `calculators/` — self-contained calculators for measurement error, confusion tables, proxy risk, and label-noise impact
+- `docs/` — method notes, data dictionary, governance checklist, and use boundaries
+- `canvas/` — Canvas-ready cards, schemas, and exports
+- language folders — compact examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
+
+All data are synthetic and educational. They should not be used for operational scoring, eligibility decisions, or real-world group comparison.
+
+## Quick start
+
+```bash
+make run
+make test
+make calculators
+```
+
+Optional R diagnostics:
+
+```bash
+make r
+```

@@ -1,0 +1,19 @@
+{
+  "next": "training-testing-and-generalization",
+  "previous": "supervised-unsupervised-and-reinforcement-learning",
+  "repo_folder": "articles/features-labels-and-the-politics-of-measurement",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "features-labels-and-the-politics-of-measurement",
+  "title": "Features, Labels, and the Politics of Measurement",
+  "topics": [
+    "features",
+    "labels",
+    "measurement",
+    "construct validity",
+    "proxy variables",
+    "label noise",
+    "missingness",
+    "data documentation",
+    "algorithmic governance"
+  ]
+}

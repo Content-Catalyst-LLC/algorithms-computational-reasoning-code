@@ -1,0 +1,8 @@
+item,description,review_question
+construct_definition,Define the real-world concept the model is supposed to learn,What concept is being approximated by data?
+feature_source,Identify how each feature was produced,Who measured it and under what institutional process?
+label_definition,Explain how labels were assigned,Does the label reflect the construct or an administrative decision?
+proxy_variable,Flag variables that stand in for unobserved concepts,What might this proxy misrepresent?
+missingness,Describe why values are absent,Is missingness random or institutionally patterned?
+label_noise,Estimate disagreement or error in observed labels,Who is most affected by label error?
+use_boundary,State where measurement is too weak for deployment,Where should the model not be used?

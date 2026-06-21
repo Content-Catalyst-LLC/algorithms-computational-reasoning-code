@@ -1,0 +1,53 @@
+[
+  {
+    "construct_positive_rate": 0.297778,
+    "false_negative_rate": 0.145522,
+    "false_positive_rate": 0.870253,
+    "fn": 39,
+    "fp": 550,
+    "group": "ALL",
+    "interpretation": "Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.",
+    "label_disagreement_rate": 0.654444,
+    "label_positive_rate": 0.865556,
+    "missing_prior_access_rate": 0.228889,
+    "n": 900,
+    "sensitivity": 0.854478,
+    "specificity": 0.129747,
+    "tn": 82,
+    "tp": 229
+  },
+  {
+    "construct_positive_rate": 0.202703,
+    "false_negative_rate": 0.142857,
+    "false_positive_rate": 0.891041,
+    "fn": 15,
+    "fp": 368,
+    "group": "A",
+    "interpretation": "Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.",
+    "label_disagreement_rate": 0.739382,
+    "label_positive_rate": 0.88417,
+    "missing_prior_access_rate": 0.194981,
+    "n": 518,
+    "sensitivity": 0.857143,
+    "specificity": 0.108959,
+    "tn": 45,
+    "tp": 90
+  },
+  {
+    "construct_positive_rate": 0.426702,
+    "false_negative_rate": 0.147239,
+    "false_positive_rate": 0.83105,
+    "fn": 24,
+    "fp": 182,
+    "group": "B",
+    "interpretation": "Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.",
+    "label_disagreement_rate": 0.539267,
+    "label_positive_rate": 0.840314,
+    "missing_prior_access_rate": 0.274869,
+    "n": 382,
+    "sensitivity": 0.852761,
+    "specificity": 0.16895,
+    "tn": 37,
+    "tp": 139
+  }
+]

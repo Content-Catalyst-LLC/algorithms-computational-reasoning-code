@@ -1,0 +1,8 @@
+args <- commandArgs(trailingOnly = TRUE)
+if (length(args) != 4) stop("Usage: Rscript measurement_error_calculator.R TP FP TN FN")
+tp <- as.numeric(args[1]); fp <- as.numeric(args[2]); tn <- as.numeric(args[3]); fn <- as.numeric(args[4])
+rate <- function(num, den) ifelse(den == 0, 0, num / den)
+cat(sprintf("sensitivity=%.6f\n", rate(tp, tp + fn)))
+cat(sprintf("specificity=%.6f\n", rate(tn, tn + fp)))
+cat(sprintf("false_positive_rate=%.6f\n", rate(fp, fp + tn)))
+cat(sprintf("false_negative_rate=%.6f\n", rate(fn, fn + tp)))

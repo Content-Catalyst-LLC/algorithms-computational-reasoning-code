@@ -1,0 +1,4 @@
+construct_positive_rate,false_negative_rate,false_positive_rate,fn,fp,group,interpretation,label_disagreement_rate,label_positive_rate,missing_prior_access_rate,n,sensitivity,specificity,tn,tp
+0.297778,0.145522,0.870253,39,550,ALL,Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.,0.654444,0.865556,0.228889,900,0.854478,0.129747,82,229
+0.202703,0.142857,0.891041,15,368,A,Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.,0.739382,0.88417,0.194981,518,0.857143,0.108959,45,90
+0.426702,0.147239,0.83105,24,182,B,Measurement metrics compare observed labels with a latent synthetic construct for teaching purposes.,0.539267,0.840314,0.274869,382,0.852761,0.16895,37,139

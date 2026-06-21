@@ -1,0 +1,39 @@
+{
+  "properties": {
+    "construct": {
+      "type": "string"
+    },
+    "features": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "labels": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "risks": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "use_boundaries": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "construct",
+    "features",
+    "labels",
+    "risks",
+    "use_boundaries"
+  ],
+  "type": "object"
+}

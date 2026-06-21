@@ -1,0 +1,3 @@
+proxy_to_construct_weight_ratio=2.000000
+missingness_rate=0.190000
+measurement_review_risk=high

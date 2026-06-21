@@ -1,0 +1,4 @@
+sample_size=1000
+noise_rate=0.180000
+expected_mislabeled_records=180.00
+expected_correctly_labeled_records=820.00

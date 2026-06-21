@@ -1,0 +1,44 @@
+[
+  {
+    "absolute_gap": 0.043856,
+    "group_A": 0.88417,
+    "group_B": 0.840314,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "label_positive_rate"
+  },
+  {
+    "absolute_gap": 0.223999,
+    "group_A": 0.202703,
+    "group_B": 0.426702,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "construct_positive_rate"
+  },
+  {
+    "absolute_gap": 0.200115,
+    "group_A": 0.739382,
+    "group_B": 0.539267,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "label_disagreement_rate"
+  },
+  {
+    "absolute_gap": 0.059991,
+    "group_A": 0.891041,
+    "group_B": 0.83105,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "false_positive_rate"
+  },
+  {
+    "absolute_gap": 0.004382,
+    "group_A": 0.142857,
+    "group_B": 0.147239,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "false_negative_rate"
+  },
+  {
+    "absolute_gap": 0.079888,
+    "group_A": 0.194981,
+    "group_B": 0.274869,
+    "interpretation": "Group gaps in measurement are audit signals, not proof of real-world difference.",
+    "metric": "missing_prior_access_rate"
+  }
+]
