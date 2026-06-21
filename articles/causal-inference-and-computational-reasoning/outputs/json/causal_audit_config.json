@@ -1,7 +1,7 @@
 {
   "experiment_name": "causal_inference_computational_reasoning",
-  "n": 800,
+  "n": 1200,
   "seed": 2026,
-  "treatment_threshold": 0.5,
+  "strata": 6,
   "true_effect": 0.18
 }

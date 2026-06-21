@@ -1,1 +1,9 @@
-public class CausalEffect { public static void main(String[] args){ System.out.printf("effect=%.6f%n", 0.62-0.41); } }
+public class CausalEffect {
+    static double effect(double treatedMean, double controlMean) {
+        return treatedMean - controlMean;
+    }
+
+    public static void main(String[] args) {
+        System.out.printf("causal contrast = %.4f%n", effect(0.64, 0.47));
+    }
+}

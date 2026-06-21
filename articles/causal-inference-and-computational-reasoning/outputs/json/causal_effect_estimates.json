@@ -1,23 +1,28 @@
 [
   {
-    "control_mean": 0.366712,
+    "control_mean": 0.439418,
     "estimate_type": "naive_difference_in_means",
-    "estimated_effect": 0.255079,
-    "interpretation": "Naive comparison may be biased because treatment assignment is confounded.",
-    "treated_mean": 0.621791
+    "estimated_effect": 0.286835,
+    "identification_warning": "Association only; treatment assignment is confounded.",
+    "treated_mean": 0.726253
   },
   {
-    "estimate_type": "stratified_adjustment_by_prior_risk",
-    "estimated_effect": 0.196991,
-    "interpretation": "Stratified adjustment reduces confounding by comparing treated and control units within risk strata.",
-    "strata": 5,
-    "usable_strata": 5
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "estimated_effect": 0.22544,
+    "identification_warning": "Adjusts one measured confounder only; remaining confounding may persist.",
+    "strata_requested": 6,
+    "usable_strata": 6
   },
   {
-    "control_weighted_mean": 0.417778,
     "estimate_type": "inverse_probability_weighted_effect",
-    "estimated_effect": 0.172614,
-    "interpretation": "IPW estimates the effect after weighting by treatment probability under measured-confounding assumptions.",
-    "treated_weighted_mean": 0.590392
+    "estimated_effect": 0.216896,
+    "identification_warning": "Depends on measured-confounding and positivity assumptions.",
+    "propensity_scores_clipped": 0,
+    "weight_clipping_rule": "0.05 <= p <= 0.95"
+  },
+  {
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "estimated_effect": 0.215267,
+    "identification_warning": "Teaching formula; real g-computation requires model validation and assumptions."
   }
 ]

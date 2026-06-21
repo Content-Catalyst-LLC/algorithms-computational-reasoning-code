@@ -1,0 +1,6 @@
+{
+  "title": "Confounding",
+  "concept": "A common cause of treatment and outcome can make association look causal.",
+  "question": "Which pre-treatment variables influence both assignment and outcome?",
+  "review_note": "Confounders should be identified before modeling, not discovered only after results are inconvenient."
+}

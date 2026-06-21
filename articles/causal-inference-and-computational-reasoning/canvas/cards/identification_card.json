@@ -1,0 +1,6 @@
+{
+  "title": "Identification",
+  "concept": "Identification asks whether the causal effect can be recovered under stated assumptions.",
+  "question": "Why should this estimate be interpreted causally?",
+  "review_note": "A precise estimate is not a valid estimate if the design does not identify the effect."
+}

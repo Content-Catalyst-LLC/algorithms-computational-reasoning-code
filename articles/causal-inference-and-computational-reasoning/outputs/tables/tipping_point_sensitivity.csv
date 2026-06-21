@@ -1,0 +1,5 @@
+estimate_type,estimated_effect,unmeasured_bias_needed_to_nullify,review_interpretation
+naive_difference_in_means,0.286835,0.286835,This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.
+stratified_adjustment_prior_risk,0.22544,0.22544,This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.
+inverse_probability_weighted_effect,0.216896,0.216896,This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.
+standardized_g_computation_teaching_formula,0.215267,0.215267,This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.

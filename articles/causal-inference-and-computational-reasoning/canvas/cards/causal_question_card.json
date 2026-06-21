@@ -1,0 +1,6 @@
+{
+  "title": "Causal Question",
+  "concept": "Define the intervention, outcome, comparison, unit, and scope before estimating anything.",
+  "question": "What exactly would be changed, and compared with what?",
+  "review_note": "A vague intervention produces a vague causal claim."
+}

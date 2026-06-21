@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-06-21T06:59:01.243999+00:00",
+  "outputs": [
+    "synthetic_causal_observations.csv",
+    "causal_effect_estimates.csv",
+    "covariate_balance_diagnostics.csv",
+    "causal_assumption_register.csv",
+    "sensitivity_analysis.csv",
+    "causal_audit_summary.json"
+  ],
+  "workflow": "dependency-light causal audit"
+}

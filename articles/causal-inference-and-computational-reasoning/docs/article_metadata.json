@@ -5,15 +5,27 @@
   "previous": "bayesian-computation-and-updating-beliefs",
   "next": "counterfactual-reasoning-in-algorithmic-systems",
   "repo_folder": "articles/causal-inference-and-computational-reasoning",
+  "status": "article-companion-repository",
+  "license": "MIT for code; educational synthetic data only",
+  "primary_workflows": [
+    "synthetic data generation",
+    "causal effect estimation",
+    "balance diagnostics",
+    "DAG adjustment review",
+    "sensitivity analysis",
+    "governance documentation",
+    "calculator smoke tests"
+  ],
   "topics": [
     "causal inference",
     "computational reasoning",
+    "confounding",
     "interventions",
     "treatment effects",
     "potential outcomes",
     "causal graphs",
-    "confounding",
-    "propensity weighting",
-    "governance"
+    "propensity scores",
+    "sensitivity analysis",
+    "algorithmic governance"
   ]
 }

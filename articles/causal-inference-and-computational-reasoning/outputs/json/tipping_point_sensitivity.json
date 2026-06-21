@@ -1,0 +1,26 @@
+[
+  {
+    "estimate_type": "naive_difference_in_means",
+    "estimated_effect": 0.286835,
+    "review_interpretation": "This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.",
+    "unmeasured_bias_needed_to_nullify": 0.286835
+  },
+  {
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "estimated_effect": 0.22544,
+    "review_interpretation": "This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.",
+    "unmeasured_bias_needed_to_nullify": 0.22544
+  },
+  {
+    "estimate_type": "inverse_probability_weighted_effect",
+    "estimated_effect": 0.216896,
+    "review_interpretation": "This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.",
+    "unmeasured_bias_needed_to_nullify": 0.216896
+  },
+  {
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "estimated_effect": 0.215267,
+    "review_interpretation": "This teaching value is the amount of directional hidden bias that would reduce the estimate to zero.",
+    "unmeasured_bias_needed_to_nullify": 0.215267
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "article": "Causal Inference and Computational Reasoning",
+  "assumptions_needing_review": [
+    "exchangeability",
+    "positivity_overlap",
+    "consistency",
+    "external_validity"
+  ],
+  "control_count": 506,
+  "estimates": [
+    {
+      "control_mean": 0.439418,
+      "estimate_type": "naive_difference_in_means",
+      "estimated_effect": 0.286835,
+      "identification_warning": "Association only; treatment assignment is confounded.",
+      "treated_mean": 0.726253
+    },
+    {
+      "estimate_type": "stratified_adjustment_prior_risk",
+      "estimated_effect": 0.22544,
+      "identification_warning": "Adjusts one measured confounder only; remaining confounding may persist.",
+      "strata_requested": 6,
+      "usable_strata": 6
+    },
+    {
+      "estimate_type": "inverse_probability_weighted_effect",
+      "estimated_effect": 0.216896,
+      "identification_warning": "Depends on measured-confounding and positivity assumptions.",
+      "propensity_scores_clipped": 0,
+      "weight_clipping_rule": "0.05 <= p <= 0.95"
+    },
+    {
+      "estimate_type": "standardized_g_computation_teaching_formula",
+      "estimated_effect": 0.215267,
+      "identification_warning": "Teaching formula; real g-computation requires model validation and assumptions."
+    }
+  ],
+  "largest_covariate_imbalance": 0.531099,
+  "n": 1200,
+  "synthetic_average_true_effect": 0.215267,
+  "timestamp_utc": "2026-06-21T06:59:01.236138+00:00",
+  "treated_count": 694,
+  "use_boundary": "Synthetic educational workflow; not a real-world causal claim."
+}

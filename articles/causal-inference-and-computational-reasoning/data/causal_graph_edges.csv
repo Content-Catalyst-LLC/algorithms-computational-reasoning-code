@@ -1,0 +1,8 @@
+source,target,edge_type,reason
+prior_risk,treatment,causal_assumption,Higher prior risk affects intervention assignment.
+institutional_access,treatment,causal_assumption,Access affects whether units receive intervention.
+baseline_capacity,treatment,causal_assumption,Capacity affects treatment probability.
+prior_risk,observed_outcome,causal_assumption,Prior risk affects outcome.
+institutional_access,observed_outcome,causal_assumption,Access affects outcome.
+baseline_capacity,observed_outcome,causal_assumption,Capacity affects outcome.
+treatment,observed_outcome,causal_target,The treatment effect is the target causal relation.

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Causal Reasoning Card",
+  "type": "object",
+  "required": ["title", "concept", "question", "review_note"],
+  "properties": {
+    "title": {"type": "string"},
+    "concept": {"type": "string"},
+    "question": {"type": "string"},
+    "review_note": {"type": "string"}
+  }
+}

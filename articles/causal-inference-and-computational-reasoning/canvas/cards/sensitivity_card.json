@@ -1,0 +1,6 @@
+{
+  "title": "Sensitivity",
+  "concept": "Causal estimates should be tested against plausible alternative assumptions.",
+  "question": "How much hidden bias would change the conclusion?",
+  "review_note": "Fragility is not failure; hiding fragility is failure."
+}

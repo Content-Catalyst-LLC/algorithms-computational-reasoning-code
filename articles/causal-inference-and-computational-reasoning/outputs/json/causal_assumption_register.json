@@ -1,38 +1,38 @@
 [
   {
     "assumption": "clear_intervention",
-    "description": "The treatment or intervention is defined precisely enough to compare against an alternative.",
-    "review_question": "Is the treatment operationally clear?",
+    "description": "Treatment/intervention is precisely defined.",
+    "review_question": "What exactly is being changed?",
     "status": "complete"
   },
   {
     "assumption": "exchangeability",
-    "description": "After adjustment, treated and untreated units are comparable on potential outcomes.",
+    "description": "After adjustment, treatment groups are comparable on potential outcomes.",
     "review_question": "Are relevant confounders measured and adjusted?",
     "status": "partial"
   },
   {
     "assumption": "positivity_overlap",
-    "description": "Comparable treated and untreated cases exist across covariate values.",
-    "review_question": "Is there adequate overlap between groups?",
+    "description": "Comparable treated and untreated units exist across covariate values.",
+    "review_question": "Is there adequate overlap?",
     "status": "partial"
   },
   {
     "assumption": "consistency",
-    "description": "Observed outcomes correspond to the defined treatment condition.",
+    "description": "Observed outcome corresponds to the defined treatment condition.",
     "review_question": "Does treatment mean the same thing across units?",
     "status": "needs_review"
   },
   {
     "assumption": "no_post_treatment_adjustment",
-    "description": "Adjustment does not condition on variables caused by treatment.",
-    "review_question": "Are mediators and post-treatment variables excluded from confounder adjustment?",
+    "description": "Adjustment excludes variables caused by treatment.",
+    "review_question": "Are mediators excluded from confounder adjustment?",
     "status": "complete"
   },
   {
     "assumption": "external_validity",
-    "description": "The estimated effect applies only within a defined population and setting.",
-    "review_question": "Where should the estimate not be generalized?",
+    "description": "Estimate applies only to bounded populations and settings.",
+    "review_question": "Where should this estimate not be applied?",
     "status": "needs_review"
   }
 ]

@@ -1,15 +1,34 @@
 {
-  "article": "causal-inference-and-computational-reasoning",
+  "article": "Causal Inference and Computational Reasoning",
+  "slug": "causal-inference-and-computational-reasoning",
   "calculators": [
     {
+      "name": "Causal Effect Contrast",
       "language": "python",
       "path": "calculators/python/causal_effect_calculator.py",
-      "purpose": "Compute a simple treated-control mean difference."
+      "inputs": ["treated_mean", "control_mean"],
+      "output": "difference"
     },
     {
-      "language": "r",
-      "path": "calculators/r/causal_effect_calculator.R",
-      "purpose": "Compute a simple treated-control mean difference."
+      "name": "Difference in Differences",
+      "language": "python",
+      "path": "calculators/python/difference_in_differences_calculator.py",
+      "inputs": ["treated_pre", "treated_post", "control_pre", "control_post"],
+      "output": "did_estimate"
+    },
+    {
+      "name": "IPW Effect",
+      "language": "python",
+      "path": "calculators/python/ipw_effect_calculator.py",
+      "inputs": ["csv_path"],
+      "output": "weighted_effect"
+    },
+    {
+      "name": "Sensitivity Bias Adjustment",
+      "language": "python",
+      "path": "calculators/python/sensitivity_bias_calculator.py",
+      "inputs": ["effect", "bias"],
+      "output": "bias_adjusted_effect"
     }
   ]
 }

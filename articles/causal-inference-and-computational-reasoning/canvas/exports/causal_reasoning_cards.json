@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Causal Question",
+    "concept": "Define intervention, outcome, comparison, unit, and scope.",
+    "question": "What exactly would be changed?",
+    "review_note": "No causal workflow should begin with an undefined treatment."
+  },
+  {
+    "title": "Confounding",
+    "concept": "Common causes can distort treated-control comparisons.",
+    "question": "Which causes affect both assignment and outcome?",
+    "review_note": "Confounders are part of design, not just model features."
+  },
+  {
+    "title": "Identification",
+    "concept": "A design must justify causal interpretation before estimation.",
+    "question": "Why is the effect identifiable?",
+    "review_note": "Computation supports the design; it does not replace it."
+  }
+]

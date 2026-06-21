@@ -1,0 +1,4 @@
+variable,role,include_in_adjustment_set,reason
+baseline_capacity,candidate_confounder,True,Variable is represented as a common cause of treatment and outcome in the teaching DAG.
+institutional_access,candidate_confounder,True,Variable is represented as a common cause of treatment and outcome in the teaching DAG.
+prior_risk,candidate_confounder,True,Variable is represented as a common cause of treatment and outcome in the teaching DAG.

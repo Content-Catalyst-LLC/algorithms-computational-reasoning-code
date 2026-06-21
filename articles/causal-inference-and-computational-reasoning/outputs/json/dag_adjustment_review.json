@@ -1,0 +1,20 @@
+[
+  {
+    "include_in_adjustment_set": true,
+    "reason": "Variable is represented as a common cause of treatment and outcome in the teaching DAG.",
+    "role": "candidate_confounder",
+    "variable": "baseline_capacity"
+  },
+  {
+    "include_in_adjustment_set": true,
+    "reason": "Variable is represented as a common cause of treatment and outcome in the teaching DAG.",
+    "role": "candidate_confounder",
+    "variable": "institutional_access"
+  },
+  {
+    "include_in_adjustment_set": true,
+    "reason": "Variable is represented as a common cause of treatment and outcome in the teaching DAG.",
+    "role": "candidate_confounder",
+    "variable": "prior_risk"
+  }
+]

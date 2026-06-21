@@ -1,0 +1,4 @@
+absolute_standardized_difference,control_mean,covariate,review_flag,standardized_difference,treated_mean
+0.531099,0.40707,prior_risk,review,0.531099,0.552081
+0.307004,0.63063,institutional_access,review,0.307004,0.688238
+0.208369,0.51794,baseline_capacity,review,-0.208369,0.481416

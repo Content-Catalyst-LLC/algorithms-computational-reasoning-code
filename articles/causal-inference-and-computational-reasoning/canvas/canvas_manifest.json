@@ -1,0 +1,12 @@
+{
+  "article": "Causal Inference and Computational Reasoning",
+  "slug": "causal-inference-and-computational-reasoning",
+  "cards": [
+    "causal_question_card.json",
+    "confounding_card.json",
+    "identification_card.json",
+    "sensitivity_card.json",
+    "governance_card.json"
+  ],
+  "schema": "canvas/schemas/causal_reasoning_card.schema.json"
+}

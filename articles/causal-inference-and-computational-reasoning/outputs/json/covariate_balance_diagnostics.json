@@ -1,0 +1,26 @@
+[
+  {
+    "absolute_standardized_difference": 0.531099,
+    "control_mean": 0.40707,
+    "covariate": "prior_risk",
+    "review_flag": "review",
+    "standardized_difference": 0.531099,
+    "treated_mean": 0.552081
+  },
+  {
+    "absolute_standardized_difference": 0.307004,
+    "control_mean": 0.63063,
+    "covariate": "institutional_access",
+    "review_flag": "review",
+    "standardized_difference": 0.307004,
+    "treated_mean": 0.688238
+  },
+  {
+    "absolute_standardized_difference": 0.208369,
+    "control_mean": 0.51794,
+    "covariate": "baseline_capacity",
+    "review_flag": "review",
+    "standardized_difference": -0.208369,
+    "treated_mean": 0.481416
+  }
+]

@@ -1,4 +1,5 @@
-control_mean,control_weighted_mean,estimate_type,estimated_effect,interpretation,strata,treated_mean,treated_weighted_mean,usable_strata
-0.366712,,naive_difference_in_means,0.255079,Naive comparison may be biased because treatment assignment is confounded.,,0.621791,,
-,,stratified_adjustment_by_prior_risk,0.196991,Stratified adjustment reduces confounding by comparing treated and control units within risk strata.,5,,,5
-,0.417778,inverse_probability_weighted_effect,0.172614,IPW estimates the effect after weighting by treatment probability under measured-confounding assumptions.,,,0.590392,
+control_mean,estimate_type,estimated_effect,identification_warning,propensity_scores_clipped,strata_requested,treated_mean,usable_strata,weight_clipping_rule
+0.439418,naive_difference_in_means,0.286835,Association only; treatment assignment is confounded.,,,0.726253,,
+,stratified_adjustment_prior_risk,0.22544,Adjusts one measured confounder only; remaining confounding may persist.,,6,,6,
+,inverse_probability_weighted_effect,0.216896,Depends on measured-confounding and positivity assumptions.,0,,,,0.05 <= p <= 0.95
+,standardized_g_computation_teaching_formula,0.215267,Teaching formula; real g-computation requires model validation and assumptions.,,,,,

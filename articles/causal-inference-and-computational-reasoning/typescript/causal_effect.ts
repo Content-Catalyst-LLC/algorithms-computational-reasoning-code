@@ -1,2 +1,10 @@
-const effect = 0.62 - 0.41;
-console.log(`effect=${effect.toFixed(6)}`);
+type Contrast = {
+  treatedMean: number;
+  controlMean: number;
+};
+
+function effect(contrast: Contrast): number {
+  return contrast.treatedMean - contrast.controlMean;
+}
+
+console.log(`causal contrast = ${effect({ treatedMean: 0.64, controlMean: 0.47 }).toFixed(4)}`);

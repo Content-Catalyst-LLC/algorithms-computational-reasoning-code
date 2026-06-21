@@ -1,0 +1,162 @@
+[
+  {
+    "bias_adjusted_effect": 0.286835,
+    "distance_from_synthetic_truth": 0.071568,
+    "estimate_type": "naive_difference_in_means",
+    "hypothetical_unmeasured_confounding_bias": 0.0,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.286835
+  },
+  {
+    "bias_adjusted_effect": 0.256835,
+    "distance_from_synthetic_truth": 0.041568,
+    "estimate_type": "naive_difference_in_means",
+    "hypothetical_unmeasured_confounding_bias": 0.03,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.286835
+  },
+  {
+    "bias_adjusted_effect": 0.226835,
+    "distance_from_synthetic_truth": 0.011568,
+    "estimate_type": "naive_difference_in_means",
+    "hypothetical_unmeasured_confounding_bias": 0.06,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.286835
+  },
+  {
+    "bias_adjusted_effect": 0.196835,
+    "distance_from_synthetic_truth": 0.018432,
+    "estimate_type": "naive_difference_in_means",
+    "hypothetical_unmeasured_confounding_bias": 0.09,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.286835
+  },
+  {
+    "bias_adjusted_effect": 0.166835,
+    "distance_from_synthetic_truth": 0.048432,
+    "estimate_type": "naive_difference_in_means",
+    "hypothetical_unmeasured_confounding_bias": 0.12,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.286835
+  },
+  {
+    "bias_adjusted_effect": 0.22544,
+    "distance_from_synthetic_truth": 0.010173,
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "hypothetical_unmeasured_confounding_bias": 0.0,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.22544
+  },
+  {
+    "bias_adjusted_effect": 0.19544,
+    "distance_from_synthetic_truth": 0.019827,
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "hypothetical_unmeasured_confounding_bias": 0.03,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.22544
+  },
+  {
+    "bias_adjusted_effect": 0.16544,
+    "distance_from_synthetic_truth": 0.049827,
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "hypothetical_unmeasured_confounding_bias": 0.06,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.22544
+  },
+  {
+    "bias_adjusted_effect": 0.13544,
+    "distance_from_synthetic_truth": 0.079827,
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "hypothetical_unmeasured_confounding_bias": 0.09,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.22544
+  },
+  {
+    "bias_adjusted_effect": 0.10544,
+    "distance_from_synthetic_truth": 0.109827,
+    "estimate_type": "stratified_adjustment_prior_risk",
+    "hypothetical_unmeasured_confounding_bias": 0.12,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.22544
+  },
+  {
+    "bias_adjusted_effect": 0.216896,
+    "distance_from_synthetic_truth": 0.001629,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "hypothetical_unmeasured_confounding_bias": 0.0,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.216896
+  },
+  {
+    "bias_adjusted_effect": 0.186896,
+    "distance_from_synthetic_truth": 0.028371,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "hypothetical_unmeasured_confounding_bias": 0.03,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.216896
+  },
+  {
+    "bias_adjusted_effect": 0.156896,
+    "distance_from_synthetic_truth": 0.058371,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "hypothetical_unmeasured_confounding_bias": 0.06,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.216896
+  },
+  {
+    "bias_adjusted_effect": 0.126896,
+    "distance_from_synthetic_truth": 0.088371,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "hypothetical_unmeasured_confounding_bias": 0.09,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.216896
+  },
+  {
+    "bias_adjusted_effect": 0.096896,
+    "distance_from_synthetic_truth": 0.118371,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "hypothetical_unmeasured_confounding_bias": 0.12,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.216896
+  },
+  {
+    "bias_adjusted_effect": 0.215267,
+    "distance_from_synthetic_truth": 0.0,
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "hypothetical_unmeasured_confounding_bias": 0.0,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.215267
+  },
+  {
+    "bias_adjusted_effect": 0.185267,
+    "distance_from_synthetic_truth": 0.03,
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "hypothetical_unmeasured_confounding_bias": 0.03,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.215267
+  },
+  {
+    "bias_adjusted_effect": 0.155267,
+    "distance_from_synthetic_truth": 0.06,
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "hypothetical_unmeasured_confounding_bias": 0.06,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.215267
+  },
+  {
+    "bias_adjusted_effect": 0.125267,
+    "distance_from_synthetic_truth": 0.09,
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "hypothetical_unmeasured_confounding_bias": 0.09,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.215267
+  },
+  {
+    "bias_adjusted_effect": 0.095267,
+    "distance_from_synthetic_truth": 0.12,
+    "estimate_type": "standardized_g_computation_teaching_formula",
+    "hypothetical_unmeasured_confounding_bias": 0.12,
+    "interpretation": "Sensitivity row shows how a causal conclusion changes under hypothetical unmeasured confounding.",
+    "reported_effect": 0.215267
+  }
+]

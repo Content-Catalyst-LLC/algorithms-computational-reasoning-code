@@ -1,0 +1,7 @@
+assumption,status,evidence_needed
+clear_intervention,complete,Treatment and comparison statement.
+exchangeability,partial,Measured pre-treatment confounder review.
+positivity_overlap,partial,Overlap and propensity diagnostics.
+consistency,needs_review,Domain review of treatment meaning across units.
+no_post_treatment_adjustment,complete,Adjustment-set audit.
+external_validity,needs_review,Population and deployment boundary review.

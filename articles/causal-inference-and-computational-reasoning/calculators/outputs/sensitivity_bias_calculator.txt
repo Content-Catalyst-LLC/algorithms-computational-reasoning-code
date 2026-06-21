@@ -1,0 +1,3 @@
+reported_effect=0.180000
+hypothetical_bias=0.050000
+bias_adjusted_effect=0.130000
