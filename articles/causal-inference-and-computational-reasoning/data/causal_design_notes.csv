@@ -1,0 +1,8 @@
+item,description,review_question
+causal_question,Define the treatment/intervention and outcome,What exactly is being changed and measured?
+comparison,Define baseline or control condition,Compared with what alternative?
+confounding,Identify common causes of treatment and outcome,What variables must be adjusted for?
+identification,Explain why effect can be estimated,Why should the estimate be causal?
+estimation,Choose estimator and uncertainty method,What assumptions does the estimator require?
+sensitivity,Test robustness to assumptions,How fragile is the result?
+governance,Connect causal claim to accountable decision use,Who can challenge assumptions and interpretation?

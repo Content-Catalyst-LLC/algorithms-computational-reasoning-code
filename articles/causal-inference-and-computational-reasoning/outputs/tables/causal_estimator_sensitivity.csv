@@ -1,0 +1,4 @@
+absolute_error_from_synthetic_truth,estimate_type,estimated_effect,interpretation,true_synthetic_effect
+0.075079,naive_difference_in_means,0.255079,Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.,0.18
+0.016991,stratified_adjustment_by_prior_risk,0.196991,Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.,0.18
+0.007386,inverse_probability_weighted_effect,0.172614,Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.,0.18

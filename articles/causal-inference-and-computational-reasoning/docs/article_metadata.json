@@ -1,0 +1,19 @@
+{
+  "title": "Causal Inference and Computational Reasoning",
+  "slug": "causal-inference-and-computational-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "bayesian-computation-and-updating-beliefs",
+  "next": "counterfactual-reasoning-in-algorithmic-systems",
+  "repo_folder": "articles/causal-inference-and-computational-reasoning",
+  "topics": [
+    "causal inference",
+    "computational reasoning",
+    "interventions",
+    "treatment effects",
+    "potential outcomes",
+    "causal graphs",
+    "confounding",
+    "propensity weighting",
+    "governance"
+  ]
+}

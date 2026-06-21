@@ -1,0 +1,4 @@
+absolute_standardized_difference,control_mean,covariate,interpretation,standardized_difference,treated_mean
+0.487539,0.412497,prior_risk,Large standardized differences suggest imbalance and possible confounding.,0.487539,0.546564
+0.23833,0.636832,institutional_access,Large standardized differences suggest imbalance and possible confounding.,0.23833,0.681379
+0.221952,0.525037,baseline_capacity,Large standardized differences suggest imbalance and possible confounding.,-0.221952,0.487807

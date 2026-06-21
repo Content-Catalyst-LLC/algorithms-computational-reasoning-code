@@ -1,0 +1,14 @@
+{
+  "article": "causal_inference_and_computational_reasoning",
+  "assumption_items_needing_review": 4,
+  "control_count": 314,
+  "interpretation": "Causal inference workflows should separate predictive association from intervention effects, document assumptions, check imbalance, compare estimators, and report interpretation limits.",
+  "largest_covariate_imbalance": 0.487539,
+  "n": 800,
+  "naive_estimate": 0.255079,
+  "stratified_estimate": 0.196991,
+  "timestamp_utc": "2026-06-21T06:38:41.588051+00:00",
+  "treated_count": 486,
+  "true_synthetic_effect": 0.18,
+  "weighted_estimate": 0.172614
+}

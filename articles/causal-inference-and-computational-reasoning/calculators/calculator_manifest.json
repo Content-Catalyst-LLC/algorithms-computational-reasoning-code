@@ -1,0 +1,15 @@
+{
+  "article": "causal-inference-and-computational-reasoning",
+  "calculators": [
+    {
+      "language": "python",
+      "path": "calculators/python/causal_effect_calculator.py",
+      "purpose": "Compute a simple treated-control mean difference."
+    },
+    {
+      "language": "r",
+      "path": "calculators/r/causal_effect_calculator.R",
+      "purpose": "Compute a simple treated-control mean difference."
+    }
+  ]
+}

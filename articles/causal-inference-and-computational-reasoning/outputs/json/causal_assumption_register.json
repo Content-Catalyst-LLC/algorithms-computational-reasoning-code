@@ -1,0 +1,38 @@
+[
+  {
+    "assumption": "clear_intervention",
+    "description": "The treatment or intervention is defined precisely enough to compare against an alternative.",
+    "review_question": "Is the treatment operationally clear?",
+    "status": "complete"
+  },
+  {
+    "assumption": "exchangeability",
+    "description": "After adjustment, treated and untreated units are comparable on potential outcomes.",
+    "review_question": "Are relevant confounders measured and adjusted?",
+    "status": "partial"
+  },
+  {
+    "assumption": "positivity_overlap",
+    "description": "Comparable treated and untreated cases exist across covariate values.",
+    "review_question": "Is there adequate overlap between groups?",
+    "status": "partial"
+  },
+  {
+    "assumption": "consistency",
+    "description": "Observed outcomes correspond to the defined treatment condition.",
+    "review_question": "Does treatment mean the same thing across units?",
+    "status": "needs_review"
+  },
+  {
+    "assumption": "no_post_treatment_adjustment",
+    "description": "Adjustment does not condition on variables caused by treatment.",
+    "review_question": "Are mediators and post-treatment variables excluded from confounder adjustment?",
+    "status": "complete"
+  },
+  {
+    "assumption": "external_validity",
+    "description": "The estimated effect applies only within a defined population and setting.",
+    "review_question": "Where should the estimate not be generalized?",
+    "status": "needs_review"
+  }
+]

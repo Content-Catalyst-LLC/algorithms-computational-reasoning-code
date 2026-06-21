@@ -1,0 +1,4 @@
+control_mean,control_weighted_mean,estimate_type,estimated_effect,interpretation,strata,treated_mean,treated_weighted_mean,usable_strata
+0.366712,,naive_difference_in_means,0.255079,Naive comparison may be biased because treatment assignment is confounded.,,0.621791,,
+,,stratified_adjustment_by_prior_risk,0.196991,Stratified adjustment reduces confounding by comparing treated and control units within risk strata.,5,,,5
+,0.417778,inverse_probability_weighted_effect,0.172614,IPW estimates the effect after weighting by treatment probability under measured-confounding assumptions.,,,0.590392,

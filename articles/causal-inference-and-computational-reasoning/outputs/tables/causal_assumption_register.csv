@@ -1,0 +1,7 @@
+assumption,description,review_question,status
+clear_intervention,The treatment or intervention is defined precisely enough to compare against an alternative.,Is the treatment operationally clear?,complete
+exchangeability,"After adjustment, treated and untreated units are comparable on potential outcomes.",Are relevant confounders measured and adjusted?,partial
+positivity_overlap,Comparable treated and untreated cases exist across covariate values.,Is there adequate overlap between groups?,partial
+consistency,Observed outcomes correspond to the defined treatment condition.,Does treatment mean the same thing across units?,needs_review
+no_post_treatment_adjustment,Adjustment does not condition on variables caused by treatment.,Are mediators and post-treatment variables excluded from confounder adjustment?,complete
+external_validity,The estimated effect applies only within a defined population and setting.,Where should the estimate not be generalized?,needs_review

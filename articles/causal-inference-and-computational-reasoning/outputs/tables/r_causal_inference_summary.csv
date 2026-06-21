@@ -1,0 +1,2 @@
+"workflow_summary_rows","n","treated_count","control_count","true_synthetic_effect","naive_estimate","stratified_estimate","weighted_estimate","assumption_items_needing_review"
+1,800,486,314,0.18,0.255079,0.196991,0.172614,4

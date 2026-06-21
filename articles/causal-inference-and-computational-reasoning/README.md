@@ -1,37 +1,22 @@
-# Causal Inference and Computational Reasoning (planned)
+# Causal Inference and Computational Reasoning
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Probabilistic, Causal, and Counterfactual Reasoning  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Causal Inference and Computational Reasoning**.
 
-## Purpose
+It provides reproducible, teaching-oriented workflows for causal inference, confounding, intervention effects, adjustment, propensity weighting, potential outcomes, causal assumption registers, balance diagnostics, sensitivity checks, governance review, and responsible computational interpretation.
 
-This folder will hold computational companion materials for the planned article:
-**Causal Inference and Computational Reasoning**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `bayesian-computation-and-updating-beliefs`
+- Current: `causal-inference-and-computational-reasoning`
+- Next: `counterfactual-reasoning-in-algorithmic-systems`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Contents
 
-## Notes
+- `python/` — reference causal-inference audit workflow
+- `r/` — summary diagnostics and plots
+- `sql/` — audit schema for causal evidence and review artifacts
+- `calculators/` — self-contained calculator scripts
+- `canvas/` — Canvas-ready cards, schemas, and exports
+- language folders — compact examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+All datasets are synthetic and educational. They are not intended for operational decisions.

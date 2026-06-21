@@ -1,0 +1,18 @@
+{
+  "causal_question": "Does the intervention change the outcome?",
+  "intervention": "Synthetic treatment condition",
+  "outcome": "Synthetic observed outcome",
+  "comparison": "No treatment/control condition",
+  "assumptions": [
+    "clear intervention",
+    "exchangeability after adjustment",
+    "overlap",
+    "consistency",
+    "no post-treatment adjustment"
+  ],
+  "governance_notes": [
+    "Do not treat predictive association as causal effect.",
+    "Document assumptions before estimating effects.",
+    "Report scope, uncertainty, and sensitivity."
+  ]
+}

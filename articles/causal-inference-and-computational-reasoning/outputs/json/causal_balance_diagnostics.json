@@ -1,0 +1,26 @@
+[
+  {
+    "absolute_standardized_difference": 0.487539,
+    "control_mean": 0.412497,
+    "covariate": "prior_risk",
+    "interpretation": "Large standardized differences suggest imbalance and possible confounding.",
+    "standardized_difference": 0.487539,
+    "treated_mean": 0.546564
+  },
+  {
+    "absolute_standardized_difference": 0.23833,
+    "control_mean": 0.636832,
+    "covariate": "institutional_access",
+    "interpretation": "Large standardized differences suggest imbalance and possible confounding.",
+    "standardized_difference": 0.23833,
+    "treated_mean": 0.681379
+  },
+  {
+    "absolute_standardized_difference": 0.221952,
+    "control_mean": 0.525037,
+    "covariate": "baseline_capacity",
+    "interpretation": "Large standardized differences suggest imbalance and possible confounding.",
+    "standardized_difference": -0.221952,
+    "treated_mean": 0.487807
+  }
+]

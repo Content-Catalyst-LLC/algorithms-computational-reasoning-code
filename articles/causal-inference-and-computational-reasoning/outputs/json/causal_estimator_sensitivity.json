@@ -1,0 +1,23 @@
+[
+  {
+    "absolute_error_from_synthetic_truth": 0.075079,
+    "estimate_type": "naive_difference_in_means",
+    "estimated_effect": 0.255079,
+    "interpretation": "Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.",
+    "true_synthetic_effect": 0.18
+  },
+  {
+    "absolute_error_from_synthetic_truth": 0.016991,
+    "estimate_type": "stratified_adjustment_by_prior_risk",
+    "estimated_effect": 0.196991,
+    "interpretation": "Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.",
+    "true_synthetic_effect": 0.18
+  },
+  {
+    "absolute_error_from_synthetic_truth": 0.007386,
+    "estimate_type": "inverse_probability_weighted_effect",
+    "estimated_effect": 0.172614,
+    "interpretation": "Synthetic truth is known here for teaching; real causal inference usually lacks direct counterfactual truth.",
+    "true_synthetic_effect": 0.18
+  }
+]

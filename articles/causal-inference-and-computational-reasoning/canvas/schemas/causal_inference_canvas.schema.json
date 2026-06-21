@@ -1,0 +1,13 @@
+{
+  "title": "Causal Inference Canvas Schema",
+  "type": "object",
+  "properties": {
+    "causal_question": {"type": "string"},
+    "intervention": {"type": "string"},
+    "outcome": {"type": "string"},
+    "comparison": {"type": "string"},
+    "assumptions": {"type": "array", "items": {"type": "string"}},
+    "governance_notes": {"type": "array", "items": {"type": "string"}}
+  },
+  "required": ["causal_question", "intervention", "outcome", "comparison"]
+}
