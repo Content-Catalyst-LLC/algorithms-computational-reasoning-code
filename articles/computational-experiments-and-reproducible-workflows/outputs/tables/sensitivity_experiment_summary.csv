@@ -1,0 +1,6 @@
+interpretation,mean_estimated_effect,mean_threshold_rate,runs,std_estimated_effect,std_threshold_rate,treatment_effect_parameter
+Repeated-seed sensitivity runs show how outputs change across parameter values.,-0.12289,0.21075,10,0.70088,0.007031,0.0
+Repeated-seed sensitivity runs show how outputs change across parameter values.,0.877109,0.226,10,0.70088,0.007412,1.0
+Repeated-seed sensitivity runs show how outputs change across parameter values.,1.877109,0.2405,10,0.70088,0.008085,2.0
+Repeated-seed sensitivity runs show how outputs change across parameter values.,3.877109,0.2665,10,0.70088,0.009131,4.0
+Repeated-seed sensitivity runs show how outputs change across parameter values.,7.87711,0.327625,10,0.70088,0.012911,8.0

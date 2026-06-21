@@ -1,0 +1,10 @@
+{
+  "experiment_name": "computational_experiments_and_reproducible_workflows",
+  "interpretation": "A computational experiment becomes auditable when code, data, parameters, environment, outputs, logs, and interpretation limits are preserved together.",
+  "manifest_files": 10,
+  "review_items_needing_attention": 1,
+  "scenario_count": 4,
+  "sensitivity_rows": 5,
+  "synthetic_data_rows": 4000,
+  "timestamp_utc": "2026-06-21T03:32:57.669046+00:00"
+}

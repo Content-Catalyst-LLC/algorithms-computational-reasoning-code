@@ -1,0 +1,47 @@
+[
+  {
+    "interpretation": "Repeated-seed sensitivity runs show how outputs change across parameter values.",
+    "mean_estimated_effect": -0.12289,
+    "mean_threshold_rate": 0.21075,
+    "runs": 10,
+    "std_estimated_effect": 0.70088,
+    "std_threshold_rate": 0.007031,
+    "treatment_effect_parameter": 0.0
+  },
+  {
+    "interpretation": "Repeated-seed sensitivity runs show how outputs change across parameter values.",
+    "mean_estimated_effect": 0.877109,
+    "mean_threshold_rate": 0.226,
+    "runs": 10,
+    "std_estimated_effect": 0.70088,
+    "std_threshold_rate": 0.007412,
+    "treatment_effect_parameter": 1.0
+  },
+  {
+    "interpretation": "Repeated-seed sensitivity runs show how outputs change across parameter values.",
+    "mean_estimated_effect": 1.877109,
+    "mean_threshold_rate": 0.2405,
+    "runs": 10,
+    "std_estimated_effect": 0.70088,
+    "std_threshold_rate": 0.008085,
+    "treatment_effect_parameter": 2.0
+  },
+  {
+    "interpretation": "Repeated-seed sensitivity runs show how outputs change across parameter values.",
+    "mean_estimated_effect": 3.877109,
+    "mean_threshold_rate": 0.2665,
+    "runs": 10,
+    "std_estimated_effect": 0.70088,
+    "std_threshold_rate": 0.009131,
+    "treatment_effect_parameter": 4.0
+  },
+  {
+    "interpretation": "Repeated-seed sensitivity runs show how outputs change across parameter values.",
+    "mean_estimated_effect": 7.87711,
+    "mean_threshold_rate": 0.327625,
+    "runs": 10,
+    "std_estimated_effect": 0.70088,
+    "std_threshold_rate": 0.012911,
+    "treatment_effect_parameter": 8.0
+  }
+]

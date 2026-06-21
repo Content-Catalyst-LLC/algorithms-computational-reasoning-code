@@ -1,0 +1,5 @@
+experiment_name,noise_scale,notes,sample_size,scenario,seed,threshold,treatment_effect
+reproducible_scenario_experiment,6.0,Baseline scenario.,1000,baseline,101,60.0,2.0
+reproducible_scenario_experiment,6.0,Changes treatment effect only.,1000,higher_effect,101,60.0,5.0
+reproducible_scenario_experiment,12.0,Changes noise only.,1000,higher_noise,101,60.0,2.0
+reproducible_scenario_experiment,6.0,Changes decision threshold only.,1000,threshold_stress,101,70.0,2.0

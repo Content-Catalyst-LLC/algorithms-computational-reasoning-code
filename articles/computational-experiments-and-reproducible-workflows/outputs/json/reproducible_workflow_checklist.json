@@ -1,0 +1,47 @@
+[
+  {
+    "check": "question_defined",
+    "question": "Is the computational experiment tied to an explicit question?",
+    "status": "complete"
+  },
+  {
+    "check": "raw_data_preserved",
+    "question": "Are raw or generated inputs preserved separately from processed outputs?",
+    "status": "complete"
+  },
+  {
+    "check": "parameters_recorded",
+    "question": "Are scenario parameters, thresholds, and sample sizes recorded?",
+    "status": "complete"
+  },
+  {
+    "check": "random_seed_recorded",
+    "question": "Are stochastic seeds recorded for reproducibility?",
+    "status": "complete"
+  },
+  {
+    "check": "environment_recorded",
+    "question": "Is runtime environment information captured?",
+    "status": "complete"
+  },
+  {
+    "check": "outputs_linked_to_inputs",
+    "question": "Are output files linked to data, code, and parameters?",
+    "status": "complete"
+  },
+  {
+    "check": "sensitivity_analysis_included",
+    "question": "Are key assumptions varied and compared?",
+    "status": "complete"
+  },
+  {
+    "check": "validation_evidence_included",
+    "question": "Are results checked against theory, benchmarks, observed data, or expert expectations?",
+    "status": "partial"
+  },
+  {
+    "check": "interpretation_limits_stated",
+    "question": "Are limitations and intended-use boundaries documented?",
+    "status": "complete"
+  }
+]

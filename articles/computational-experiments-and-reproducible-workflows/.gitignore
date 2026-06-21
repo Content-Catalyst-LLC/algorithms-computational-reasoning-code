@@ -1,0 +1,5 @@
+outputs/bin/
+outputs/*.sqlite
+__pycache__/
+*.pyc
+.DS_Store

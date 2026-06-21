@@ -1,0 +1,5 @@
+control_mean,estimated_effect,experiment_name,interpretation,mean_outcome,noise_scale,sample_size,scenario,seed,std_outcome,threshold,threshold_rate,treatment_effect_parameter,treatment_mean
+49.599794,2.773575,reproducible_scenario_experiment,"Scenario output depends on preserved data, parameters, seed, code, and runtime context.",50.933884,6.0,1000,baseline,101,11.417548,60.0,0.206,2.0,52.373369
+49.599794,5.773575,reproducible_scenario_experiment,"Scenario output depends on preserved data, parameters, seed, code, and runtime context.",52.376884,6.0,1000,higher_effect,101,11.694508,60.0,0.251,5.0,55.373369
+49.629799,2.898064,reproducible_scenario_experiment,"Scenario output depends on preserved data, parameters, seed, code, and runtime context.",51.023768,12.0,1000,higher_noise,101,15.277557,60.0,0.288,2.0,52.527863
+49.599794,2.773575,reproducible_scenario_experiment,"Scenario output depends on preserved data, parameters, seed, code, and runtime context.",50.933884,6.0,1000,threshold_stress,101,11.417548,70.0,0.047,2.0,52.373369

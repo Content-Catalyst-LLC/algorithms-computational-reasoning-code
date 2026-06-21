@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Reproducible Workflow Card",
+  "type": "object",
+  "required": ["title", "claim", "inputs", "code", "parameters", "environment", "outputs", "review_status"],
+  "properties": {
+    "title": {"type": "string"},
+    "claim": {"type": "string"},
+    "inputs": {"type": "array", "items": {"type": "string"}},
+    "code": {"type": "array", "items": {"type": "string"}},
+    "parameters": {"type": "array", "items": {"type": "string"}},
+    "environment": {"type": "array", "items": {"type": "string"}},
+    "outputs": {"type": "array", "items": {"type": "string"}},
+    "review_status": {"type": "string"}
+  }
+}

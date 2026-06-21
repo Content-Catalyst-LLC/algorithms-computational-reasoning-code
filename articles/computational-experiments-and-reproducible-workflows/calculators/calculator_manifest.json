@@ -1,0 +1,14 @@
+{
+  "article": "Computational Experiments and Reproducible Workflows",
+  "slug": "computational-experiments-and-reproducible-workflows",
+  "calculators": [
+    {
+      "name": "reproducibility_score",
+      "description": "Scores completeness of code, data, parameters, seed, environment, manifest, and validation records."
+    },
+    {
+      "name": "monte_carlo_sample_error",
+      "description": "Computes standard error and approximate 95 percent margin from standard deviation and sample size."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+check,question,status
+question_defined,Is the computational experiment tied to an explicit question?,complete
+raw_data_preserved,Are raw or generated inputs preserved separately from processed outputs?,complete
+parameters_recorded,"Are scenario parameters, thresholds, and sample sizes recorded?",complete
+random_seed_recorded,Are stochastic seeds recorded for reproducibility?,complete
+environment_recorded,Is runtime environment information captured?,complete
+outputs_linked_to_inputs,"Are output files linked to data, code, and parameters?",complete
+sensitivity_analysis_included,Are key assumptions varied and compared?,complete
+validation_evidence_included,"Are results checked against theory, benchmarks, observed data, or expert expectations?",partial
+interpretation_limits_stated,Are limitations and intended-use boundaries documented?,complete

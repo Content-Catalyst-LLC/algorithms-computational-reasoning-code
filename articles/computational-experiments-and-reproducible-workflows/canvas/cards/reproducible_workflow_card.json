@@ -1,0 +1,10 @@
+{
+  "title": "Computational Experiments and Reproducible Workflows",
+  "claim": "Computational evidence is strongest when code, data, parameters, environment, outputs, logs, and interpretation are preserved together.",
+  "inputs": ["experiment_configurations.csv", "synthetic_experiment_data.csv"],
+  "code": ["python/computational_experiments_reproducible_workflows_audit.py", "r/computational_experiments_reproducible_workflows_summary.R"],
+  "parameters": ["seed", "sample_size", "treatment_effect", "noise_scale", "threshold"],
+  "environment": ["python_version", "platform", "runtime timestamp"],
+  "outputs": ["scenario_experiment_summaries.csv", "output_manifest.csv", "reproducible_experiment_audit_summary.csv"],
+  "review_status": "educational scaffold"
+}

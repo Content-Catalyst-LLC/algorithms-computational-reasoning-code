@@ -1,0 +1,5 @@
+scenario_id,scenario_name,seed,sample_size,treatment_effect,noise_scale,threshold,interpretation
+baseline,baseline reproducible experiment,101,1000,2.0,6.0,60.0,Reference computational experiment with moderate effect and noise.
+higher_effect,higher effect scenario,101,1000,5.0,6.0,60.0,Changes the effect parameter while preserving seed and sample size.
+higher_noise,higher noise scenario,101,1000,2.0,12.0,60.0,Changes uncertainty level while preserving effect and seed.
+threshold_stress,threshold stress test,101,1000,2.0,6.0,70.0,Changes decision threshold while preserving generation settings.

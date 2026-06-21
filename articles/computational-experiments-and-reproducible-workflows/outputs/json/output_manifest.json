@@ -1,0 +1,52 @@
+[
+  {
+    "relative_path": "data/experiment_configurations.csv",
+    "sha256": "6420e1561647686ed5534c1f6b4f7c09902d40d860f7a45dfbdb313c14d46d10",
+    "size_bytes": 469
+  },
+  {
+    "relative_path": "data/synthetic_experiment_data.csv",
+    "sha256": "dcbffa31d57a64f014c06ef0bda335f70809097941d5ca790ffab3a79fe02c8f",
+    "size_bytes": 335670
+  },
+  {
+    "relative_path": "outputs/tables/scenario_experiment_summaries.csv",
+    "sha256": "7165c35edd0d2f329f3ce8d9c71253e9e5c98947aa1e69f663c9ee3c1dccdd31",
+    "size_bytes": 1050
+  },
+  {
+    "relative_path": "outputs/tables/sensitivity_experiment_summary.csv",
+    "sha256": "65f748fa74b3cbb1764c5ccb9a87023d158e65a51dce559cb68456afc8314c84",
+    "size_bytes": 736
+  },
+  {
+    "relative_path": "outputs/tables/reproducible_workflow_checklist.csv",
+    "sha256": "7f78830c5411f1ecca17ca65bd8de1d9aa32bcc26cc413a7e5a03296d90b92dd",
+    "size_bytes": 863
+  },
+  {
+    "relative_path": "outputs/json/experiment_configurations.json",
+    "sha256": "1802b24991f771dc182471a30fa239e87dc07ebfa8223a8896c7150393c63b17",
+    "size_bytes": 1039
+  },
+  {
+    "relative_path": "outputs/json/scenario_experiment_summaries.json",
+    "sha256": "812bb11f24a2363a7fa6e4c0d56307c3931d666584292a369a4e0f46580c01b5",
+    "size_bytes": 2116
+  },
+  {
+    "relative_path": "outputs/json/sensitivity_experiment_summary.json",
+    "sha256": "37050caf8b28b6632afec74b1148b80e1d86d3d764e9340212d6752544b7b551",
+    "size_bytes": 1578
+  },
+  {
+    "relative_path": "outputs/json/reproducible_workflow_checklist.json",
+    "sha256": "c35fa06214f356b937bee4c32bc4b24eff6ddd89a671a980e7244f5f9689a3fa",
+    "size_bytes": 1367
+  },
+  {
+    "relative_path": "outputs/json/runtime_environment.json",
+    "sha256": "c42d0ef018c83d32bd7eb75bcaf51c47dbb9c4b6d715fbf45ca73111dc4c6407",
+    "size_bytes": 248
+  }
+]

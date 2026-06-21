@@ -1,0 +1,11 @@
+{
+  "title": "Computational Experiments and Reproducible Workflows",
+  "slug": "computational-experiments-and-reproducible-workflows",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "agent-based-algorithms-and-emergent-behavior",
+  "next_article": "model-validation-testing-and-computational-evidence",
+  "focus_keyword": "computational experiments and reproducible workflows",
+  "description": "Computational experiments and reproducible workflows preserve code, data, parameters, environments, outputs, logs, manifests, validation checks, and interpretation records so computational evidence remains auditable.",
+  "repository_folder": "articles/computational-experiments-and-reproducible-workflows",
+  "canonical_url": "https://sustainablecatalyst.com/computational-experiments-and-reproducible-workflows/"
+}

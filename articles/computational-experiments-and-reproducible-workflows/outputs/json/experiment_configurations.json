@@ -1,0 +1,42 @@
+[
+  {
+    "experiment_name": "reproducible_scenario_experiment",
+    "noise_scale": 6.0,
+    "notes": "Baseline scenario.",
+    "sample_size": 1000,
+    "scenario": "baseline",
+    "seed": 101,
+    "threshold": 60.0,
+    "treatment_effect": 2.0
+  },
+  {
+    "experiment_name": "reproducible_scenario_experiment",
+    "noise_scale": 6.0,
+    "notes": "Changes treatment effect only.",
+    "sample_size": 1000,
+    "scenario": "higher_effect",
+    "seed": 101,
+    "threshold": 60.0,
+    "treatment_effect": 5.0
+  },
+  {
+    "experiment_name": "reproducible_scenario_experiment",
+    "noise_scale": 12.0,
+    "notes": "Changes noise only.",
+    "sample_size": 1000,
+    "scenario": "higher_noise",
+    "seed": 101,
+    "threshold": 60.0,
+    "treatment_effect": 2.0
+  },
+  {
+    "experiment_name": "reproducible_scenario_experiment",
+    "noise_scale": 6.0,
+    "notes": "Changes decision threshold only.",
+    "sample_size": 1000,
+    "scenario": "threshold_stress",
+    "seed": 101,
+    "threshold": 70.0,
+    "treatment_effect": 2.0
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "previous": {
+    "title": "Agent-Based Algorithms and Emergent Behavior",
+    "slug": "agent-based-algorithms-and-emergent-behavior"
+  },
+  "current": {
+    "title": "Computational Experiments and Reproducible Workflows",
+    "slug": "computational-experiments-and-reproducible-workflows"
+  },
+  "next": {
+    "title": "Model Validation, Testing, and Computational Evidence",
+    "slug": "model-validation-testing-and-computational-evidence"
+  }
+}

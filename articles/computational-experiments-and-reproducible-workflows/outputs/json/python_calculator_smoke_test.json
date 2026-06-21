@@ -1,0 +1,22 @@
+{
+  "reproducibility_score": {
+    "checks": {
+      "code": true,
+      "data": true,
+      "environment": true,
+      "manifest": true,
+      "parameters": true,
+      "seed": true,
+      "validation": false
+    },
+    "interpretation": "Higher score indicates more complete reproducibility evidence, not automatic model validity.",
+    "percentage": 85.71,
+    "score": 0.8571
+  },
+  "sample_error": {
+    "approx_95_margin": 0.61980642,
+    "samples": 1000,
+    "standard_error": 0.31622777,
+    "std_dev": 10.0
+  }
+}
