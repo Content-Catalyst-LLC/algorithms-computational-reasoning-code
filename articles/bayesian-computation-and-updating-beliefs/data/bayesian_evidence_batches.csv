@@ -1,0 +1,5 @@
+batch_id,observations,successes,evidence_note
+1,20,11,Initial sample with moderate success rate
+2,35,24,Second evidence batch shows stronger signal
+3,50,31,Larger follow-up sample refines belief
+4,80,47,Additional evidence narrows posterior uncertainty

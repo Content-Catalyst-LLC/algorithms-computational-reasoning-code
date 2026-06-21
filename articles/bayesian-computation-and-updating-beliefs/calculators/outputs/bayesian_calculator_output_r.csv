@@ -1,0 +1,2 @@
+"prior_alpha","prior_beta","successes","failures","posterior_alpha","posterior_beta","posterior_mean","posterior_sd","credible_interval_90_lower","credible_interval_90_upper","threshold","probability_above_threshold"
+2,2,113,72,115,74,0.608465608465608,0.0354100202723069,0.54955231929171,0.666070196560823,0.6,0.598054734022831

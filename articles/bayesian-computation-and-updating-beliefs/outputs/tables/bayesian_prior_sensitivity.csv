@@ -1,0 +1,3 @@
+interpretation,max_value,metric,min_value,range
+Large ranges indicate that prior assumptions remain influential after evidence.,0.620513,posterior_mean_range_across_priors,0.589744,0.030769
+Large ranges indicate that action-relevant posterior probability depends on prior choice.,0.724935,threshold_probability_range_across_priors,0.388645,0.33629

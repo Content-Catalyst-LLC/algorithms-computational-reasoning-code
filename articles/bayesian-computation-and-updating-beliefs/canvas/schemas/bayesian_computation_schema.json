@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BayesianComputationAuditSummary",
+  "type": "object",
+  "required": ["article", "threshold", "prior_scenarios", "evidence_batches", "posterior_mean_range_across_priors"],
+  "properties": {
+    "article": {"type": "string"},
+    "timestamp_utc": {"type": "string"},
+    "threshold": {"type": "number"},
+    "credible_mass": {"type": "number"},
+    "prior_scenarios": {"type": "integer"},
+    "evidence_batches": {"type": "integer"},
+    "posterior_mean_range_across_priors": {"type": "number"},
+    "threshold_probability_range_across_priors": {"type": "number"},
+    "review_items_needing_attention": {"type": "integer"}
+  }
+}

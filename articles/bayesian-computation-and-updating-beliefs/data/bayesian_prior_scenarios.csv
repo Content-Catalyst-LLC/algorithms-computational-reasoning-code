@@ -1,0 +1,5 @@
+name,alpha,beta,rationale
+skeptical_prior,2,8,Initial belief expects low event probability unless evidence is strong
+balanced_prior,2,2,Initial belief is weak and centered near uncertainty
+optimistic_prior,8,2,Initial belief expects high event probability based on prior experience
+weak_prior,1,1,Uniform prior used as a simple baseline for comparison

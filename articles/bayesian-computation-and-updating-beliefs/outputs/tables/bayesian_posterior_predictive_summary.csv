@@ -1,0 +1,5 @@
+future_observations,posterior_mean_probability,predictive_mean_successes,scenario
+50,0.589744,29.4872,skeptical_prior
+50,0.608466,30.4233,balanced_prior
+50,0.620513,31.02565,optimistic_prior
+50,0.609626,30.4813,weak_prior

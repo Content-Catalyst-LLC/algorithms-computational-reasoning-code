@@ -1,37 +1,19 @@
-# Bayesian Computation and Updating Beliefs (planned)
+# Bayesian Computation and Updating Beliefs
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Probabilistic, Causal, and Counterfactual Reasoning  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **“Bayesian Computation and Updating Beliefs.”** It provides reproducible, multi-language examples for Bayesian computation, Bayes' theorem, prior distributions, likelihood functions, posterior distributions, evidence updating, sequential inference, posterior prediction, prior sensitivity, expected loss, Bayesian decision-making, validation, calibration, governance, and interpretation limits.
 
-## Purpose
+## Article sequence
 
-This folder will hold computational companion materials for the planned article:
-**Bayesian Computation and Updating Beliefs**.
+- Previous: `probabilistic-algorithms-and-reasoning-under-uncertainty`
+- Current: `bayesian-computation-and-updating-beliefs`
+- Next: `causal-inference-and-computational-reasoning`
 
-## Standard Folder Layout
+## Core workflow
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+```bash
+python3 python/bayesian_computation_updating_beliefs_audit.py
+Rscript r/bayesian_computation_updating_beliefs_summary.R
+bash calculators/run_calculator_smoke_tests.sh
+```
 
-## Notes
-
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+The Python workflow produces CSV and JSON outputs under `outputs/`. The R workflow creates base-R diagnostic figures when R is available. The calculator layer provides reusable Bayesian updating, beta-binomial, posterior probability, prior sensitivity, and expected-loss utilities.

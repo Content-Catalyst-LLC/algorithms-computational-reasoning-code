@@ -1,0 +1,14 @@
+{
+  "article": "bayesian_computation_and_updating_beliefs",
+  "credible_mass": 0.9,
+  "evidence_batches": 4,
+  "interpretation": "Bayesian computation should document priors, evidence, posterior updates, prior sensitivity, decision rules, validation gaps, and governance implications.",
+  "posterior_mean_range_across_priors": 0.030769,
+  "prior_scenarios": 4,
+  "review_items_needing_attention": 4,
+  "threshold": 0.6,
+  "threshold_probability_range_across_priors": 0.33629,
+  "timestamp_utc": "2026-06-21T06:20:25.332332+00:00",
+  "total_observations": 185,
+  "total_successes": 113
+}

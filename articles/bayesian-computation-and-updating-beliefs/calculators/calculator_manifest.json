@@ -1,0 +1,5 @@
+{
+  "article": "bayesian-computation-and-updating-beliefs",
+  "calculators": [{"name": "Beta-binomial Bayesian updater", "python": "calculators/python/bayesian_calculator.py", "r": "calculators/r/bayesian_calculator.R", "outputs": "calculators/outputs/"}],
+  "functions": ["posterior_alpha_beta", "posterior_mean", "posterior_variance", "approximate_credible_interval", "threshold_probability", "expected_loss_decision"]
+}

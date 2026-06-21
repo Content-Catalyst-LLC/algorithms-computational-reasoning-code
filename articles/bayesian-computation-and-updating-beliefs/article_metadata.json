@@ -1,0 +1,19 @@
+{
+  "title": "Bayesian Computation and Updating Beliefs",
+  "slug": "bayesian-computation-and-updating-beliefs",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "next_article": "causal-inference-and-computational-reasoning",
+  "focus_keyword": "Bayesian computation and updating beliefs",
+  "tags": [
+    "Bayesian Computation",
+    "Bayesian Updating",
+    "Priors",
+    "Likelihood",
+    "Posterior Distributions",
+    "Bayesian Decision-Making",
+    "Probabilistic Inference",
+    "Computational Reasoning"
+  ],
+  "github_folder": "articles/bayesian-computation-and-updating-beliefs"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "check": "prior_rationale_documented",
+    "question": "Are priors named and justified?",
+    "status": "complete"
+  },
+  {
+    "check": "likelihood_assumption_documented",
+    "question": "Is the evidence-generating model clearly explained?",
+    "status": "partial"
+  },
+  {
+    "check": "sequential_updates_recorded",
+    "question": "Can each belief update be reconstructed?",
+    "status": "complete"
+  },
+  {
+    "check": "posterior_uncertainty_reported",
+    "question": "Are posterior intervals or uncertainty summaries reported?",
+    "status": "complete"
+  },
+  {
+    "check": "prior_sensitivity_tested",
+    "question": "Are conclusions compared across plausible priors?",
+    "status": "complete"
+  },
+  {
+    "check": "posterior_predictive_validation",
+    "question": "Does the model reproduce or forecast observed patterns?",
+    "status": "needs_review"
+  },
+  {
+    "check": "decision_rule_documented",
+    "question": "Are thresholds, losses, and action rules justified?",
+    "status": "partial"
+  },
+  {
+    "check": "governance_and_contestability",
+    "question": "Can affected users or reviewers challenge evidence, priors, or posterior use?",
+    "status": "needs_review"
+  }
+]

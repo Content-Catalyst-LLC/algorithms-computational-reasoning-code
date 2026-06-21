@@ -1,0 +1,5 @@
+expected_loss_if_act,expected_loss_if_wait,posterior_mean,probability_above_threshold,recommended_action_under_synthetic_loss,scenario
+0.611355,0.971612,0.589744,0.388645,act,skeptical_prior
+0.401945,1.495138,0.608466,0.598055,act,balanced_prior
+0.275065,1.812337,0.620513,0.724935,act,optimistic_prior
+0.389872,1.52532,0.609626,0.610128,act,weak_prior

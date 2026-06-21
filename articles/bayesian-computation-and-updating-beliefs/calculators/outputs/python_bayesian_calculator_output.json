@@ -1,0 +1,14 @@
+{
+  "credible_interval_90_lower": 0.5494999999999997,
+  "credible_interval_90_upper": 0.6660999999999997,
+  "failures": 72,
+  "posterior_alpha": 115.0,
+  "posterior_beta": 74.0,
+  "posterior_mean": 0.6084656084656085,
+  "posterior_sd": 0.03541002027230691,
+  "prior_alpha": 2.0,
+  "prior_beta": 2.0,
+  "probability_above_threshold": 0.5980548693692904,
+  "successes": 113,
+  "threshold": 0.6
+}

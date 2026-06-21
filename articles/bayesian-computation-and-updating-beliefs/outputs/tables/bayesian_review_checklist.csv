@@ -1,0 +1,9 @@
+check,question,status
+prior_rationale_documented,Are priors named and justified?,complete
+likelihood_assumption_documented,Is the evidence-generating model clearly explained?,partial
+sequential_updates_recorded,Can each belief update be reconstructed?,complete
+posterior_uncertainty_reported,Are posterior intervals or uncertainty summaries reported?,complete
+prior_sensitivity_tested,Are conclusions compared across plausible priors?,complete
+posterior_predictive_validation,Does the model reproduce or forecast observed patterns?,needs_review
+decision_rule_documented,"Are thresholds, losses, and action rules justified?",partial
+governance_and_contestability,"Can affected users or reviewers challenge evidence, priors, or posterior use?",needs_review

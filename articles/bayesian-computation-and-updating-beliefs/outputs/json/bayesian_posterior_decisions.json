@@ -1,0 +1,34 @@
+[
+  {
+    "expected_loss_if_act": 0.611355,
+    "expected_loss_if_wait": 0.971612,
+    "posterior_mean": 0.589744,
+    "probability_above_threshold": 0.388645,
+    "recommended_action_under_synthetic_loss": "act",
+    "scenario": "skeptical_prior"
+  },
+  {
+    "expected_loss_if_act": 0.401945,
+    "expected_loss_if_wait": 1.495138,
+    "posterior_mean": 0.608466,
+    "probability_above_threshold": 0.598055,
+    "recommended_action_under_synthetic_loss": "act",
+    "scenario": "balanced_prior"
+  },
+  {
+    "expected_loss_if_act": 0.275065,
+    "expected_loss_if_wait": 1.812337,
+    "posterior_mean": 0.620513,
+    "probability_above_threshold": 0.724935,
+    "recommended_action_under_synthetic_loss": "act",
+    "scenario": "optimistic_prior"
+  },
+  {
+    "expected_loss_if_act": 0.389872,
+    "expected_loss_if_wait": 1.52532,
+    "posterior_mean": 0.609626,
+    "probability_above_threshold": 0.610128,
+    "recommended_action_under_synthetic_loss": "act",
+    "scenario": "weak_prior"
+  }
+]

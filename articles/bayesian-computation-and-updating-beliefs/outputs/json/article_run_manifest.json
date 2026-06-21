@@ -1,0 +1,9 @@
+{
+  "article": "bayesian-computation-and-updating-beliefs",
+  "title": "Bayesian Computation and Updating Beliefs",
+  "generated_at": "2026-06-21T06:20:26Z",
+  "repo": "git@github.com:Content-Catalyst-LLC/algorithms-computational-reasoning-code.git",
+  "previous": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "next": "causal-inference-and-computational-reasoning",
+  "workflow_entrypoints": ["python/bayesian_computation_updating_beliefs_audit.py", "r/bayesian_computation_updating_beliefs_summary.R", "calculators/run_calculator_smoke_tests.sh", "run_all_available.sh"]
+}

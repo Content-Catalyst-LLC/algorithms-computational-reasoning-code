@@ -1,0 +1,26 @@
+[
+  {
+    "future_observations": 50,
+    "posterior_mean_probability": 0.589744,
+    "predictive_mean_successes": 29.4872,
+    "scenario": "skeptical_prior"
+  },
+  {
+    "future_observations": 50,
+    "posterior_mean_probability": 0.608466,
+    "predictive_mean_successes": 30.4233,
+    "scenario": "balanced_prior"
+  },
+  {
+    "future_observations": 50,
+    "posterior_mean_probability": 0.620513,
+    "predictive_mean_successes": 31.02565,
+    "scenario": "optimistic_prior"
+  },
+  {
+    "future_observations": 50,
+    "posterior_mean_probability": 0.609626,
+    "predictive_mean_successes": 30.4813,
+    "scenario": "weak_prior"
+  }
+]

@@ -1,0 +1,1 @@
+WITH prior(alpha, beta) AS (VALUES (2.0, 2.0)), evidence(successes, failures) AS (VALUES (113.0, 72.0)), posterior AS (SELECT alpha + successes AS post_alpha, beta + failures AS post_beta FROM prior, evidence) SELECT post_alpha, post_beta, post_alpha / (post_alpha + post_beta) AS posterior_mean FROM posterior;

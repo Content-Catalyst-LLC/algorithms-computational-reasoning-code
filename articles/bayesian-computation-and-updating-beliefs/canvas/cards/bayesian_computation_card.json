@@ -1,0 +1,9 @@
+{
+  "card_id": "bayesian-computation-and-updating-beliefs",
+  "title": "Bayesian Computation and Updating Beliefs",
+  "series": "Algorithms & Computational Reasoning",
+  "summary": "Bayesian computation updates prior assumptions with evidence to produce posterior beliefs, predictions, and decision-relevant uncertainty.",
+  "key_terms": ["prior", "likelihood", "posterior", "evidence", "credible interval", "posterior prediction", "prior sensitivity", "expected loss"],
+  "previous": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "next": "causal-inference-and-computational-reasoning"
+}
