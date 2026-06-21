@@ -1,0 +1,4002 @@
+[
+  {
+    "cost": 1354500.1,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 1
+  },
+  {
+    "cost": 1136387.47,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 2
+  },
+  {
+    "cost": 1047862.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 3
+  },
+  {
+    "cost": 1305809.19,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 4
+  },
+  {
+    "cost": 1137300.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 5
+  },
+  {
+    "cost": 969692.75,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 6
+  },
+  {
+    "cost": 1080799.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 7
+  },
+  {
+    "cost": 1107705.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 8
+  },
+  {
+    "cost": 967075.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 9
+  },
+  {
+    "cost": 1266062.51,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 10
+  },
+  {
+    "cost": 873025.54,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 11
+  },
+  {
+    "cost": 1262726.53,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 12
+  },
+  {
+    "cost": 1144488.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 13
+  },
+  {
+    "cost": 1314862.57,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 14
+  },
+  {
+    "cost": 1143284.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 15
+  },
+  {
+    "cost": 879524.23,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 16
+  },
+  {
+    "cost": 1185580.36,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 17
+  },
+  {
+    "cost": 1145454.25,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 18
+  },
+  {
+    "cost": 1157010.95,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 19
+  },
+  {
+    "cost": 1307578.5,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 20
+  },
+  {
+    "cost": 1154696.68,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 21
+  },
+  {
+    "cost": 1069888.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 22
+  },
+  {
+    "cost": 1128896.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 23
+  },
+  {
+    "cost": 1021661.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 24
+  },
+  {
+    "cost": 1154319.46,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 25
+  },
+  {
+    "cost": 1096869.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 26
+  },
+  {
+    "cost": 1252124.21,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 27
+  },
+  {
+    "cost": 1205807.28,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 28
+  },
+  {
+    "cost": 1071702.82,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 29
+  },
+  {
+    "cost": 1142832.47,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 30
+  },
+  {
+    "cost": 1130085.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 31
+  },
+  {
+    "cost": 1092330.37,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 32
+  },
+  {
+    "cost": 1241293.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 33
+  },
+  {
+    "cost": 1139314.14,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 34
+  },
+  {
+    "cost": 1186679.59,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 35
+  },
+  {
+    "cost": 1177635.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 36
+  },
+  {
+    "cost": 1228108.45,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 37
+  },
+  {
+    "cost": 1154923.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 38
+  },
+  {
+    "cost": 1052799.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 39
+  },
+  {
+    "cost": 1091474.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 40
+  },
+  {
+    "cost": 1140461.13,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 41
+  },
+  {
+    "cost": 1062152.9,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 42
+  },
+  {
+    "cost": 1240313.62,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 43
+  },
+  {
+    "cost": 1101207.41,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 44
+  },
+  {
+    "cost": 1151542.61,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 45
+  },
+  {
+    "cost": 1272870.03,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 46
+  },
+  {
+    "cost": 1189594.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 47
+  },
+  {
+    "cost": 1181564.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 48
+  },
+  {
+    "cost": 1108647.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 49
+  },
+  {
+    "cost": 1124819.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 50
+  },
+  {
+    "cost": 1156848.38,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 51
+  },
+  {
+    "cost": 1200680.57,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 52
+  },
+  {
+    "cost": 951200.27,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 53
+  },
+  {
+    "cost": 1140092.36,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 54
+  },
+  {
+    "cost": 1114091.39,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 55
+  },
+  {
+    "cost": 1466894.2,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 56
+  },
+  {
+    "cost": 1161723.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 57
+  },
+  {
+    "cost": 1177846.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 58
+  },
+  {
+    "cost": 1115704.4,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 59
+  },
+  {
+    "cost": 980229.01,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 60
+  },
+  {
+    "cost": 1128900.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 61
+  },
+  {
+    "cost": 956744.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 62
+  },
+  {
+    "cost": 1200977.01,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 63
+  },
+  {
+    "cost": 1004759.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 64
+  },
+  {
+    "cost": 1073847.99,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 65
+  },
+  {
+    "cost": 1163868.71,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 66
+  },
+  {
+    "cost": 1371188.8,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 67
+  },
+  {
+    "cost": 1224639.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 68
+  },
+  {
+    "cost": 1047794.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 69
+  },
+  {
+    "cost": 1347240.8,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 70
+  },
+  {
+    "cost": 1015592.74,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 71
+  },
+  {
+    "cost": 1226276.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 72
+  },
+  {
+    "cost": 1228542.92,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 73
+  },
+  {
+    "cost": 1117155.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 74
+  },
+  {
+    "cost": 1397496.58,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 75
+  },
+  {
+    "cost": 1068400.98,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 76
+  },
+  {
+    "cost": 1225778.75,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 77
+  },
+  {
+    "cost": 1046591.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 78
+  },
+  {
+    "cost": 1131442.4,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 79
+  },
+  {
+    "cost": 1041554.17,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 80
+  },
+  {
+    "cost": 1241063.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 81
+  },
+  {
+    "cost": 953084.28,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 82
+  },
+  {
+    "cost": 1086261.32,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 83
+  },
+  {
+    "cost": 1203934.55,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 84
+  },
+  {
+    "cost": 1021255.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 85
+  },
+  {
+    "cost": 1222007.92,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 86
+  },
+  {
+    "cost": 1152094.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 87
+  },
+  {
+    "cost": 1188320.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 88
+  },
+  {
+    "cost": 1090749.51,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 89
+  },
+  {
+    "cost": 1085358.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 90
+  },
+  {
+    "cost": 995828.82,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 91
+  },
+  {
+    "cost": 1143653.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 92
+  },
+  {
+    "cost": 1030148.64,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 93
+  },
+  {
+    "cost": 1072725.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 94
+  },
+  {
+    "cost": 1092999.69,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 95
+  },
+  {
+    "cost": 1202679.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 96
+  },
+  {
+    "cost": 1091530.93,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 97
+  },
+  {
+    "cost": 1196355.71,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 98
+  },
+  {
+    "cost": 1119122.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 99
+  },
+  {
+    "cost": 1146070.61,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 100
+  },
+  {
+    "cost": 1139349.11,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 101
+  },
+  {
+    "cost": 842625.85,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 102
+  },
+  {
+    "cost": 1264336.4,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 103
+  },
+  {
+    "cost": 1113862.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 104
+  },
+  {
+    "cost": 1110056.27,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 105
+  },
+  {
+    "cost": 1205006.57,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 106
+  },
+  {
+    "cost": 1137778.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 107
+  },
+  {
+    "cost": 1177993.42,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 108
+  },
+  {
+    "cost": 1109335.91,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 109
+  },
+  {
+    "cost": 1310104.68,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 110
+  },
+  {
+    "cost": 1148309.48,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 111
+  },
+  {
+    "cost": 1090123.38,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 112
+  },
+  {
+    "cost": 1063851.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 113
+  },
+  {
+    "cost": 1082389.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 114
+  },
+  {
+    "cost": 1265721.04,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 115
+  },
+  {
+    "cost": 1147548.42,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 116
+  },
+  {
+    "cost": 1064712.41,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 117
+  },
+  {
+    "cost": 1070905.51,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 118
+  },
+  {
+    "cost": 1131417.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 119
+  },
+  {
+    "cost": 1203096.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 120
+  },
+  {
+    "cost": 999248.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 121
+  },
+  {
+    "cost": 1108836.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 122
+  },
+  {
+    "cost": 1209032.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 123
+  },
+  {
+    "cost": 1098356.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 124
+  },
+  {
+    "cost": 1030445.4,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 125
+  },
+  {
+    "cost": 1238064.28,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 126
+  },
+  {
+    "cost": 1041610.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 127
+  },
+  {
+    "cost": 1069366.74,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 128
+  },
+  {
+    "cost": 1009557.47,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 129
+  },
+  {
+    "cost": 1210101.97,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 130
+  },
+  {
+    "cost": 1113135.33,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 131
+  },
+  {
+    "cost": 1241694.58,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 132
+  },
+  {
+    "cost": 1147829.57,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 133
+  },
+  {
+    "cost": 1133626.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 134
+  },
+  {
+    "cost": 1049159.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 135
+  },
+  {
+    "cost": 1304432.09,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 136
+  },
+  {
+    "cost": 979394.82,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 137
+  },
+  {
+    "cost": 1136456.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 138
+  },
+  {
+    "cost": 1108735.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 139
+  },
+  {
+    "cost": 1175916.23,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 140
+  },
+  {
+    "cost": 1229603.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 141
+  },
+  {
+    "cost": 1020774.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 142
+  },
+  {
+    "cost": 988978.55,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 143
+  },
+  {
+    "cost": 1135262.18,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 144
+  },
+  {
+    "cost": 898802.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 145
+  },
+  {
+    "cost": 1100268.43,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 146
+  },
+  {
+    "cost": 1098209.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 147
+  },
+  {
+    "cost": 1013794.35,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 148
+  },
+  {
+    "cost": 913246.61,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 149
+  },
+  {
+    "cost": 989317.45,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 150
+  },
+  {
+    "cost": 1065123.64,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 151
+  },
+  {
+    "cost": 962529.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 152
+  },
+  {
+    "cost": 1057165.6,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 153
+  },
+  {
+    "cost": 1177000.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 154
+  },
+  {
+    "cost": 1019911.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 155
+  },
+  {
+    "cost": 1081999.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 156
+  },
+  {
+    "cost": 1006667.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 157
+  },
+  {
+    "cost": 1157779.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 158
+  },
+  {
+    "cost": 1143798.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 159
+  },
+  {
+    "cost": 1256207.48,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 160
+  },
+  {
+    "cost": 1191564.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 161
+  },
+  {
+    "cost": 1214302.95,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 162
+  },
+  {
+    "cost": 1333580.54,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 163
+  },
+  {
+    "cost": 1349680.24,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 164
+  },
+  {
+    "cost": 986170.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 165
+  },
+  {
+    "cost": 1194816.47,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 166
+  },
+  {
+    "cost": 1153255.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 167
+  },
+  {
+    "cost": 1264219.59,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 168
+  },
+  {
+    "cost": 970881.44,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 169
+  },
+  {
+    "cost": 1326009.15,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 170
+  },
+  {
+    "cost": 1241495.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 171
+  },
+  {
+    "cost": 1207366.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 172
+  },
+  {
+    "cost": 1101395.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 173
+  },
+  {
+    "cost": 1235336.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 174
+  },
+  {
+    "cost": 1039906.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 175
+  },
+  {
+    "cost": 1200058.55,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 176
+  },
+  {
+    "cost": 1098656.37,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 177
+  },
+  {
+    "cost": 1124296.2,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 178
+  },
+  {
+    "cost": 1082084.0,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 179
+  },
+  {
+    "cost": 1194541.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 180
+  },
+  {
+    "cost": 931606.55,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 181
+  },
+  {
+    "cost": 1278829.31,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 182
+  },
+  {
+    "cost": 1358356.89,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 183
+  },
+  {
+    "cost": 1202790.74,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 184
+  },
+  {
+    "cost": 1322909.31,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 185
+  },
+  {
+    "cost": 1003390.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 186
+  },
+  {
+    "cost": 1209438.92,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 187
+  },
+  {
+    "cost": 1106205.64,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 188
+  },
+  {
+    "cost": 1131985.97,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 189
+  },
+  {
+    "cost": 931009.3,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 190
+  },
+  {
+    "cost": 1231755.6,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 191
+  },
+  {
+    "cost": 1042628.77,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 192
+  },
+  {
+    "cost": 1150171.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 193
+  },
+  {
+    "cost": 1189064.06,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 194
+  },
+  {
+    "cost": 1295980.84,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 195
+  },
+  {
+    "cost": 980151.13,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 196
+  },
+  {
+    "cost": 1299599.95,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 197
+  },
+  {
+    "cost": 1132398.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 198
+  },
+  {
+    "cost": 1306287.85,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 199
+  },
+  {
+    "cost": 1301560.97,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 200
+  },
+  {
+    "cost": 1046397.95,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 201
+  },
+  {
+    "cost": 1155156.96,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 202
+  },
+  {
+    "cost": 1174668.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 203
+  },
+  {
+    "cost": 1082119.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 204
+  },
+  {
+    "cost": 1089257.3,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 205
+  },
+  {
+    "cost": 1214348.7,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 206
+  },
+  {
+    "cost": 1187088.38,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 207
+  },
+  {
+    "cost": 1037336.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 208
+  },
+  {
+    "cost": 1086246.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 209
+  },
+  {
+    "cost": 1239389.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 210
+  },
+  {
+    "cost": 1231008.98,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 211
+  },
+  {
+    "cost": 915612.18,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 212
+  },
+  {
+    "cost": 1266653.59,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 213
+  },
+  {
+    "cost": 1177293.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 214
+  },
+  {
+    "cost": 1091960.92,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 215
+  },
+  {
+    "cost": 1008326.97,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 216
+  },
+  {
+    "cost": 1206644.44,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 217
+  },
+  {
+    "cost": 1249658.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 218
+  },
+  {
+    "cost": 1104438.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 219
+  },
+  {
+    "cost": 1141769.9,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 220
+  },
+  {
+    "cost": 1124177.54,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 221
+  },
+  {
+    "cost": 1153344.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 222
+  },
+  {
+    "cost": 1130685.93,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 223
+  },
+  {
+    "cost": 1177531.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 224
+  },
+  {
+    "cost": 1016228.68,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 225
+  },
+  {
+    "cost": 1089013.27,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 226
+  },
+  {
+    "cost": 1007193.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 227
+  },
+  {
+    "cost": 1107979.41,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 228
+  },
+  {
+    "cost": 1277555.7,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 229
+  },
+  {
+    "cost": 1049790.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 230
+  },
+  {
+    "cost": 1110779.64,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 231
+  },
+  {
+    "cost": 1054585.11,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 232
+  },
+  {
+    "cost": 1210597.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 233
+  },
+  {
+    "cost": 1134378.42,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 234
+  },
+  {
+    "cost": 1148764.19,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 235
+  },
+  {
+    "cost": 1185702.68,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 236
+  },
+  {
+    "cost": 1282286.31,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 237
+  },
+  {
+    "cost": 1032248.43,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 238
+  },
+  {
+    "cost": 1085162.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 239
+  },
+  {
+    "cost": 1020954.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 240
+  },
+  {
+    "cost": 1054233.14,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 241
+  },
+  {
+    "cost": 1056242.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 242
+  },
+  {
+    "cost": 1179090.0,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 243
+  },
+  {
+    "cost": 1104935.28,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 244
+  },
+  {
+    "cost": 1184817.14,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 245
+  },
+  {
+    "cost": 1216726.0,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 246
+  },
+  {
+    "cost": 1117511.88,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 247
+  },
+  {
+    "cost": 1093521.66,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 248
+  },
+  {
+    "cost": 1111062.86,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 249
+  },
+  {
+    "cost": 1170436.68,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 250
+  },
+  {
+    "cost": 1079657.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 251
+  },
+  {
+    "cost": 1153851.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 252
+  },
+  {
+    "cost": 868755.14,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 253
+  },
+  {
+    "cost": 1198061.95,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 254
+  },
+  {
+    "cost": 1056893.77,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 255
+  },
+  {
+    "cost": 1129405.13,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 256
+  },
+  {
+    "cost": 1257888.48,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 257
+  },
+  {
+    "cost": 1284429.82,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 258
+  },
+  {
+    "cost": 1228492.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 259
+  },
+  {
+    "cost": 1091955.01,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 260
+  },
+  {
+    "cost": 1142176.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 261
+  },
+  {
+    "cost": 1017801.31,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 262
+  },
+  {
+    "cost": 994374.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 263
+  },
+  {
+    "cost": 1355423.42,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 264
+  },
+  {
+    "cost": 1117356.08,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 265
+  },
+  {
+    "cost": 1337381.3,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 266
+  },
+  {
+    "cost": 1237353.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 267
+  },
+  {
+    "cost": 1115830.73,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 268
+  },
+  {
+    "cost": 975014.18,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 269
+  },
+  {
+    "cost": 1083884.07,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 270
+  },
+  {
+    "cost": 1061305.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 271
+  },
+  {
+    "cost": 1088711.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 272
+  },
+  {
+    "cost": 1237491.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 273
+  },
+  {
+    "cost": 1101300.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 274
+  },
+  {
+    "cost": 1216494.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 275
+  },
+  {
+    "cost": 1242305.15,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 276
+  },
+  {
+    "cost": 1084708.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 277
+  },
+  {
+    "cost": 1276832.11,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 278
+  },
+  {
+    "cost": 1113677.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 279
+  },
+  {
+    "cost": 915643.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 280
+  },
+  {
+    "cost": 1070805.27,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 281
+  },
+  {
+    "cost": 1080993.11,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 282
+  },
+  {
+    "cost": 1179673.35,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 283
+  },
+  {
+    "cost": 1074412.18,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 284
+  },
+  {
+    "cost": 1082386.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 285
+  },
+  {
+    "cost": 1105234.44,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 286
+  },
+  {
+    "cost": 1197041.34,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 287
+  },
+  {
+    "cost": 1052845.0,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 288
+  },
+  {
+    "cost": 1117428.82,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 289
+  },
+  {
+    "cost": 1042885.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 290
+  },
+  {
+    "cost": 1008916.82,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 291
+  },
+  {
+    "cost": 1056015.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 292
+  },
+  {
+    "cost": 1271065.0,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 293
+  },
+  {
+    "cost": 1126612.85,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 294
+  },
+  {
+    "cost": 973176.81,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 295
+  },
+  {
+    "cost": 1203213.59,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 296
+  },
+  {
+    "cost": 1319199.31,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 297
+  },
+  {
+    "cost": 1099333.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 298
+  },
+  {
+    "cost": 1170097.17,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 299
+  },
+  {
+    "cost": 1010846.73,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 300
+  },
+  {
+    "cost": 1231973.43,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 301
+  },
+  {
+    "cost": 1115580.94,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 302
+  },
+  {
+    "cost": 1099898.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 303
+  },
+  {
+    "cost": 1204371.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 304
+  },
+  {
+    "cost": 1161985.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 305
+  },
+  {
+    "cost": 1228317.31,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 306
+  },
+  {
+    "cost": 949085.96,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 307
+  },
+  {
+    "cost": 1192336.99,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 308
+  },
+  {
+    "cost": 1093353.31,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 309
+  },
+  {
+    "cost": 1069115.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 310
+  },
+  {
+    "cost": 1247248.65,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 311
+  },
+  {
+    "cost": 1207988.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 312
+  },
+  {
+    "cost": 1102208.42,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 313
+  },
+  {
+    "cost": 1135237.72,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 314
+  },
+  {
+    "cost": 1043571.25,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 315
+  },
+  {
+    "cost": 1394844.57,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 316
+  },
+  {
+    "cost": 1261284.45,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 317
+  },
+  {
+    "cost": 1186642.99,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 318
+  },
+  {
+    "cost": 1130480.11,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 319
+  },
+  {
+    "cost": 940956.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 320
+  },
+  {
+    "cost": 1012375.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 321
+  },
+  {
+    "cost": 1095942.94,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 322
+  },
+  {
+    "cost": 919940.2,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 323
+  },
+  {
+    "cost": 1131487.77,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 324
+  },
+  {
+    "cost": 1053724.36,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 325
+  },
+  {
+    "cost": 1021841.9,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 326
+  },
+  {
+    "cost": 1041884.04,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 327
+  },
+  {
+    "cost": 1255225.57,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 328
+  },
+  {
+    "cost": 1068676.09,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 329
+  },
+  {
+    "cost": 1228527.48,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 330
+  },
+  {
+    "cost": 1258935.12,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 331
+  },
+  {
+    "cost": 1149299.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 332
+  },
+  {
+    "cost": 1182603.07,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 333
+  },
+  {
+    "cost": 1252941.48,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 334
+  },
+  {
+    "cost": 1188506.99,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 335
+  },
+  {
+    "cost": 995268.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 336
+  },
+  {
+    "cost": 1108409.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 337
+  },
+  {
+    "cost": 1211796.19,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 338
+  },
+  {
+    "cost": 1167935.88,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 339
+  },
+  {
+    "cost": 925989.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 340
+  },
+  {
+    "cost": 1121471.58,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 341
+  },
+  {
+    "cost": 1302862.53,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 342
+  },
+  {
+    "cost": 1064635.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 343
+  },
+  {
+    "cost": 1089746.9,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 344
+  },
+  {
+    "cost": 1078667.62,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 345
+  },
+  {
+    "cost": 1142463.47,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 346
+  },
+  {
+    "cost": 1283125.24,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 347
+  },
+  {
+    "cost": 1097889.03,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 348
+  },
+  {
+    "cost": 1090061.78,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 349
+  },
+  {
+    "cost": 1335775.13,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 350
+  },
+  {
+    "cost": 1350028.83,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 351
+  },
+  {
+    "cost": 971132.64,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 352
+  },
+  {
+    "cost": 1151679.21,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 353
+  },
+  {
+    "cost": 1209217.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 354
+  },
+  {
+    "cost": 1063652.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 355
+  },
+  {
+    "cost": 1107954.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 356
+  },
+  {
+    "cost": 1249452.21,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 357
+  },
+  {
+    "cost": 995562.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 358
+  },
+  {
+    "cost": 1126610.44,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 359
+  },
+  {
+    "cost": 1215280.19,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 360
+  },
+  {
+    "cost": 1154294.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 361
+  },
+  {
+    "cost": 1091826.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 362
+  },
+  {
+    "cost": 1146772.85,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 363
+  },
+  {
+    "cost": 1055440.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 364
+  },
+  {
+    "cost": 1000794.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 365
+  },
+  {
+    "cost": 1042399.88,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 366
+  },
+  {
+    "cost": 1047266.75,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 367
+  },
+  {
+    "cost": 1040465.4,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 368
+  },
+  {
+    "cost": 1073244.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 369
+  },
+  {
+    "cost": 1067613.73,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 370
+  },
+  {
+    "cost": 1203065.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 371
+  },
+  {
+    "cost": 1138250.79,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 372
+  },
+  {
+    "cost": 1026590.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 373
+  },
+  {
+    "cost": 1075432.45,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 374
+  },
+  {
+    "cost": 1070201.76,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 375
+  },
+  {
+    "cost": 1100438.25,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 376
+  },
+  {
+    "cost": 934770.61,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 377
+  },
+  {
+    "cost": 1130344.14,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 378
+  },
+  {
+    "cost": 1075841.75,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 379
+  },
+  {
+    "cost": 1183635.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 380
+  },
+  {
+    "cost": 1131086.73,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 381
+  },
+  {
+    "cost": 1079191.92,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 382
+  },
+  {
+    "cost": 1130853.09,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 383
+  },
+  {
+    "cost": 1062156.43,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 384
+  },
+  {
+    "cost": 1040411.98,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 385
+  },
+  {
+    "cost": 1307882.09,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 386
+  },
+  {
+    "cost": 1328902.87,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 387
+  },
+  {
+    "cost": 1091145.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 388
+  },
+  {
+    "cost": 954306.36,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 389
+  },
+  {
+    "cost": 1134263.59,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 390
+  },
+  {
+    "cost": 1074948.65,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 391
+  },
+  {
+    "cost": 1078847.62,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 392
+  },
+  {
+    "cost": 1106953.59,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 393
+  },
+  {
+    "cost": 1128951.6,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 394
+  },
+  {
+    "cost": 985667.09,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 395
+  },
+  {
+    "cost": 1266391.48,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 396
+  },
+  {
+    "cost": 1030951.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 397
+  },
+  {
+    "cost": 1274272.32,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 398
+  },
+  {
+    "cost": 1223200.09,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 399
+  },
+  {
+    "cost": 1080392.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 400
+  },
+  {
+    "cost": 1173718.72,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 401
+  },
+  {
+    "cost": 1212037.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 402
+  },
+  {
+    "cost": 1040556.6,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 403
+  },
+  {
+    "cost": 1251804.99,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 404
+  },
+  {
+    "cost": 1155180.12,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 405
+  },
+  {
+    "cost": 1154659.22,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 406
+  },
+  {
+    "cost": 1036026.06,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 407
+  },
+  {
+    "cost": 1078614.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 408
+  },
+  {
+    "cost": 1120840.72,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 409
+  },
+  {
+    "cost": 1295945.22,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 410
+  },
+  {
+    "cost": 1276562.64,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 411
+  },
+  {
+    "cost": 1139831.91,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 412
+  },
+  {
+    "cost": 1174742.29,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 413
+  },
+  {
+    "cost": 1117544.93,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 414
+  },
+  {
+    "cost": 1199412.33,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 415
+  },
+  {
+    "cost": 1430881.33,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 416
+  },
+  {
+    "cost": 1122639.13,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 417
+  },
+  {
+    "cost": 1078647.09,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 418
+  },
+  {
+    "cost": 942802.83,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 419
+  },
+  {
+    "cost": 1147669.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 420
+  },
+  {
+    "cost": 1355314.13,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 421
+  },
+  {
+    "cost": 1140788.52,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 422
+  },
+  {
+    "cost": 961063.54,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 423
+  },
+  {
+    "cost": 1106037.24,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 424
+  },
+  {
+    "cost": 1224383.9,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 425
+  },
+  {
+    "cost": 1120765.87,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 426
+  },
+  {
+    "cost": 1159040.56,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 427
+  },
+  {
+    "cost": 1180859.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 428
+  },
+  {
+    "cost": 1097998.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 429
+  },
+  {
+    "cost": 1050540.41,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 430
+  },
+  {
+    "cost": 1192137.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 431
+  },
+  {
+    "cost": 1158706.75,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 432
+  },
+  {
+    "cost": 1036580.37,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 433
+  },
+  {
+    "cost": 1114029.58,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 434
+  },
+  {
+    "cost": 1216718.98,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 435
+  },
+  {
+    "cost": 1072495.95,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 436
+  },
+  {
+    "cost": 956325.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 437
+  },
+  {
+    "cost": 1158343.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 438
+  },
+  {
+    "cost": 913092.31,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 439
+  },
+  {
+    "cost": 1055829.71,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 440
+  },
+  {
+    "cost": 1174224.91,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 441
+  },
+  {
+    "cost": 1152989.72,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 442
+  },
+  {
+    "cost": 1138097.49,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 443
+  },
+  {
+    "cost": 1092106.33,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 444
+  },
+  {
+    "cost": 1175781.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 445
+  },
+  {
+    "cost": 1158296.54,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 446
+  },
+  {
+    "cost": 1029717.0,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 447
+  },
+  {
+    "cost": 1106088.37,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 448
+  },
+  {
+    "cost": 1049969.48,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 449
+  },
+  {
+    "cost": 1241811.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 450
+  },
+  {
+    "cost": 1274782.55,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 451
+  },
+  {
+    "cost": 1152750.05,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 452
+  },
+  {
+    "cost": 1246709.3,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 453
+  },
+  {
+    "cost": 982426.96,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 454
+  },
+  {
+    "cost": 1107383.16,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 455
+  },
+  {
+    "cost": 1197527.67,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 456
+  },
+  {
+    "cost": 1177844.85,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 457
+  },
+  {
+    "cost": 990841.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 458
+  },
+  {
+    "cost": 1165241.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 459
+  },
+  {
+    "cost": 1194888.21,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 460
+  },
+  {
+    "cost": 1272293.51,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 461
+  },
+  {
+    "cost": 930326.35,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 462
+  },
+  {
+    "cost": 1094315.89,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 463
+  },
+  {
+    "cost": 1211285.99,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 464
+  },
+  {
+    "cost": 1103416.31,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 465
+  },
+  {
+    "cost": 1068801.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 466
+  },
+  {
+    "cost": 900076.65,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 467
+  },
+  {
+    "cost": 913633.11,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 468
+  },
+  {
+    "cost": 1055974.5,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 469
+  },
+  {
+    "cost": 1040392.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 470
+  },
+  {
+    "cost": 1167754.41,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 471
+  },
+  {
+    "cost": 1062898.77,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 472
+  },
+  {
+    "cost": 1196179.8,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 473
+  },
+  {
+    "cost": 1252994.61,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 474
+  },
+  {
+    "cost": 1172791.15,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 475
+  },
+  {
+    "cost": 1272412.36,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 476
+  },
+  {
+    "cost": 935814.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 477
+  },
+  {
+    "cost": 1296357.44,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 478
+  },
+  {
+    "cost": 1196399.38,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 479
+  },
+  {
+    "cost": 988605.63,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 480
+  },
+  {
+    "cost": 1074864.81,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 481
+  },
+  {
+    "cost": 1240208.53,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 482
+  },
+  {
+    "cost": 1169595.66,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 483
+  },
+  {
+    "cost": 1110505.02,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 484
+  },
+  {
+    "cost": 1116035.93,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 485
+  },
+  {
+    "cost": 1087631.39,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 486
+  },
+  {
+    "cost": 1250684.41,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 487
+  },
+  {
+    "cost": 1125152.25,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 488
+  },
+  {
+    "cost": 1068929.26,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 489
+  },
+  {
+    "cost": 1067332.68,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 490
+  },
+  {
+    "cost": 1260208.03,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 491
+  },
+  {
+    "cost": 1252500.01,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 492
+  },
+  {
+    "cost": 1034371.77,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 493
+  },
+  {
+    "cost": 1105828.61,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 494
+  },
+  {
+    "cost": 1424553.03,
+    "exceeds_threshold": 1,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 495
+  },
+  {
+    "cost": 1207514.3,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 496
+  },
+  {
+    "cost": 1132162.1,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 497
+  },
+  {
+    "cost": 1203934.06,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 498
+  },
+  {
+    "cost": 1102997.84,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 499
+  },
+  {
+    "cost": 1041042.91,
+    "exceeds_threshold": 0,
+    "experiment": "project_cost_risk",
+    "seed": 1001,
+    "threshold": 1250000.0,
+    "trial": 500
+  }
+]

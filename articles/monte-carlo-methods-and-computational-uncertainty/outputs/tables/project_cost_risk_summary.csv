@@ -1,0 +1,2 @@
+cost_p05,cost_p50,cost_p95,experiment,interpretation,mean_cost,mean_cost_lower_95,mean_cost_standard_error,mean_cost_upper_95,samples,seed,threshold,threshold_probability,threshold_probability_lower_95,threshold_probability_standard_error,threshold_probability_upper_95
+968531.22,1129665.8,1297513.17,project_cost_risk,Monte Carlo cost simulation estimates both expected cost and probability of threshold exceedance.,1130582.46,1129198.89,705.91,1131966.04,20000,1001,1250000.0,0.1174,0.112939,0.002276,0.121861

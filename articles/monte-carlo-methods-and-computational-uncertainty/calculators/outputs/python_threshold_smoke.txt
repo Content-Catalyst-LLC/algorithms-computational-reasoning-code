@@ -1,0 +1,4 @@
+threshold_probability=0.126000
+standard_error=0.010494
+lower_95=0.105432
+upper_95=0.146568

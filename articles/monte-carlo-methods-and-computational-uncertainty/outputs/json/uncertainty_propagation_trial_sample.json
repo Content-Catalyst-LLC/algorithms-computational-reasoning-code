@@ -1,0 +1,4502 @@
+[
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.750953,
+    "input_b": 4.332509,
+    "input_c": 1.07654,
+    "output": 23.625711,
+    "seed": 2002,
+    "trial": 1
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.250803,
+    "input_b": 4.641522,
+    "input_c": 1.23378,
+    "output": 18.095465,
+    "seed": 2002,
+    "trial": 2
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.929005,
+    "input_b": 2.801666,
+    "input_c": 1.057964,
+    "output": 37.227685,
+    "seed": 2002,
+    "trial": 3
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.949524,
+    "input_b": 4.980752,
+    "input_c": 0.879287,
+    "output": 17.475936,
+    "seed": 2002,
+    "trial": 4
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.451669,
+    "input_b": 2.080065,
+    "input_c": 0.842802,
+    "output": 44.260855,
+    "seed": 2002,
+    "trial": 5
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.960839,
+    "input_b": 2.524656,
+    "input_c": 1.019517,
+    "output": 19.566606,
+    "seed": 2002,
+    "trial": 6
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.799754,
+    "input_b": 3.72268,
+    "input_c": 1.019645,
+    "output": 21.209688,
+    "seed": 2002,
+    "trial": 7
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.348011,
+    "input_b": 2.124882,
+    "input_c": 1.067345,
+    "output": 64.685846,
+    "seed": 2002,
+    "trial": 8
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.387948,
+    "input_b": 4.956594,
+    "input_c": 1.208872,
+    "output": 31.629185,
+    "seed": 2002,
+    "trial": 9
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.126302,
+    "input_b": 4.765839,
+    "input_c": 1.0887,
+    "output": 23.424515,
+    "seed": 2002,
+    "trial": 10
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.638006,
+    "input_b": 2.979221,
+    "input_c": 0.977194,
+    "output": 52.388375,
+    "seed": 2002,
+    "trial": 11
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.925182,
+    "input_b": 3.153384,
+    "input_c": 1.033883,
+    "output": 32.297706,
+    "seed": 2002,
+    "trial": 12
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.202283,
+    "input_b": 3.167926,
+    "input_c": 1.045505,
+    "output": 41.415606,
+    "seed": 2002,
+    "trial": 13
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.302224,
+    "input_b": 4.433954,
+    "input_c": 0.900006,
+    "output": 21.543488,
+    "seed": 2002,
+    "trial": 14
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.626278,
+    "input_b": 2.143553,
+    "input_c": 1.113597,
+    "output": 58.66193,
+    "seed": 2002,
+    "trial": 15
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.6765,
+    "input_b": 4.477785,
+    "input_c": 0.932403,
+    "output": 23.735493,
+    "seed": 2002,
+    "trial": 16
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.208485,
+    "input_b": 3.010285,
+    "input_c": 0.979976,
+    "output": 33.925815,
+    "seed": 2002,
+    "trial": 17
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.904271,
+    "input_b": 2.657798,
+    "input_c": 0.888746,
+    "output": 47.387202,
+    "seed": 2002,
+    "trial": 18
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.267823,
+    "input_b": 2.938356,
+    "input_c": 0.996194,
+    "output": 17.908058,
+    "seed": 2002,
+    "trial": 19
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.819401,
+    "input_b": 3.846242,
+    "input_c": 0.809782,
+    "output": 20.300262,
+    "seed": 2002,
+    "trial": 20
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.673232,
+    "input_b": 4.222251,
+    "input_c": 1.137676,
+    "output": 20.269185,
+    "seed": 2002,
+    "trial": 21
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.673819,
+    "input_b": 2.273661,
+    "input_c": 1.142912,
+    "output": 37.818802,
+    "seed": 2002,
+    "trial": 22
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.865241,
+    "input_b": 4.661408,
+    "input_c": 1.040346,
+    "output": 36.939969,
+    "seed": 2002,
+    "trial": 23
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.330827,
+    "input_b": 3.015968,
+    "input_c": 1.096404,
+    "output": 25.230176,
+    "seed": 2002,
+    "trial": 24
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.456236,
+    "input_b": 3.375316,
+    "input_c": 1.016645,
+    "output": 21.538198,
+    "seed": 2002,
+    "trial": 25
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.03595,
+    "input_b": 3.737513,
+    "input_c": 1.149792,
+    "output": 30.985142,
+    "seed": 2002,
+    "trial": 26
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.617409,
+    "input_b": 3.420669,
+    "input_c": 1.196734,
+    "output": 39.438793,
+    "seed": 2002,
+    "trial": 27
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.718349,
+    "input_b": 3.946539,
+    "input_c": 1.389326,
+    "output": 26.758172,
+    "seed": 2002,
+    "trial": 28
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.880853,
+    "input_b": 3.109645,
+    "input_c": 0.988711,
+    "output": 44.880088,
+    "seed": 2002,
+    "trial": 29
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.599313,
+    "input_b": 2.698434,
+    "input_c": 0.962052,
+    "output": 26.364191,
+    "seed": 2002,
+    "trial": 30
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.858679,
+    "input_b": 4.999928,
+    "input_c": 1.132579,
+    "output": 26.709076,
+    "seed": 2002,
+    "trial": 31
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.168085,
+    "input_b": 2.93308,
+    "input_c": 1.024811,
+    "output": 23.310961,
+    "seed": 2002,
+    "trial": 32
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.353263,
+    "input_b": 3.179134,
+    "input_c": 1.241499,
+    "output": 41.859293,
+    "seed": 2002,
+    "trial": 33
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.829758,
+    "input_b": 4.232398,
+    "input_c": 1.076558,
+    "output": 29.832412,
+    "seed": 2002,
+    "trial": 34
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.474824,
+    "input_b": 4.417268,
+    "input_c": 0.966688,
+    "output": 19.646034,
+    "seed": 2002,
+    "trial": 35
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.697878,
+    "input_b": 2.005509,
+    "input_c": 0.942557,
+    "output": 53.787092,
+    "seed": 2002,
+    "trial": 36
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.258782,
+    "input_b": 2.032062,
+    "input_c": 1.133144,
+    "output": 58.686729,
+    "seed": 2002,
+    "trial": 37
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.645857,
+    "input_b": 4.905651,
+    "input_c": 1.223756,
+    "output": 18.647226,
+    "seed": 2002,
+    "trial": 38
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.454995,
+    "input_b": 4.163948,
+    "input_c": 1.008972,
+    "output": 21.661886,
+    "seed": 2002,
+    "trial": 39
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 5.560563,
+    "input_b": 3.151939,
+    "input_c": 0.93001,
+    "output": 9.123201,
+    "seed": 2002,
+    "trial": 40
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.905896,
+    "input_b": 2.96288,
+    "input_c": 1.215917,
+    "output": 40.269603,
+    "seed": 2002,
+    "trial": 41
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.570242,
+    "input_b": 2.624512,
+    "input_c": 1.274194,
+    "output": 44.466493,
+    "seed": 2002,
+    "trial": 42
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.58912,
+    "input_b": 3.751513,
+    "input_c": 1.085969,
+    "output": 21.355418,
+    "seed": 2002,
+    "trial": 43
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.38952,
+    "input_b": 4.2802,
+    "input_c": 1.198884,
+    "output": 19.714569,
+    "seed": 2002,
+    "trial": 44
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.271649,
+    "input_b": 2.917479,
+    "input_c": 1.010479,
+    "output": 61.005532,
+    "seed": 2002,
+    "trial": 45
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 14.126563,
+    "input_b": 4.254501,
+    "input_c": 0.979523,
+    "output": 45.945075,
+    "seed": 2002,
+    "trial": 46
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.870594,
+    "input_b": 2.118891,
+    "input_c": 1.254961,
+    "output": 83.457719,
+    "seed": 2002,
+    "trial": 47
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.878977,
+    "input_b": 2.48576,
+    "input_c": 1.265475,
+    "output": 49.684194,
+    "seed": 2002,
+    "trial": 48
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.805245,
+    "input_b": 4.66425,
+    "input_c": 1.05005,
+    "output": 26.284353,
+    "seed": 2002,
+    "trial": 49
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 5.840962,
+    "input_b": 2.084697,
+    "input_c": 1.191781,
+    "output": 19.503935,
+    "seed": 2002,
+    "trial": 50
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.007737,
+    "input_b": 4.219825,
+    "input_c": 1.004258,
+    "output": 23.83541,
+    "seed": 2002,
+    "trial": 51
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 14.085535,
+    "input_b": 4.189807,
+    "input_c": 0.937259,
+    "output": 44.382547,
+    "seed": 2002,
+    "trial": 52
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.567982,
+    "input_b": 2.608699,
+    "input_c": 1.183845,
+    "output": 25.991496,
+    "seed": 2002,
+    "trial": 53
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.361597,
+    "input_b": 4.429427,
+    "input_c": 1.179624,
+    "output": 47.54587,
+    "seed": 2002,
+    "trial": 54
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.128233,
+    "input_b": 3.960904,
+    "input_c": 1.348751,
+    "output": 42.168687,
+    "seed": 2002,
+    "trial": 55
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.026045,
+    "input_b": 4.457934,
+    "input_c": 1.205604,
+    "output": 27.185071,
+    "seed": 2002,
+    "trial": 56
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.079114,
+    "input_b": 2.543816,
+    "input_c": 0.86331,
+    "output": 27.974883,
+    "seed": 2002,
+    "trial": 57
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.518362,
+    "input_b": 2.505511,
+    "input_c": 0.816917,
+    "output": 13.853477,
+    "seed": 2002,
+    "trial": 58
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.953854,
+    "input_b": 4.919441,
+    "input_c": 1.06191,
+    "output": 17.30581,
+    "seed": 2002,
+    "trial": 59
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.258674,
+    "input_b": 2.26686,
+    "input_c": 0.89886,
+    "output": 41.730158,
+    "seed": 2002,
+    "trial": 60
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.517742,
+    "input_b": 3.11077,
+    "input_c": 1.212911,
+    "output": 61.096023,
+    "seed": 2002,
+    "trial": 61
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.242909,
+    "input_b": 3.174996,
+    "input_c": 1.108686,
+    "output": 36.636343,
+    "seed": 2002,
+    "trial": 62
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.697569,
+    "input_b": 2.444827,
+    "input_c": 1.102919,
+    "output": 51.625661,
+    "seed": 2002,
+    "trial": 63
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.619431,
+    "input_b": 3.912001,
+    "input_c": 1.146641,
+    "output": 27.122343,
+    "seed": 2002,
+    "trial": 64
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.67043,
+    "input_b": 3.065371,
+    "input_c": 0.940502,
+    "output": 23.065247,
+    "seed": 2002,
+    "trial": 65
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.076721,
+    "input_b": 3.691908,
+    "input_c": 0.988162,
+    "output": 32.839733,
+    "seed": 2002,
+    "trial": 66
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.789107,
+    "input_b": 3.245981,
+    "input_c": 0.881441,
+    "output": 44.414783,
+    "seed": 2002,
+    "trial": 67
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.068767,
+    "input_b": 2.372413,
+    "input_c": 1.326362,
+    "output": 68.496792,
+    "seed": 2002,
+    "trial": 68
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.609371,
+    "input_b": 3.756958,
+    "input_c": 0.998294,
+    "output": 19.695413,
+    "seed": 2002,
+    "trial": 69
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.490858,
+    "input_b": 4.234183,
+    "input_c": 0.926511,
+    "output": 24.082575,
+    "seed": 2002,
+    "trial": 70
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.999612,
+    "input_b": 2.582568,
+    "input_c": 1.017378,
+    "output": 31.906418,
+    "seed": 2002,
+    "trial": 71
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.254349,
+    "input_b": 2.126139,
+    "input_c": 0.939664,
+    "output": 66.368414,
+    "seed": 2002,
+    "trial": 72
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.547168,
+    "input_b": 4.557729,
+    "input_c": 0.931492,
+    "output": 14.930528,
+    "seed": 2002,
+    "trial": 73
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.648668,
+    "input_b": 2.134514,
+    "input_c": 1.092119,
+    "output": 69.426252,
+    "seed": 2002,
+    "trial": 74
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.524241,
+    "input_b": 3.044563,
+    "input_c": 1.064192,
+    "output": 14.878363,
+    "seed": 2002,
+    "trial": 75
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.788529,
+    "input_b": 3.126868,
+    "input_c": 1.151515,
+    "output": 35.285368,
+    "seed": 2002,
+    "trial": 76
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.042497,
+    "input_b": 2.143501,
+    "input_c": 1.041902,
+    "output": 39.744773,
+    "seed": 2002,
+    "trial": 77
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.878762,
+    "input_b": 3.544089,
+    "input_c": 1.037238,
+    "output": 28.561365,
+    "seed": 2002,
+    "trial": 78
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.080048,
+    "input_b": 2.649794,
+    "input_c": 0.998717,
+    "output": 46.271498,
+    "seed": 2002,
+    "trial": 79
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.828241,
+    "input_b": 3.128144,
+    "input_c": 0.915278,
+    "output": 22.804182,
+    "seed": 2002,
+    "trial": 80
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.785071,
+    "input_b": 4.813177,
+    "input_c": 0.907888,
+    "output": 21.940506,
+    "seed": 2002,
+    "trial": 81
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.193583,
+    "input_b": 2.461198,
+    "input_c": 1.200668,
+    "output": 50.690901,
+    "seed": 2002,
+    "trial": 82
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.594621,
+    "input_b": 3.909148,
+    "input_c": 1.233999,
+    "output": 35.432652,
+    "seed": 2002,
+    "trial": 83
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.781043,
+    "input_b": 2.670104,
+    "input_c": 0.971256,
+    "output": 28.047731,
+    "seed": 2002,
+    "trial": 84
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.967125,
+    "input_b": 2.035623,
+    "input_c": 0.974248,
+    "output": 57.564869,
+    "seed": 2002,
+    "trial": 85
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.768891,
+    "input_b": 3.328124,
+    "input_c": 1.050741,
+    "output": 36.613228,
+    "seed": 2002,
+    "trial": 86
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.506891,
+    "input_b": 4.743698,
+    "input_c": 1.141855,
+    "output": 31.872036,
+    "seed": 2002,
+    "trial": 87
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.992904,
+    "input_b": 3.012748,
+    "input_c": 0.893103,
+    "output": 23.973885,
+    "seed": 2002,
+    "trial": 88
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.537302,
+    "input_b": 3.489157,
+    "input_c": 0.975636,
+    "output": 51.242642,
+    "seed": 2002,
+    "trial": 89
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.265315,
+    "input_b": 3.220257,
+    "input_c": 1.042162,
+    "output": 34.102741,
+    "seed": 2002,
+    "trial": 90
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.124988,
+    "input_b": 3.072157,
+    "input_c": 1.220931,
+    "output": 20.175118,
+    "seed": 2002,
+    "trial": 91
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.906576,
+    "input_b": 3.454738,
+    "input_c": 0.841804,
+    "output": 28.984951,
+    "seed": 2002,
+    "trial": 92
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.927133,
+    "input_b": 2.782461,
+    "input_c": 1.114576,
+    "output": 56.983986,
+    "seed": 2002,
+    "trial": 93
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.726136,
+    "input_b": 4.496911,
+    "input_c": 1.137722,
+    "output": 19.264863,
+    "seed": 2002,
+    "trial": 94
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.567104,
+    "input_b": 3.137744,
+    "input_c": 0.964951,
+    "output": 34.339958,
+    "seed": 2002,
+    "trial": 95
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.101452,
+    "input_b": 3.922675,
+    "input_c": 1.090763,
+    "output": 18.250453,
+    "seed": 2002,
+    "trial": 96
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.083805,
+    "input_b": 2.969968,
+    "input_c": 1.094606,
+    "output": 45.277647,
+    "seed": 2002,
+    "trial": 97
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.649052,
+    "input_b": 3.213602,
+    "input_c": 1.268011,
+    "output": 63.131601,
+    "seed": 2002,
+    "trial": 98
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.663509,
+    "input_b": 4.489093,
+    "input_c": 1.033121,
+    "output": 21.49127,
+    "seed": 2002,
+    "trial": 99
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.854812,
+    "input_b": 3.694687,
+    "input_c": 1.002893,
+    "output": 44.85477,
+    "seed": 2002,
+    "trial": 100
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.977185,
+    "input_b": 3.167681,
+    "input_c": 1.061875,
+    "output": 16.318964,
+    "seed": 2002,
+    "trial": 101
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.365465,
+    "input_b": 3.558214,
+    "input_c": 1.150229,
+    "output": 22.622064,
+    "seed": 2002,
+    "trial": 102
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.479664,
+    "input_b": 4.797922,
+    "input_c": 1.079603,
+    "output": 12.588531,
+    "seed": 2002,
+    "trial": 103
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.015334,
+    "input_b": 3.230993,
+    "input_c": 1.223768,
+    "output": 54.680787,
+    "seed": 2002,
+    "trial": 104
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.712404,
+    "input_b": 4.339971,
+    "input_c": 1.041265,
+    "output": 18.2117,
+    "seed": 2002,
+    "trial": 105
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.157859,
+    "input_b": 4.832495,
+    "input_c": 1.047717,
+    "output": 18.182783,
+    "seed": 2002,
+    "trial": 106
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.705506,
+    "input_b": 3.110876,
+    "input_c": 0.980964,
+    "output": 29.703436,
+    "seed": 2002,
+    "trial": 107
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.914413,
+    "input_b": 3.364875,
+    "input_c": 0.988061,
+    "output": 41.683108,
+    "seed": 2002,
+    "trial": 108
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.780127,
+    "input_b": 3.514125,
+    "input_c": 1.216062,
+    "output": 56.520892,
+    "seed": 2002,
+    "trial": 109
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.264364,
+    "input_b": 3.549863,
+    "input_c": 1.131587,
+    "output": 40.44732,
+    "seed": 2002,
+    "trial": 110
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.721309,
+    "input_b": 3.696304,
+    "input_c": 1.220344,
+    "output": 19.683232,
+    "seed": 2002,
+    "trial": 111
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.783385,
+    "input_b": 2.30091,
+    "input_c": 1.033156,
+    "output": 52.212764,
+    "seed": 2002,
+    "trial": 112
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.626111,
+    "input_b": 4.511973,
+    "input_c": 1.21734,
+    "output": 15.691038,
+    "seed": 2002,
+    "trial": 113
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.646299,
+    "input_b": 4.583536,
+    "input_c": 0.997345,
+    "output": 12.721772,
+    "seed": 2002,
+    "trial": 114
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.434176,
+    "input_b": 4.946912,
+    "input_c": 1.156325,
+    "output": 25.448499,
+    "seed": 2002,
+    "trial": 115
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.57051,
+    "input_b": 4.426266,
+    "input_c": 1.242494,
+    "output": 37.580446,
+    "seed": 2002,
+    "trial": 116
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.856773,
+    "input_b": 2.648445,
+    "input_c": 0.913419,
+    "output": 33.508011,
+    "seed": 2002,
+    "trial": 117
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.446422,
+    "input_b": 4.392088,
+    "input_c": 1.148165,
+    "output": 23.327479,
+    "seed": 2002,
+    "trial": 118
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.20536,
+    "input_b": 4.696814,
+    "input_c": 1.066011,
+    "output": 19.232685,
+    "seed": 2002,
+    "trial": 119
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.466886,
+    "input_b": 3.967524,
+    "input_c": 0.902777,
+    "output": 16.312041,
+    "seed": 2002,
+    "trial": 120
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.284738,
+    "input_b": 4.008787,
+    "input_c": 0.945448,
+    "output": 24.946581,
+    "seed": 2002,
+    "trial": 121
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.118038,
+    "input_b": 3.659341,
+    "input_c": 1.120009,
+    "output": 20.170699,
+    "seed": 2002,
+    "trial": 122
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.710228,
+    "input_b": 2.42223,
+    "input_c": 1.014788,
+    "output": 78.749789,
+    "seed": 2002,
+    "trial": 123
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.530897,
+    "input_b": 4.270503,
+    "input_c": 1.206438,
+    "output": 31.329723,
+    "seed": 2002,
+    "trial": 124
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.536671,
+    "input_b": 2.987975,
+    "input_c": 1.058568,
+    "output": 39.332227,
+    "seed": 2002,
+    "trial": 125
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.857593,
+    "input_b": 2.901993,
+    "input_c": 0.867491,
+    "output": 18.456438,
+    "seed": 2002,
+    "trial": 126
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.440651,
+    "input_b": 2.348423,
+    "input_c": 1.145036,
+    "output": 63.818151,
+    "seed": 2002,
+    "trial": 127
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.368417,
+    "input_b": 2.551006,
+    "input_c": 1.171206,
+    "output": 59.336472,
+    "seed": 2002,
+    "trial": 128
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.667187,
+    "input_b": 2.341697,
+    "input_c": 0.954169,
+    "output": 38.079804,
+    "seed": 2002,
+    "trial": 129
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.003865,
+    "input_b": 4.981328,
+    "input_c": 1.172357,
+    "output": 19.079751,
+    "seed": 2002,
+    "trial": 130
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.826465,
+    "input_b": 3.294629,
+    "input_c": 1.209601,
+    "output": 28.602841,
+    "seed": 2002,
+    "trial": 131
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.81911,
+    "input_b": 4.102059,
+    "input_c": 1.18796,
+    "output": 17.705758,
+    "seed": 2002,
+    "trial": 132
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.94741,
+    "input_b": 4.985461,
+    "input_c": 1.190343,
+    "output": 28.614723,
+    "seed": 2002,
+    "trial": 133
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.550935,
+    "input_b": 3.21272,
+    "input_c": 1.101239,
+    "output": 38.158457,
+    "seed": 2002,
+    "trial": 134
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.014112,
+    "input_b": 3.796443,
+    "input_c": 0.892474,
+    "output": 23.574565,
+    "seed": 2002,
+    "trial": 135
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.785275,
+    "input_b": 3.588148,
+    "input_c": 1.175043,
+    "output": 25.275177,
+    "seed": 2002,
+    "trial": 136
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.153156,
+    "input_b": 4.292142,
+    "input_c": 1.087319,
+    "output": 16.839705,
+    "seed": 2002,
+    "trial": 137
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.782454,
+    "input_b": 2.313635,
+    "input_c": 1.1012,
+    "output": 55.335863,
+    "seed": 2002,
+    "trial": 138
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.806308,
+    "input_b": 3.356345,
+    "input_c": 0.946298,
+    "output": 46.239069,
+    "seed": 2002,
+    "trial": 139
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.371933,
+    "input_b": 3.285083,
+    "input_c": 1.027573,
+    "output": 21.923907,
+    "seed": 2002,
+    "trial": 140
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.349196,
+    "input_b": 3.620704,
+    "input_c": 1.109826,
+    "output": 32.830322,
+    "seed": 2002,
+    "trial": 141
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.469837,
+    "input_b": 2.604947,
+    "input_c": 1.076144,
+    "output": 45.284689,
+    "seed": 2002,
+    "trial": 142
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.083751,
+    "input_b": 3.865966,
+    "input_c": 0.941746,
+    "output": 24.769658,
+    "seed": 2002,
+    "trial": 143
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.714307,
+    "input_b": 2.659356,
+    "input_c": 1.045063,
+    "output": 37.084257,
+    "seed": 2002,
+    "trial": 144
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.481751,
+    "input_b": 3.029404,
+    "input_c": 1.06554,
+    "output": 19.688785,
+    "seed": 2002,
+    "trial": 145
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.8419,
+    "input_b": 2.05838,
+    "input_c": 0.913201,
+    "output": 42.973288,
+    "seed": 2002,
+    "trial": 146
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.836241,
+    "input_b": 4.94773,
+    "input_c": 1.002866,
+    "output": 23.80094,
+    "seed": 2002,
+    "trial": 147
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.855956,
+    "input_b": 2.164836,
+    "input_c": 1.273825,
+    "output": 69.345918,
+    "seed": 2002,
+    "trial": 148
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.2796,
+    "input_b": 3.605843,
+    "input_c": 1.10167,
+    "output": 26.308932,
+    "seed": 2002,
+    "trial": 149
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.359847,
+    "input_b": 2.349146,
+    "input_c": 1.320554,
+    "output": 72.542248,
+    "seed": 2002,
+    "trial": 150
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.154545,
+    "input_b": 3.050953,
+    "input_c": 0.955442,
+    "output": 32.291602,
+    "seed": 2002,
+    "trial": 151
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.970915,
+    "input_b": 4.961621,
+    "input_c": 1.017245,
+    "output": 16.49967,
+    "seed": 2002,
+    "trial": 152
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.609347,
+    "input_b": 2.307583,
+    "input_c": 1.135974,
+    "output": 28.503993,
+    "seed": 2002,
+    "trial": 153
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.183577,
+    "input_b": 3.335142,
+    "input_c": 0.970552,
+    "output": 11.127149,
+    "seed": 2002,
+    "trial": 154
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.233534,
+    "input_b": 3.620443,
+    "input_c": 0.882121,
+    "output": 16.517311,
+    "seed": 2002,
+    "trial": 155
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.033141,
+    "input_b": 4.841773,
+    "input_c": 1.104694,
+    "output": 22.967374,
+    "seed": 2002,
+    "trial": 156
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.693536,
+    "input_b": 3.415363,
+    "input_c": 1.122898,
+    "output": 37.596397,
+    "seed": 2002,
+    "trial": 157
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.257028,
+    "input_b": 4.465116,
+    "input_c": 0.979289,
+    "output": 23.07391,
+    "seed": 2002,
+    "trial": 158
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.573731,
+    "input_b": 3.185244,
+    "input_c": 1.166547,
+    "output": 26.921497,
+    "seed": 2002,
+    "trial": 159
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.069205,
+    "input_b": 3.621732,
+    "input_c": 0.938854,
+    "output": 26.282835,
+    "seed": 2002,
+    "trial": 160
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.7776,
+    "input_b": 2.416882,
+    "input_c": 1.269264,
+    "output": 61.001535,
+    "seed": 2002,
+    "trial": 161
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.947283,
+    "input_b": 3.557599,
+    "input_c": 1.035634,
+    "output": 18.385969,
+    "seed": 2002,
+    "trial": 162
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.061375,
+    "input_b": 3.126652,
+    "input_c": 1.127676,
+    "output": 52.468463,
+    "seed": 2002,
+    "trial": 163
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.842519,
+    "input_b": 4.134544,
+    "input_c": 1.245145,
+    "output": 23.547478,
+    "seed": 2002,
+    "trial": 164
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.726983,
+    "input_b": 2.49672,
+    "input_c": 0.926165,
+    "output": 69.898615,
+    "seed": 2002,
+    "trial": 165
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.153522,
+    "input_b": 2.341094,
+    "input_c": 1.037415,
+    "output": 45.684295,
+    "seed": 2002,
+    "trial": 166
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.187149,
+    "input_b": 2.76394,
+    "input_c": 1.330051,
+    "output": 60.225241,
+    "seed": 2002,
+    "trial": 167
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.990467,
+    "input_b": 2.548547,
+    "input_c": 1.121449,
+    "output": 43.91959,
+    "seed": 2002,
+    "trial": 168
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.169766,
+    "input_b": 2.970268,
+    "input_c": 1.030366,
+    "output": 23.153423,
+    "seed": 2002,
+    "trial": 169
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.857709,
+    "input_b": 3.659041,
+    "input_c": 1.14262,
+    "output": 30.344972,
+    "seed": 2002,
+    "trial": 170
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.948198,
+    "input_b": 4.659789,
+    "input_c": 1.010602,
+    "output": 17.365409,
+    "seed": 2002,
+    "trial": 171
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.317897,
+    "input_b": 2.207998,
+    "input_c": 1.007558,
+    "output": 39.619322,
+    "seed": 2002,
+    "trial": 172
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.206473,
+    "input_b": 3.997667,
+    "input_c": 0.981258,
+    "output": 25.569833,
+    "seed": 2002,
+    "trial": 173
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.714587,
+    "input_b": 3.816262,
+    "input_c": 0.923708,
+    "output": 22.84257,
+    "seed": 2002,
+    "trial": 174
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.736284,
+    "input_b": 2.774701,
+    "input_c": 1.005613,
+    "output": 41.77558,
+    "seed": 2002,
+    "trial": 175
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.067835,
+    "input_b": 2.905663,
+    "input_c": 1.141275,
+    "output": 32.296264,
+    "seed": 2002,
+    "trial": 176
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.907837,
+    "input_b": 4.155367,
+    "input_c": 0.911721,
+    "output": 21.538258,
+    "seed": 2002,
+    "trial": 177
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.892161,
+    "input_b": 4.931986,
+    "input_c": 1.198763,
+    "output": 34.374238,
+    "seed": 2002,
+    "trial": 178
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.678378,
+    "input_b": 4.897978,
+    "input_c": 0.949854,
+    "output": 14.605519,
+    "seed": 2002,
+    "trial": 179
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.142594,
+    "input_b": 4.855574,
+    "input_c": 1.160019,
+    "output": 19.969316,
+    "seed": 2002,
+    "trial": 180
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.350081,
+    "input_b": 2.530324,
+    "input_c": 1.128891,
+    "output": 79.514002,
+    "seed": 2002,
+    "trial": 181
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.635889,
+    "input_b": 2.363458,
+    "input_c": 0.97083,
+    "output": 30.634418,
+    "seed": 2002,
+    "trial": 182
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.175675,
+    "input_b": 4.76688,
+    "input_c": 1.006556,
+    "output": 26.372505,
+    "seed": 2002,
+    "trial": 183
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.532262,
+    "input_b": 3.006978,
+    "input_c": 0.94445,
+    "output": 34.841126,
+    "seed": 2002,
+    "trial": 184
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.236138,
+    "input_b": 3.442153,
+    "input_c": 0.966736,
+    "output": 35.457797,
+    "seed": 2002,
+    "trial": 185
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.243681,
+    "input_b": 4.055986,
+    "input_c": 1.301821,
+    "output": 40.57625,
+    "seed": 2002,
+    "trial": 186
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.961945,
+    "input_b": 4.658619,
+    "input_c": 0.861825,
+    "output": 22.229869,
+    "seed": 2002,
+    "trial": 187
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.818653,
+    "input_b": 2.659266,
+    "input_c": 1.06709,
+    "output": 65.936213,
+    "seed": 2002,
+    "trial": 188
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.553821,
+    "input_b": 4.998645,
+    "input_c": 1.041525,
+    "output": 11.889148,
+    "seed": 2002,
+    "trial": 189
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.802492,
+    "input_b": 3.066288,
+    "input_c": 1.047361,
+    "output": 32.821334,
+    "seed": 2002,
+    "trial": 190
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.980712,
+    "input_b": 3.520037,
+    "input_c": 0.980158,
+    "output": 22.457963,
+    "seed": 2002,
+    "trial": 191
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.477768,
+    "input_b": 3.358125,
+    "input_c": 0.987726,
+    "output": 32.290664,
+    "seed": 2002,
+    "trial": 192
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.790574,
+    "input_b": 4.047394,
+    "input_c": 1.091845,
+    "output": 20.845875,
+    "seed": 2002,
+    "trial": 193
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.480322,
+    "input_b": 3.925071,
+    "input_c": 0.986548,
+    "output": 22.590023,
+    "seed": 2002,
+    "trial": 194
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.005179,
+    "input_b": 3.085577,
+    "input_c": 1.224478,
+    "output": 39.725047,
+    "seed": 2002,
+    "trial": 195
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.406349,
+    "input_b": 2.771653,
+    "input_c": 1.080682,
+    "output": 34.498571,
+    "seed": 2002,
+    "trial": 196
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.12245,
+    "input_b": 4.966666,
+    "input_c": 1.022848,
+    "output": 25.476928,
+    "seed": 2002,
+    "trial": 197
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.44323,
+    "input_b": 2.561815,
+    "input_c": 0.923051,
+    "output": 25.685936,
+    "seed": 2002,
+    "trial": 198
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.061015,
+    "input_b": 2.177151,
+    "input_c": 0.985121,
+    "output": 65.821638,
+    "seed": 2002,
+    "trial": 199
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.980897,
+    "input_b": 3.80374,
+    "input_c": 1.1705,
+    "output": 30.654879,
+    "seed": 2002,
+    "trial": 200
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.429652,
+    "input_b": 4.993614,
+    "input_c": 1.239657,
+    "output": 32.430435,
+    "seed": 2002,
+    "trial": 201
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.704591,
+    "input_b": 4.861089,
+    "input_c": 1.078998,
+    "output": 30.408815,
+    "seed": 2002,
+    "trial": 202
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.092818,
+    "input_b": 4.154294,
+    "input_c": 0.96465,
+    "output": 28.573024,
+    "seed": 2002,
+    "trial": 203
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.261874,
+    "input_b": 3.68517,
+    "input_c": 1.00519,
+    "output": 18.618621,
+    "seed": 2002,
+    "trial": 204
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.725281,
+    "input_b": 3.744121,
+    "input_c": 1.008969,
+    "output": 25.48779,
+    "seed": 2002,
+    "trial": 205
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.000629,
+    "input_b": 4.008118,
+    "input_c": 0.957526,
+    "output": 28.909795,
+    "seed": 2002,
+    "trial": 206
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.74574,
+    "input_b": 2.429653,
+    "input_c": 0.930063,
+    "output": 44.201855,
+    "seed": 2002,
+    "trial": 207
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.034793,
+    "input_b": 4.755483,
+    "input_c": 0.972482,
+    "output": 24.900916,
+    "seed": 2002,
+    "trial": 208
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.832658,
+    "input_b": 3.09323,
+    "input_c": 1.036972,
+    "output": 26.153968,
+    "seed": 2002,
+    "trial": 209
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.61035,
+    "input_b": 4.786357,
+    "input_c": 1.011242,
+    "output": 15.66361,
+    "seed": 2002,
+    "trial": 210
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.880883,
+    "input_b": 3.933156,
+    "input_c": 0.915655,
+    "output": 27.562531,
+    "seed": 2002,
+    "trial": 211
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.616605,
+    "input_b": 4.662908,
+    "input_c": 0.846535,
+    "output": 20.462521,
+    "seed": 2002,
+    "trial": 212
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.10473,
+    "input_b": 2.977806,
+    "input_c": 1.269987,
+    "output": 35.353881,
+    "seed": 2002,
+    "trial": 213
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.927466,
+    "input_b": 3.055379,
+    "input_c": 1.211493,
+    "output": 24.91866,
+    "seed": 2002,
+    "trial": 214
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.842909,
+    "input_b": 2.792934,
+    "input_c": 1.017419,
+    "output": 35.292816,
+    "seed": 2002,
+    "trial": 215
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.43945,
+    "input_b": 2.613498,
+    "input_c": 1.183286,
+    "output": 32.247483,
+    "seed": 2002,
+    "trial": 216
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.894423,
+    "input_b": 3.864513,
+    "input_c": 0.968873,
+    "output": 35.469806,
+    "seed": 2002,
+    "trial": 217
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.682488,
+    "input_b": 2.980088,
+    "input_c": 1.028661,
+    "output": 32.360643,
+    "seed": 2002,
+    "trial": 218
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.55519,
+    "input_b": 2.069065,
+    "input_c": 1.052889,
+    "output": 56.694449,
+    "seed": 2002,
+    "trial": 219
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.858276,
+    "input_b": 3.421574,
+    "input_c": 1.043031,
+    "output": 29.626005,
+    "seed": 2002,
+    "trial": 220
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.538791,
+    "input_b": 2.772461,
+    "input_c": 1.217709,
+    "output": 32.023666,
+    "seed": 2002,
+    "trial": 221
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.924605,
+    "input_b": 3.993634,
+    "input_c": 1.101269,
+    "output": 46.063815,
+    "seed": 2002,
+    "trial": 222
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.259206,
+    "input_b": 2.719941,
+    "input_c": 1.212481,
+    "output": 30.408285,
+    "seed": 2002,
+    "trial": 223
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.932995,
+    "input_b": 4.544097,
+    "input_c": 1.028287,
+    "output": 43.929448,
+    "seed": 2002,
+    "trial": 224
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.210782,
+    "input_b": 4.654249,
+    "input_c": 0.980351,
+    "output": 21.960899,
+    "seed": 2002,
+    "trial": 225
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.083037,
+    "input_b": 4.059739,
+    "input_c": 1.076244,
+    "output": 32.56345,
+    "seed": 2002,
+    "trial": 226
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.150608,
+    "input_b": 3.987686,
+    "input_c": 1.0056,
+    "output": 31.354608,
+    "seed": 2002,
+    "trial": 227
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.677148,
+    "input_b": 2.880811,
+    "input_c": 1.08758,
+    "output": 43.038484,
+    "seed": 2002,
+    "trial": 228
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.474252,
+    "input_b": 3.667466,
+    "input_c": 0.866575,
+    "output": 21.209479,
+    "seed": 2002,
+    "trial": 229
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.398097,
+    "input_b": 3.451475,
+    "input_c": 1.020467,
+    "output": 31.96701,
+    "seed": 2002,
+    "trial": 230
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.018282,
+    "input_b": 2.602103,
+    "input_c": 1.006448,
+    "output": 31.456798,
+    "seed": 2002,
+    "trial": 231
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.686238,
+    "input_b": 3.883105,
+    "input_c": 1.08008,
+    "output": 31.76337,
+    "seed": 2002,
+    "trial": 232
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.297606,
+    "input_b": 3.331163,
+    "input_c": 1.068361,
+    "output": 12.719585,
+    "seed": 2002,
+    "trial": 233
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.231616,
+    "input_b": 3.042889,
+    "input_c": 1.309954,
+    "output": 54.30683,
+    "seed": 2002,
+    "trial": 234
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.675349,
+    "input_b": 3.511281,
+    "input_c": 1.084398,
+    "output": 35.195522,
+    "seed": 2002,
+    "trial": 235
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.039289,
+    "input_b": 2.085492,
+    "input_c": 1.016666,
+    "output": 49.133278,
+    "seed": 2002,
+    "trial": 236
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.269024,
+    "input_b": 2.479658,
+    "input_c": 1.033203,
+    "output": 28.49064,
+    "seed": 2002,
+    "trial": 237
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.941865,
+    "input_b": 2.838925,
+    "input_c": 1.060246,
+    "output": 62.552722,
+    "seed": 2002,
+    "trial": 238
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.772816,
+    "input_b": 3.429888,
+    "input_c": 1.009646,
+    "output": 22.655179,
+    "seed": 2002,
+    "trial": 239
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.70447,
+    "input_b": 2.508949,
+    "input_c": 1.227099,
+    "output": 37.057186,
+    "seed": 2002,
+    "trial": 240
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.354702,
+    "input_b": 4.769532,
+    "input_c": 1.246032,
+    "output": 18.235405,
+    "seed": 2002,
+    "trial": 241
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.442847,
+    "input_b": 2.577788,
+    "input_c": 0.872637,
+    "output": 61.17431,
+    "seed": 2002,
+    "trial": 242
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.802472,
+    "input_b": 4.50346,
+    "input_c": 1.281354,
+    "output": 33.202369,
+    "seed": 2002,
+    "trial": 243
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.476334,
+    "input_b": 2.677254,
+    "input_c": 1.208732,
+    "output": 40.54348,
+    "seed": 2002,
+    "trial": 244
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.25336,
+    "input_b": 2.740563,
+    "input_c": 0.935537,
+    "output": 29.229402,
+    "seed": 2002,
+    "trial": 245
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.701127,
+    "input_b": 2.141827,
+    "input_c": 0.958056,
+    "output": 42.096977,
+    "seed": 2002,
+    "trial": 246
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.031716,
+    "input_b": 3.437457,
+    "input_c": 0.947757,
+    "output": 39.913049,
+    "seed": 2002,
+    "trial": 247
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.501167,
+    "input_b": 4.039285,
+    "input_c": 1.09245,
+    "output": 24.414684,
+    "seed": 2002,
+    "trial": 248
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 5.905471,
+    "input_b": 4.447536,
+    "input_c": 1.32357,
+    "output": 10.378548,
+    "seed": 2002,
+    "trial": 249
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.215784,
+    "input_b": 4.661346,
+    "input_c": 1.257645,
+    "output": 22.914554,
+    "seed": 2002,
+    "trial": 250
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.089162,
+    "input_b": 4.814623,
+    "input_c": 1.191717,
+    "output": 25.19538,
+    "seed": 2002,
+    "trial": 251
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.981273,
+    "input_b": 4.237619,
+    "input_c": 0.994927,
+    "output": 23.390582,
+    "seed": 2002,
+    "trial": 252
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.095225,
+    "input_b": 4.646702,
+    "input_c": 1.137381,
+    "output": 20.248272,
+    "seed": 2002,
+    "trial": 253
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.52734,
+    "input_b": 2.689827,
+    "input_c": 1.12834,
+    "output": 55.740884,
+    "seed": 2002,
+    "trial": 254
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.585642,
+    "input_b": 3.324284,
+    "input_c": 1.043485,
+    "output": 42.133586,
+    "seed": 2002,
+    "trial": 255
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.933109,
+    "input_b": 2.670726,
+    "input_c": 1.018013,
+    "output": 37.60921,
+    "seed": 2002,
+    "trial": 256
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.663869,
+    "input_b": 2.620305,
+    "input_c": 1.135862,
+    "output": 32.538508,
+    "seed": 2002,
+    "trial": 257
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.127135,
+    "input_b": 4.37191,
+    "input_c": 1.343606,
+    "output": 45.197782,
+    "seed": 2002,
+    "trial": 258
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.563293,
+    "input_b": 3.243762,
+    "input_c": 1.096921,
+    "output": 30.927245,
+    "seed": 2002,
+    "trial": 259
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.290128,
+    "input_b": 3.31604,
+    "input_c": 1.116075,
+    "output": 29.048059,
+    "seed": 2002,
+    "trial": 260
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.719685,
+    "input_b": 3.518743,
+    "input_c": 1.206131,
+    "output": 32.382579,
+    "seed": 2002,
+    "trial": 261
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.539153,
+    "input_b": 2.078737,
+    "input_c": 1.015213,
+    "output": 65.028745,
+    "seed": 2002,
+    "trial": 262
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.208257,
+    "input_b": 2.515157,
+    "input_c": 1.215352,
+    "output": 72.018536,
+    "seed": 2002,
+    "trial": 263
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.304806,
+    "input_b": 4.039167,
+    "input_c": 1.036699,
+    "output": 32.801,
+    "seed": 2002,
+    "trial": 264
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.436683,
+    "input_b": 2.541425,
+    "input_c": 1.251969,
+    "output": 43.868731,
+    "seed": 2002,
+    "trial": 265
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.093757,
+    "input_b": 2.255244,
+    "input_c": 1.064465,
+    "output": 48.088764,
+    "seed": 2002,
+    "trial": 266
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.229371,
+    "input_b": 4.114546,
+    "input_c": 1.126232,
+    "output": 28.642039,
+    "seed": 2002,
+    "trial": 267
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.815715,
+    "input_b": 3.308466,
+    "input_c": 0.888077,
+    "output": 31.400359,
+    "seed": 2002,
+    "trial": 268
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.610986,
+    "input_b": 3.662109,
+    "input_c": 1.161066,
+    "output": 35.697452,
+    "seed": 2002,
+    "trial": 269
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.951028,
+    "input_b": 3.885088,
+    "input_c": 1.011926,
+    "output": 12.584794,
+    "seed": 2002,
+    "trial": 270
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.145092,
+    "input_b": 3.885956,
+    "input_c": 1.182553,
+    "output": 37.799829,
+    "seed": 2002,
+    "trial": 271
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.511221,
+    "input_b": 4.644562,
+    "input_c": 0.92799,
+    "output": 26.475328,
+    "seed": 2002,
+    "trial": 272
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.5774,
+    "input_b": 4.78103,
+    "input_c": 1.221792,
+    "output": 23.440717,
+    "seed": 2002,
+    "trial": 273
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.382235,
+    "input_b": 4.737499,
+    "input_c": 1.088109,
+    "output": 41.132081,
+    "seed": 2002,
+    "trial": 274
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.547493,
+    "input_b": 2.652246,
+    "input_c": 1.152016,
+    "output": 24.74288,
+    "seed": 2002,
+    "trial": 275
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.150554,
+    "input_b": 3.964764,
+    "input_c": 1.066293,
+    "output": 33.438913,
+    "seed": 2002,
+    "trial": 276
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.905176,
+    "input_b": 2.244019,
+    "input_c": 0.931023,
+    "output": 40.705983,
+    "seed": 2002,
+    "trial": 277
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.2945,
+    "input_b": 2.604147,
+    "input_c": 0.871189,
+    "output": 35.453349,
+    "seed": 2002,
+    "trial": 278
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.859458,
+    "input_b": 3.361937,
+    "input_c": 1.089448,
+    "output": 25.434973,
+    "seed": 2002,
+    "trial": 279
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.072251,
+    "input_b": 2.315496,
+    "input_c": 1.21471,
+    "output": 43.177631,
+    "seed": 2002,
+    "trial": 280
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.522935,
+    "input_b": 3.130024,
+    "input_c": 1.001691,
+    "output": 23.246869,
+    "seed": 2002,
+    "trial": 281
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.375932,
+    "input_b": 3.298977,
+    "input_c": 1.263012,
+    "output": 33.655586,
+    "seed": 2002,
+    "trial": 282
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.682004,
+    "input_b": 4.124956,
+    "input_c": 1.023848,
+    "output": 18.709237,
+    "seed": 2002,
+    "trial": 283
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.536558,
+    "input_b": 4.463239,
+    "input_c": 0.897179,
+    "output": 14.648547,
+    "seed": 2002,
+    "trial": 284
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.614215,
+    "input_b": 3.651209,
+    "input_c": 0.888604,
+    "output": 22.495687,
+    "seed": 2002,
+    "trial": 285
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.961662,
+    "input_b": 4.173539,
+    "input_c": 1.129716,
+    "output": 26.861395,
+    "seed": 2002,
+    "trial": 286
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.419801,
+    "input_b": 2.879411,
+    "input_c": 1.049844,
+    "output": 39.585844,
+    "seed": 2002,
+    "trial": 287
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.653707,
+    "input_b": 2.511568,
+    "input_c": 1.09712,
+    "output": 40.709655,
+    "seed": 2002,
+    "trial": 288
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.63149,
+    "input_b": 4.5736,
+    "input_c": 0.974444,
+    "output": 19.764494,
+    "seed": 2002,
+    "trial": 289
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.27259,
+    "input_b": 2.98052,
+    "input_c": 0.864067,
+    "output": 43.664408,
+    "seed": 2002,
+    "trial": 290
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.499142,
+    "input_b": 4.134367,
+    "input_c": 1.142586,
+    "output": 30.464039,
+    "seed": 2002,
+    "trial": 291
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.318199,
+    "input_b": 4.752154,
+    "input_c": 1.001094,
+    "output": 37.365911,
+    "seed": 2002,
+    "trial": 292
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.524767,
+    "input_b": 3.134237,
+    "input_c": 0.970731,
+    "output": 22.507766,
+    "seed": 2002,
+    "trial": 293
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.169434,
+    "input_b": 4.411873,
+    "input_c": 1.057006,
+    "output": 24.77697,
+    "seed": 2002,
+    "trial": 294
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.020893,
+    "input_b": 3.094381,
+    "input_c": 1.160011,
+    "output": 30.506153,
+    "seed": 2002,
+    "trial": 295
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.290018,
+    "input_b": 4.84985,
+    "input_c": 1.034541,
+    "output": 22.586638,
+    "seed": 2002,
+    "trial": 296
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.693433,
+    "input_b": 3.962826,
+    "input_c": 1.113278,
+    "output": 32.124258,
+    "seed": 2002,
+    "trial": 297
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.089541,
+    "input_b": 3.941827,
+    "input_c": 1.045831,
+    "output": 32.628045,
+    "seed": 2002,
+    "trial": 298
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.128559,
+    "input_b": 3.025703,
+    "input_c": 1.178444,
+    "output": 39.955621,
+    "seed": 2002,
+    "trial": 299
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.151405,
+    "input_b": 3.440908,
+    "input_c": 1.100468,
+    "output": 21.250505,
+    "seed": 2002,
+    "trial": 300
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.79986,
+    "input_b": 2.486905,
+    "input_c": 1.302385,
+    "output": 61.082433,
+    "seed": 2002,
+    "trial": 301
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.472071,
+    "input_b": 3.541059,
+    "input_c": 1.07658,
+    "output": 27.27742,
+    "seed": 2002,
+    "trial": 302
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.492041,
+    "input_b": 3.36371,
+    "input_c": 1.225088,
+    "output": 56.83494,
+    "seed": 2002,
+    "trial": 303
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.514058,
+    "input_b": 4.018104,
+    "input_c": 0.97524,
+    "output": 32.177106,
+    "seed": 2002,
+    "trial": 304
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.550061,
+    "input_b": 2.342068,
+    "input_c": 0.826191,
+    "output": 47.059724,
+    "seed": 2002,
+    "trial": 305
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.90996,
+    "input_b": 3.294196,
+    "input_c": 0.909518,
+    "output": 27.114766,
+    "seed": 2002,
+    "trial": 306
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.802724,
+    "input_b": 3.903458,
+    "input_c": 1.069244,
+    "output": 31.966419,
+    "seed": 2002,
+    "trial": 307
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.099011,
+    "input_b": 3.664195,
+    "input_c": 0.951602,
+    "output": 31.992303,
+    "seed": 2002,
+    "trial": 308
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.722759,
+    "input_b": 3.822889,
+    "input_c": 0.916527,
+    "output": 32.946812,
+    "seed": 2002,
+    "trial": 309
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.560721,
+    "input_b": 4.52543,
+    "input_c": 1.043049,
+    "output": 21.068136,
+    "seed": 2002,
+    "trial": 310
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.696832,
+    "input_b": 3.66197,
+    "input_c": 1.139953,
+    "output": 50.183713,
+    "seed": 2002,
+    "trial": 311
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.735834,
+    "input_b": 4.14456,
+    "input_c": 1.189869,
+    "output": 33.089649,
+    "seed": 2002,
+    "trial": 312
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.980888,
+    "input_b": 4.584935,
+    "input_c": 0.994866,
+    "output": 31.146516,
+    "seed": 2002,
+    "trial": 313
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.033245,
+    "input_b": 4.798784,
+    "input_c": 0.916348,
+    "output": 19.22261,
+    "seed": 2002,
+    "trial": 314
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.221835,
+    "input_b": 3.073103,
+    "input_c": 0.961517,
+    "output": 32.691706,
+    "seed": 2002,
+    "trial": 315
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.607104,
+    "input_b": 3.701481,
+    "input_c": 1.032064,
+    "output": 31.370739,
+    "seed": 2002,
+    "trial": 316
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.303494,
+    "input_b": 3.828602,
+    "input_c": 1.019,
+    "output": 23.037012,
+    "seed": 2002,
+    "trial": 317
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.57026,
+    "input_b": 3.070507,
+    "input_c": 1.032982,
+    "output": 45.036951,
+    "seed": 2002,
+    "trial": 318
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.264051,
+    "input_b": 2.09989,
+    "input_c": 0.962083,
+    "output": 39.320386,
+    "seed": 2002,
+    "trial": 319
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.485439,
+    "input_b": 4.604648,
+    "input_c": 1.103109,
+    "output": 17.249265,
+    "seed": 2002,
+    "trial": 320
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.144779,
+    "input_b": 3.337221,
+    "input_c": 0.985575,
+    "output": 30.394144,
+    "seed": 2002,
+    "trial": 321
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.750989,
+    "input_b": 3.184168,
+    "input_c": 0.946956,
+    "output": 41.066009,
+    "seed": 2002,
+    "trial": 322
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.044936,
+    "input_b": 2.130341,
+    "input_c": 1.088883,
+    "output": 62.353168,
+    "seed": 2002,
+    "trial": 323
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.144372,
+    "input_b": 3.524193,
+    "input_c": 1.003555,
+    "output": 35.366553,
+    "seed": 2002,
+    "trial": 324
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.975095,
+    "input_b": 4.085865,
+    "input_c": 1.179861,
+    "output": 34.782702,
+    "seed": 2002,
+    "trial": 325
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.301412,
+    "input_b": 2.102362,
+    "input_c": 1.075354,
+    "output": 54.279729,
+    "seed": 2002,
+    "trial": 326
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.077122,
+    "input_b": 3.859367,
+    "input_c": 1.005109,
+    "output": 37.986016,
+    "seed": 2002,
+    "trial": 327
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.136778,
+    "input_b": 3.66396,
+    "input_c": 1.198946,
+    "output": 40.585222,
+    "seed": 2002,
+    "trial": 328
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.09375,
+    "input_b": 2.96679,
+    "input_c": 1.04585,
+    "output": 29.152013,
+    "seed": 2002,
+    "trial": 329
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.753896,
+    "input_b": 3.142489,
+    "input_c": 1.029935,
+    "output": 25.115322,
+    "seed": 2002,
+    "trial": 330
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.480808,
+    "input_b": 2.000364,
+    "input_c": 0.993721,
+    "output": 44.652508,
+    "seed": 2002,
+    "trial": 331
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.450751,
+    "input_b": 4.613572,
+    "input_c": 1.209522,
+    "output": 47.431772,
+    "seed": 2002,
+    "trial": 332
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.134986,
+    "input_b": 3.599725,
+    "input_c": 1.116939,
+    "output": 25.892607,
+    "seed": 2002,
+    "trial": 333
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.741641,
+    "input_b": 4.284355,
+    "input_c": 1.010194,
+    "output": 18.017952,
+    "seed": 2002,
+    "trial": 334
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.621952,
+    "input_b": 3.237322,
+    "input_c": 0.941989,
+    "output": 26.93929,
+    "seed": 2002,
+    "trial": 335
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.223082,
+    "input_b": 4.583059,
+    "input_c": 1.36907,
+    "output": 44.630475,
+    "seed": 2002,
+    "trial": 336
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.15715,
+    "input_b": 4.258698,
+    "input_c": 1.194665,
+    "output": 23.522861,
+    "seed": 2002,
+    "trial": 337
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.222856,
+    "input_b": 3.956704,
+    "input_c": 0.899882,
+    "output": 28.645666,
+    "seed": 2002,
+    "trial": 338
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.899048,
+    "input_b": 4.333151,
+    "input_c": 1.038746,
+    "output": 28.476251,
+    "seed": 2002,
+    "trial": 339
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.5822,
+    "input_b": 3.798829,
+    "input_c": 1.007169,
+    "output": 41.972594,
+    "seed": 2002,
+    "trial": 340
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.918894,
+    "input_b": 4.751128,
+    "input_c": 0.963184,
+    "output": 16.126283,
+    "seed": 2002,
+    "trial": 341
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.986952,
+    "input_b": 4.741215,
+    "input_c": 1.178722,
+    "output": 15.859293,
+    "seed": 2002,
+    "trial": 342
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.391101,
+    "input_b": 2.116675,
+    "input_c": 1.135226,
+    "output": 21.906827,
+    "seed": 2002,
+    "trial": 343
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.113024,
+    "input_b": 3.986044,
+    "input_c": 0.978375,
+    "output": 25.102988,
+    "seed": 2002,
+    "trial": 344
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.070708,
+    "input_b": 4.73822,
+    "input_c": 0.959935,
+    "output": 20.546907,
+    "seed": 2002,
+    "trial": 345
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.412074,
+    "input_b": 3.472745,
+    "input_c": 1.053016,
+    "output": 39.490377,
+    "seed": 2002,
+    "trial": 346
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.239161,
+    "input_b": 2.279382,
+    "input_c": 1.208324,
+    "output": 55.576964,
+    "seed": 2002,
+    "trial": 347
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.206415,
+    "input_b": 2.56322,
+    "input_c": 1.260906,
+    "output": 51.244025,
+    "seed": 2002,
+    "trial": 348
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.945938,
+    "input_b": 2.629305,
+    "input_c": 0.919633,
+    "output": 49.913025,
+    "seed": 2002,
+    "trial": 349
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.631328,
+    "input_b": 4.0065,
+    "input_c": 1.242576,
+    "output": 18.061674,
+    "seed": 2002,
+    "trial": 350
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.692463,
+    "input_b": 4.19866,
+    "input_c": 1.323653,
+    "output": 29.616354,
+    "seed": 2002,
+    "trial": 351
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.464142,
+    "input_b": 2.128031,
+    "input_c": 1.071398,
+    "output": 36.0694,
+    "seed": 2002,
+    "trial": 352
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.399698,
+    "input_b": 3.572548,
+    "input_c": 0.947579,
+    "output": 23.435013,
+    "seed": 2002,
+    "trial": 353
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.495538,
+    "input_b": 2.610449,
+    "input_c": 0.95605,
+    "output": 15.452393,
+    "seed": 2002,
+    "trial": 354
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.494228,
+    "input_b": 3.146825,
+    "input_c": 1.27388,
+    "output": 44.581729,
+    "seed": 2002,
+    "trial": 355
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.792819,
+    "input_b": 4.806035,
+    "input_c": 0.808497,
+    "output": 27.531121,
+    "seed": 2002,
+    "trial": 356
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.322633,
+    "input_b": 4.001421,
+    "input_c": 1.263847,
+    "output": 33.655903,
+    "seed": 2002,
+    "trial": 357
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.921816,
+    "input_b": 4.157795,
+    "input_c": 1.26466,
+    "output": 36.282767,
+    "seed": 2002,
+    "trial": 358
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.214795,
+    "input_b": 3.077077,
+    "input_c": 0.935251,
+    "output": 15.821138,
+    "seed": 2002,
+    "trial": 359
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.787294,
+    "input_b": 3.432737,
+    "input_c": 1.135021,
+    "output": 45.940056,
+    "seed": 2002,
+    "trial": 360
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.298463,
+    "input_b": 3.528348,
+    "input_c": 0.923178,
+    "output": 33.400492,
+    "seed": 2002,
+    "trial": 361
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.402981,
+    "input_b": 4.394431,
+    "input_c": 1.083006,
+    "output": 17.401832,
+    "seed": 2002,
+    "trial": 362
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.995934,
+    "input_b": 2.092988,
+    "input_c": 1.087045,
+    "output": 51.895263,
+    "seed": 2002,
+    "trial": 363
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.404325,
+    "input_b": 4.878777,
+    "input_c": 1.156774,
+    "output": 25.666438,
+    "seed": 2002,
+    "trial": 364
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.470485,
+    "input_b": 4.988898,
+    "input_c": 0.896586,
+    "output": 16.118765,
+    "seed": 2002,
+    "trial": 365
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.39424,
+    "input_b": 4.32128,
+    "input_c": 1.310902,
+    "output": 21.375717,
+    "seed": 2002,
+    "trial": 366
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.809726,
+    "input_b": 2.602774,
+    "input_c": 1.232379,
+    "output": 45.563973,
+    "seed": 2002,
+    "trial": 367
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.299889,
+    "input_b": 4.145747,
+    "input_c": 1.004253,
+    "output": 20.950561,
+    "seed": 2002,
+    "trial": 368
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.631093,
+    "input_b": 3.180811,
+    "input_c": 1.078887,
+    "output": 45.885904,
+    "seed": 2002,
+    "trial": 369
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.293491,
+    "input_b": 2.287368,
+    "input_c": 1.142343,
+    "output": 75.476371,
+    "seed": 2002,
+    "trial": 370
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.703212,
+    "input_b": 4.992276,
+    "input_c": 0.923373,
+    "output": 14.009994,
+    "seed": 2002,
+    "trial": 371
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.64298,
+    "input_b": 3.347033,
+    "input_c": 0.965276,
+    "output": 21.543606,
+    "seed": 2002,
+    "trial": 372
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.649004,
+    "input_b": 4.67218,
+    "input_c": 0.968659,
+    "output": 28.133825,
+    "seed": 2002,
+    "trial": 373
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.02705,
+    "input_b": 4.459443,
+    "input_c": 1.293528,
+    "output": 29.163622,
+    "seed": 2002,
+    "trial": 374
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.706008,
+    "input_b": 2.476058,
+    "input_c": 0.996754,
+    "output": 37.923518,
+    "seed": 2002,
+    "trial": 375
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.765936,
+    "input_b": 4.900149,
+    "input_c": 1.269437,
+    "output": 19.906658,
+    "seed": 2002,
+    "trial": 376
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.07447,
+    "input_b": 2.365691,
+    "input_c": 1.075189,
+    "output": 16.770416,
+    "seed": 2002,
+    "trial": 377
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.383513,
+    "input_b": 3.398248,
+    "input_c": 1.087524,
+    "output": 41.470216,
+    "seed": 2002,
+    "trial": 378
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.006506,
+    "input_b": 4.738542,
+    "input_c": 1.268218,
+    "output": 38.581801,
+    "seed": 2002,
+    "trial": 379
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.796575,
+    "input_b": 4.32088,
+    "input_c": 0.896124,
+    "output": 19.904187,
+    "seed": 2002,
+    "trial": 380
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.235883,
+    "input_b": 2.984223,
+    "input_c": 1.000518,
+    "output": 35.127271,
+    "seed": 2002,
+    "trial": 381
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.073836,
+    "input_b": 4.678475,
+    "input_c": 1.246593,
+    "output": 21.938259,
+    "seed": 2002,
+    "trial": 382
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.12009,
+    "input_b": 3.593423,
+    "input_c": 0.930471,
+    "output": 17.073254,
+    "seed": 2002,
+    "trial": 383
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.073215,
+    "input_b": 3.65712,
+    "input_c": 0.973971,
+    "output": 32.65533,
+    "seed": 2002,
+    "trial": 384
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.563166,
+    "input_b": 3.140305,
+    "input_c": 1.033296,
+    "output": 18.821748,
+    "seed": 2002,
+    "trial": 385
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.958914,
+    "input_b": 3.293045,
+    "input_c": 1.038873,
+    "output": 31.288791,
+    "seed": 2002,
+    "trial": 386
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.15401,
+    "input_b": 4.988281,
+    "input_c": 0.829255,
+    "output": 8.508173,
+    "seed": 2002,
+    "trial": 387
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.87856,
+    "input_b": 4.675231,
+    "input_c": 1.052102,
+    "output": 21.960492,
+    "seed": 2002,
+    "trial": 388
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.956067,
+    "input_b": 4.466175,
+    "input_c": 0.920724,
+    "output": 20.434754,
+    "seed": 2002,
+    "trial": 389
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.418969,
+    "input_b": 2.154614,
+    "input_c": 0.967965,
+    "output": 58.579274,
+    "seed": 2002,
+    "trial": 390
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.105546,
+    "input_b": 3.72301,
+    "input_c": 1.045251,
+    "output": 34.626315,
+    "seed": 2002,
+    "trial": 391
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.314266,
+    "input_b": 3.574169,
+    "input_c": 1.022135,
+    "output": 30.423529,
+    "seed": 2002,
+    "trial": 392
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.456888,
+    "input_b": 2.874766,
+    "input_c": 1.01126,
+    "output": 46.173576,
+    "seed": 2002,
+    "trial": 393
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.342936,
+    "input_b": 3.151728,
+    "input_c": 1.273961,
+    "output": 43.240943,
+    "seed": 2002,
+    "trial": 394
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.456191,
+    "input_b": 4.644804,
+    "input_c": 0.866212,
+    "output": 13.335405,
+    "seed": 2002,
+    "trial": 395
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.057094,
+    "input_b": 4.154212,
+    "input_c": 0.877074,
+    "output": 30.69254,
+    "seed": 2002,
+    "trial": 396
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.523955,
+    "input_b": 3.57853,
+    "input_c": 1.047343,
+    "output": 26.547214,
+    "seed": 2002,
+    "trial": 397
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.19748,
+    "input_b": 3.575761,
+    "input_c": 0.890929,
+    "output": 31.240304,
+    "seed": 2002,
+    "trial": 398
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.394286,
+    "input_b": 3.605657,
+    "input_c": 1.277632,
+    "output": 14.4879,
+    "seed": 2002,
+    "trial": 399
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.779716,
+    "input_b": 3.658071,
+    "input_c": 0.970802,
+    "output": 30.838489,
+    "seed": 2002,
+    "trial": 400
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.69965,
+    "input_b": 3.13939,
+    "input_c": 1.005062,
+    "output": 24.229875,
+    "seed": 2002,
+    "trial": 401
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.922248,
+    "input_b": 3.693393,
+    "input_c": 0.890082,
+    "output": 23.726018,
+    "seed": 2002,
+    "trial": 402
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.021907,
+    "input_b": 4.324083,
+    "input_c": 0.996808,
+    "output": 8.359604,
+    "seed": 2002,
+    "trial": 403
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.140408,
+    "input_b": 3.342472,
+    "input_c": 1.149355,
+    "output": 42.676466,
+    "seed": 2002,
+    "trial": 404
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.282448,
+    "input_b": 3.075524,
+    "input_c": 1.00502,
+    "output": 41.597032,
+    "seed": 2002,
+    "trial": 405
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.724139,
+    "input_b": 3.497873,
+    "input_c": 1.035199,
+    "output": 47.915574,
+    "seed": 2002,
+    "trial": 406
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.246741,
+    "input_b": 4.163553,
+    "input_c": 1.203838,
+    "output": 30.358167,
+    "seed": 2002,
+    "trial": 407
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.668782,
+    "input_b": 2.762793,
+    "input_c": 1.226006,
+    "output": 33.347293,
+    "seed": 2002,
+    "trial": 408
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.351475,
+    "input_b": 4.13881,
+    "input_c": 1.037382,
+    "output": 26.857614,
+    "seed": 2002,
+    "trial": 409
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.861633,
+    "input_b": 3.219186,
+    "input_c": 0.961394,
+    "output": 49.402361,
+    "seed": 2002,
+    "trial": 410
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.623356,
+    "input_b": 2.590617,
+    "input_c": 1.221276,
+    "output": 53.202748,
+    "seed": 2002,
+    "trial": 411
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.689978,
+    "input_b": 2.150628,
+    "input_c": 1.197895,
+    "output": 63.651257,
+    "seed": 2002,
+    "trial": 412
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.406945,
+    "input_b": 2.646414,
+    "input_c": 1.149372,
+    "output": 56.512111,
+    "seed": 2002,
+    "trial": 413
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.830999,
+    "input_b": 2.592575,
+    "input_c": 1.194364,
+    "output": 64.483427,
+    "seed": 2002,
+    "trial": 414
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.354835,
+    "input_b": 3.847292,
+    "input_c": 1.262197,
+    "output": 35.176976,
+    "seed": 2002,
+    "trial": 415
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.569147,
+    "input_b": 3.48631,
+    "input_c": 0.950666,
+    "output": 30.460845,
+    "seed": 2002,
+    "trial": 416
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.628635,
+    "input_b": 3.09829,
+    "input_c": 1.087006,
+    "output": 20.417543,
+    "seed": 2002,
+    "trial": 417
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.764945,
+    "input_b": 3.323661,
+    "input_c": 1.292941,
+    "output": 23.455184,
+    "seed": 2002,
+    "trial": 418
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.479807,
+    "input_b": 3.175661,
+    "input_c": 1.160103,
+    "output": 20.438223,
+    "seed": 2002,
+    "trial": 419
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.222633,
+    "input_b": 2.397688,
+    "input_c": 1.006284,
+    "output": 52.858833,
+    "seed": 2002,
+    "trial": 420
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.611885,
+    "input_b": 2.458546,
+    "input_c": 1.108107,
+    "output": 33.427196,
+    "seed": 2002,
+    "trial": 421
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.422732,
+    "input_b": 3.498385,
+    "input_c": 0.979393,
+    "output": 30.412533,
+    "seed": 2002,
+    "trial": 422
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.199952,
+    "input_b": 3.464776,
+    "input_c": 1.071681,
+    "output": 20.797592,
+    "seed": 2002,
+    "trial": 423
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.340598,
+    "input_b": 2.685204,
+    "input_c": 0.933996,
+    "output": 44.734193,
+    "seed": 2002,
+    "trial": 424
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.716859,
+    "input_b": 2.233132,
+    "input_c": 1.173835,
+    "output": 39.94043,
+    "seed": 2002,
+    "trial": 425
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.774463,
+    "input_b": 2.938985,
+    "input_c": 0.853229,
+    "output": 22.351631,
+    "seed": 2002,
+    "trial": 426
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.947517,
+    "input_b": 2.832472,
+    "input_c": 1.018078,
+    "output": 35.566805,
+    "seed": 2002,
+    "trial": 427
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.252762,
+    "input_b": 3.998272,
+    "input_c": 0.961716,
+    "output": 25.284598,
+    "seed": 2002,
+    "trial": 428
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.078627,
+    "input_b": 3.290281,
+    "input_c": 1.049011,
+    "output": 32.385446,
+    "seed": 2002,
+    "trial": 429
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.252789,
+    "input_b": 4.807494,
+    "input_c": 0.878013,
+    "output": 9.607105,
+    "seed": 2002,
+    "trial": 430
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.365951,
+    "input_b": 4.840117,
+    "input_c": 1.085599,
+    "output": 19.675128,
+    "seed": 2002,
+    "trial": 431
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.736352,
+    "input_b": 4.055497,
+    "input_c": 1.043967,
+    "output": 35.45756,
+    "seed": 2002,
+    "trial": 432
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.139723,
+    "input_b": 4.986501,
+    "input_c": 0.938403,
+    "output": 19.348434,
+    "seed": 2002,
+    "trial": 433
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.313902,
+    "input_b": 4.106728,
+    "input_c": 0.99513,
+    "output": 25.776858,
+    "seed": 2002,
+    "trial": 434
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.288126,
+    "input_b": 4.724447,
+    "input_c": 1.149614,
+    "output": 31.005918,
+    "seed": 2002,
+    "trial": 435
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.981195,
+    "input_b": 2.721134,
+    "input_c": 1.116071,
+    "output": 40.860817,
+    "seed": 2002,
+    "trial": 436
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.783105,
+    "input_b": 2.026129,
+    "input_c": 1.056413,
+    "output": 60.62535,
+    "seed": 2002,
+    "trial": 437
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.810384,
+    "input_b": 2.351434,
+    "input_c": 1.082891,
+    "output": 53.818835,
+    "seed": 2002,
+    "trial": 438
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.07847,
+    "input_b": 2.890486,
+    "input_c": 1.020574,
+    "output": 35.864348,
+    "seed": 2002,
+    "trial": 439
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.237041,
+    "input_b": 2.257915,
+    "input_c": 0.982522,
+    "output": 54.946292,
+    "seed": 2002,
+    "trial": 440
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.51729,
+    "input_b": 4.712034,
+    "input_c": 1.106497,
+    "output": 21.27005,
+    "seed": 2002,
+    "trial": 441
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.186624,
+    "input_b": 2.542703,
+    "input_c": 1.127574,
+    "output": 65.859147,
+    "seed": 2002,
+    "trial": 442
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.166594,
+    "input_b": 3.941501,
+    "input_c": 1.186048,
+    "output": 25.284623,
+    "seed": 2002,
+    "trial": 443
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.73507,
+    "input_b": 3.350308,
+    "input_c": 1.064632,
+    "output": 51.536794,
+    "seed": 2002,
+    "trial": 444
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.894325,
+    "input_b": 4.232446,
+    "input_c": 0.932697,
+    "output": 21.573548,
+    "seed": 2002,
+    "trial": 445
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.097986,
+    "input_b": 4.399764,
+    "input_c": 0.900892,
+    "output": 25.219227,
+    "seed": 2002,
+    "trial": 446
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.067436,
+    "input_b": 3.402838,
+    "input_c": 1.26129,
+    "output": 37.567438,
+    "seed": 2002,
+    "trial": 447
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.752342,
+    "input_b": 3.94165,
+    "input_c": 1.266967,
+    "output": 30.570677,
+    "seed": 2002,
+    "trial": 448
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.814944,
+    "input_b": 2.121239,
+    "input_c": 0.992864,
+    "output": 76.865922,
+    "seed": 2002,
+    "trial": 449
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.441632,
+    "input_b": 2.179677,
+    "input_c": 1.079681,
+    "output": 44.15678,
+    "seed": 2002,
+    "trial": 450
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.737774,
+    "input_b": 2.949825,
+    "input_c": 1.018496,
+    "output": 47.570149,
+    "seed": 2002,
+    "trial": 451
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.062844,
+    "input_b": 2.804231,
+    "input_c": 0.8821,
+    "output": 38.497961,
+    "seed": 2002,
+    "trial": 452
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.007556,
+    "input_b": 2.800967,
+    "input_c": 1.059363,
+    "output": 37.878507,
+    "seed": 2002,
+    "trial": 453
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.040024,
+    "input_b": 2.488786,
+    "input_c": 1.099182,
+    "output": 53.829714,
+    "seed": 2002,
+    "trial": 454
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.711205,
+    "input_b": 3.116354,
+    "input_c": 0.86782,
+    "output": 16.558738,
+    "seed": 2002,
+    "trial": 455
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 6.393605,
+    "input_b": 3.039002,
+    "input_c": 1.036536,
+    "output": 13.942636,
+    "seed": 2002,
+    "trial": 456
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.394138,
+    "input_b": 4.102844,
+    "input_c": 1.130289,
+    "output": 42.319179,
+    "seed": 2002,
+    "trial": 457
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.4417,
+    "input_b": 3.227988,
+    "input_c": 1.045948,
+    "output": 35.328138,
+    "seed": 2002,
+    "trial": 458
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.090361,
+    "input_b": 3.18893,
+    "input_c": 1.005504,
+    "output": 20.63833,
+    "seed": 2002,
+    "trial": 459
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.052964,
+    "input_b": 2.298015,
+    "input_c": 1.090729,
+    "output": 47.96808,
+    "seed": 2002,
+    "trial": 460
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.820108,
+    "input_b": 2.788558,
+    "input_c": 0.921563,
+    "output": 20.210204,
+    "seed": 2002,
+    "trial": 461
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.545235,
+    "input_b": 3.747271,
+    "input_c": 1.120547,
+    "output": 47.062216,
+    "seed": 2002,
+    "trial": 462
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.740551,
+    "input_b": 2.352327,
+    "input_c": 1.339791,
+    "output": 78.508416,
+    "seed": 2002,
+    "trial": 463
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.836493,
+    "input_b": 2.748037,
+    "input_c": 1.276041,
+    "output": 54.528,
+    "seed": 2002,
+    "trial": 464
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.676071,
+    "input_b": 2.979696,
+    "input_c": 0.853832,
+    "output": 32.660529,
+    "seed": 2002,
+    "trial": 465
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.621131,
+    "input_b": 2.811907,
+    "input_c": 1.205259,
+    "output": 24.89535,
+    "seed": 2002,
+    "trial": 466
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.641683,
+    "input_b": 2.404027,
+    "input_c": 1.066511,
+    "output": 50.239637,
+    "seed": 2002,
+    "trial": 467
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.640951,
+    "input_b": 4.586262,
+    "input_c": 0.973665,
+    "output": 12.394965,
+    "seed": 2002,
+    "trial": 468
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.528393,
+    "input_b": 3.811256,
+    "input_c": 1.0824,
+    "output": 20.65638,
+    "seed": 2002,
+    "trial": 469
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.681741,
+    "input_b": 2.264069,
+    "input_c": 1.307825,
+    "output": 43.538522,
+    "seed": 2002,
+    "trial": 470
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.69165,
+    "input_b": 2.59204,
+    "input_c": 1.206085,
+    "output": 35.151254,
+    "seed": 2002,
+    "trial": 471
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.026426,
+    "input_b": 3.945763,
+    "input_c": 1.185618,
+    "output": 36.532822,
+    "seed": 2002,
+    "trial": 472
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.888137,
+    "input_b": 4.544443,
+    "input_c": 0.976049,
+    "output": 25.462318,
+    "seed": 2002,
+    "trial": 473
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.643827,
+    "input_b": 3.97888,
+    "input_c": 1.081809,
+    "output": 50.612996,
+    "seed": 2002,
+    "trial": 474
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.141111,
+    "input_b": 2.560167,
+    "input_c": 0.877031,
+    "output": 50.496733,
+    "seed": 2002,
+    "trial": 475
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.780574,
+    "input_b": 2.734998,
+    "input_c": 1.019486,
+    "output": 28.738891,
+    "seed": 2002,
+    "trial": 476
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.9206,
+    "input_b": 3.665755,
+    "input_c": 0.958314,
+    "output": 20.803302,
+    "seed": 2002,
+    "trial": 477
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.186021,
+    "input_b": 4.638544,
+    "input_c": 1.001393,
+    "output": 22.399168,
+    "seed": 2002,
+    "trial": 478
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.828301,
+    "input_b": 3.701136,
+    "input_c": 1.194855,
+    "output": 45.167401,
+    "seed": 2002,
+    "trial": 479
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.435521,
+    "input_b": 3.270049,
+    "input_c": 1.116996,
+    "output": 37.198517,
+    "seed": 2002,
+    "trial": 480
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.218384,
+    "input_b": 3.335017,
+    "input_c": 1.092121,
+    "output": 34.192981,
+    "seed": 2002,
+    "trial": 481
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.822208,
+    "input_b": 2.532948,
+    "input_c": 1.055701,
+    "output": 58.252136,
+    "seed": 2002,
+    "trial": 482
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.222605,
+    "input_b": 3.168195,
+    "input_c": 1.129599,
+    "output": 53.264751,
+    "seed": 2002,
+    "trial": 483
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.702217,
+    "input_b": 4.014991,
+    "input_c": 1.087662,
+    "output": 25.50066,
+    "seed": 2002,
+    "trial": 484
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.861544,
+    "input_b": 3.758468,
+    "input_c": 0.887339,
+    "output": 22.95982,
+    "seed": 2002,
+    "trial": 485
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.341592,
+    "input_b": 2.827093,
+    "input_c": 0.883555,
+    "output": 27.273152,
+    "seed": 2002,
+    "trial": 486
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 11.14472,
+    "input_b": 2.911352,
+    "input_c": 1.015132,
+    "output": 43.307776,
+    "seed": 2002,
+    "trial": 487
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.530337,
+    "input_b": 2.423382,
+    "input_c": 0.879495,
+    "output": 40.24351,
+    "seed": 2002,
+    "trial": 488
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.274733,
+    "input_b": 2.96576,
+    "input_c": 1.009166,
+    "output": 29.270455,
+    "seed": 2002,
+    "trial": 489
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 8.886335,
+    "input_b": 2.862828,
+    "input_c": 0.97728,
+    "output": 26.956856,
+    "seed": 2002,
+    "trial": 490
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.748364,
+    "input_b": 4.869237,
+    "input_c": 1.016545,
+    "output": 24.118517,
+    "seed": 2002,
+    "trial": 491
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 13.040552,
+    "input_b": 4.634452,
+    "input_c": 1.257669,
+    "output": 46.148762,
+    "seed": 2002,
+    "trial": 492
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.675584,
+    "input_b": 3.128487,
+    "input_c": 0.997163,
+    "output": 51.211513,
+    "seed": 2002,
+    "trial": 493
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.50403,
+    "input_b": 4.92842,
+    "input_c": 1.207019,
+    "output": 27.022057,
+    "seed": 2002,
+    "trial": 494
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.203118,
+    "input_b": 3.790973,
+    "input_c": 1.088022,
+    "output": 29.878101,
+    "seed": 2002,
+    "trial": 495
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.79797,
+    "input_b": 2.616066,
+    "input_c": 1.024394,
+    "output": 23.811209,
+    "seed": 2002,
+    "trial": 496
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 7.409307,
+    "input_b": 2.358134,
+    "input_c": 0.824642,
+    "output": 19.197827,
+    "seed": 2002,
+    "trial": 497
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 9.120024,
+    "input_b": 2.477005,
+    "input_c": 1.314815,
+    "output": 44.149896,
+    "seed": 2002,
+    "trial": 498
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 12.175067,
+    "input_b": 4.56585,
+    "input_c": 1.10532,
+    "output": 35.88468,
+    "seed": 2002,
+    "trial": 499
+  },
+  {
+    "experiment": "uncertainty_propagation",
+    "input_a": 10.571261,
+    "input_b": 3.481759,
+    "input_c": 0.896679,
+    "output": 28.780086,
+    "seed": 2002,
+    "trial": 500
+  }
+]

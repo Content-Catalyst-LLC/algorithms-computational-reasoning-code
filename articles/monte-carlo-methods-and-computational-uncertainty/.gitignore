@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+outputs/optional_checks/*.o
+outputs/optional_checks/*.class
+outputs/optional_checks/*_rust
+outputs/optional_checks/*_c
+outputs/optional_checks/*_cpp
+outputs/optional_checks/*_fortran

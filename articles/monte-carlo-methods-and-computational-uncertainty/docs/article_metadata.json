@@ -1,0 +1,30 @@
+{
+  "actual_title": "Monte Carlo Methods and Computational Uncertainty",
+  "suggested_seo_title": "Monte Carlo Methods and Computational Uncertainty",
+  "slug": "monte-carlo-methods-and-computational-uncertainty",
+  "focus_keyword": "Monte Carlo methods and computational uncertainty",
+  "previous_article": {
+    "title": "Numerical Methods and Algorithmic Approximation",
+    "slug": "numerical-methods-and-algorithmic-approximation"
+  },
+  "next_article": {
+    "title": "Computational Experiments and Reproducible Workflows",
+    "slug": "computational-experiments-and-reproducible-workflows"
+  },
+  "series": "Algorithms & Computational Reasoning",
+  "repository": "algorithms-computational-reasoning-code",
+  "themes": [
+    "Monte Carlo methods",
+    "computational uncertainty",
+    "random sampling",
+    "repeated trials",
+    "probability estimation",
+    "simulation ensembles",
+    "uncertainty propagation",
+    "threshold risk",
+    "confidence intervals",
+    "convergence diagnostics",
+    "pseudo-randomness",
+    "reproducibility"
+  ]
+}

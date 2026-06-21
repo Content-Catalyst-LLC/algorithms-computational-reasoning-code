@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monte Carlo uncertainty card",
+  "type": "object",
+  "required": ["experiment", "quantity_of_interest", "samples", "seed", "estimate", "interpretation"],
+  "properties": {
+    "experiment": {"type": "string"},
+    "quantity_of_interest": {"type": "string"},
+    "samples": {"type": "integer"},
+    "seed": {"type": "integer"},
+    "estimate": {"type": "number"},
+    "interpretation": {"type": "string"}
+  }
+}

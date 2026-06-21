@@ -1,0 +1,5 @@
+absolute_error,estimate,experiment,inside_count,interpretation,lower_95,reference_value,samples,seed,standard_error,upper_95
+0.0215926536,3.12,pi_area_ratio,78,Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.,2.795230898,3.1415926536,100,42,0.1656985214,3.444769102
+0.0135926536,3.128,pi_area_ratio,782,Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.,3.0256358968,3.1415926536,1000,42,0.0522265833,3.2303641032
+0.0155926536,3.126,pi_area_ratio,7815,Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.,3.0936028897,3.1415926536,10000,42,0.0165291379,3.1583971103
+0.0069526536,3.13464,pi_area_ratio,39183,Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.,3.1202034535,3.1415926536,50000,42,0.0073655849,3.1490765465

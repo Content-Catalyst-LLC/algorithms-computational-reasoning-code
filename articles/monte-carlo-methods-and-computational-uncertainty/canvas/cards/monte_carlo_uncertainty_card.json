@@ -1,0 +1,8 @@
+{
+  "experiment": "project_cost_risk",
+  "quantity_of_interest": "probability of exceeding threshold",
+  "samples": 20000,
+  "seed": 1001,
+  "estimate": 0.0,
+  "interpretation": "A Monte Carlo card should pair the estimate with assumptions, uncertainty, convergence checks, and decision-use limits."
+}

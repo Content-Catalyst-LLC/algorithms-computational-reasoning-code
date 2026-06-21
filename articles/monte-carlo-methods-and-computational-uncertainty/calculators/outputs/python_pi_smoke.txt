@@ -1,0 +1,5 @@
+pi_estimate=3.12800000
+standard_error=0.05222658
+lower_95=3.02563590
+upper_95=3.23036410
+absolute_error=0.01359265

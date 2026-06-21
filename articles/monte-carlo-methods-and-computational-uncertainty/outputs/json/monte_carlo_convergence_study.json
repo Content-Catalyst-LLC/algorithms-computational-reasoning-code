@@ -1,0 +1,62 @@
+[
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.1483185307,
+    "pi_mean_estimate": 3.088,
+    "pi_run_to_run_std": 0.1676186147,
+    "samples": 100,
+    "seeds": 10,
+    "threshold_probability_mean": 0.122,
+    "threshold_probability_run_to_run_std": 0.041665
+  },
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.0510370614,
+    "pi_mean_estimate": 3.1224,
+    "pi_run_to_run_std": 0.0568,
+    "samples": 500,
+    "seeds": 10,
+    "threshold_probability_mean": 0.1178,
+    "threshold_probability_run_to_run_std": 0.017876
+  },
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.0254370614,
+    "pi_mean_estimate": 3.1336,
+    "pi_run_to_run_std": 0.0288,
+    "samples": 1000,
+    "seeds": 10,
+    "threshold_probability_mean": 0.1228,
+    "threshold_probability_run_to_run_std": 0.005618
+  },
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.0177644078,
+    "pi_mean_estimate": 3.14816,
+    "pi_run_to_run_std": 0.0208945543,
+    "samples": 5000,
+    "seeds": 10,
+    "threshold_probability_mean": 0.11924,
+    "threshold_probability_run_to_run_std": 0.00326
+  },
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.0087629386,
+    "pi_mean_estimate": 3.1422,
+    "pi_run_to_run_std": 0.0108712465,
+    "samples": 10000,
+    "seeds": 10,
+    "threshold_probability_mean": 0.11904,
+    "threshold_probability_run_to_run_std": 0.003173
+  },
+  {
+    "interpretation": "Convergence should be assessed across sample sizes and repeated seeds.",
+    "pi_mean_absolute_error": 0.0055934693,
+    "pi_mean_estimate": 3.14388,
+    "pi_run_to_run_std": 0.0064800247,
+    "samples": 50000,
+    "seeds": 10,
+    "threshold_probability_mean": 0.118018,
+    "threshold_probability_run_to_run_std": 0.001305
+  }
+]

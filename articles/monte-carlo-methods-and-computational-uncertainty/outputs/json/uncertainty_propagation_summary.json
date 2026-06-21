@@ -1,0 +1,13 @@
+{
+  "experiment": "uncertainty_propagation",
+  "interpretation": "Input uncertainty is propagated through a nonlinear model to estimate the output distribution.",
+  "lower_95": 33.097946,
+  "mean_output": 33.294474,
+  "output_p05": 15.330133,
+  "output_p50": 30.62157,
+  "output_p95": 60.354469,
+  "samples": 20000,
+  "seed": 2002,
+  "standard_error": 0.100269,
+  "upper_95": 33.491001
+}

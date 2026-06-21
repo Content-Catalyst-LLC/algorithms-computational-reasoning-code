@@ -1,0 +1,18 @@
+{
+  "cost_p05": 968531.22,
+  "cost_p50": 1129665.8,
+  "cost_p95": 1297513.17,
+  "experiment": "project_cost_risk",
+  "interpretation": "Monte Carlo cost simulation estimates both expected cost and probability of threshold exceedance.",
+  "mean_cost": 1130582.46,
+  "mean_cost_lower_95": 1129198.89,
+  "mean_cost_standard_error": 705.91,
+  "mean_cost_upper_95": 1131966.04,
+  "samples": 20000,
+  "seed": 1001,
+  "threshold": 1250000.0,
+  "threshold_probability": 0.1174,
+  "threshold_probability_lower_95": 0.112939,
+  "threshold_probability_standard_error": 0.002276,
+  "threshold_probability_upper_95": 0.121861
+}

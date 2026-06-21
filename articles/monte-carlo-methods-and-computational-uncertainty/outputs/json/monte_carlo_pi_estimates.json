@@ -1,0 +1,54 @@
+[
+  {
+    "absolute_error": 0.0215926536,
+    "estimate": 3.12,
+    "experiment": "pi_area_ratio",
+    "inside_count": 78,
+    "interpretation": "Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.",
+    "lower_95": 2.795230898,
+    "reference_value": 3.1415926536,
+    "samples": 100,
+    "seed": 42,
+    "standard_error": 0.1656985214,
+    "upper_95": 3.444769102
+  },
+  {
+    "absolute_error": 0.0135926536,
+    "estimate": 3.128,
+    "experiment": "pi_area_ratio",
+    "inside_count": 782,
+    "interpretation": "Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.",
+    "lower_95": 3.0256358968,
+    "reference_value": 3.1415926536,
+    "samples": 1000,
+    "seed": 42,
+    "standard_error": 0.0522265833,
+    "upper_95": 3.2303641032
+  },
+  {
+    "absolute_error": 0.0155926536,
+    "estimate": 3.126,
+    "experiment": "pi_area_ratio",
+    "inside_count": 7815,
+    "interpretation": "Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.",
+    "lower_95": 3.0936028897,
+    "reference_value": 3.1415926536,
+    "samples": 10000,
+    "seed": 42,
+    "standard_error": 0.0165291379,
+    "upper_95": 3.1583971103
+  },
+  {
+    "absolute_error": 0.0069526536,
+    "estimate": 3.13464,
+    "experiment": "pi_area_ratio",
+    "inside_count": 39183,
+    "interpretation": "Pi is estimated by sampling points in a square and counting the fraction inside a quarter circle.",
+    "lower_95": 3.1202034535,
+    "reference_value": 3.1415926536,
+    "samples": 50000,
+    "seed": 42,
+    "standard_error": 0.0073655849,
+    "upper_95": 3.1490765465
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "interpretation": "Monte Carlo workflows estimate uncertainty through repeated sampling and require distribution review, convergence diagnostics, sampling-error reporting, reproducibility records, and interpretation limits.",
+  "largest_convergence_sample_size": 50000,
+  "pi_experiments": 4,
+  "pi_mean_absolute_error_at_largest_sample_size": 0.0055934693,
+  "project_cost_mean": 1130582.46,
+  "project_cost_threshold_probability": 0.1174,
+  "review_items_needing_attention": 2,
+  "uncertainty_propagation_mean_output": 33.294474,
+  "uncertainty_propagation_p05": 15.330133,
+  "uncertainty_propagation_p95": 60.354469
+}

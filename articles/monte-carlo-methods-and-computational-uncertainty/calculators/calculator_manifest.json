@@ -1,0 +1,15 @@
+{
+  "article": "Monte Carlo Methods and Computational Uncertainty",
+  "calculators": [
+    {
+      "name": "Monte Carlo pi estimator",
+      "python": "calculators/python/model_calculator.py pi --samples=10000 --seed=42",
+      "r": "calculators/r/model_calculator.R pi --samples=10000 --seed=42"
+    },
+    {
+      "name": "Threshold risk estimator",
+      "python": "calculators/python/model_calculator.py threshold --samples=10000 --seed=42 --threshold=1250000",
+      "r": "calculators/r/model_calculator.R threshold --samples=10000 --seed=42 --threshold=1250000"
+    }
+  ]
+}

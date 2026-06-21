@@ -1,0 +1,9 @@
+check,question,status
+quantity_of_interest_defined,"Is the estimated probability, expectation, quantile, risk, or distribution clearly stated?",complete
+input_distributions_documented,"Are uncertain inputs, distributions, parameters, and sources documented?",complete
+dependencies_reviewed,Are correlations or dependencies among uncertain inputs considered?,partial
+sample_size_justified,Is the number of trials justified by convergence or uncertainty requirements?,complete
+random_seed_recorded,Are random seeds and generator assumptions documented?,complete
+sampling_error_reported,"Are standard errors, confidence intervals, or repeated-seed diagnostics reported?",complete
+tail_risk_reviewed,"Are rare, extreme, or threshold outcomes adequately sampled and communicated?",partial
+interpretation_limits_stated,Are results described as conditional on assumptions rather than direct prediction?,complete

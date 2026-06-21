@@ -1,37 +1,34 @@
-# Monte Carlo Methods and Computational Uncertainty (planned)
+# Monte Carlo Methods and Computational Uncertainty
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Simulation, Modeling, and Scientific Computing  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **“Monte Carlo Methods and Computational Uncertainty.”** It treats Monte Carlo methods as computational uncertainty reasoning: random sampling, repeated trials, probability estimation, uncertainty propagation, convergence diagnostics, threshold risk, confidence intervals, reproducibility, and responsible interpretation.
 
-## Purpose
+## Article sequence
 
-This folder will hold computational companion materials for the planned article:
-**Monte Carlo Methods and Computational Uncertainty**.
+- Previous: Numerical Methods and Algorithmic Approximation
+- Current: Monte Carlo Methods and Computational Uncertainty
+- Next: Computational Experiments and Reproducible Workflows
 
-## Standard Folder Layout
+## What this folder contains
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+- `python/` dependency-light Monte Carlo uncertainty audit workflow
+- `r/` base R summary workflow for Monte Carlo outputs and diagnostics
+- `calculators/` self-contained Python and R calculators for pi estimation, threshold risk, uncertainty propagation, and confidence intervals
+- `data/` synthetic distribution and scenario metadata
+- `outputs/` generated CSV, JSON, and figure outputs
+- `docs/` article metadata, navigation, workflow notes, and review checklist
+- language folders with compact, runnable or inspectable examples across Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
 
-## Notes
+## Run the main workflows
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+```bash
+python3 python/monte_carlo_methods_computational_uncertainty_audit.py
+Rscript r/monte_carlo_methods_computational_uncertainty_summary.R
+```
+
+## Run calculator smoke tests
+
+```bash
+bash calculators/run_calculator_smoke_tests.sh
+```
+
+The examples use synthetic teaching data and are designed for reproducibility, transparent assumptions, and auditable computational reasoning.

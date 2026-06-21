@@ -1,0 +1,7 @@
+interpretation,pi_mean_absolute_error,pi_mean_estimate,pi_run_to_run_std,samples,seeds,threshold_probability_mean,threshold_probability_run_to_run_std
+Convergence should be assessed across sample sizes and repeated seeds.,0.1483185307,3.088,0.1676186147,100,10,0.122,0.041665
+Convergence should be assessed across sample sizes and repeated seeds.,0.0510370614,3.1224,0.0568,500,10,0.1178,0.017876
+Convergence should be assessed across sample sizes and repeated seeds.,0.0254370614,3.1336,0.0288,1000,10,0.1228,0.005618
+Convergence should be assessed across sample sizes and repeated seeds.,0.0177644078,3.14816,0.0208945543,5000,10,0.11924,0.00326
+Convergence should be assessed across sample sizes and repeated seeds.,0.0087629386,3.1422,0.0108712465,10000,10,0.11904,0.003173
+Convergence should be assessed across sample sizes and repeated seeds.,0.0055934693,3.14388,0.0064800247,50000,10,0.118018,0.001305

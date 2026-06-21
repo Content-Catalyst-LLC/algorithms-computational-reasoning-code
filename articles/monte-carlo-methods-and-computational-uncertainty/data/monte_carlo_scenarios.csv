@@ -1,0 +1,5 @@
+scenario,quantity_of_interest,samples,seed,threshold,notes
+pi_area_ratio,estimate_pi,10000,42,,quarter-circle area ratio example
+project_cost_risk,threshold_probability,20000,1001,1250000,synthetic budget risk scenario
+uncertainty_propagation,output_distribution,20000,2002,,nonlinear synthetic propagation model
+convergence_study,repeated_seed_stability,100 500 1000 5000 10000 50000,1-10,,sample-size and repeated-seed diagnostic

@@ -1,0 +1,42 @@
+[
+  {
+    "check": "quantity_of_interest_defined",
+    "question": "Is the estimated probability, expectation, quantile, risk, or distribution clearly stated?",
+    "status": "complete"
+  },
+  {
+    "check": "input_distributions_documented",
+    "question": "Are uncertain inputs, distributions, parameters, and sources documented?",
+    "status": "complete"
+  },
+  {
+    "check": "dependencies_reviewed",
+    "question": "Are correlations or dependencies among uncertain inputs considered?",
+    "status": "partial"
+  },
+  {
+    "check": "sample_size_justified",
+    "question": "Is the number of trials justified by convergence or uncertainty requirements?",
+    "status": "complete"
+  },
+  {
+    "check": "random_seed_recorded",
+    "question": "Are random seeds and generator assumptions documented?",
+    "status": "complete"
+  },
+  {
+    "check": "sampling_error_reported",
+    "question": "Are standard errors, confidence intervals, or repeated-seed diagnostics reported?",
+    "status": "complete"
+  },
+  {
+    "check": "tail_risk_reviewed",
+    "question": "Are rare, extreme, or threshold outcomes adequately sampled and communicated?",
+    "status": "partial"
+  },
+  {
+    "check": "interpretation_limits_stated",
+    "question": "Are results described as conditional on assumptions rather than direct prediction?",
+    "status": "complete"
+  }
+]
