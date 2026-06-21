@@ -1,0 +1,74 @@
+[
+  {
+    "epoch": 1,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.731025,
+    "weight_norm": 0.286392
+  },
+  {
+    "epoch": 20,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.65012,
+    "weight_norm": 0.311907
+  },
+  {
+    "epoch": 40,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.611157,
+    "weight_norm": 0.495948
+  },
+  {
+    "epoch": 60,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.592297,
+    "weight_norm": 0.645969
+  },
+  {
+    "epoch": 80,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.582453,
+    "weight_norm": 0.758743
+  },
+  {
+    "epoch": 100,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.577009,
+    "weight_norm": 0.843919
+  },
+  {
+    "epoch": 120,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.573869,
+    "weight_norm": 0.909069
+  },
+  {
+    "epoch": 140,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.571999,
+    "weight_norm": 0.959485
+  },
+  {
+    "epoch": 160,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.570858,
+    "weight_norm": 0.998872
+  },
+  {
+    "epoch": 180,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.57015,
+    "weight_norm": 1.029876
+  },
+  {
+    "epoch": 200,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.569704,
+    "weight_norm": 1.054427
+  },
+  {
+    "epoch": 220,
+    "interpretation": "Loss decline shows optimization behavior; it does not prove external validity.",
+    "training_loss": 0.56942,
+    "weight_norm": 1.073961
+  }
+]

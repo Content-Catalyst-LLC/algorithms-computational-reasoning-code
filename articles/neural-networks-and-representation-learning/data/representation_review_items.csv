@@ -1,0 +1,9 @@
+item,description,review_question
+input_representation,How raw cases are encoded as model inputs,What is omitted or compressed?
+label_validity,How targets are defined and assigned,Does the label match the intended construct?
+loss_function,What training optimizes,Does the objective match institutional purpose?
+representation_gap,How scores separate classes,Does separation hold outside the training setting?
+generalization,How test behavior compares with train behavior,Does performance survive new conditions?
+embedding_similarity,How items are compared in vector space,Does similarity reflect meaningful relevance?
+interpretability,How model behavior is explained,Who needs which explanation?
+use_boundary,Where the model should not be used,Are prohibited uses explicit and enforceable?

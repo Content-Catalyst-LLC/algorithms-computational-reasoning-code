@@ -1,0 +1,18 @@
+[
+  {
+    "accuracy": 0.70068,
+    "interpretation": "Evaluation should be compared across splits and contexts.",
+    "mean_loss": 0.569409,
+    "n": 294,
+    "split": "train",
+    "threshold": 0.5
+  },
+  {
+    "accuracy": 0.674603,
+    "interpretation": "Evaluation should be compared across splits and contexts.",
+    "mean_loss": 0.59391,
+    "n": 126,
+    "split": "test",
+    "threshold": 0.5
+  }
+]

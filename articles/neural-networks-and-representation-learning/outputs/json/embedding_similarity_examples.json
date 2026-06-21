@@ -1,0 +1,38 @@
+[
+  {
+    "cosine_similarity": 0.995586,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_a",
+    "right_item": "document_b"
+  },
+  {
+    "cosine_similarity": 0.229034,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_a",
+    "right_item": "document_c"
+  },
+  {
+    "cosine_similarity": 0.229865,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_a",
+    "right_item": "document_d"
+  },
+  {
+    "cosine_similarity": 0.316969,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_b",
+    "right_item": "document_c"
+  },
+  {
+    "cosine_similarity": 0.215809,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_b",
+    "right_item": "document_d"
+  },
+  {
+    "cosine_similarity": 0.131288,
+    "interpretation": "Cosine similarity is a computational comparison; semantic relevance still requires validation.",
+    "left_item": "document_c",
+    "right_item": "document_d"
+  }
+]

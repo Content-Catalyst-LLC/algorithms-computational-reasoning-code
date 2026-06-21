@@ -1,0 +1,11 @@
+field,description,review_note
+unit_id,Synthetic unit identifier,No real persons or institutions are represented
+x1,First numeric input feature,Teaching feature used to generate synthetic signal
+x2,Second numeric input feature,Teaching feature used to generate synthetic signal
+x3,Third numeric input feature,Teaching feature used to generate synthetic signal
+latent_signal,Unobserved synthetic signal used to generate labels,Available only because the dataset is synthetic
+label,Synthetic binary target,Should not be treated as ground truth outside the example
+representation_score,Model score after learned transformation,Useful for diagnostics but not an explanation
+predicted_label,Thresholded output from representation score,Threshold choices require governance review
+absolute_error,Distance between score and label,Diagnostic only
+split,Train or test split,Used to evaluate generalization

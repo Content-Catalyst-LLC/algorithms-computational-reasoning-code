@@ -1,0 +1,6 @@
+{
+  "interpretation": "A representation gap suggests separation, but it does not prove validity, fairness, causality, or safe deployment.",
+  "negative_mean_representation_score": 0.406466,
+  "positive_mean_representation_score": 0.579876,
+  "representation_gap": 0.173409
+}

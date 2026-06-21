@@ -1,0 +1,13 @@
+epoch,interpretation,training_loss,weight_norm
+1,Loss decline shows optimization behavior; it does not prove external validity.,0.731025,0.286392
+20,Loss decline shows optimization behavior; it does not prove external validity.,0.65012,0.311907
+40,Loss decline shows optimization behavior; it does not prove external validity.,0.611157,0.495948
+60,Loss decline shows optimization behavior; it does not prove external validity.,0.592297,0.645969
+80,Loss decline shows optimization behavior; it does not prove external validity.,0.582453,0.758743
+100,Loss decline shows optimization behavior; it does not prove external validity.,0.577009,0.843919
+120,Loss decline shows optimization behavior; it does not prove external validity.,0.573869,0.909069
+140,Loss decline shows optimization behavior; it does not prove external validity.,0.571999,0.959485
+160,Loss decline shows optimization behavior; it does not prove external validity.,0.570858,0.998872
+180,Loss decline shows optimization behavior; it does not prove external validity.,0.57015,1.029876
+200,Loss decline shows optimization behavior; it does not prove external validity.,0.569704,1.054427
+220,Loss decline shows optimization behavior; it does not prove external validity.,0.56942,1.073961

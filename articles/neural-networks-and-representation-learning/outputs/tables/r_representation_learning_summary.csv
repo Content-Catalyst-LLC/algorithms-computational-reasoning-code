@@ -1,0 +1,2 @@
+"train_accuracy","test_accuracy","train_loss","test_loss","diagnostic_note"
+0.70068,0.674603,0.569409,0.59391,"Representation performance should be reviewed with generalization, validity, subgroup behavior, and use boundaries."

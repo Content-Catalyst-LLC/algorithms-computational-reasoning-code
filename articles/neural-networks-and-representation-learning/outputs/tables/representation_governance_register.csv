@@ -1,0 +1,8 @@
+item,review_question,status
+input_representation,"What do the inputs omit, compress, or proxy?",needs_review
+label_validity,Do labels reflect the construct being modeled?,needs_review
+loss_function,Does the optimization target match the institutional purpose?,partial
+generalization,Does performance hold beyond training conditions?,partial
+context_performance,Are errors different across contexts or groups?,needs_review
+interpretability,Can relevant audiences understand and challenge outputs?,needs_review
+use_boundary,Where should the model not be used?,needs_review

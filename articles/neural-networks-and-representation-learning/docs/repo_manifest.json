@@ -1,0 +1,19 @@
+{
+  "article": "Neural Networks and Representation Learning",
+  "slug": "neural-networks-and-representation-learning",
+  "sequence": {
+    "previous": "overfitting-underfitting-and-model-error",
+    "next": "large-language-models-and-procedural-reasoning"
+  },
+  "entrypoints": {
+    "run": "make run",
+    "test": "make test",
+    "calculator_smoke": "make calculator-smoke"
+  },
+  "outputs": [
+    "outputs/tables/representation_audit_summary.csv",
+    "outputs/json/representation_audit_summary.json",
+    "outputs/tables/model_evaluation_summary.csv",
+    "outputs/tables/representation_governance_register.csv"
+  ]
+}

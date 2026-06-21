@@ -1,0 +1,3 @@
+train_loss=0.420000
+test_loss=0.530000
+generalization_gap=0.110000

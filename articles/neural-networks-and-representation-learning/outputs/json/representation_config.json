@@ -1,0 +1,9 @@
+{
+  "epochs": 220,
+  "experiment_name": "neural_networks_representation_learning",
+  "learning_rate": 0.08,
+  "n": 420,
+  "seed": 2026,
+  "threshold": 0.5,
+  "train_fraction": 0.7
+}

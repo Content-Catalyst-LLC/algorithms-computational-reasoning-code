@@ -1,0 +1,4 @@
+theta=0.400000
+gradient=-0.250000
+learning_rate=0.100000
+updated_theta=0.425000

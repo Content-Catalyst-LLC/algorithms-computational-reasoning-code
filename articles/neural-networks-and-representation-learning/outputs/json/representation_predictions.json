@@ -1,0 +1,4202 @@
+[
+  {
+    "absolute_error": 0.557579,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.442421,
+    "split": "train",
+    "unit_id": 1
+  },
+  {
+    "absolute_error": 0.348109,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.651891,
+    "split": "train",
+    "unit_id": 2
+  },
+  {
+    "absolute_error": 0.248809,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.751191,
+    "split": "train",
+    "unit_id": 3
+  },
+  {
+    "absolute_error": 0.109187,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.109187,
+    "split": "train",
+    "unit_id": 4
+  },
+  {
+    "absolute_error": 0.640555,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.640555,
+    "split": "train",
+    "unit_id": 5
+  },
+  {
+    "absolute_error": 0.735618,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.264382,
+    "split": "train",
+    "unit_id": 6
+  },
+  {
+    "absolute_error": 0.224878,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.224878,
+    "split": "train",
+    "unit_id": 7
+  },
+  {
+    "absolute_error": 0.26495,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.73505,
+    "split": "train",
+    "unit_id": 8
+  },
+  {
+    "absolute_error": 0.281749,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.281749,
+    "split": "train",
+    "unit_id": 9
+  },
+  {
+    "absolute_error": 0.397695,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.397695,
+    "split": "train",
+    "unit_id": 10
+  },
+  {
+    "absolute_error": 0.654627,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.345373,
+    "split": "train",
+    "unit_id": 11
+  },
+  {
+    "absolute_error": 0.40406,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.40406,
+    "split": "train",
+    "unit_id": 12
+  },
+  {
+    "absolute_error": 0.389825,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.610175,
+    "split": "train",
+    "unit_id": 13
+  },
+  {
+    "absolute_error": 0.21704,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.21704,
+    "split": "train",
+    "unit_id": 14
+  },
+  {
+    "absolute_error": 0.075524,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.924476,
+    "split": "train",
+    "unit_id": 15
+  },
+  {
+    "absolute_error": 0.372988,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.372988,
+    "split": "train",
+    "unit_id": 16
+  },
+  {
+    "absolute_error": 0.315015,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.315015,
+    "split": "train",
+    "unit_id": 17
+  },
+  {
+    "absolute_error": 0.757561,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.757561,
+    "split": "train",
+    "unit_id": 18
+  },
+  {
+    "absolute_error": 0.278506,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.278506,
+    "split": "train",
+    "unit_id": 19
+  },
+  {
+    "absolute_error": 0.226465,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.226465,
+    "split": "train",
+    "unit_id": 20
+  },
+  {
+    "absolute_error": 0.618749,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.618749,
+    "split": "train",
+    "unit_id": 21
+  },
+  {
+    "absolute_error": 0.897096,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.102904,
+    "split": "train",
+    "unit_id": 22
+  },
+  {
+    "absolute_error": 0.317493,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.317493,
+    "split": "train",
+    "unit_id": 23
+  },
+  {
+    "absolute_error": 0.68899,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.68899,
+    "split": "train",
+    "unit_id": 24
+  },
+  {
+    "absolute_error": 0.657839,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.657839,
+    "split": "train",
+    "unit_id": 25
+  },
+  {
+    "absolute_error": 0.21245,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.78755,
+    "split": "train",
+    "unit_id": 26
+  },
+  {
+    "absolute_error": 0.652291,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.347709,
+    "split": "train",
+    "unit_id": 27
+  },
+  {
+    "absolute_error": 0.418069,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.418069,
+    "split": "train",
+    "unit_id": 28
+  },
+  {
+    "absolute_error": 0.428078,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.428078,
+    "split": "train",
+    "unit_id": 29
+  },
+  {
+    "absolute_error": 0.185995,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.185995,
+    "split": "train",
+    "unit_id": 30
+  },
+  {
+    "absolute_error": 0.462713,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.537287,
+    "split": "train",
+    "unit_id": 31
+  },
+  {
+    "absolute_error": 0.101669,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.898331,
+    "split": "train",
+    "unit_id": 32
+  },
+  {
+    "absolute_error": 0.312122,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.312122,
+    "split": "train",
+    "unit_id": 33
+  },
+  {
+    "absolute_error": 0.450083,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.549917,
+    "split": "train",
+    "unit_id": 34
+  },
+  {
+    "absolute_error": 0.213582,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.213582,
+    "split": "train",
+    "unit_id": 35
+  },
+  {
+    "absolute_error": 0.401213,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.401213,
+    "split": "train",
+    "unit_id": 36
+  },
+  {
+    "absolute_error": 0.163949,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.163949,
+    "split": "train",
+    "unit_id": 37
+  },
+  {
+    "absolute_error": 0.91227,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.91227,
+    "split": "train",
+    "unit_id": 38
+  },
+  {
+    "absolute_error": 0.614866,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.385134,
+    "split": "train",
+    "unit_id": 39
+  },
+  {
+    "absolute_error": 0.275384,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.724616,
+    "split": "train",
+    "unit_id": 40
+  },
+  {
+    "absolute_error": 0.301016,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.698984,
+    "split": "train",
+    "unit_id": 41
+  },
+  {
+    "absolute_error": 0.413393,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.413393,
+    "split": "train",
+    "unit_id": 42
+  },
+  {
+    "absolute_error": 0.210384,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.210384,
+    "split": "train",
+    "unit_id": 43
+  },
+  {
+    "absolute_error": 0.218231,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.218231,
+    "split": "train",
+    "unit_id": 44
+  },
+  {
+    "absolute_error": 0.415332,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.415332,
+    "split": "train",
+    "unit_id": 45
+  },
+  {
+    "absolute_error": 0.379078,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.620922,
+    "split": "train",
+    "unit_id": 46
+  },
+  {
+    "absolute_error": 0.712105,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.287895,
+    "split": "train",
+    "unit_id": 47
+  },
+  {
+    "absolute_error": 0.336966,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.663034,
+    "split": "train",
+    "unit_id": 48
+  },
+  {
+    "absolute_error": 0.488031,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.511969,
+    "split": "train",
+    "unit_id": 49
+  },
+  {
+    "absolute_error": 0.843529,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.843529,
+    "split": "train",
+    "unit_id": 50
+  },
+  {
+    "absolute_error": 0.274067,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.725933,
+    "split": "train",
+    "unit_id": 51
+  },
+  {
+    "absolute_error": 0.412792,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.587208,
+    "split": "train",
+    "unit_id": 52
+  },
+  {
+    "absolute_error": 0.245418,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.754582,
+    "split": "train",
+    "unit_id": 53
+  },
+  {
+    "absolute_error": 0.253388,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.253388,
+    "split": "train",
+    "unit_id": 54
+  },
+  {
+    "absolute_error": 0.684621,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.684621,
+    "split": "train",
+    "unit_id": 55
+  },
+  {
+    "absolute_error": 0.749118,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.250882,
+    "split": "train",
+    "unit_id": 56
+  },
+  {
+    "absolute_error": 0.617902,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.617902,
+    "split": "train",
+    "unit_id": 57
+  },
+  {
+    "absolute_error": 0.404871,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.595129,
+    "split": "train",
+    "unit_id": 58
+  },
+  {
+    "absolute_error": 0.690925,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.309075,
+    "split": "train",
+    "unit_id": 59
+  },
+  {
+    "absolute_error": 0.162452,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.837548,
+    "split": "train",
+    "unit_id": 60
+  },
+  {
+    "absolute_error": 0.564027,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.435973,
+    "split": "train",
+    "unit_id": 61
+  },
+  {
+    "absolute_error": 0.490331,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.490331,
+    "split": "train",
+    "unit_id": 62
+  },
+  {
+    "absolute_error": 0.402132,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.597868,
+    "split": "train",
+    "unit_id": 63
+  },
+  {
+    "absolute_error": 0.745854,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.745854,
+    "split": "train",
+    "unit_id": 64
+  },
+  {
+    "absolute_error": 0.562729,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.437271,
+    "split": "train",
+    "unit_id": 65
+  },
+  {
+    "absolute_error": 0.545536,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.454464,
+    "split": "train",
+    "unit_id": 66
+  },
+  {
+    "absolute_error": 0.543112,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.543112,
+    "split": "train",
+    "unit_id": 67
+  },
+  {
+    "absolute_error": 0.227495,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.227495,
+    "split": "train",
+    "unit_id": 68
+  },
+  {
+    "absolute_error": 0.089296,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.910704,
+    "split": "train",
+    "unit_id": 69
+  },
+  {
+    "absolute_error": 0.072227,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.927773,
+    "split": "train",
+    "unit_id": 70
+  },
+  {
+    "absolute_error": 0.784366,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.784366,
+    "split": "train",
+    "unit_id": 71
+  },
+  {
+    "absolute_error": 0.425668,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.425668,
+    "split": "train",
+    "unit_id": 72
+  },
+  {
+    "absolute_error": 0.186835,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.813165,
+    "split": "train",
+    "unit_id": 73
+  },
+  {
+    "absolute_error": 0.485646,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.514354,
+    "split": "train",
+    "unit_id": 74
+  },
+  {
+    "absolute_error": 0.73138,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.73138,
+    "split": "train",
+    "unit_id": 75
+  },
+  {
+    "absolute_error": 0.555587,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.555587,
+    "split": "train",
+    "unit_id": 76
+  },
+  {
+    "absolute_error": 0.386125,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.613875,
+    "split": "train",
+    "unit_id": 77
+  },
+  {
+    "absolute_error": 0.403006,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.596994,
+    "split": "train",
+    "unit_id": 78
+  },
+  {
+    "absolute_error": 0.055617,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.055617,
+    "split": "train",
+    "unit_id": 79
+  },
+  {
+    "absolute_error": 0.113992,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.886008,
+    "split": "train",
+    "unit_id": 80
+  },
+  {
+    "absolute_error": 0.03418,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.96582,
+    "split": "train",
+    "unit_id": 81
+  },
+  {
+    "absolute_error": 0.634327,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.634327,
+    "split": "train",
+    "unit_id": 82
+  },
+  {
+    "absolute_error": 0.496479,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.503521,
+    "split": "train",
+    "unit_id": 83
+  },
+  {
+    "absolute_error": 0.304975,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.695025,
+    "split": "train",
+    "unit_id": 84
+  },
+  {
+    "absolute_error": 0.179191,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.820809,
+    "split": "train",
+    "unit_id": 85
+  },
+  {
+    "absolute_error": 0.608763,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.608763,
+    "split": "train",
+    "unit_id": 86
+  },
+  {
+    "absolute_error": 0.396722,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.603278,
+    "split": "train",
+    "unit_id": 87
+  },
+  {
+    "absolute_error": 0.374582,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.625418,
+    "split": "train",
+    "unit_id": 88
+  },
+  {
+    "absolute_error": 0.245265,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.245265,
+    "split": "train",
+    "unit_id": 89
+  },
+  {
+    "absolute_error": 0.11446,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.88554,
+    "split": "train",
+    "unit_id": 90
+  },
+  {
+    "absolute_error": 0.398571,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.601429,
+    "split": "train",
+    "unit_id": 91
+  },
+  {
+    "absolute_error": 0.189594,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.189594,
+    "split": "train",
+    "unit_id": 92
+  },
+  {
+    "absolute_error": 0.815774,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.184226,
+    "split": "train",
+    "unit_id": 93
+  },
+  {
+    "absolute_error": 0.164869,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.835131,
+    "split": "train",
+    "unit_id": 94
+  },
+  {
+    "absolute_error": 0.488788,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.488788,
+    "split": "train",
+    "unit_id": 95
+  },
+  {
+    "absolute_error": 0.615014,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.615014,
+    "split": "train",
+    "unit_id": 96
+  },
+  {
+    "absolute_error": 0.073528,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.926472,
+    "split": "train",
+    "unit_id": 97
+  },
+  {
+    "absolute_error": 0.530494,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.530494,
+    "split": "train",
+    "unit_id": 98
+  },
+  {
+    "absolute_error": 0.26777,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.73223,
+    "split": "train",
+    "unit_id": 99
+  },
+  {
+    "absolute_error": 0.40223,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.59777,
+    "split": "train",
+    "unit_id": 100
+  },
+  {
+    "absolute_error": 0.322316,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.677684,
+    "split": "train",
+    "unit_id": 101
+  },
+  {
+    "absolute_error": 0.228834,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.771166,
+    "split": "train",
+    "unit_id": 102
+  },
+  {
+    "absolute_error": 0.361643,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.638357,
+    "split": "train",
+    "unit_id": 103
+  },
+  {
+    "absolute_error": 0.506675,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.493325,
+    "split": "train",
+    "unit_id": 104
+  },
+  {
+    "absolute_error": 0.763245,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.236755,
+    "split": "train",
+    "unit_id": 105
+  },
+  {
+    "absolute_error": 0.247033,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.247033,
+    "split": "train",
+    "unit_id": 106
+  },
+  {
+    "absolute_error": 0.040084,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.959916,
+    "split": "train",
+    "unit_id": 107
+  },
+  {
+    "absolute_error": 0.471783,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.471783,
+    "split": "train",
+    "unit_id": 108
+  },
+  {
+    "absolute_error": 0.231241,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.768759,
+    "split": "train",
+    "unit_id": 109
+  },
+  {
+    "absolute_error": 0.457229,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.542771,
+    "split": "train",
+    "unit_id": 110
+  },
+  {
+    "absolute_error": 0.463747,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.463747,
+    "split": "train",
+    "unit_id": 111
+  },
+  {
+    "absolute_error": 0.367607,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.632393,
+    "split": "train",
+    "unit_id": 112
+  },
+  {
+    "absolute_error": 0.44994,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.55006,
+    "split": "train",
+    "unit_id": 113
+  },
+  {
+    "absolute_error": 0.676424,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.323576,
+    "split": "train",
+    "unit_id": 114
+  },
+  {
+    "absolute_error": 0.843814,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.156186,
+    "split": "train",
+    "unit_id": 115
+  },
+  {
+    "absolute_error": 0.556776,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.443224,
+    "split": "train",
+    "unit_id": 116
+  },
+  {
+    "absolute_error": 0.329982,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.329982,
+    "split": "train",
+    "unit_id": 117
+  },
+  {
+    "absolute_error": 0.298111,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.701889,
+    "split": "train",
+    "unit_id": 118
+  },
+  {
+    "absolute_error": 0.342253,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.657747,
+    "split": "train",
+    "unit_id": 119
+  },
+  {
+    "absolute_error": 0.152419,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.152419,
+    "split": "train",
+    "unit_id": 120
+  },
+  {
+    "absolute_error": 0.528109,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.528109,
+    "split": "train",
+    "unit_id": 121
+  },
+  {
+    "absolute_error": 0.579057,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.420943,
+    "split": "train",
+    "unit_id": 122
+  },
+  {
+    "absolute_error": 0.367372,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.367372,
+    "split": "train",
+    "unit_id": 123
+  },
+  {
+    "absolute_error": 0.244055,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.755945,
+    "split": "train",
+    "unit_id": 124
+  },
+  {
+    "absolute_error": 0.230065,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.230065,
+    "split": "train",
+    "unit_id": 125
+  },
+  {
+    "absolute_error": 0.413193,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.586807,
+    "split": "train",
+    "unit_id": 126
+  },
+  {
+    "absolute_error": 0.610319,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.389681,
+    "split": "train",
+    "unit_id": 127
+  },
+  {
+    "absolute_error": 0.27178,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.27178,
+    "split": "train",
+    "unit_id": 128
+  },
+  {
+    "absolute_error": 0.324268,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.675732,
+    "split": "train",
+    "unit_id": 129
+  },
+  {
+    "absolute_error": 0.791946,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.791946,
+    "split": "train",
+    "unit_id": 130
+  },
+  {
+    "absolute_error": 0.215822,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.784178,
+    "split": "train",
+    "unit_id": 131
+  },
+  {
+    "absolute_error": 0.136515,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.136515,
+    "split": "train",
+    "unit_id": 132
+  },
+  {
+    "absolute_error": 0.624712,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.624712,
+    "split": "train",
+    "unit_id": 133
+  },
+  {
+    "absolute_error": 0.696415,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.303585,
+    "split": "train",
+    "unit_id": 134
+  },
+  {
+    "absolute_error": 0.14239,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.85761,
+    "split": "train",
+    "unit_id": 135
+  },
+  {
+    "absolute_error": 0.18021,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.18021,
+    "split": "train",
+    "unit_id": 136
+  },
+  {
+    "absolute_error": 0.404222,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.404222,
+    "split": "train",
+    "unit_id": 137
+  },
+  {
+    "absolute_error": 0.475786,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.475786,
+    "split": "train",
+    "unit_id": 138
+  },
+  {
+    "absolute_error": 0.328688,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.328688,
+    "split": "train",
+    "unit_id": 139
+  },
+  {
+    "absolute_error": 0.46511,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.53489,
+    "split": "train",
+    "unit_id": 140
+  },
+  {
+    "absolute_error": 0.196249,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.803751,
+    "split": "train",
+    "unit_id": 141
+  },
+  {
+    "absolute_error": 0.237882,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.762118,
+    "split": "train",
+    "unit_id": 142
+  },
+  {
+    "absolute_error": 0.162425,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.837575,
+    "split": "train",
+    "unit_id": 143
+  },
+  {
+    "absolute_error": 0.318477,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.681523,
+    "split": "train",
+    "unit_id": 144
+  },
+  {
+    "absolute_error": 0.493845,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.506155,
+    "split": "train",
+    "unit_id": 145
+  },
+  {
+    "absolute_error": 0.574114,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.574114,
+    "split": "train",
+    "unit_id": 146
+  },
+  {
+    "absolute_error": 0.226131,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.226131,
+    "split": "train",
+    "unit_id": 147
+  },
+  {
+    "absolute_error": 0.622831,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.622831,
+    "split": "train",
+    "unit_id": 148
+  },
+  {
+    "absolute_error": 0.491391,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.491391,
+    "split": "train",
+    "unit_id": 149
+  },
+  {
+    "absolute_error": 0.624372,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.375628,
+    "split": "train",
+    "unit_id": 150
+  },
+  {
+    "absolute_error": 0.149122,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.149122,
+    "split": "train",
+    "unit_id": 151
+  },
+  {
+    "absolute_error": 0.542747,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.457253,
+    "split": "train",
+    "unit_id": 152
+  },
+  {
+    "absolute_error": 0.531882,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.468118,
+    "split": "train",
+    "unit_id": 153
+  },
+  {
+    "absolute_error": 0.459395,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.459395,
+    "split": "train",
+    "unit_id": 154
+  },
+  {
+    "absolute_error": 0.179473,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.179473,
+    "split": "train",
+    "unit_id": 155
+  },
+  {
+    "absolute_error": 0.357079,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.357079,
+    "split": "train",
+    "unit_id": 156
+  },
+  {
+    "absolute_error": 0.514688,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.514688,
+    "split": "train",
+    "unit_id": 157
+  },
+  {
+    "absolute_error": 0.762879,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.762879,
+    "split": "train",
+    "unit_id": 158
+  },
+  {
+    "absolute_error": 0.185908,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.814092,
+    "split": "train",
+    "unit_id": 159
+  },
+  {
+    "absolute_error": 0.488696,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.511304,
+    "split": "train",
+    "unit_id": 160
+  },
+  {
+    "absolute_error": 0.399619,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.600381,
+    "split": "train",
+    "unit_id": 161
+  },
+  {
+    "absolute_error": 0.51292,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.48708,
+    "split": "train",
+    "unit_id": 162
+  },
+  {
+    "absolute_error": 0.647989,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.352011,
+    "split": "train",
+    "unit_id": 163
+  },
+  {
+    "absolute_error": 0.415221,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.584779,
+    "split": "train",
+    "unit_id": 164
+  },
+  {
+    "absolute_error": 0.650026,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.349974,
+    "split": "train",
+    "unit_id": 165
+  },
+  {
+    "absolute_error": 0.097459,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.902541,
+    "split": "train",
+    "unit_id": 166
+  },
+  {
+    "absolute_error": 0.118016,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.881984,
+    "split": "train",
+    "unit_id": 167
+  },
+  {
+    "absolute_error": 0.605531,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.394469,
+    "split": "train",
+    "unit_id": 168
+  },
+  {
+    "absolute_error": 0.075379,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.075379,
+    "split": "train",
+    "unit_id": 169
+  },
+  {
+    "absolute_error": 0.286821,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.713179,
+    "split": "train",
+    "unit_id": 170
+  },
+  {
+    "absolute_error": 0.362678,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.362678,
+    "split": "train",
+    "unit_id": 171
+  },
+  {
+    "absolute_error": 0.771798,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.771798,
+    "split": "train",
+    "unit_id": 172
+  },
+  {
+    "absolute_error": 0.168215,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.168215,
+    "split": "train",
+    "unit_id": 173
+  },
+  {
+    "absolute_error": 0.139325,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.139325,
+    "split": "train",
+    "unit_id": 174
+  },
+  {
+    "absolute_error": 0.489537,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.510463,
+    "split": "train",
+    "unit_id": 175
+  },
+  {
+    "absolute_error": 0.545393,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.545393,
+    "split": "train",
+    "unit_id": 176
+  },
+  {
+    "absolute_error": 0.182439,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.817561,
+    "split": "train",
+    "unit_id": 177
+  },
+  {
+    "absolute_error": 0.188585,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.811415,
+    "split": "train",
+    "unit_id": 178
+  },
+  {
+    "absolute_error": 0.306292,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.693708,
+    "split": "train",
+    "unit_id": 179
+  },
+  {
+    "absolute_error": 0.215968,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.215968,
+    "split": "train",
+    "unit_id": 180
+  },
+  {
+    "absolute_error": 0.323403,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.676597,
+    "split": "train",
+    "unit_id": 181
+  },
+  {
+    "absolute_error": 0.284817,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.284817,
+    "split": "train",
+    "unit_id": 182
+  },
+  {
+    "absolute_error": 0.5347,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.5347,
+    "split": "train",
+    "unit_id": 183
+  },
+  {
+    "absolute_error": 0.540303,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.459697,
+    "split": "train",
+    "unit_id": 184
+  },
+  {
+    "absolute_error": 0.541162,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.458838,
+    "split": "train",
+    "unit_id": 185
+  },
+  {
+    "absolute_error": 0.409141,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.590859,
+    "split": "train",
+    "unit_id": 186
+  },
+  {
+    "absolute_error": 0.325337,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.674663,
+    "split": "train",
+    "unit_id": 187
+  },
+  {
+    "absolute_error": 0.095932,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.904068,
+    "split": "train",
+    "unit_id": 188
+  },
+  {
+    "absolute_error": 0.083,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.917,
+    "split": "train",
+    "unit_id": 189
+  },
+  {
+    "absolute_error": 0.344211,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.655789,
+    "split": "train",
+    "unit_id": 190
+  },
+  {
+    "absolute_error": 0.276945,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.276945,
+    "split": "train",
+    "unit_id": 191
+  },
+  {
+    "absolute_error": 0.389258,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.389258,
+    "split": "train",
+    "unit_id": 192
+  },
+  {
+    "absolute_error": 0.658087,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.658087,
+    "split": "train",
+    "unit_id": 193
+  },
+  {
+    "absolute_error": 0.178781,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.821219,
+    "split": "train",
+    "unit_id": 194
+  },
+  {
+    "absolute_error": 0.591528,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.591528,
+    "split": "train",
+    "unit_id": 195
+  },
+  {
+    "absolute_error": 0.762516,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.762516,
+    "split": "train",
+    "unit_id": 196
+  },
+  {
+    "absolute_error": 0.471589,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.528411,
+    "split": "train",
+    "unit_id": 197
+  },
+  {
+    "absolute_error": 0.396858,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.396858,
+    "split": "train",
+    "unit_id": 198
+  },
+  {
+    "absolute_error": 0.242668,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.242668,
+    "split": "train",
+    "unit_id": 199
+  },
+  {
+    "absolute_error": 0.577817,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.577817,
+    "split": "train",
+    "unit_id": 200
+  },
+  {
+    "absolute_error": 0.063431,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.063431,
+    "split": "train",
+    "unit_id": 201
+  },
+  {
+    "absolute_error": 0.726047,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.726047,
+    "split": "train",
+    "unit_id": 202
+  },
+  {
+    "absolute_error": 0.309373,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.690627,
+    "split": "train",
+    "unit_id": 203
+  },
+  {
+    "absolute_error": 0.69558,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.69558,
+    "split": "train",
+    "unit_id": 204
+  },
+  {
+    "absolute_error": 0.429172,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.429172,
+    "split": "train",
+    "unit_id": 205
+  },
+  {
+    "absolute_error": 0.064167,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.935833,
+    "split": "train",
+    "unit_id": 206
+  },
+  {
+    "absolute_error": 0.590962,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.409038,
+    "split": "train",
+    "unit_id": 207
+  },
+  {
+    "absolute_error": 0.255055,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.744945,
+    "split": "train",
+    "unit_id": 208
+  },
+  {
+    "absolute_error": 0.666303,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.666303,
+    "split": "train",
+    "unit_id": 209
+  },
+  {
+    "absolute_error": 0.41884,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.41884,
+    "split": "train",
+    "unit_id": 210
+  },
+  {
+    "absolute_error": 0.229201,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.229201,
+    "split": "train",
+    "unit_id": 211
+  },
+  {
+    "absolute_error": 0.267986,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.267986,
+    "split": "train",
+    "unit_id": 212
+  },
+  {
+    "absolute_error": 0.199111,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.800889,
+    "split": "train",
+    "unit_id": 213
+  },
+  {
+    "absolute_error": 0.404378,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.404378,
+    "split": "train",
+    "unit_id": 214
+  },
+  {
+    "absolute_error": 0.205864,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.205864,
+    "split": "train",
+    "unit_id": 215
+  },
+  {
+    "absolute_error": 0.510972,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.510972,
+    "split": "train",
+    "unit_id": 216
+  },
+  {
+    "absolute_error": 0.251501,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.251501,
+    "split": "train",
+    "unit_id": 217
+  },
+  {
+    "absolute_error": 0.719232,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.280768,
+    "split": "train",
+    "unit_id": 218
+  },
+  {
+    "absolute_error": 0.854732,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.145268,
+    "split": "train",
+    "unit_id": 219
+  },
+  {
+    "absolute_error": 0.407588,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.407588,
+    "split": "train",
+    "unit_id": 220
+  },
+  {
+    "absolute_error": 0.557645,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.442355,
+    "split": "train",
+    "unit_id": 221
+  },
+  {
+    "absolute_error": 0.242246,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.242246,
+    "split": "train",
+    "unit_id": 222
+  },
+  {
+    "absolute_error": 0.093132,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.906868,
+    "split": "train",
+    "unit_id": 223
+  },
+  {
+    "absolute_error": 0.591403,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.408597,
+    "split": "train",
+    "unit_id": 224
+  },
+  {
+    "absolute_error": 0.301579,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.698421,
+    "split": "train",
+    "unit_id": 225
+  },
+  {
+    "absolute_error": 0.25458,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.25458,
+    "split": "train",
+    "unit_id": 226
+  },
+  {
+    "absolute_error": 0.370011,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.629989,
+    "split": "train",
+    "unit_id": 227
+  },
+  {
+    "absolute_error": 0.443554,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.443554,
+    "split": "train",
+    "unit_id": 228
+  },
+  {
+    "absolute_error": 0.190254,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.190254,
+    "split": "train",
+    "unit_id": 229
+  },
+  {
+    "absolute_error": 0.418492,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.418492,
+    "split": "train",
+    "unit_id": 230
+  },
+  {
+    "absolute_error": 0.444562,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.555438,
+    "split": "train",
+    "unit_id": 231
+  },
+  {
+    "absolute_error": 0.235137,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.235137,
+    "split": "train",
+    "unit_id": 232
+  },
+  {
+    "absolute_error": 0.630778,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.369222,
+    "split": "train",
+    "unit_id": 233
+  },
+  {
+    "absolute_error": 0.206535,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.793465,
+    "split": "train",
+    "unit_id": 234
+  },
+  {
+    "absolute_error": 0.352279,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.647721,
+    "split": "train",
+    "unit_id": 235
+  },
+  {
+    "absolute_error": 0.195126,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.804874,
+    "split": "train",
+    "unit_id": 236
+  },
+  {
+    "absolute_error": 0.189088,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.810912,
+    "split": "train",
+    "unit_id": 237
+  },
+  {
+    "absolute_error": 0.201802,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.201802,
+    "split": "train",
+    "unit_id": 238
+  },
+  {
+    "absolute_error": 0.264904,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.735096,
+    "split": "train",
+    "unit_id": 239
+  },
+  {
+    "absolute_error": 0.134002,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.865998,
+    "split": "train",
+    "unit_id": 240
+  },
+  {
+    "absolute_error": 0.497651,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.502349,
+    "split": "train",
+    "unit_id": 241
+  },
+  {
+    "absolute_error": 0.604978,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.604978,
+    "split": "train",
+    "unit_id": 242
+  },
+  {
+    "absolute_error": 0.636087,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.636087,
+    "split": "train",
+    "unit_id": 243
+  },
+  {
+    "absolute_error": 0.214318,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.214318,
+    "split": "train",
+    "unit_id": 244
+  },
+  {
+    "absolute_error": 0.354716,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.354716,
+    "split": "train",
+    "unit_id": 245
+  },
+  {
+    "absolute_error": 0.502694,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.502694,
+    "split": "train",
+    "unit_id": 246
+  },
+  {
+    "absolute_error": 0.237489,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.237489,
+    "split": "train",
+    "unit_id": 247
+  },
+  {
+    "absolute_error": 0.353145,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.353145,
+    "split": "train",
+    "unit_id": 248
+  },
+  {
+    "absolute_error": 0.229659,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.770341,
+    "split": "train",
+    "unit_id": 249
+  },
+  {
+    "absolute_error": 0.58772,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.58772,
+    "split": "train",
+    "unit_id": 250
+  },
+  {
+    "absolute_error": 0.161469,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.161469,
+    "split": "train",
+    "unit_id": 251
+  },
+  {
+    "absolute_error": 0.604649,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.395351,
+    "split": "train",
+    "unit_id": 252
+  },
+  {
+    "absolute_error": 0.165713,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.165713,
+    "split": "train",
+    "unit_id": 253
+  },
+  {
+    "absolute_error": 0.728842,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.728842,
+    "split": "train",
+    "unit_id": 254
+  },
+  {
+    "absolute_error": 0.45066,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.54934,
+    "split": "train",
+    "unit_id": 255
+  },
+  {
+    "absolute_error": 0.478034,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.521966,
+    "split": "train",
+    "unit_id": 256
+  },
+  {
+    "absolute_error": 0.278553,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.278553,
+    "split": "train",
+    "unit_id": 257
+  },
+  {
+    "absolute_error": 0.608479,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.608479,
+    "split": "train",
+    "unit_id": 258
+  },
+  {
+    "absolute_error": 0.229822,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.770178,
+    "split": "train",
+    "unit_id": 259
+  },
+  {
+    "absolute_error": 0.384547,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.384547,
+    "split": "train",
+    "unit_id": 260
+  },
+  {
+    "absolute_error": 0.645935,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.354065,
+    "split": "train",
+    "unit_id": 261
+  },
+  {
+    "absolute_error": 0.656401,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.343599,
+    "split": "train",
+    "unit_id": 262
+  },
+  {
+    "absolute_error": 0.238643,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.761357,
+    "split": "train",
+    "unit_id": 263
+  },
+  {
+    "absolute_error": 0.221175,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.221175,
+    "split": "train",
+    "unit_id": 264
+  },
+  {
+    "absolute_error": 0.435194,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.564806,
+    "split": "train",
+    "unit_id": 265
+  },
+  {
+    "absolute_error": 0.308218,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.691782,
+    "split": "train",
+    "unit_id": 266
+  },
+  {
+    "absolute_error": 0.509932,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.490068,
+    "split": "train",
+    "unit_id": 267
+  },
+  {
+    "absolute_error": 0.32299,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.32299,
+    "split": "train",
+    "unit_id": 268
+  },
+  {
+    "absolute_error": 0.214904,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.785096,
+    "split": "train",
+    "unit_id": 269
+  },
+  {
+    "absolute_error": 0.512483,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.512483,
+    "split": "train",
+    "unit_id": 270
+  },
+  {
+    "absolute_error": 0.179383,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.820617,
+    "split": "train",
+    "unit_id": 271
+  },
+  {
+    "absolute_error": 0.268433,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.731567,
+    "split": "train",
+    "unit_id": 272
+  },
+  {
+    "absolute_error": 0.164309,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.835691,
+    "split": "train",
+    "unit_id": 273
+  },
+  {
+    "absolute_error": 0.114377,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.885623,
+    "split": "train",
+    "unit_id": 274
+  },
+  {
+    "absolute_error": 0.458705,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.458705,
+    "split": "train",
+    "unit_id": 275
+  },
+  {
+    "absolute_error": 0.357934,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.357934,
+    "split": "train",
+    "unit_id": 276
+  },
+  {
+    "absolute_error": 0.274666,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.725334,
+    "split": "train",
+    "unit_id": 277
+  },
+  {
+    "absolute_error": 0.110542,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.889458,
+    "split": "train",
+    "unit_id": 278
+  },
+  {
+    "absolute_error": 0.472543,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.527457,
+    "split": "train",
+    "unit_id": 279
+  },
+  {
+    "absolute_error": 0.375112,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.375112,
+    "split": "train",
+    "unit_id": 280
+  },
+  {
+    "absolute_error": 0.567763,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.432237,
+    "split": "train",
+    "unit_id": 281
+  },
+  {
+    "absolute_error": 0.240807,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.240807,
+    "split": "train",
+    "unit_id": 282
+  },
+  {
+    "absolute_error": 0.201362,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.798638,
+    "split": "train",
+    "unit_id": 283
+  },
+  {
+    "absolute_error": 0.717821,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.717821,
+    "split": "train",
+    "unit_id": 284
+  },
+  {
+    "absolute_error": 0.746768,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.746768,
+    "split": "train",
+    "unit_id": 285
+  },
+  {
+    "absolute_error": 0.279363,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.720637,
+    "split": "train",
+    "unit_id": 286
+  },
+  {
+    "absolute_error": 0.596232,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.596232,
+    "split": "train",
+    "unit_id": 287
+  },
+  {
+    "absolute_error": 0.087634,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.087634,
+    "split": "train",
+    "unit_id": 288
+  },
+  {
+    "absolute_error": 0.327305,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.327305,
+    "split": "train",
+    "unit_id": 289
+  },
+  {
+    "absolute_error": 0.44012,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.44012,
+    "split": "train",
+    "unit_id": 290
+  },
+  {
+    "absolute_error": 0.102264,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.102264,
+    "split": "train",
+    "unit_id": 291
+  },
+  {
+    "absolute_error": 0.198305,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.198305,
+    "split": "train",
+    "unit_id": 292
+  },
+  {
+    "absolute_error": 0.637516,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.637516,
+    "split": "train",
+    "unit_id": 293
+  },
+  {
+    "absolute_error": 0.136903,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.863097,
+    "split": "train",
+    "unit_id": 294
+  },
+  {
+    "absolute_error": 0.605383,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.605383,
+    "split": "test",
+    "unit_id": 295
+  },
+  {
+    "absolute_error": 0.768227,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.231773,
+    "split": "test",
+    "unit_id": 296
+  },
+  {
+    "absolute_error": 0.52208,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.47792,
+    "split": "test",
+    "unit_id": 297
+  },
+  {
+    "absolute_error": 0.299883,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.299883,
+    "split": "test",
+    "unit_id": 298
+  },
+  {
+    "absolute_error": 0.60971,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.60971,
+    "split": "test",
+    "unit_id": 299
+  },
+  {
+    "absolute_error": 0.150638,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.849362,
+    "split": "test",
+    "unit_id": 300
+  },
+  {
+    "absolute_error": 0.404594,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.595406,
+    "split": "test",
+    "unit_id": 301
+  },
+  {
+    "absolute_error": 0.620252,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.620252,
+    "split": "test",
+    "unit_id": 302
+  },
+  {
+    "absolute_error": 0.069354,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.069354,
+    "split": "test",
+    "unit_id": 303
+  },
+  {
+    "absolute_error": 0.341233,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.341233,
+    "split": "test",
+    "unit_id": 304
+  },
+  {
+    "absolute_error": 0.393758,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.606242,
+    "split": "test",
+    "unit_id": 305
+  },
+  {
+    "absolute_error": 0.387035,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.612965,
+    "split": "test",
+    "unit_id": 306
+  },
+  {
+    "absolute_error": 0.60923,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.39077,
+    "split": "test",
+    "unit_id": 307
+  },
+  {
+    "absolute_error": 0.269968,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.269968,
+    "split": "test",
+    "unit_id": 308
+  },
+  {
+    "absolute_error": 0.673742,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.326258,
+    "split": "test",
+    "unit_id": 309
+  },
+  {
+    "absolute_error": 0.403116,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.596884,
+    "split": "test",
+    "unit_id": 310
+  },
+  {
+    "absolute_error": 0.171485,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.828515,
+    "split": "test",
+    "unit_id": 311
+  },
+  {
+    "absolute_error": 0.556766,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.556766,
+    "split": "test",
+    "unit_id": 312
+  },
+  {
+    "absolute_error": 0.339056,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.339056,
+    "split": "test",
+    "unit_id": 313
+  },
+  {
+    "absolute_error": 0.733071,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.733071,
+    "split": "test",
+    "unit_id": 314
+  },
+  {
+    "absolute_error": 0.345689,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.345689,
+    "split": "test",
+    "unit_id": 315
+  },
+  {
+    "absolute_error": 0.527058,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.472942,
+    "split": "test",
+    "unit_id": 316
+  },
+  {
+    "absolute_error": 0.52708,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.47292,
+    "split": "test",
+    "unit_id": 317
+  },
+  {
+    "absolute_error": 0.612655,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.612655,
+    "split": "test",
+    "unit_id": 318
+  },
+  {
+    "absolute_error": 0.257594,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.257594,
+    "split": "test",
+    "unit_id": 319
+  },
+  {
+    "absolute_error": 0.438221,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.438221,
+    "split": "test",
+    "unit_id": 320
+  },
+  {
+    "absolute_error": 0.805842,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.805842,
+    "split": "test",
+    "unit_id": 321
+  },
+  {
+    "absolute_error": 0.193064,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.806936,
+    "split": "test",
+    "unit_id": 322
+  },
+  {
+    "absolute_error": 0.16115,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.83885,
+    "split": "test",
+    "unit_id": 323
+  },
+  {
+    "absolute_error": 0.387872,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.612128,
+    "split": "test",
+    "unit_id": 324
+  },
+  {
+    "absolute_error": 0.193482,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.193482,
+    "split": "test",
+    "unit_id": 325
+  },
+  {
+    "absolute_error": 0.644797,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.644797,
+    "split": "test",
+    "unit_id": 326
+  },
+  {
+    "absolute_error": 0.493563,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.506437,
+    "split": "test",
+    "unit_id": 327
+  },
+  {
+    "absolute_error": 0.536659,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.463341,
+    "split": "test",
+    "unit_id": 328
+  },
+  {
+    "absolute_error": 0.280455,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.280455,
+    "split": "test",
+    "unit_id": 329
+  },
+  {
+    "absolute_error": 0.344363,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.344363,
+    "split": "test",
+    "unit_id": 330
+  },
+  {
+    "absolute_error": 0.38683,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.38683,
+    "split": "test",
+    "unit_id": 331
+  },
+  {
+    "absolute_error": 0.32799,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.67201,
+    "split": "test",
+    "unit_id": 332
+  },
+  {
+    "absolute_error": 0.502025,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.502025,
+    "split": "test",
+    "unit_id": 333
+  },
+  {
+    "absolute_error": 0.425973,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.574027,
+    "split": "test",
+    "unit_id": 334
+  },
+  {
+    "absolute_error": 0.247642,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.247642,
+    "split": "test",
+    "unit_id": 335
+  },
+  {
+    "absolute_error": 0.184313,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.184313,
+    "split": "test",
+    "unit_id": 336
+  },
+  {
+    "absolute_error": 0.302095,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.697905,
+    "split": "test",
+    "unit_id": 337
+  },
+  {
+    "absolute_error": 0.463318,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.536682,
+    "split": "test",
+    "unit_id": 338
+  },
+  {
+    "absolute_error": 0.442673,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.442673,
+    "split": "test",
+    "unit_id": 339
+  },
+  {
+    "absolute_error": 0.397551,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.397551,
+    "split": "test",
+    "unit_id": 340
+  },
+  {
+    "absolute_error": 0.490193,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.490193,
+    "split": "test",
+    "unit_id": 341
+  },
+  {
+    "absolute_error": 0.825107,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.174893,
+    "split": "test",
+    "unit_id": 342
+  },
+  {
+    "absolute_error": 0.775338,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.775338,
+    "split": "test",
+    "unit_id": 343
+  },
+  {
+    "absolute_error": 0.713734,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.286266,
+    "split": "test",
+    "unit_id": 344
+  },
+  {
+    "absolute_error": 0.594451,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.405549,
+    "split": "test",
+    "unit_id": 345
+  },
+  {
+    "absolute_error": 0.235361,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.235361,
+    "split": "test",
+    "unit_id": 346
+  },
+  {
+    "absolute_error": 0.14549,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.14549,
+    "split": "test",
+    "unit_id": 347
+  },
+  {
+    "absolute_error": 0.211427,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.788573,
+    "split": "test",
+    "unit_id": 348
+  },
+  {
+    "absolute_error": 0.330973,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.669027,
+    "split": "test",
+    "unit_id": 349
+  },
+  {
+    "absolute_error": 0.309178,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.690822,
+    "split": "test",
+    "unit_id": 350
+  },
+  {
+    "absolute_error": 0.459222,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.540778,
+    "split": "test",
+    "unit_id": 351
+  },
+  {
+    "absolute_error": 0.278408,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.721592,
+    "split": "test",
+    "unit_id": 352
+  },
+  {
+    "absolute_error": 0.275126,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.275126,
+    "split": "test",
+    "unit_id": 353
+  },
+  {
+    "absolute_error": 0.221378,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.221378,
+    "split": "test",
+    "unit_id": 354
+  },
+  {
+    "absolute_error": 0.368017,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.368017,
+    "split": "test",
+    "unit_id": 355
+  },
+  {
+    "absolute_error": 0.64388,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.35612,
+    "split": "test",
+    "unit_id": 356
+  },
+  {
+    "absolute_error": 0.443285,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.443285,
+    "split": "test",
+    "unit_id": 357
+  },
+  {
+    "absolute_error": 0.328624,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.671376,
+    "split": "test",
+    "unit_id": 358
+  },
+  {
+    "absolute_error": 0.72692,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.27308,
+    "split": "test",
+    "unit_id": 359
+  },
+  {
+    "absolute_error": 0.074163,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.074163,
+    "split": "test",
+    "unit_id": 360
+  },
+  {
+    "absolute_error": 0.21912,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.78088,
+    "split": "test",
+    "unit_id": 361
+  },
+  {
+    "absolute_error": 0.670212,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.670212,
+    "split": "test",
+    "unit_id": 362
+  },
+  {
+    "absolute_error": 0.283675,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.716325,
+    "split": "test",
+    "unit_id": 363
+  },
+  {
+    "absolute_error": 0.720854,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.279146,
+    "split": "test",
+    "unit_id": 364
+  },
+  {
+    "absolute_error": 0.722638,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.722638,
+    "split": "test",
+    "unit_id": 365
+  },
+  {
+    "absolute_error": 0.409508,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.590492,
+    "split": "test",
+    "unit_id": 366
+  },
+  {
+    "absolute_error": 0.12065,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.87935,
+    "split": "test",
+    "unit_id": 367
+  },
+  {
+    "absolute_error": 0.243279,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.243279,
+    "split": "test",
+    "unit_id": 368
+  },
+  {
+    "absolute_error": 0.216197,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.783803,
+    "split": "test",
+    "unit_id": 369
+  },
+  {
+    "absolute_error": 0.412984,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.587016,
+    "split": "test",
+    "unit_id": 370
+  },
+  {
+    "absolute_error": 0.527392,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.527392,
+    "split": "test",
+    "unit_id": 371
+  },
+  {
+    "absolute_error": 0.56311,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.56311,
+    "split": "test",
+    "unit_id": 372
+  },
+  {
+    "absolute_error": 0.174105,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.825895,
+    "split": "test",
+    "unit_id": 373
+  },
+  {
+    "absolute_error": 0.493745,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.506255,
+    "split": "test",
+    "unit_id": 374
+  },
+  {
+    "absolute_error": 0.352175,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.352175,
+    "split": "test",
+    "unit_id": 375
+  },
+  {
+    "absolute_error": 0.434408,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.565592,
+    "split": "test",
+    "unit_id": 376
+  },
+  {
+    "absolute_error": 0.084536,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.084536,
+    "split": "test",
+    "unit_id": 377
+  },
+  {
+    "absolute_error": 0.542956,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.457044,
+    "split": "test",
+    "unit_id": 378
+  },
+  {
+    "absolute_error": 0.644087,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.644087,
+    "split": "test",
+    "unit_id": 379
+  },
+  {
+    "absolute_error": 0.598733,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.401267,
+    "split": "test",
+    "unit_id": 380
+  },
+  {
+    "absolute_error": 0.466607,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.533393,
+    "split": "test",
+    "unit_id": 381
+  },
+  {
+    "absolute_error": 0.45157,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.54843,
+    "split": "test",
+    "unit_id": 382
+  },
+  {
+    "absolute_error": 0.266292,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.266292,
+    "split": "test",
+    "unit_id": 383
+  },
+  {
+    "absolute_error": 0.506955,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.493045,
+    "split": "test",
+    "unit_id": 384
+  },
+  {
+    "absolute_error": 0.253362,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.746638,
+    "split": "test",
+    "unit_id": 385
+  },
+  {
+    "absolute_error": 0.299462,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.299462,
+    "split": "test",
+    "unit_id": 386
+  },
+  {
+    "absolute_error": 0.274889,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.725111,
+    "split": "test",
+    "unit_id": 387
+  },
+  {
+    "absolute_error": 0.486409,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.513591,
+    "split": "test",
+    "unit_id": 388
+  },
+  {
+    "absolute_error": 0.643237,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.643237,
+    "split": "test",
+    "unit_id": 389
+  },
+  {
+    "absolute_error": 0.503355,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.496645,
+    "split": "test",
+    "unit_id": 390
+  },
+  {
+    "absolute_error": 0.415438,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.584562,
+    "split": "test",
+    "unit_id": 391
+  },
+  {
+    "absolute_error": 0.556221,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.556221,
+    "split": "test",
+    "unit_id": 392
+  },
+  {
+    "absolute_error": 0.715655,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.715655,
+    "split": "test",
+    "unit_id": 393
+  },
+  {
+    "absolute_error": 0.389834,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.610166,
+    "split": "test",
+    "unit_id": 394
+  },
+  {
+    "absolute_error": 0.49927,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.50073,
+    "split": "test",
+    "unit_id": 395
+  },
+  {
+    "absolute_error": 0.80862,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.19138,
+    "split": "test",
+    "unit_id": 396
+  },
+  {
+    "absolute_error": 0.568997,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.431003,
+    "split": "test",
+    "unit_id": 397
+  },
+  {
+    "absolute_error": 0.158169,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.158169,
+    "split": "test",
+    "unit_id": 398
+  },
+  {
+    "absolute_error": 0.320913,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.320913,
+    "split": "test",
+    "unit_id": 399
+  },
+  {
+    "absolute_error": 0.230679,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.769321,
+    "split": "test",
+    "unit_id": 400
+  },
+  {
+    "absolute_error": 0.445926,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.445926,
+    "split": "test",
+    "unit_id": 401
+  },
+  {
+    "absolute_error": 0.566637,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.566637,
+    "split": "test",
+    "unit_id": 402
+  },
+  {
+    "absolute_error": 0.315992,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.684008,
+    "split": "test",
+    "unit_id": 403
+  },
+  {
+    "absolute_error": 0.404006,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.595994,
+    "split": "test",
+    "unit_id": 404
+  },
+  {
+    "absolute_error": 0.262909,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.262909,
+    "split": "test",
+    "unit_id": 405
+  },
+  {
+    "absolute_error": 0.275923,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.724077,
+    "split": "test",
+    "unit_id": 406
+  },
+  {
+    "absolute_error": 0.567252,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.567252,
+    "split": "test",
+    "unit_id": 407
+  },
+  {
+    "absolute_error": 0.348914,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.651086,
+    "split": "test",
+    "unit_id": 408
+  },
+  {
+    "absolute_error": 0.272073,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.272073,
+    "split": "test",
+    "unit_id": 409
+  },
+  {
+    "absolute_error": 0.555832,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 0,
+    "representation_score": 0.444168,
+    "split": "test",
+    "unit_id": 410
+  },
+  {
+    "absolute_error": 0.369332,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.630668,
+    "split": "test",
+    "unit_id": 411
+  },
+  {
+    "absolute_error": 0.300223,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.699777,
+    "split": "test",
+    "unit_id": 412
+  },
+  {
+    "absolute_error": 0.087114,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.912886,
+    "split": "test",
+    "unit_id": 413
+  },
+  {
+    "absolute_error": 0.317088,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.682912,
+    "split": "test",
+    "unit_id": 414
+  },
+  {
+    "absolute_error": 0.189867,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.189867,
+    "split": "test",
+    "unit_id": 415
+  },
+  {
+    "absolute_error": 0.319119,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.319119,
+    "split": "test",
+    "unit_id": 416
+  },
+  {
+    "absolute_error": 0.032637,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.032637,
+    "split": "test",
+    "unit_id": 417
+  },
+  {
+    "absolute_error": 0.294378,
+    "context": "context_a",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 0,
+    "representation_score": 0.294378,
+    "split": "test",
+    "unit_id": 418
+  },
+  {
+    "absolute_error": 0.439336,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 1,
+    "predicted_label": 1,
+    "representation_score": 0.560664,
+    "split": "test",
+    "unit_id": 419
+  },
+  {
+    "absolute_error": 0.706182,
+    "context": "context_b",
+    "interpretation": "Representation score is a learned numerical transformation, not a direct explanation.",
+    "label": 0,
+    "predicted_label": 1,
+    "representation_score": 0.706182,
+    "split": "test",
+    "unit_id": 420
+  }
+]

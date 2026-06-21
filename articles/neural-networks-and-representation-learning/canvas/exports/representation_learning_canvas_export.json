@@ -1,0 +1,14 @@
+{
+  "article": "neural-networks-and-representation-learning",
+  "cards": [
+    "representation_learning_review_card.md"
+  ],
+  "review_layers": [
+    "input representation",
+    "training objective",
+    "generalization",
+    "context performance",
+    "interpretability",
+    "use boundary"
+  ]
+}

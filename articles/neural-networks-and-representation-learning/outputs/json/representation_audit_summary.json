@@ -1,0 +1,15 @@
+{
+  "article": "neural_networks_and_representation_learning",
+  "generalization_gap_loss": 0.024501,
+  "governance_items_needing_review": 7,
+  "interpretation": "Representation learning should be evaluated through performance, robustness, validity, interpretability, context behavior, and use-boundary review.",
+  "n": 420,
+  "representation_gap": 0.173409,
+  "test_accuracy": 0.674603,
+  "test_loss": 0.59391,
+  "test_n": 126,
+  "timestamp_utc": "2026-06-21T10:10:13.502987+00:00",
+  "train_accuracy": 0.70068,
+  "train_loss": 0.569409,
+  "train_n": 294
+}

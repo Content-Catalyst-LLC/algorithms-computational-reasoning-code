@@ -1,0 +1,16 @@
+[
+  {
+    "accuracy": 0.739726,
+    "context": "context_a",
+    "interpretation": "Context-level diagnostics show whether representation performance varies across conditions.",
+    "mean_absolute_error": 0.382052,
+    "n": 73
+  },
+  {
+    "accuracy": 0.584906,
+    "context": "context_b",
+    "interpretation": "Context-level diagnostics show whether representation performance varies across conditions.",
+    "mean_absolute_error": 0.45736,
+    "n": 53
+  }
+]

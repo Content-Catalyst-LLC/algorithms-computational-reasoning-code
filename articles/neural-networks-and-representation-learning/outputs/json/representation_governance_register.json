@@ -1,0 +1,37 @@
+[
+  {
+    "item": "input_representation",
+    "review_question": "What do the inputs omit, compress, or proxy?",
+    "status": "needs_review"
+  },
+  {
+    "item": "label_validity",
+    "review_question": "Do labels reflect the construct being modeled?",
+    "status": "needs_review"
+  },
+  {
+    "item": "loss_function",
+    "review_question": "Does the optimization target match the institutional purpose?",
+    "status": "partial"
+  },
+  {
+    "item": "generalization",
+    "review_question": "Does performance hold beyond training conditions?",
+    "status": "partial"
+  },
+  {
+    "item": "context_performance",
+    "review_question": "Are errors different across contexts or groups?",
+    "status": "needs_review"
+  },
+  {
+    "item": "interpretability",
+    "review_question": "Can relevant audiences understand and challenge outputs?",
+    "status": "needs_review"
+  },
+  {
+    "item": "use_boundary",
+    "review_question": "Where should the model not be used?",
+    "status": "needs_review"
+  }
+]

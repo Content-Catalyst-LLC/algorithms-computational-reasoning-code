@@ -1,0 +1,25 @@
+{
+  "article": "neural-networks-and-representation-learning",
+  "calculators": [
+    {
+      "name": "representation_score",
+      "path": "calculators/python/representation_score_calculator.py",
+      "purpose": "Compute a sigmoid representation score from simple weighted inputs."
+    },
+    {
+      "name": "generalization_gap",
+      "path": "calculators/python/generalization_gap_calculator.py",
+      "purpose": "Compare test loss with train loss."
+    },
+    {
+      "name": "embedding_similarity",
+      "path": "calculators/python/embedding_similarity_calculator.py",
+      "purpose": "Compute cosine similarity between embedding vectors."
+    },
+    {
+      "name": "gradient_update",
+      "path": "calculators/python/gradient_update_calculator.py",
+      "purpose": "Compute a one-step parameter update from a gradient."
+    }
+  ]
+}

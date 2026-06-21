@@ -1,0 +1,7 @@
+cosine_similarity,interpretation,left_item,right_item
+0.995586,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_a,document_b
+0.229034,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_a,document_c
+0.229865,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_a,document_d
+0.316969,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_b,document_c
+0.215809,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_b,document_d
+0.131288,Cosine similarity is a computational comparison; semantic relevance still requires validation.,document_c,document_d

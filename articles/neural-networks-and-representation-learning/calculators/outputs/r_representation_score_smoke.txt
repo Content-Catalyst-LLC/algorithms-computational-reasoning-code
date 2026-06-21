@@ -1,0 +1,2 @@
+linear_signal=0.835000
+representation_score=0.697411

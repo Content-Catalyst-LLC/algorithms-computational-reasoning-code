@@ -1,0 +1,20 @@
+{
+  "title": "Neural Networks and Representation Learning",
+  "slug": "neural-networks-and-representation-learning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "overfitting-underfitting-and-model-error",
+  "next": "large-language-models-and-procedural-reasoning",
+  "repo_folder": "articles/neural-networks-and-representation-learning",
+  "topics": [
+    "neural networks",
+    "representation learning",
+    "deep learning",
+    "embeddings",
+    "latent spaces",
+    "hidden layers",
+    "activation functions",
+    "gradient descent",
+    "interpretability",
+    "governance"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "required": [
+    "article",
+    "train_accuracy",
+    "test_accuracy",
+    "representation_gap",
+    "interpretation"
+  ],
+  "properties": {
+    "article": {
+      "type": "string"
+    },
+    "train_accuracy": {
+      "type": "number"
+    },
+    "test_accuracy": {
+      "type": "number"
+    },
+    "representation_gap": {
+      "type": "number"
+    },
+    "interpretation": {
+      "type": "string"
+    }
+  }
+}

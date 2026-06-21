@@ -1,0 +1,3 @@
+accuracy,context,interpretation,mean_absolute_error,n
+0.739726,context_a,Context-level diagnostics show whether representation performance varies across conditions.,0.382052,73
+0.584906,context_b,Context-level diagnostics show whether representation performance varies across conditions.,0.45736,53
