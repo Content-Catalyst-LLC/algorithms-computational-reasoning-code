@@ -1,0 +1,31 @@
+{
+  "article": "Causal Algorithms and Intervention Modeling",
+  "calculators": [
+    {
+      "language": "python",
+      "name": "intervention_effect_calculator",
+      "purpose": "Compute intervention minus baseline outcome."
+    },
+    {
+      "language": "python",
+      "name": "net_benefit_calculator",
+      "purpose": "Subtract implementation cost and governance risk penalty from effect."
+    },
+    {
+      "language": "python",
+      "name": "threshold_policy_calculator",
+      "purpose": "Compare baseline and changed threshold decisions."
+    },
+    {
+      "language": "python",
+      "name": "weighted_policy_score_calculator",
+      "purpose": "Combine effect, equity, feasibility, and cost into a teaching score."
+    },
+    {
+      "language": "r",
+      "name": "intervention_effect_calculator",
+      "purpose": "R version of simple effect contrast."
+    }
+  ],
+  "slug": "causal-algorithms-and-intervention-modeling"
+}

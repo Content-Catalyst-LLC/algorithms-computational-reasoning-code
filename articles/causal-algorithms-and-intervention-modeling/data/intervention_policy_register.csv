@@ -1,0 +1,6 @@
+intervention_name,description,primary_lever,review_question
+increase_support,Increase direct support intensity,support_intensity,Does added support plausibly change the outcome?
+reduce_access_barrier,Reduce structural access obstacles,access_barrier,Is the barrier institutionally modifiable?
+improve_service_quality,Improve implementation quality,service_quality,Can quality be improved without unequal access?
+combined_policy,Combine support increase and barrier reduction,multiple,Do combined changes create interaction effects?
+threshold_rule_change,Change action threshold for eligibility,decision_rule,Who gains or loses under the new threshold?

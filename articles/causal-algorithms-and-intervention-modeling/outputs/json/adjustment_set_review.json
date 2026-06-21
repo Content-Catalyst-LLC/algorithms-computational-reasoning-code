@@ -1,0 +1,38 @@
+{
+  "interpretation": "Adjustment review records graph assumptions and warnings; it does not prove identification.",
+  "items": [
+    {
+      "blocks_confounding": "partial",
+      "candidate_adjustment": "baseline_need, access_barrier, service_quality",
+      "collider_warning": "Do not adjust for downstream decision score.",
+      "mediator_warning": "Service quality may be mediator for some support interventions.",
+      "review_status": "needs_domain_review",
+      "target_effect": "support_intensity -> outcome"
+    },
+    {
+      "blocks_confounding": "partial",
+      "candidate_adjustment": "baseline_need, prior institutional context",
+      "collider_warning": "Do not condition on receiving service after the intervention.",
+      "mediator_warning": "Support intensity may mediate barrier reduction effects.",
+      "review_status": "needs_measurement_review",
+      "target_effect": "access_barrier_reduction -> outcome"
+    },
+    {
+      "blocks_confounding": "partial",
+      "candidate_adjustment": "baseline_need, access_barrier, staffing context",
+      "collider_warning": "Outcome-based quality flags may be colliders.",
+      "mediator_warning": "Quality may mediate institutional redesign effects.",
+      "review_status": "needs_temporal_review",
+      "target_effect": "service_quality -> outcome"
+    },
+    {
+      "blocks_confounding": "not_applicable_rule_change",
+      "candidate_adjustment": "case mix and historical score distribution",
+      "collider_warning": "Changing the rule does not change underlying need.",
+      "mediator_warning": "Downstream resource allocation may mediate outcomes.",
+      "review_status": "governance_review_required",
+      "target_effect": "threshold_rule_change -> action_rate"
+    }
+  ],
+  "timestamp_utc": "2026-06-21T07:29:58.718766+00:00"
+}

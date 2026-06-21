@@ -1,0 +1,52 @@
+[
+  {
+    "cases_evaluated": 900,
+    "decision_change_rate": 0.11,
+    "interpretation": "Compare modeled effect with net benefit and decision-change rate before recommending action.",
+    "intervention_name": "combined_policy",
+    "max_estimated_effect": 0.081569,
+    "mean_estimated_effect": 0.07957,
+    "mean_net_benefit": -0.05443,
+    "min_estimated_effect": 0.039788
+  },
+  {
+    "cases_evaluated": 900,
+    "decision_change_rate": 0.055556,
+    "interpretation": "Compare modeled effect with net benefit and decision-change rate before recommending action.",
+    "intervention_name": "improve_service_quality",
+    "max_estimated_effect": 0.050208,
+    "mean_estimated_effect": 0.048782,
+    "mean_net_benefit": -0.027218,
+    "min_estimated_effect": 0.011676
+  },
+  {
+    "cases_evaluated": 900,
+    "decision_change_rate": 0.046667,
+    "interpretation": "Compare modeled effect with net benefit and decision-change rate before recommending action.",
+    "intervention_name": "increase_support",
+    "max_estimated_effect": 0.041976,
+    "mean_estimated_effect": 0.040886,
+    "mean_net_benefit": -0.032614,
+    "min_estimated_effect": 0.014124
+  },
+  {
+    "cases_evaluated": 900,
+    "decision_change_rate": 0.037778,
+    "interpretation": "Compare modeled effect with net benefit and decision-change rate before recommending action.",
+    "intervention_name": "reduce_access_barrier",
+    "max_estimated_effect": 0.05345,
+    "mean_estimated_effect": 0.05181,
+    "mean_net_benefit": -0.03269,
+    "min_estimated_effect": 0.009098
+  },
+  {
+    "cases_evaluated": 900,
+    "decision_change_rate": 0.043333,
+    "interpretation": "Compare modeled effect with net benefit and decision-change rate before recommending action.",
+    "intervention_name": "threshold_rule_change",
+    "max_estimated_effect": 1e-06,
+    "mean_estimated_effect": 0.0,
+    "mean_net_benefit": -0.0385,
+    "min_estimated_effect": -1e-06
+  }
+]

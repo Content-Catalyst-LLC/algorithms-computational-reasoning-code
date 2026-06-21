@@ -1,0 +1,32 @@
+{
+  "github_button_class": "cc-github-repo-button",
+  "github_cta_class": "cc-github-repo-link",
+  "license": "MIT for code; educational synthetic data only",
+  "next": "decision-under-uncertainty-and-computational-risk",
+  "previous": "counterfactual-reasoning-in-algorithmic-systems",
+  "primary_workflows": [
+    "synthetic intervention case generation",
+    "do-style scenario comparison",
+    "causal effect estimation",
+    "adjustment set review",
+    "policy threshold sensitivity",
+    "intervention feasibility review",
+    "calculator smoke tests"
+  ],
+  "repo_folder": "articles/causal-algorithms-and-intervention-modeling",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "causal-algorithms-and-intervention-modeling",
+  "status": "article-companion-repository",
+  "title": "Causal Algorithms and Intervention Modeling",
+  "topics": [
+    "causal algorithms",
+    "intervention modeling",
+    "do-calculus",
+    "causal graphs",
+    "policy analysis",
+    "treatment effects",
+    "adjustment sets",
+    "algorithmic governance",
+    "responsible automation"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "article": "causal_algorithms_and_intervention_modeling",
+  "baseline_threshold": 0.55,
+  "best_mean_effect": 0.07957,
+  "best_mean_effect_intervention": "combined_policy",
+  "best_mean_net_benefit": -0.027218,
+  "best_net_benefit_intervention": "improve_service_quality",
+  "interpretation": "Intervention modeling compares conditional action scenarios, but causal validity and responsible use depend on assumptions, feasibility, sensitivity, and governance review.",
+  "interventions_compared": 5,
+  "items_requiring_feasibility_review": 4,
+  "synthetic_cases": 900,
+  "timestamp_utc": "2026-06-21T07:29:58.652651+00:00"
+}

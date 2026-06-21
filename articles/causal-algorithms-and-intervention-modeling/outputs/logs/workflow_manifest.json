@@ -1,0 +1,11 @@
+{
+  "outputs": [
+    "synthetic_intervention_cases.csv",
+    "intervention_scenarios.csv",
+    "intervention_effect_estimates.csv",
+    "intervention_feasibility_review.csv",
+    "intervention_modeling_audit_summary.json"
+  ],
+  "timestamp_utc": "2026-06-21T07:29:58.687031+00:00",
+  "workflow": "intervention_modeling_workflow"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "barrier_delta": 0.0,
+    "description": "Increase support intensity while leaving barriers largely unchanged.",
+    "governance_risk": 0.07,
+    "implementation_cost": 0.18,
+    "intervention_name": "increase_support",
+    "quality_delta": 0.02,
+    "support_delta": 0.16
+  },
+  {
+    "barrier_delta": -0.18,
+    "description": "Reduce access barriers through institutional redesign.",
+    "governance_risk": 0.05,
+    "implementation_cost": 0.22,
+    "intervention_name": "reduce_access_barrier",
+    "quality_delta": 0.03,
+    "support_delta": 0.02
+  },
+  {
+    "barrier_delta": -0.03,
+    "description": "Improve service quality and implementation reliability.",
+    "governance_risk": 0.04,
+    "implementation_cost": 0.2,
+    "intervention_name": "improve_service_quality",
+    "quality_delta": 0.18,
+    "support_delta": 0.03
+  },
+  {
+    "barrier_delta": -0.14,
+    "description": "Combine support, access, and quality improvements.",
+    "governance_risk": 0.1,
+    "implementation_cost": 0.34,
+    "intervention_name": "combined_policy",
+    "quality_delta": 0.1,
+    "support_delta": 0.12
+  },
+  {
+    "barrier_delta": 0.0,
+    "description": "Change the action threshold without changing underlying conditions.",
+    "governance_risk": 0.14,
+    "implementation_cost": 0.05,
+    "intervention_name": "threshold_rule_change",
+    "quality_delta": 0.0,
+    "support_delta": 0.0
+  }
+]

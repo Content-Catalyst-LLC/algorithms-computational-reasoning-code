@@ -1,0 +1,10 @@
+{
+  "article": "Causal Algorithms and Intervention Modeling",
+  "cards": [
+    "define-intervention",
+    "adjustment-review",
+    "sensitivity-governance"
+  ],
+  "integration_note": "Canvas artifacts are educational scaffolds for future website tools, not production decision support.",
+  "repository_folder": "articles/causal-algorithms-and-intervention-modeling"
+}

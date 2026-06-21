@@ -1,0 +1,7 @@
+{
+  "baseline_threshold": 0.55,
+  "cost_weight": 0.35,
+  "n": 900,
+  "risk_penalty_weight": 0.15,
+  "seed": 20260621
+}

@@ -1,0 +1,3 @@
+baseline_outcome=0.420000
+intervention_outcome=0.570000
+estimated_effect=0.150000

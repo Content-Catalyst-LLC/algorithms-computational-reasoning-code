@@ -1,0 +1,5 @@
+blocks_confounding,candidate_adjustment,collider_warning,mediator_warning,review_status,target_effect
+partial,"baseline_need, access_barrier, service_quality",Do not adjust for downstream decision score.,Service quality may be mediator for some support interventions.,needs_domain_review,support_intensity -> outcome
+partial,"baseline_need, prior institutional context",Do not condition on receiving service after the intervention.,Support intensity may mediate barrier reduction effects.,needs_measurement_review,access_barrier_reduction -> outcome
+partial,"baseline_need, access_barrier, staffing context",Outcome-based quality flags may be colliders.,Quality may mediate institutional redesign effects.,needs_temporal_review,service_quality -> outcome
+not_applicable_rule_change,case mix and historical score distribution,Changing the rule does not change underlying need.,Downstream resource allocation may mediate outcomes.,governance_review_required,threshold_rule_change -> action_rate

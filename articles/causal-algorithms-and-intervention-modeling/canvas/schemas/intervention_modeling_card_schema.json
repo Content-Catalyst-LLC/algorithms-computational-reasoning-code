@@ -1,0 +1,26 @@
+{
+  "properties": {
+    "card_id": {
+      "type": "string"
+    },
+    "output": {
+      "type": "string"
+    },
+    "prompt": {
+      "type": "string"
+    },
+    "review_question": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "card_id",
+    "title",
+    "prompt",
+    "review_question"
+  ],
+  "type": "object"
+}

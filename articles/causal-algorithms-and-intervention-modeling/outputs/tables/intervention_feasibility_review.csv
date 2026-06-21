@@ -1,0 +1,6 @@
+decision_change_rate,feasibility_status,intervention_name,mean_estimated_effect,mean_net_benefit,review_question
+0.11,benefit_cost_tension,combined_policy,0.07957,-0.05443,"Should this intervention move forward after causal, ethical, operational, and stakeholder review?"
+0.055556,benefit_cost_tension,improve_service_quality,0.048782,-0.027218,"Should this intervention move forward after causal, ethical, operational, and stakeholder review?"
+0.046667,benefit_cost_tension,increase_support,0.040886,-0.032614,"Should this intervention move forward after causal, ethical, operational, and stakeholder review?"
+0.037778,benefit_cost_tension,reduce_access_barrier,0.05181,-0.03269,"Should this intervention move forward after causal, ethical, operational, and stakeholder review?"
+0.043333,weak_or_uncertain,threshold_rule_change,0.0,-0.0385,"Should this intervention move forward after causal, ethical, operational, and stakeholder review?"

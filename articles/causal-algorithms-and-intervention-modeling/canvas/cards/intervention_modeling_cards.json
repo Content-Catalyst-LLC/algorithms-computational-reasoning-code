@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": "define-intervention",
+    "output": "Intervention statement",
+    "prompt": "State the action, comparison condition, affected unit, and outcome.",
+    "review_question": "What exactly changes, and compared with what?",
+    "title": "Define the Intervention"
+  },
+  {
+    "card_id": "adjustment-review",
+    "output": "Adjustment review memo",
+    "prompt": "List plausible confounders, mediators, colliders, and timing constraints.",
+    "review_question": "Does the adjustment set support causal interpretation?",
+    "title": "Review Adjustment"
+  },
+  {
+    "card_id": "sensitivity-governance",
+    "output": "Sensitivity and use-boundary note",
+    "prompt": "Compare effects across thresholds, assumptions, and cost/risk settings.",
+    "review_question": "How fragile is the recommendation?",
+    "title": "Sensitivity and Governance"
+  }
+]

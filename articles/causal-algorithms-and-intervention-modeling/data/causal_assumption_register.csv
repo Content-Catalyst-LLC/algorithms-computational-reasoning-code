@@ -1,0 +1,7 @@
+assumption,description,status,review_question
+clear_intervention,The modeled action is specific enough to compare with a baseline,complete,What exactly changes?
+exchangeability,Adjusted cases are comparable across intervention conditions,partial,Are confounders measured and sufficient?
+positivity,There are comparable units across relevant covariate patterns,partial,Is there overlap for each intervention scenario?
+consistency,Observed and modeled outcomes correspond to the intervention definition,needs_review,Does the intervention mean the same thing across cases?
+no_post_treatment_adjustment,Adjustment avoids variables caused by the intervention,complete,Are mediators separated from confounders?
+external_validity,The effect is restricted to a defined population and setting,needs_review,Where should the estimate not be generalized?
