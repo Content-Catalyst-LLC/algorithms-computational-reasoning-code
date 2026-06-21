@@ -7,7 +7,7 @@
   "n": 800,
   "naive_estimate": 0.255079,
   "stratified_estimate": 0.196991,
-  "timestamp_utc": "2026-06-21T06:38:41.588051+00:00",
+  "timestamp_utc": "2026-06-21T06:52:27.518926+00:00",
   "treated_count": 486,
   "true_synthetic_effect": 0.18,
   "weighted_estimate": 0.172614
