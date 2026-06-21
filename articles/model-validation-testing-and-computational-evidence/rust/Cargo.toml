@@ -1,0 +1,6 @@
+[package]
+name = "model_validation_metrics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,8 @@
+{
+  "drift_strength": 2.0,
+  "experiment_name": "model_validation_testing_computational_evidence",
+  "high_risk_threshold": 50.0,
+  "noise_scale": 5.5,
+  "sample_size": 1200,
+  "seed": 2026
+}

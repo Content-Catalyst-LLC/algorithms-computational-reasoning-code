@@ -1,0 +1,65 @@
+[
+  {
+    "accuracy": 0.843333,
+    "false_negative_rate": 0.323913,
+    "false_positive_rate": 0.052703,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.888571,
+    "recall": 0.676087,
+    "threshold": 35
+  },
+  {
+    "accuracy": 0.859167,
+    "false_negative_rate": 0.436047,
+    "false_positive_rate": 0.022196,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.910798,
+    "recall": 0.563953,
+    "threshold": 40
+  },
+  {
+    "accuracy": 0.8825,
+    "false_negative_rate": 0.586364,
+    "false_positive_rate": 0.012245,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.883495,
+    "recall": 0.413636,
+    "threshold": 45
+  },
+  {
+    "accuracy": 0.9175,
+    "false_negative_rate": 0.768,
+    "false_positive_rate": 0.002791,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.90625,
+    "recall": 0.232,
+    "threshold": 50
+  },
+  {
+    "accuracy": 0.946667,
+    "false_negative_rate": 0.875,
+    "false_positive_rate": 0.000887,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.9,
+    "recall": 0.125,
+    "threshold": 55
+  },
+  {
+    "accuracy": 0.976667,
+    "false_negative_rate": 0.965517,
+    "false_positive_rate": 0.0,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 1.0,
+    "recall": 0.034483,
+    "threshold": 60
+  },
+  {
+    "accuracy": 0.991667,
+    "false_negative_rate": 1.0,
+    "false_positive_rate": 0.0,
+    "interpretation": "Threshold diagnostics show how decisions change with cutoffs.",
+    "precision": 0.0,
+    "recall": 0.0,
+    "threshold": 65
+  }
+]

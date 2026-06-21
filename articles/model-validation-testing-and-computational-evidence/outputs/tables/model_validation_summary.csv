@@ -1,0 +1,3 @@
+bias,calibration_intercept,calibration_slope,interpretation,mae,model_name,n,prediction_key,prediction_observed_correlation,residual_std,rmse
+-21.062414,8.818657,0.418147,"Validation metrics summarize error, bias, calibration, and association with observed outcomes.",22.387825,simple_baseline,1200,baseline_prediction,0.466037,16.931871,27.024314
+3.668845,2.732906,1.035154,"Validation metrics summarize error, bias, calibration, and association with observed outcomes.",6.425974,candidate_model,1200,candidate_prediction,0.886036,7.171003,8.055042

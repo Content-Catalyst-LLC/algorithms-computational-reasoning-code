@@ -1,0 +1,10 @@
+{
+  "article_slug": "model-validation-testing-and-computational-evidence",
+  "calculators": [
+    {
+      "name": "validation_error_metrics",
+      "languages": ["python", "r"],
+      "metrics": ["rmse", "mae", "bias", "calibration_slope", "classification_metrics"]
+    }
+  ]
+}

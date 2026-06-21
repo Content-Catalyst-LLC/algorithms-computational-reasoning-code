@@ -1,0 +1,22 @@
+[
+  {
+    "detail": "1200 rows available.",
+    "status": "pass",
+    "test_name": "row_count_positive"
+  },
+  {
+    "detail": "All required fields present.",
+    "status": "pass",
+    "test_name": "required_fields_present"
+  },
+  {
+    "detail": "Observed and predicted values should be finite.",
+    "status": "pass",
+    "test_name": "numeric_outputs_finite"
+  },
+  {
+    "detail": "High-risk indicators should be binary.",
+    "status": "pass",
+    "test_name": "classification_values_binary"
+  }
+]

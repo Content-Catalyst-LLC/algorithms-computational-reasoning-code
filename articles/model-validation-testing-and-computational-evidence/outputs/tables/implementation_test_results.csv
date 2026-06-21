@@ -1,0 +1,5 @@
+detail,status,test_name
+1200 rows available.,pass,row_count_positive
+All required fields present.,pass,required_fields_present
+Observed and predicted values should be finite.,pass,numeric_outputs_finite
+High-risk indicators should be binary.,pass,classification_values_binary

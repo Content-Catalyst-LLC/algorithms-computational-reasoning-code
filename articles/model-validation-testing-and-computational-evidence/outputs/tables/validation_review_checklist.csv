@@ -1,0 +1,9 @@
+check,question,status
+intended_use_defined,Is intended use explicitly documented?,complete
+data_quality_checked,Are input data checked before model use?,complete
+implementation_tests_run,Do tests support code correctness?,complete
+baseline_compared,Is performance compared with a simple baseline?,complete
+diagnostics_reported,"Are error, calibration, and subgroup diagnostics reported?",complete
+thresholds_reviewed,Are decision thresholds tested?,complete
+uncertainty_and_sensitivity_reviewed,Are uncertainty and sensitivity reviewed?,partial
+governance_limits_documented,Are use boundaries and review responsibilities documented?,complete

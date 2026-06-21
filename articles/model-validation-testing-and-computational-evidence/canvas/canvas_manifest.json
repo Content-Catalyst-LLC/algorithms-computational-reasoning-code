@@ -1,0 +1,17 @@
+{
+  "article_slug": "model-validation-testing-and-computational-evidence",
+  "article_title": "Model Validation, Testing, and Computational Evidence",
+  "cards": [
+    "intended-use",
+    "data-validation",
+    "implementation-testing",
+    "benchmark-comparison",
+    "diagnostics",
+    "threshold-review",
+    "governance"
+  ],
+  "exports": [
+    "validation-review-checklist",
+    "evidence-chain-summary"
+  ]
+}

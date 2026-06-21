@@ -1,0 +1,11 @@
+{
+  "baseline_rmse": 27.024314,
+  "candidate_beats_baseline": true,
+  "candidate_rmse": 8.055042,
+  "experiment_name": "model_validation_testing_computational_evidence",
+  "implementation_test_failures": 0,
+  "interpretation": "Validation evidence connects intended use, data quality, tests, diagnostics, thresholds, uncertainty, and governance limits.",
+  "review_items_needing_attention": 1,
+  "timestamp_utc": "2026-06-21T03:48:42.439854+00:00",
+  "validation_rows": 1200
+}

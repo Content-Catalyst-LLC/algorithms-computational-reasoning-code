@@ -1,0 +1,6 @@
+unit_id,segment,exposure,capacity,vulnerability,observed,baseline_prediction,candidate_prediction
+1,A,72.1,44.0,0.34,33.1,58.05,31.92
+2,B,64.4,53.0,0.71,39.7,58.70,31.58
+3,A,81.5,61.2,0.42,38.8,71.35,36.48
+4,B,45.1,31.8,0.88,39.3,38.45,25.30
+5,A,28.7,72.4,0.22,8.4,50.55,11.30

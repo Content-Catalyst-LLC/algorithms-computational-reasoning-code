@@ -1,0 +1,42 @@
+[
+  {
+    "check": "intended_use_defined",
+    "question": "Is intended use explicitly documented?",
+    "status": "complete"
+  },
+  {
+    "check": "data_quality_checked",
+    "question": "Are input data checked before model use?",
+    "status": "complete"
+  },
+  {
+    "check": "implementation_tests_run",
+    "question": "Do tests support code correctness?",
+    "status": "complete"
+  },
+  {
+    "check": "baseline_compared",
+    "question": "Is performance compared with a simple baseline?",
+    "status": "complete"
+  },
+  {
+    "check": "diagnostics_reported",
+    "question": "Are error, calibration, and subgroup diagnostics reported?",
+    "status": "complete"
+  },
+  {
+    "check": "thresholds_reviewed",
+    "question": "Are decision thresholds tested?",
+    "status": "complete"
+  },
+  {
+    "check": "uncertainty_and_sensitivity_reviewed",
+    "question": "Are uncertainty and sensitivity reviewed?",
+    "status": "partial"
+  },
+  {
+    "check": "governance_limits_documented",
+    "question": "Are use boundaries and review responsibilities documented?",
+    "status": "complete"
+  }
+]

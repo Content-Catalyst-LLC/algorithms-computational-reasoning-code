@@ -1,0 +1,7 @@
+demo-run-001|candidate_model|teaching example for validation evidence
+rmse|8.72|lower than baseline in synthetic validation run
+mae|6.41|typical absolute error
+calibration_slope|0.91|moderate calibration under synthetic data
+partial|1
+pass|1
+review|1

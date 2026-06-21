@@ -1,0 +1,28 @@
+[
+  {
+    "bias": -21.062414,
+    "calibration_intercept": 8.818657,
+    "calibration_slope": 0.418147,
+    "interpretation": "Validation metrics summarize error, bias, calibration, and association with observed outcomes.",
+    "mae": 22.387825,
+    "model_name": "simple_baseline",
+    "n": 1200,
+    "prediction_key": "baseline_prediction",
+    "prediction_observed_correlation": 0.466037,
+    "residual_std": 16.931871,
+    "rmse": 27.024314
+  },
+  {
+    "bias": 3.668845,
+    "calibration_intercept": 2.732906,
+    "calibration_slope": 1.035154,
+    "interpretation": "Validation metrics summarize error, bias, calibration, and association with observed outcomes.",
+    "mae": 6.425974,
+    "model_name": "candidate_model",
+    "n": 1200,
+    "prediction_key": "candidate_prediction",
+    "prediction_observed_correlation": 0.886036,
+    "residual_std": 7.171003,
+    "rmse": 8.055042
+  }
+]

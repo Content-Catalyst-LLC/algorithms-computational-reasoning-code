@@ -1,0 +1,20 @@
+{
+  "title": "Model Validation, Testing, and Computational Evidence",
+  "slug": "model-validation-testing-and-computational-evidence",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_slug": "computational-experiments-and-reproducible-workflows",
+  "next_slug": "sensitivity-analysis-for-algorithms-and-models",
+  "github_folder": "articles/model-validation-testing-and-computational-evidence",
+  "wordpress_image": "model-validation-testing-and-computational-evidence.png",
+  "focus_keyword": "model validation testing and computational evidence",
+  "tags": [
+    "Model Validation",
+    "Computational Evidence",
+    "Model Testing",
+    "Verification and Validation",
+    "Benchmarking",
+    "Diagnostics",
+    "Validation Governance",
+    "Algorithmic Reasoning"
+  ]
+}

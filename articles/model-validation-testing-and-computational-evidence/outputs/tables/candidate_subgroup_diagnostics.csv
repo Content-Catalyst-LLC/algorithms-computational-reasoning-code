@@ -1,0 +1,3 @@
+bias,interpretation,mae,n,prediction_key,rmse,segment
+0.45862,Subgroup diagnostics reveal performance differences hidden by aggregate metrics.,4.53265,800,candidate_prediction,5.657233,A
+10.089293,Subgroup diagnostics reveal performance differences hidden by aggregate metrics.,10.212623,400,candidate_prediction,11.429896,B

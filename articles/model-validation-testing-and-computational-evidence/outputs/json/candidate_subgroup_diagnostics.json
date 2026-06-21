@@ -1,0 +1,20 @@
+[
+  {
+    "bias": 0.45862,
+    "interpretation": "Subgroup diagnostics reveal performance differences hidden by aggregate metrics.",
+    "mae": 4.53265,
+    "n": 800,
+    "prediction_key": "candidate_prediction",
+    "rmse": 5.657233,
+    "segment": "A"
+  },
+  {
+    "bias": 10.089293,
+    "interpretation": "Subgroup diagnostics reveal performance differences hidden by aggregate metrics.",
+    "mae": 10.212623,
+    "n": 400,
+    "prediction_key": "candidate_prediction",
+    "rmse": 11.429896,
+    "segment": "B"
+  }
+]
