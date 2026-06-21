@@ -1,0 +1,7 @@
+fact
+has_documentation
+has_human_review
+high_stakes_context
+logs_decisions
+uses_statistical_model
+uses_symbolic_rules

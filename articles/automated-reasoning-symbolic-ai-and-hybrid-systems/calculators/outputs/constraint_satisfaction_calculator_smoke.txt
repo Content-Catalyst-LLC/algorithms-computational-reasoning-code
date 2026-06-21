@@ -1,0 +1,4 @@
+required=['hybrid_system', 'requires_escalation_review', 'reviewable_system', 'traceable_system']
+satisfied=['hybrid_system', 'reviewable_system', 'traceable_system']
+missing=['requires_escalation_review']
+satisfaction_score=0.750000

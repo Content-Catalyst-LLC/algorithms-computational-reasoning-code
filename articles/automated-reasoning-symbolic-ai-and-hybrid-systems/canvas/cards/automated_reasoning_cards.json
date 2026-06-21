@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "symbolic_rules",
+    "title": "Rules Make Inference Reviewable",
+    "prompt": "List facts, rules, conclusions, and provenance before trusting a symbolic system."
+  },
+  {
+    "card_id": "hybrid_interfaces",
+    "title": "Audit Hybrid Interfaces",
+    "prompt": "Review where learned outputs become symbolic facts, rules, or constraints."
+  },
+  {
+    "card_id": "formal_limits",
+    "title": "Formal Truth Has Scope",
+    "prompt": "Ask whether the formal model represents the real-world problem adequately."
+  }
+]

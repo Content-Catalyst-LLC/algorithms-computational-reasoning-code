@@ -1,0 +1,13 @@
+{
+  "article": "automated_reasoning_symbolic_ai_and_hybrid_systems",
+  "conflicts_detected": 0,
+  "constraints_required": 5,
+  "constraints_satisfied": 5,
+  "derived_fact_count": 5,
+  "hybrid_interface_items": 3,
+  "initial_fact_count": 6,
+  "interpretation": "Automated reasoning systems should expose rules, premises, derived conclusions, contradictions, constraints, hybrid interfaces, and governance responsibilities.",
+  "rule_count": 5,
+  "timestamp_utc": "2026-06-21T17:44:14.237516+00:00",
+  "trace_steps": 5
+}

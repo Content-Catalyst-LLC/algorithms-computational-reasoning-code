@@ -1,0 +1,4 @@
+facts=['has_documentation', 'logs_decisions']
+premises=['has_documentation', 'logs_decisions']
+fires=1
+conclusion=traceable_system

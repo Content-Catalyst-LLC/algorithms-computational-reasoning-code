@@ -1,0 +1,19 @@
+{
+  "title": "Automated Reasoning, Symbolic AI, and Hybrid Systems",
+  "slug": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "large-language-models-and-procedural-reasoning",
+  "next": "ai-agents-tool-use-and-procedural-autonomy",
+  "repo_folder": "articles/automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "topics": [
+    "automated reasoning",
+    "symbolic AI",
+    "hybrid systems",
+    "theorem proving",
+    "satisfiability",
+    "constraint solving",
+    "logic programming",
+    "knowledge representation",
+    "governance"
+  ]
+}

@@ -1,0 +1,8 @@
+item,description,review_question
+reasoning_task,Define whether the system performs deduction satisfiability verification planning or query answering,What kind of reasoning is being automated?
+facts,Record accepted premises and their sources,What facts are assumed true?
+rules,Record inference rules and their provenance,Who authorized each rule?
+constraints,Record conditions that must be satisfied,Which constraints can conflict?
+traceability,Store inference traces or proof artifacts,Can a reviewer reconstruct the conclusion?
+hybrid_interface,Document where learned outputs become symbolic inputs,How are model scores converted into facts or rules?
+governance,Connect reasoning outputs to review and appeal,Who can challenge facts rules or conclusions?

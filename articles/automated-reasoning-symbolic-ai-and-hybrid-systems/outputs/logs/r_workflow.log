@@ -1,0 +1,10 @@
+null device 
+          1 
+null device 
+          1 
+  rule_count derived_fact_count trace_steps constraints_satisfied
+1          5                  5           5                     5
+  conflicts_detected hybrid_interface_items
+1                  0                      3
+                                                                                                                                  diagnostic_note
+1 Symbolic reasoning should be reviewed through rule provenance, traceability, contradiction checks, hybrid-interface review, and use boundaries.

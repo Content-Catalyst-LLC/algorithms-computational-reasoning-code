@@ -1,0 +1,7 @@
+item,review_question,status
+rule_provenance,Who authorized each rule?,required
+knowledge_validity,Are facts and categories current?,required
+inference_trace,Can conclusions be traced to premises?,required
+contradiction_review,How are conflicting rules resolved?,required
+hybrid_interface,How do statistical outputs become symbolic inputs?,required
+appeal_process,"Can affected people challenge facts, rules, and conclusions?",required

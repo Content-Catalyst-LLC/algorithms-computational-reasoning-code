@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SymbolicReasoningAudit",
+  "type": "object",
+  "required": [
+    "rule_id",
+    "premises",
+    "conclusion",
+    "provenance"
+  ],
+  "properties": {
+    "rule_id": {
+      "type": "string"
+    },
+    "premises": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "conclusion": {
+      "type": "string"
+    },
+    "provenance": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string"
+    }
+  }
+}

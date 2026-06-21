@@ -1,0 +1,17 @@
+{
+  "article": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "canvas_cards": [
+    "Rules Make Inference Reviewable",
+    "Audit Hybrid Interfaces",
+    "Formal Truth Has Scope"
+  ],
+  "review_layers": [
+    "facts",
+    "rules",
+    "trace",
+    "constraints",
+    "contradictions",
+    "hybrid_interface",
+    "governance"
+  ]
+}

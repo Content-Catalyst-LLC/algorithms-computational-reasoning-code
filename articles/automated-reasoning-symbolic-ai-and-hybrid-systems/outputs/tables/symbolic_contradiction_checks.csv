@@ -1,0 +1,5 @@
+conflict_detected,interpretation,left_claim,right_claim
+0,No conflict detected for this pair.,conditionally_approvable,prohibited_use
+0,No conflict detected for this pair.,reviewable_system,unreviewable_system
+0,No conflict detected for this pair.,traceable_system,no_audit_trail
+0,No conflict detected for this pair.,requires_escalation_review,fully_automated_without_review

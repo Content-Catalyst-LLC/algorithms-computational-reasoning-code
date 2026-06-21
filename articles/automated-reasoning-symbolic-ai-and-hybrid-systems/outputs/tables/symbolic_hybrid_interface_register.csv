@@ -1,0 +1,4 @@
+example,interface_item,review_question,risk
+risk_score >= threshold becomes high_stakes_context,statistical_score_to_symbolic_fact,Is the threshold justified and documented?,A learned score may be treated as a fact without uncertainty review.
+policy excerpt becomes rule premise,retrieved_text_to_rule,Is the source authoritative and current?,Bad retrieval can create invalid symbolic rules.
+generated plan step becomes required action,llm_output_to_constraint,Was the generated constraint verified?,Generated procedural content can look formal before validation.

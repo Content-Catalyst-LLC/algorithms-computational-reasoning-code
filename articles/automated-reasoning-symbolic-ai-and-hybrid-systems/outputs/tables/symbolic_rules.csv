@@ -1,0 +1,6 @@
+conclusion,premises,provenance,rule_id
+traceable_system,has_documentation;logs_decisions,governance_policy_v1,R1
+reviewable_system,has_human_review;traceable_system,governance_policy_v1,R2
+hybrid_system,uses_statistical_model;uses_symbolic_rules,architecture_record_v2,R3
+requires_escalation_review,high_stakes_context;hybrid_system,risk_policy_v3,R4
+conditionally_approvable,requires_escalation_review;reviewable_system,risk_policy_v3,R5

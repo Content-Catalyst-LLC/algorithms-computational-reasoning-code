@@ -1,0 +1,6 @@
+conclusion,premises,provenance,rule_id,trace_note
+traceable_system,has_documentation;logs_decisions,governance_policy_v1,R1,Conclusion inferred because all premises were present.
+reviewable_system,has_human_review;traceable_system,governance_policy_v1,R2,Conclusion inferred because all premises were present.
+hybrid_system,uses_statistical_model;uses_symbolic_rules,architecture_record_v2,R3,Conclusion inferred because all premises were present.
+requires_escalation_review,high_stakes_context;hybrid_system,risk_policy_v3,R4,Conclusion inferred because all premises were present.
+conditionally_approvable,requires_escalation_review;reviewable_system,risk_policy_v3,R5,Conclusion inferred because all premises were present.

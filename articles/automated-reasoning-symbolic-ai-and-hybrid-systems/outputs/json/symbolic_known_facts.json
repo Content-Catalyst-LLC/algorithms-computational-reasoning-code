@@ -1,0 +1,13 @@
+[
+  "conditionally_approvable",
+  "has_documentation",
+  "has_human_review",
+  "high_stakes_context",
+  "hybrid_system",
+  "logs_decisions",
+  "requires_escalation_review",
+  "reviewable_system",
+  "traceable_system",
+  "uses_statistical_model",
+  "uses_symbolic_rules"
+]

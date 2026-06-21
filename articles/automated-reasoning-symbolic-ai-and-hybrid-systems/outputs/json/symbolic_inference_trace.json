@@ -1,0 +1,37 @@
+[
+  {
+    "conclusion": "traceable_system",
+    "premises": "has_documentation;logs_decisions",
+    "provenance": "governance_policy_v1",
+    "rule_id": "R1",
+    "trace_note": "Conclusion inferred because all premises were present."
+  },
+  {
+    "conclusion": "reviewable_system",
+    "premises": "has_human_review;traceable_system",
+    "provenance": "governance_policy_v1",
+    "rule_id": "R2",
+    "trace_note": "Conclusion inferred because all premises were present."
+  },
+  {
+    "conclusion": "hybrid_system",
+    "premises": "uses_statistical_model;uses_symbolic_rules",
+    "provenance": "architecture_record_v2",
+    "rule_id": "R3",
+    "trace_note": "Conclusion inferred because all premises were present."
+  },
+  {
+    "conclusion": "requires_escalation_review",
+    "premises": "high_stakes_context;hybrid_system",
+    "provenance": "risk_policy_v3",
+    "rule_id": "R4",
+    "trace_note": "Conclusion inferred because all premises were present."
+  },
+  {
+    "conclusion": "conditionally_approvable",
+    "premises": "requires_escalation_review;reviewable_system",
+    "provenance": "risk_policy_v3",
+    "rule_id": "R5",
+    "trace_note": "Conclusion inferred because all premises were present."
+  }
+]

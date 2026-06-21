@@ -1,0 +1,23 @@
+{
+  "article": "automated-reasoning-symbolic-ai-and-hybrid-systems",
+  "calculators": [
+    {
+      "name": "symbolic_rule_calculator",
+      "language": "python",
+      "path": "calculators/python/symbolic_rule_calculator.py",
+      "purpose": "Check whether a rule fires when all premises are present."
+    },
+    {
+      "name": "constraint_satisfaction_calculator",
+      "language": "python",
+      "path": "calculators/python/constraint_satisfaction_calculator.py",
+      "purpose": "Compute the fraction of required constraints satisfied."
+    },
+    {
+      "name": "rule_trace_score",
+      "language": "r",
+      "path": "calculators/r/rule_trace_score.R",
+      "purpose": "Summarize symbolic trace completeness."
+    }
+  ]
+}

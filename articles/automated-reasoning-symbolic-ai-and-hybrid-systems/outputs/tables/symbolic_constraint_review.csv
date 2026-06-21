@@ -1,0 +1,6 @@
+constraint,interpretation,satisfied
+traceable_system,Required symbolic governance condition is satisfied.,1
+reviewable_system,Required symbolic governance condition is satisfied.,1
+hybrid_system,Required symbolic governance condition is satisfied.,1
+requires_escalation_review,Required symbolic governance condition is satisfied.,1
+conditionally_approvable,Required symbolic governance condition is satisfied.,1

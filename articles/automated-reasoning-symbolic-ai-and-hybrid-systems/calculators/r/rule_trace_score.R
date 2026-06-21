@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+trace_steps <- ifelse(length(args) >= 1, as.numeric(args[1]), 5)
+required_steps <- ifelse(length(args) >= 2, as.numeric(args[2]), 5)
+score <- ifelse(required_steps == 0, 1, min(1, trace_steps / required_steps))
+cat(sprintf("trace_steps=%s\n", trace_steps))
+cat(sprintf("required_steps=%s\n", required_steps))
+cat(sprintf("trace_score=%.6f\n", score))

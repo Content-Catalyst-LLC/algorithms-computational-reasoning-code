@@ -1,0 +1,20 @@
+[
+  {
+    "example": "risk_score >= threshold becomes high_stakes_context",
+    "interface_item": "statistical_score_to_symbolic_fact",
+    "review_question": "Is the threshold justified and documented?",
+    "risk": "A learned score may be treated as a fact without uncertainty review."
+  },
+  {
+    "example": "policy excerpt becomes rule premise",
+    "interface_item": "retrieved_text_to_rule",
+    "review_question": "Is the source authoritative and current?",
+    "risk": "Bad retrieval can create invalid symbolic rules."
+  },
+  {
+    "example": "generated plan step becomes required action",
+    "interface_item": "llm_output_to_constraint",
+    "review_question": "Was the generated constraint verified?",
+    "risk": "Generated procedural content can look formal before validation."
+  }
+]
