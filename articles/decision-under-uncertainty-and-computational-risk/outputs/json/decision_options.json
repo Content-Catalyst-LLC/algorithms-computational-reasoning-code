@@ -1,0 +1,30 @@
+[
+  {
+    "benefit_multiplier": 0.0,
+    "cost_multiplier": 0.0,
+    "governance_burden": "low",
+    "option_name": "monitor_only",
+    "risk_reduction": 0.0
+  },
+  {
+    "benefit_multiplier": 0.55,
+    "cost_multiplier": 0.35,
+    "governance_burden": "moderate",
+    "option_name": "light_touch_support",
+    "risk_reduction": 0.1
+  },
+  {
+    "benefit_multiplier": 0.85,
+    "cost_multiplier": 0.65,
+    "governance_burden": "high",
+    "option_name": "targeted_intervention",
+    "risk_reduction": 0.22
+  },
+  {
+    "benefit_multiplier": 1.05,
+    "cost_multiplier": 1.1,
+    "governance_burden": "very_high",
+    "option_name": "intensive_review",
+    "risk_reduction": 0.34
+  }
+]

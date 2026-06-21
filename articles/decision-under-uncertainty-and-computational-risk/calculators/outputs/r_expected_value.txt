@@ -1,0 +1,2 @@
+probability=0.420000
+expected_value=4.400000

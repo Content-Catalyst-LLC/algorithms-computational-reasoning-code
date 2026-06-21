@@ -1,0 +1,31 @@
+{
+  "github_button_class": "cc-github-repo-button",
+  "github_cta_class": "cc-github-repo-link",
+  "license": "MIT for code; educational synthetic data only",
+  "next": "machine-learning-as-algorithmic-inference",
+  "previous": "causal-algorithms-and-intervention-modeling",
+  "primary_workflows": [
+    "synthetic decision case generation",
+    "expected value and loss modeling",
+    "decision threshold review",
+    "regret and downside risk analysis",
+    "uncertainty sensitivity grid",
+    "risk register and governance audit",
+    "calculator smoke tests"
+  ],
+  "repo_folder": "articles/decision-under-uncertainty-and-computational-risk",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "decision-under-uncertainty-and-computational-risk",
+  "status": "article-companion-repository",
+  "title": "Decision Under Uncertainty and Computational Risk",
+  "topics": [
+    "decision under uncertainty",
+    "computational risk",
+    "expected value",
+    "risk thresholds",
+    "regret analysis",
+    "sensitivity analysis",
+    "governance",
+    "responsible automation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "generated_by": "decision_uncertainty_risk_workflow.py",
+  "outputs": [
+    "synthetic_decision_cases.csv",
+    "decision_options.csv",
+    "decision_metrics.csv",
+    "threshold_review.csv",
+    "risk_register.csv",
+    "decision_risk_audit_summary.csv"
+  ],
+  "timestamp_utc": "2026-06-21T07:55:26.848629+00:00"
+}

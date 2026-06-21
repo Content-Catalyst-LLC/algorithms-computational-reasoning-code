@@ -1,0 +1,8 @@
+item,description,review_question
+problem_statement,Define the decision being supported,What action is actually being chosen?
+option_set,List available action alternatives,What alternatives were excluded?
+probability_estimate,Estimate uncertain outcome likelihood,How calibrated and current is the estimate?
+utility_values,Assign benefit loss and cost assumptions,Who defines what counts as benefit or harm?
+threshold_rule,Convert risk or expected value into action,Why is this threshold legitimate?
+sensitivity_analysis,Test recommendation fragility,Does the action change under plausible assumptions?
+governance,Document review appeal and accountability,Who can challenge or override the recommendation?

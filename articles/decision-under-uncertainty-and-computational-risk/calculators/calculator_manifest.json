@@ -1,0 +1,27 @@
+{
+  "article": "Decision Under Uncertainty and Computational Risk",
+  "calculators": [
+    {
+      "name": "expected_value_calculator",
+      "path": "calculators/python/expected_value_calculator.py",
+      "purpose": "Compute expected net value from probability, benefit, loss, and cost."
+    },
+    {
+      "name": "threshold_action_calculator",
+      "path": "calculators/python/threshold_action_calculator.py",
+      "purpose": "Turn risk and expected value into a threshold-based action label."
+    },
+    {
+      "name": "regret_calculator",
+      "path": "calculators/python/regret_calculator.py",
+      "purpose": "Compute regret relative to best available option."
+    },
+    {
+      "name": "risk_score_calculator",
+      "path": "calculators/python/risk_score_calculator.py",
+      "purpose": "Compute a transparent weighted risk score."
+    }
+  ],
+  "outputs": "calculators/outputs",
+  "slug": "decision-under-uncertainty-and-computational-risk"
+}

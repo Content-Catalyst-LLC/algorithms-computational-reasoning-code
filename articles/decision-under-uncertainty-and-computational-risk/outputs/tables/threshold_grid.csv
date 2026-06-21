@@ -1,0 +1,7 @@
+act_count,act_rate,action_threshold,human_review_count,interpretation,monitor_or_defer_count
+9,0.03,0.0,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291
+9,0.03,0.05,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291
+9,0.03,0.08,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291
+9,0.03,0.12,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291
+9,0.03,0.18,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291
+9,0.03,0.25,0,Changing thresholds changes the population affected by action; thresholds require governance review.,291

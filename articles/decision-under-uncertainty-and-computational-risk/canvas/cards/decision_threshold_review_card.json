@@ -1,0 +1,18 @@
+{
+  "card_id": "decision-threshold-review",
+  "decision_question": "When should an uncertain risk estimate become an action recommendation?",
+  "inputs": [
+    "baseline risk",
+    "uncertainty range",
+    "expected value",
+    "confidence",
+    "downside exposure"
+  ],
+  "review_questions": [
+    "Who approved the threshold?",
+    "What happens near the boundary?",
+    "Can affected people contest the recommendation?",
+    "Does sensitivity analysis change the action?"
+  ],
+  "title": "Decision Threshold Review"
+}

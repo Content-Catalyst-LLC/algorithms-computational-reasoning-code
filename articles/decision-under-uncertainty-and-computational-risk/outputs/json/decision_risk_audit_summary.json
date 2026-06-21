@@ -1,0 +1,14 @@
+{
+  "act_with_review_count": 9,
+  "action_threshold": 0.08,
+  "article": "decision_under_uncertainty_and_computational_risk",
+  "case_count": 300,
+  "escalate_uncertainty_count": 0,
+  "high_risk_register_count": 4,
+  "interpretation": "Decision recommendations are threshold-dependent and must be reviewed for uncertainty, utility assumptions, downside risk, and governance legitimacy.",
+  "mean_baseline_risk": 0.388416,
+  "mean_best_expected_net_value": -29.301653,
+  "metric_rows": 1200,
+  "option_count": 4,
+  "timestamp_utc": "2026-06-21T07:55:26.834422+00:00"
+}

@@ -1,0 +1,13 @@
+act_count,act_rate,cost_multiplier,high_exposure_count,interpretation,mean_expected_value,probability_multiplier
+1,0.003333,0.75,4,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-36.255235,0.75
+0,0.0,1.0,8,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-45.830909,0.75
+0,0.0,1.25,14,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-55.406583,0.75
+0,0.0,1.5,22,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-64.982257,0.75
+2,0.006667,0.75,22,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-38.76464,1.0
+1,0.003333,1.0,31,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-48.340314,1.0
+0,0.0,1.25,38,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-57.915987,1.0
+0,0.0,1.5,52,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-67.491661,1.0
+3,0.01,0.75,49,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-41.222974,1.25
+2,0.006667,1.0,55,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-50.798648,1.25
+1,0.003333,1.25,70,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-60.374322,1.25
+1,0.003333,1.5,82,Sensitivity grid shows how recommendations shift when probability or cost assumptions change.,-69.949996,1.25

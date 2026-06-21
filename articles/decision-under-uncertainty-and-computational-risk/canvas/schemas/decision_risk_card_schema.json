@@ -1,0 +1,33 @@
+{
+  "properties": {
+    "card_id": {
+      "type": "string"
+    },
+    "decision_question": {
+      "type": "string"
+    },
+    "inputs": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "review_questions": {
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "card_id",
+    "title",
+    "decision_question",
+    "inputs",
+    "review_questions"
+  ],
+  "type": "object"
+}

@@ -1,0 +1,5 @@
+benefit_multiplier,cost_multiplier,governance_burden,option_name,risk_reduction
+0.0,0.0,low,monitor_only,0.0
+0.55,0.35,moderate,light_touch_support,0.1
+0.85,0.65,high,targeted_intervention,0.22
+1.05,1.1,very_high,intensive_review,0.34

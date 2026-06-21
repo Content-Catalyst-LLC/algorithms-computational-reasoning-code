@@ -1,0 +1,13 @@
+{
+  "article": "Decision Under Uncertainty and Computational Risk",
+  "steps": [
+    "define decision options",
+    "estimate uncertain probabilities",
+    "assign utility assumptions",
+    "compute expected value and downside exposure",
+    "review thresholds",
+    "run sensitivity analysis",
+    "document governance and contestability"
+  ],
+  "workflow": "decision-under-uncertainty-review"
+}
