@@ -1,0 +1,13 @@
+absolute_error,estimate,interpretation,method,reference,relative_error,resolution
+0.00355718054,4.580299209485,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,0.000776023557,10.0
+0.000109517315,4.58396590734,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,2.389196e-05,10.0
+0.000884206804,4.582972183221,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,0.000192895835,20.0
+6.784442e-06,4.583863174467,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,1.480073e-06,20.0
+0.000220734381,4.583635655644,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,4.8154733e-05,40.0
+4.23093e-07,4.583856813118,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,9.2301e-08,40.0
+5.5163774e-05,4.583801226251,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,1.2034359e-05,80.0
+2.6429e-08,4.583856416454,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,5.766e-09,80.0
+1.3789705e-05,4.58384260032,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,3.00832e-06,160.0
+1.652e-09,4.583856391677,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,3.6e-10,160.0
+3.447349e-06,4.583852942676,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",trapezoid_rule,4.583856390025,7.52063e-07,320.0
+1.03e-10,4.583856390128,"Quadrature accuracy depends on smoothness, interval count, and rule choice.",simpson_rule,4.583856390025,2.3e-11,320.0

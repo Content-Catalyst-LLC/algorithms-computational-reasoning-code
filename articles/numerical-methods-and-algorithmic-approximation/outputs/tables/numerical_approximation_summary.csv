@@ -1,0 +1,2 @@
+best_derivative_method,best_derivative_resolution,best_integration_method,best_integration_resolution,best_ode_method,best_ode_resolution,best_root_method,best_root_tolerance,derivative_records,integration_records,interpretation,ode_records,review_items_needing_attention,root_finding_records
+central_difference,0.0001,simpson_rule,320.0,runge_kutta_4,0.0625,newton,1e-06,12,12,"Numerical approximation requires method selection, resolution testing, error reporting, convergence review, floating-point awareness, validation evidence, and interpretation limits.",8,2,8

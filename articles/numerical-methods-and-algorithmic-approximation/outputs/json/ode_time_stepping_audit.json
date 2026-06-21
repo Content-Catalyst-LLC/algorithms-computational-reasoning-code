@@ -1,0 +1,74 @@
+[
+  {
+    "absolute_error": 0.43613133463,
+    "estimate": 4.045557735708,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "euler_method",
+    "reference": 4.481689070338,
+    "relative_error": 0.097314054542,
+    "resolution": 0.5
+  },
+  {
+    "absolute_error": 2.5033791e-05,
+    "estimate": 4.481664036547,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "runge_kutta_4",
+    "reference": 4.481689070338,
+    "relative_error": 5.585794e-06,
+    "resolution": 0.5
+  },
+  {
+    "absolute_error": 0.233837970099,
+    "estimate": 4.247851100239,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "euler_method",
+    "reference": 4.481689070338,
+    "relative_error": 0.052176303717,
+    "resolution": 0.25
+  },
+  {
+    "absolute_error": 1.665243e-06,
+    "estimate": 4.481687405095,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "runge_kutta_4",
+    "reference": 4.481689070338,
+    "relative_error": 3.71566e-07,
+    "resolution": 0.25
+  },
+  {
+    "absolute_error": 0.121310311379,
+    "estimate": 4.360378758959,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "euler_method",
+    "reference": 4.481689070338,
+    "relative_error": 0.027067989206,
+    "resolution": 0.125
+  },
+  {
+    "absolute_error": 1.07377e-07,
+    "estimate": 4.481688962961,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "runge_kutta_4",
+    "reference": 4.481689070338,
+    "relative_error": 2.3959e-08,
+    "resolution": 0.125
+  },
+  {
+    "absolute_error": 0.061816586625,
+    "estimate": 4.419872483713,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "euler_method",
+    "reference": 4.481689070338,
+    "relative_error": 0.013793144873,
+    "resolution": 0.0625
+  },
+  {
+    "absolute_error": 6.817e-09,
+    "estimate": 4.481689063521,
+    "interpretation": "Time-stepping accuracy depends on step size, method order, and stability.",
+    "method": "runge_kutta_4",
+    "reference": 4.481689070338,
+    "relative_error": 1.521e-09,
+    "resolution": 0.0625
+  }
+]

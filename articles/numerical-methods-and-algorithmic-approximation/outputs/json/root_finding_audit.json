@@ -1,0 +1,82 @@
+[
+  {
+    "absolute_error": 0.000151062373,
+    "estimate": 1.4140625,
+    "interpretation": "Bisection trades speed for bracketing reliability.",
+    "iterations": 7,
+    "method": "bisection",
+    "reference": 1.414213562373,
+    "residual": 0.000427246094,
+    "tolerance": 0.01
+  },
+  {
+    "absolute_error": 0.002453104294,
+    "estimate": 1.416666666667,
+    "interpretation": "Newton iteration can converge quickly with a good starting point and well-behaved derivative.",
+    "iterations": 2,
+    "method": "newton",
+    "reference": 1.414213562373,
+    "residual": 0.006944444444,
+    "tolerance": 0.01
+  },
+  {
+    "absolute_error": 2.8992061e-05,
+    "estimate": 1.414184570312,
+    "interpretation": "Bisection trades speed for bracketing reliability.",
+    "iterations": 13,
+    "method": "bisection",
+    "reference": 1.414213562373,
+    "residual": 8.200109e-05,
+    "tolerance": 0.0001
+  },
+  {
+    "absolute_error": 2.123901e-06,
+    "estimate": 1.414215686275,
+    "interpretation": "Newton iteration can converge quickly with a good starting point and well-behaved derivative.",
+    "iterations": 3,
+    "method": "newton",
+    "reference": 1.414213562373,
+    "residual": 6.007305e-06,
+    "tolerance": 0.0001
+  },
+  {
+    "absolute_error": 5.71843e-07,
+    "estimate": 1.414214134216,
+    "interpretation": "Bisection trades speed for bracketing reliability.",
+    "iterations": 20,
+    "method": "bisection",
+    "reference": 1.414213562373,
+    "residual": 1.617417e-06,
+    "tolerance": 1e-06
+  },
+  {
+    "absolute_error": 2e-12,
+    "estimate": 1.414213562375,
+    "interpretation": "Newton iteration can converge quickly with a good starting point and well-behaved derivative.",
+    "iterations": 4,
+    "method": "newton",
+    "reference": 1.414213562373,
+    "residual": 5e-12,
+    "tolerance": 1e-06
+  },
+  {
+    "absolute_error": 1.851e-09,
+    "estimate": 1.414213560522,
+    "interpretation": "Bisection trades speed for bracketing reliability.",
+    "iterations": 27,
+    "method": "bisection",
+    "reference": 1.414213562373,
+    "residual": 5.237e-09,
+    "tolerance": 1e-08
+  },
+  {
+    "absolute_error": 2e-12,
+    "estimate": 1.414213562375,
+    "interpretation": "Newton iteration can converge quickly with a good starting point and well-behaved derivative.",
+    "iterations": 4,
+    "method": "newton",
+    "reference": 1.414213562373,
+    "residual": 5e-12,
+    "tolerance": 1e-08
+  }
+]

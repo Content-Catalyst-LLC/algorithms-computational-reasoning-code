@@ -1,0 +1,42 @@
+[
+  {
+    "check": "problem_formulated",
+    "question": "Is the mathematical problem stated before selecting a numerical method?",
+    "status": "complete"
+  },
+  {
+    "check": "method_justified",
+    "question": "Is the approximation method appropriate for the problem type?",
+    "status": "complete"
+  },
+  {
+    "check": "resolution_tested",
+    "question": "Were step size, interval count, grid size, or tolerance varied?",
+    "status": "complete"
+  },
+  {
+    "check": "error_reported",
+    "question": "Are absolute error, relative error, residual, or uncertainty reported?",
+    "status": "complete"
+  },
+  {
+    "check": "floating_point_reviewed",
+    "question": "Were roundoff, cancellation, overflow, and precision limits considered?",
+    "status": "partial"
+  },
+  {
+    "check": "stopping_condition_documented",
+    "question": "Are tolerances and maximum iterations documented?",
+    "status": "complete"
+  },
+  {
+    "check": "validation_linked",
+    "question": "Are outputs compared with theory, benchmark, data, or expert expectations?",
+    "status": "partial"
+  },
+  {
+    "check": "interpretation_limits_stated",
+    "question": "Are the limits of the numerical result communicated clearly?",
+    "status": "complete"
+  }
+]

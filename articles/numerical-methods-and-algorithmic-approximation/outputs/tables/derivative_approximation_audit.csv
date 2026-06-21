@@ -1,0 +1,13 @@
+absolute_error,estimate,interpretation,method,reference,relative_error,resolution
+0.017938553333,1.022363752535,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,0.017243596627,0.1
+0.000900053698,1.03940225217,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,0.000865184758,0.1
+0.008757490146,1.031544815722,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,0.008418216605,0.05
+0.000225097822,1.040077208046,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,0.000216377317,0.05
+0.001716324856,1.038585981012,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,0.001649832791,0.01
+9.004993e-06,1.040293300875,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,8.656131e-06,0.01
+0.000855924336,1.039446381532,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,0.000822765009,0.005
+2.251257e-06,1.040300054611,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,2.164041e-06,0.005
+0.000170825508,1.04013148036,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,0.000164207564,0.001
+9.005e-08,1.040302215818,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,8.6562e-08,0.001
+1.7074451e-05,1.040285231417,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",forward_difference,1.040302305868,1.641297e-05,0.0001
+9.02e-10,1.040302304967,"Derivative approximation depends on method, smoothness, step size, and floating-point behavior.",central_difference,1.040302305868,8.67e-10,0.0001

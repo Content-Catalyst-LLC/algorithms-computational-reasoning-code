@@ -1,0 +1,11 @@
+{
+  "article": "Numerical Methods and Algorithmic Approximation",
+  "slug": "numerical-methods-and-algorithmic-approximation",
+  "calculators": [
+    "finite_difference_derivative",
+    "trapezoid_integral",
+    "bisection_root",
+    "euler_growth"
+  ],
+  "purpose": "Self-contained numerical approximation calculators for teaching, validation, smoke tests, and future website-tool integration."
+}

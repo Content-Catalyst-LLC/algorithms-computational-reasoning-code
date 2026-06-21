@@ -1,0 +1,9 @@
+absolute_error,estimate,interpretation,iterations,method,reference,residual,tolerance
+0.000151062373,1.4140625,Bisection trades speed for bracketing reliability.,7,bisection,1.414213562373,0.000427246094,0.01
+0.002453104294,1.416666666667,Newton iteration can converge quickly with a good starting point and well-behaved derivative.,2,newton,1.414213562373,0.006944444444,0.01
+2.8992061e-05,1.414184570312,Bisection trades speed for bracketing reliability.,13,bisection,1.414213562373,8.200109e-05,0.0001
+2.123901e-06,1.414215686275,Newton iteration can converge quickly with a good starting point and well-behaved derivative.,3,newton,1.414213562373,6.007305e-06,0.0001
+5.71843e-07,1.414214134216,Bisection trades speed for bracketing reliability.,20,bisection,1.414213562373,1.617417e-06,1e-06
+2e-12,1.414213562375,Newton iteration can converge quickly with a good starting point and well-behaved derivative.,4,newton,1.414213562373,5e-12,1e-06
+1.851e-09,1.414213560522,Bisection trades speed for bracketing reliability.,27,bisection,1.414213562373,5.237e-09,1e-08
+2e-12,1.414213562375,Newton iteration can converge quickly with a good starting point and well-behaved derivative.,4,newton,1.414213562373,5e-12,1e-08

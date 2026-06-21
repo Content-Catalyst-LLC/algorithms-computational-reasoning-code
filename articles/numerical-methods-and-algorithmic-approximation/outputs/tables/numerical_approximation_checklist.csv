@@ -1,0 +1,9 @@
+check,question,status
+problem_formulated,Is the mathematical problem stated before selecting a numerical method?,complete
+method_justified,Is the approximation method appropriate for the problem type?,complete
+resolution_tested,"Were step size, interval count, grid size, or tolerance varied?",complete
+error_reported,"Are absolute error, relative error, residual, or uncertainty reported?",complete
+floating_point_reviewed,"Were roundoff, cancellation, overflow, and precision limits considered?",partial
+stopping_condition_documented,Are tolerances and maximum iterations documented?,complete
+validation_linked,"Are outputs compared with theory, benchmark, data, or expert expectations?",partial
+interpretation_limits_stated,Are the limits of the numerical result communicated clearly?,complete

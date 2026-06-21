@@ -1,0 +1,16 @@
+{
+  "best_derivative_method": "central_difference",
+  "best_derivative_resolution": 0.0001,
+  "best_integration_method": "simpson_rule",
+  "best_integration_resolution": 320.0,
+  "best_ode_method": "runge_kutta_4",
+  "best_ode_resolution": 0.0625,
+  "best_root_method": "newton",
+  "best_root_tolerance": 1e-06,
+  "derivative_records": 12,
+  "integration_records": 12,
+  "interpretation": "Numerical approximation requires method selection, resolution testing, error reporting, convergence review, floating-point awareness, validation evidence, and interpretation limits.",
+  "ode_records": 8,
+  "review_items_needing_attention": 2,
+  "root_finding_records": 8
+}

@@ -1,0 +1,9 @@
+method,problem,resolution,tolerance,notes
+forward_difference,derivative,0.01,0.000001,uses one-sided finite change
+central_difference,derivative,0.01,0.000001,uses symmetric finite change
+trapezoid_rule,integration,80,0.000001,weighted panel approximation
+simpson_rule,integration,80,0.000001,parabolic panel approximation
+bisection,root_finding,0.000001,0.000001,bracketed root search
+newton,root_finding,0.000001,0.000001,derivative-guided iteration
+euler_method,ode_time_stepping,0.125,0.000001,first-order explicit method
+runge_kutta_4,ode_time_stepping,0.125,0.000001,fourth-order explicit method

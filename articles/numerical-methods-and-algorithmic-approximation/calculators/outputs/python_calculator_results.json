@@ -1,0 +1,7 @@
+{
+  "finite_difference_central": 1.0402933008747395,
+  "finite_difference_forward": 1.0385859810118747,
+  "trapezoid_0_pi": 4.5838210867319304,
+  "bisection_sqrt2": 1.4142135605216026,
+  "euler_growth": 4.383906018707089
+}

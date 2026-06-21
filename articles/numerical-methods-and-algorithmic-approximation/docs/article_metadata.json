@@ -1,0 +1,30 @@
+{
+  "actual_title": "Numerical Methods and Algorithmic Approximation",
+  "suggested_seo_title": "Numerical Methods and Algorithmic Approximation",
+  "slug": "numerical-methods-and-algorithmic-approximation",
+  "focus_keyword": "numerical methods and algorithmic approximation",
+  "previous_article": {
+    "title": "Algorithms in Scientific Computing",
+    "slug": "algorithms-in-scientific-computing"
+  },
+  "next_article": {
+    "title": "Monte Carlo Methods and Computational Uncertainty",
+    "slug": "monte-carlo-methods-and-computational-uncertainty"
+  },
+  "series": "Algorithms & Computational Reasoning",
+  "repository": "algorithms-computational-reasoning-code",
+  "themes": [
+    "numerical methods",
+    "algorithmic approximation",
+    "finite differences",
+    "quadrature",
+    "root finding",
+    "iterative solvers",
+    "time stepping",
+    "floating point arithmetic",
+    "error analysis",
+    "convergence",
+    "stability",
+    "reproducible workflows"
+  ]
+}
