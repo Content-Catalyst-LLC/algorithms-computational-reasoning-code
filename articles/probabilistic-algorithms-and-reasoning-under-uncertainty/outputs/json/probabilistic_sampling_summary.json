@@ -1,0 +1,80 @@
+[
+  {
+    "batches": 200,
+    "decision_rate": 0.47,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.27,
+    "mean_absolute_error": 0.0746,
+    "mean_estimate": 0.57,
+    "median_estimate": 0.56,
+    "p05_estimate": 0.4,
+    "p95_estimate": 0.72,
+    "sample_size": 25,
+    "std_estimate": 0.091891
+  },
+  {
+    "batches": 200,
+    "decision_rate": 0.35,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.25,
+    "mean_absolute_error": 0.0596,
+    "mean_estimate": 0.5617,
+    "median_estimate": 0.56,
+    "p05_estimate": 0.44,
+    "p95_estimate": 0.68,
+    "sample_size": 50,
+    "std_estimate": 0.073832
+  },
+  {
+    "batches": 200,
+    "decision_rate": 0.295,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.14,
+    "mean_absolute_error": 0.039,
+    "mean_estimate": 0.5671,
+    "median_estimate": 0.57,
+    "p05_estimate": 0.4895,
+    "p95_estimate": 0.6405,
+    "sample_size": 100,
+    "std_estimate": 0.047409
+  },
+  {
+    "batches": 200,
+    "decision_rate": 0.175,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.094,
+    "mean_absolute_error": 0.02386,
+    "mean_estimate": 0.5692,
+    "median_estimate": 0.568,
+    "p05_estimate": 0.52,
+    "p95_estimate": 0.62,
+    "sample_size": 250,
+    "std_estimate": 0.0304
+  },
+  {
+    "batches": 200,
+    "decision_rate": 0.11,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.064,
+    "mean_absolute_error": 0.01817,
+    "mean_estimate": 0.56981,
+    "median_estimate": 0.572,
+    "p05_estimate": 0.5279,
+    "p95_estimate": 0.6081,
+    "sample_size": 500,
+    "std_estimate": 0.023145
+  },
+  {
+    "batches": 200,
+    "decision_rate": 0.03,
+    "interpretation": "Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",
+    "max_absolute_error": 0.04,
+    "mean_absolute_error": 0.01244,
+    "mean_estimate": 0.56972,
+    "median_estimate": 0.57,
+    "p05_estimate": 0.541,
+    "p95_estimate": 0.593,
+    "sample_size": 1000,
+    "std_estimate": 0.015518
+  }
+]

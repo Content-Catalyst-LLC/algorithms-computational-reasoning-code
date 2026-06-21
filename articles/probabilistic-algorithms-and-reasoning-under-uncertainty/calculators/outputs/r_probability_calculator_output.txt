@@ -1,0 +1,6 @@
+      p_hat    n standard_error  ci_lower  ci_upper
+lower  0.57 1000     0.01565567 0.5393149 0.6006851
+      repeated_failure_probability example_expected_value example_variance
+lower                        1e-05                    1.1             0.49
+  expected_loss_if_act expected_loss_if_do_not_act choose_action
+1                  0.4                         1.8             1

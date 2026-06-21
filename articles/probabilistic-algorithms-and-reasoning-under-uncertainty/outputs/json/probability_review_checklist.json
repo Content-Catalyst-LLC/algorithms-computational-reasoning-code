@@ -1,0 +1,42 @@
+[
+  {
+    "check": "probabilistic_method_defined",
+    "question": "Is the probabilistic procedure or inference task clearly described?",
+    "status": "complete"
+  },
+  {
+    "check": "random_distribution_documented",
+    "question": "Are random draws, distributions, and sampling assumptions documented?",
+    "status": "complete"
+  },
+  {
+    "check": "seed_policy_recorded",
+    "question": "Are random seeds recorded for reproducibility?",
+    "status": "complete"
+  },
+  {
+    "check": "multi_seed_or_repeated_trials_used",
+    "question": "Are repeated trials used to estimate variability?",
+    "status": "complete"
+  },
+  {
+    "check": "error_or_uncertainty_reported",
+    "question": "Are error bounds, standard errors, intervals, or variability reported?",
+    "status": "complete"
+  },
+  {
+    "check": "threshold_sensitivity_reviewed",
+    "question": "Are decision thresholds tested across plausible values?",
+    "status": "partial"
+  },
+  {
+    "check": "calibration_validated",
+    "question": "Are probability estimates calibrated against observed outcomes?",
+    "status": "needs_review"
+  },
+  {
+    "check": "governance_implications_documented",
+    "question": "Are probability outputs connected to action rules, review, appeal, and use limits?",
+    "status": "partial"
+  }
+]

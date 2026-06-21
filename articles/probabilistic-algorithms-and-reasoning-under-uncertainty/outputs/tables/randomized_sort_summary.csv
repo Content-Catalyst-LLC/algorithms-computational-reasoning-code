@@ -1,0 +1,2 @@
+algorithm,all_runs_sorted,interpretation,max_comparisons,mean_comparisons,min_comparisons,n,runs,std_comparisons
+randomized_quicksort,True,This Las Vegas-style example preserves correctness while runtime-related comparisons vary by random choices.,791,642.49,550,100,100,52.886009

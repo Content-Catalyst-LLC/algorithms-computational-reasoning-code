@@ -1,0 +1,8 @@
+choose_action,event_probability,expected_loss_if_act,expected_loss_if_do_not_act,interpretation,loss_false_negative,loss_false_positive
+0,0.1,0.9,0.3,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+0,0.2,0.8,0.6,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+1,0.35,0.65,1.05,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+1,0.5,0.5,1.5,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+1,0.6,0.4,1.8,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+1,0.7,0.3,2.1,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0
+1,0.85,0.15,2.55,Expected loss connects probabilistic evidence with asymmetric consequences.,3.0,1.0

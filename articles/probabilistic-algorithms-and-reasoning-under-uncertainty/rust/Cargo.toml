@@ -1,0 +1,6 @@
+[package]
+name = "probabilistic_algorithms_reasoning_under_uncertainty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

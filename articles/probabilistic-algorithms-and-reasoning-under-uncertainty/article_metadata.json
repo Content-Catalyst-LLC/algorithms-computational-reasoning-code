@@ -1,0 +1,19 @@
+{
+  "title": "Probabilistic Algorithms and Reasoning Under Uncertainty",
+  "slug": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "uncertainty-quantification-in-computational-workflows",
+  "next_article": "bayesian-computation-and-updating-beliefs",
+  "focus_keyword": "probabilistic algorithms and reasoning under uncertainty",
+  "tags": [
+    "Probabilistic Algorithms",
+    "Reasoning Under Uncertainty",
+    "Randomized Algorithms",
+    "Monte Carlo Methods",
+    "Sampling",
+    "Expected Loss",
+    "Probability Models",
+    "Computational Reasoning"
+  ],
+  "github_folder": "articles/probabilistic-algorithms-and-reasoning-under-uncertainty"
+}

@@ -1,0 +1,14 @@
+{
+  "article": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "cards": [
+    "probabilistic-method-defined",
+    "random-seed-recorded",
+    "error-probability-reported",
+    "threshold-governance-reviewed"
+  ],
+  "outputs": [
+    "outputs/tables/probabilistic_algorithm_audit_summary.csv",
+    "outputs/tables/probabilistic_sampling_summary.csv",
+    "outputs/tables/expected_loss_decisions.csv"
+  ]
+}

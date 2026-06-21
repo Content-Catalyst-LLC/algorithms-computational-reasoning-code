@@ -1,0 +1,7 @@
+batches,decision_rate,interpretation,max_absolute_error,mean_absolute_error,mean_estimate,median_estimate,p05_estimate,p95_estimate,sample_size,std_estimate
+200,0.47,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.27,0.0746,0.57,0.56,0.4,0.72,25,0.091891
+200,0.35,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.25,0.0596,0.5617,0.56,0.44,0.68,50,0.073832
+200,0.295,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.14,0.039,0.5671,0.57,0.4895,0.6405,100,0.047409
+200,0.175,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.094,0.02386,0.5692,0.568,0.52,0.62,250,0.0304
+200,0.11,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.064,0.01817,0.56981,0.572,0.5279,0.6081,500,0.023145
+200,0.03,"Larger samples usually reduce estimate variance, but threshold decisions may still vary near boundaries.",0.04,0.01244,0.56972,0.57,0.541,0.593,1000,0.015518

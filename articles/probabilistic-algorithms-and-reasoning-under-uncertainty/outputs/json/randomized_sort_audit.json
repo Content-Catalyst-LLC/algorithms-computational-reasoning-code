@@ -1,0 +1,902 @@
+[
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 644,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 1,
+    "seed": 52027
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 623,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 2,
+    "seed": 52028
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 578,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 3,
+    "seed": 52029
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 594,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 4,
+    "seed": 52030
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 707,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 5,
+    "seed": 52031
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 577,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 6,
+    "seed": 52032
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 622,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 7,
+    "seed": 52033
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 740,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 8,
+    "seed": 52034
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 632,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 9,
+    "seed": 52035
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 676,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 10,
+    "seed": 52036
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 564,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 11,
+    "seed": 52037
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 643,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 12,
+    "seed": 52038
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 641,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 13,
+    "seed": 52039
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 594,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 14,
+    "seed": 52040
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 614,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 15,
+    "seed": 52041
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 619,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 16,
+    "seed": 52042
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 791,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 17,
+    "seed": 52043
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 601,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 18,
+    "seed": 52044
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 585,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 19,
+    "seed": 52045
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 650,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 20,
+    "seed": 52046
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 627,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 21,
+    "seed": 52047
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 591,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 22,
+    "seed": 52048
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 672,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 23,
+    "seed": 52049
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 570,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 24,
+    "seed": 52050
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 575,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 25,
+    "seed": 52051
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 661,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 26,
+    "seed": 52052
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 633,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 27,
+    "seed": 52053
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 652,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 28,
+    "seed": 52054
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 607,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 29,
+    "seed": 52055
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 627,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 30,
+    "seed": 52056
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 560,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 31,
+    "seed": 52057
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 667,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 32,
+    "seed": 52058
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 728,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 33,
+    "seed": 52059
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 590,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 34,
+    "seed": 52060
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 563,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 35,
+    "seed": 52061
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 657,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 36,
+    "seed": 52062
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 621,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 37,
+    "seed": 52063
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 726,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 38,
+    "seed": 52064
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 603,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 39,
+    "seed": 52065
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 667,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 40,
+    "seed": 52066
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 569,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 41,
+    "seed": 52067
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 643,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 42,
+    "seed": 52068
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 663,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 43,
+    "seed": 52069
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 632,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 44,
+    "seed": 52070
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 727,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 45,
+    "seed": 52071
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 608,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 46,
+    "seed": 52072
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 721,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 47,
+    "seed": 52073
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 594,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 48,
+    "seed": 52074
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 690,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 49,
+    "seed": 52075
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 616,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 50,
+    "seed": 52076
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 646,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 51,
+    "seed": 52077
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 608,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 52,
+    "seed": 52078
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 702,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 53,
+    "seed": 52079
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 661,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 54,
+    "seed": 52080
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 586,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 55,
+    "seed": 52081
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 550,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 56,
+    "seed": 52082
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 570,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 57,
+    "seed": 52083
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 717,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 58,
+    "seed": 52084
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 626,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 59,
+    "seed": 52085
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 694,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 60,
+    "seed": 52086
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 720,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 61,
+    "seed": 52087
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 664,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 62,
+    "seed": 52088
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 701,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 63,
+    "seed": 52089
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 722,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 64,
+    "seed": 52090
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 699,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 65,
+    "seed": 52091
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 621,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 66,
+    "seed": 52092
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 709,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 67,
+    "seed": 52093
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 622,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 68,
+    "seed": 52094
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 726,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 69,
+    "seed": 52095
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 639,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 70,
+    "seed": 52096
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 619,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 71,
+    "seed": 52097
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 639,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 72,
+    "seed": 52098
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 617,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 73,
+    "seed": 52099
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 674,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 74,
+    "seed": 52100
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 591,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 75,
+    "seed": 52101
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 640,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 76,
+    "seed": 52102
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 581,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 77,
+    "seed": 52103
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 612,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 78,
+    "seed": 52104
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 644,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 79,
+    "seed": 52105
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 694,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 80,
+    "seed": 52106
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 600,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 81,
+    "seed": 52107
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 690,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 82,
+    "seed": 52108
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 617,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 83,
+    "seed": 52109
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 721,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 84,
+    "seed": 52110
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 602,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 85,
+    "seed": 52111
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 638,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 86,
+    "seed": 52112
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 695,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 87,
+    "seed": 52113
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 722,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 88,
+    "seed": 52114
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 630,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 89,
+    "seed": 52115
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 579,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 90,
+    "seed": 52116
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 757,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 91,
+    "seed": 52117
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 559,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 92,
+    "seed": 52118
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 702,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 93,
+    "seed": 52119
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 718,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 94,
+    "seed": 52120
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 611,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 95,
+    "seed": 52121
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 683,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 96,
+    "seed": 52122
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 580,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 97,
+    "seed": 52123
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 609,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 98,
+    "seed": 52124
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 599,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 99,
+    "seed": 52125
+  },
+  {
+    "algorithm": "randomized_quicksort",
+    "comparisons": 688,
+    "interpretation": "Randomized pivot choice changes comparison count while preserving sorted correctness.",
+    "is_sorted": 1,
+    "n": 100,
+    "run_id": 100,
+    "seed": 52126
+  }
+]

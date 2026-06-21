@@ -1,0 +1,11 @@
+{
+  "algorithm": "randomized_quicksort",
+  "all_runs_sorted": true,
+  "interpretation": "This Las Vegas-style example preserves correctness while runtime-related comparisons vary by random choices.",
+  "max_comparisons": 791,
+  "mean_comparisons": 642.49,
+  "min_comparisons": 550,
+  "n": 100,
+  "runs": 100,
+  "std_comparisons": 52.886009
+}

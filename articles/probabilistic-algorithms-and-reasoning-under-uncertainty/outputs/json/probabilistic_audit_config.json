@@ -1,0 +1,9 @@
+{
+  "experiment_name": "probabilistic_algorithms_reasoning_under_uncertainty",
+  "loss_false_negative": 3.0,
+  "loss_false_positive": 1.0,
+  "seed": 2026,
+  "threshold": 0.6,
+  "trial_batches": 200,
+  "true_probability": 0.57
+}

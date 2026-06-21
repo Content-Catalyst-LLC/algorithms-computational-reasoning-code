@@ -1,0 +1,9 @@
+check,question,status
+probabilistic_method_defined,Is the probabilistic procedure or inference task clearly described?,complete
+random_distribution_documented,"Are random draws, distributions, and sampling assumptions documented?",complete
+seed_policy_recorded,Are random seeds recorded for reproducibility?,complete
+multi_seed_or_repeated_trials_used,Are repeated trials used to estimate variability?,complete
+error_or_uncertainty_reported,"Are error bounds, standard errors, intervals, or variability reported?",complete
+threshold_sensitivity_reviewed,Are decision thresholds tested across plausible values?,partial
+calibration_validated,Are probability estimates calibrated against observed outcomes?,needs_review
+governance_implications_documented,"Are probability outputs connected to action rules, review, appeal, and use limits?",partial

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Probabilistic Algorithm Audit Summary",
+  "type": "object",
+  "required": ["article", "true_probability", "decision_threshold", "review_items_needing_attention"],
+  "properties": {
+    "article": {"type": "string"},
+    "true_probability": {"type": "number"},
+    "decision_threshold": {"type": "number"},
+    "review_items_needing_attention": {"type": "integer"}
+  }
+}

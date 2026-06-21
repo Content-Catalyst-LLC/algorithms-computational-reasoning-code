@@ -1,0 +1,15 @@
+{
+  "article": "probabilistic_algorithms_and_reasoning_under_uncertainty",
+  "decision_threshold": 0.6,
+  "interpretation": "Probabilistic algorithm audits should record random procedure, seeds, distributions, repeated trials, error summaries, threshold effects, and governance implications.",
+  "largest_sample_mean_absolute_error": 0.01244,
+  "largest_sample_size": 1000,
+  "randomized_sort_all_runs_correct": true,
+  "randomized_sort_mean_comparisons": 642.49,
+  "review_items_needing_attention": 3,
+  "smallest_sample_mean_absolute_error": 0.0746,
+  "smallest_sample_size": 25,
+  "timestamp_utc": "2026-06-21T05:53:27.663341+00:00",
+  "trial_batches": 200,
+  "true_probability": 0.57
+}

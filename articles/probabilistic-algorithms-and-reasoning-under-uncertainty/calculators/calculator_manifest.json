@@ -1,0 +1,17 @@
+{
+  "article": "probabilistic-algorithms-and-reasoning-under-uncertainty",
+  "calculators": [
+    {
+      "name": "probability_estimation_calculator",
+      "language": "python",
+      "path": "calculators/python/model_calculator.py",
+      "functions": ["standard_error", "confidence_interval", "expected_loss", "repeated_failure_probability", "expected_value", "variance"]
+    },
+    {
+      "name": "probability_estimation_calculator_r",
+      "language": "r",
+      "path": "calculators/r/model_calculator.R",
+      "functions": ["bernoulli_standard_error", "confidence_interval", "expected_loss", "repeated_failure_probability", "expected_value", "prob_variance"]
+    }
+  ]
+}

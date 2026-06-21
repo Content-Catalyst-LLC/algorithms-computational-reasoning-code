@@ -1,0 +1,17 @@
+{
+  "confidence_interval_95": [
+    0.539314886997112,
+    0.6006851130028878
+  ],
+  "example_expected_value": 1.1,
+  "example_variance": 0.49,
+  "expected_loss_decision": {
+    "choose_action": 1,
+    "expected_loss_if_act": 0.4,
+    "expected_loss_if_do_not_act": 1.7999999999999998
+  },
+  "n": 1000,
+  "p_hat": 0.57,
+  "repeated_failure_probability": 1.0000000000000003e-05,
+  "standard_error": 0.015655669899432602
+}
