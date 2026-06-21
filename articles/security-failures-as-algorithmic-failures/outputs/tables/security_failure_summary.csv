@@ -1,0 +1,2 @@
+average_algorithmic_failure_risk,average_failure_resistance_score,case_count,failed_assumption_stress_tests,high_priority_control_gaps,highest_risk_case,interpretation,strongest_case,urgent_incident_response_gaps
+42.092,58.048,5,3,3,Prompt-to-tool boundary failure,"Security failures often reveal mismatches among assumptions, threat models, boundary controls, authorization logic, cryptographic procedures, dependencies, configuration, state, timing, logging, monitoring, incident response, lifecycle review, and governance ownership.",Signed release pipeline,1

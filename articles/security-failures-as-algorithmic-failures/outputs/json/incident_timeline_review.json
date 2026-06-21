@@ -1,0 +1,42 @@
+[
+  {
+    "contain_hours": 3,
+    "detect_hours": 6,
+    "incident": "unexpected_admin_export",
+    "remediate_hours": 36,
+    "response_gap_hours": 13,
+    "response_priority": "review",
+    "total_resolution_hours": 49,
+    "triage_hours": 4
+  },
+  {
+    "contain_hours": 12,
+    "detect_hours": 24,
+    "incident": "dependency_vulnerability",
+    "remediate_hours": 96,
+    "response_gap_hours": 44,
+    "response_priority": "urgent",
+    "total_resolution_hours": 140,
+    "triage_hours": 8
+  },
+  {
+    "contain_hours": 2,
+    "detect_hours": 12,
+    "incident": "stolen_service_token",
+    "remediate_hours": 48,
+    "response_gap_hours": 20,
+    "response_priority": "review",
+    "total_resolution_hours": 68,
+    "triage_hours": 6
+  },
+  {
+    "contain_hours": 2,
+    "detect_hours": 2,
+    "incident": "prompt_tool_boundary_attempt",
+    "remediate_hours": 24,
+    "response_gap_hours": 7,
+    "response_priority": "standard",
+    "total_resolution_hours": 31,
+    "triage_hours": 3
+  }
+]

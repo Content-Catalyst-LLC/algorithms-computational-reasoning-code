@@ -1,0 +1,11 @@
+{
+  "average_algorithmic_failure_risk": 42.092,
+  "average_failure_resistance_score": 58.048,
+  "case_count": 5,
+  "failed_assumption_stress_tests": 3,
+  "high_priority_control_gaps": 3,
+  "highest_risk_case": "Prompt-to-tool boundary failure",
+  "interpretation": "Security failures often reveal mismatches among assumptions, threat models, boundary controls, authorization logic, cryptographic procedures, dependencies, configuration, state, timing, logging, monitoring, incident response, lifecycle review, and governance ownership.",
+  "strongest_case": "Signed release pipeline",
+  "urgent_incident_response_gaps": 1
+}

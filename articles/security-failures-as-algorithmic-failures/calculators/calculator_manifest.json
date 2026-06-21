@@ -1,0 +1,23 @@
+{
+  "article": "Security Failures as Algorithmic Failures",
+  "slug": "security-failures-as-algorithmic-failures",
+  "calculators": [
+    {
+      "name": "security_failure_calculator_python",
+      "path": "calculators/python/security_failure_calculator.py",
+      "language": "python",
+      "outputs": [
+        "calculators/outputs/security_failure_calculator_result.json",
+        "calculators/outputs/security_failure_calculator_result.csv"
+      ]
+    },
+    {
+      "name": "security_failure_calculator_r",
+      "path": "calculators/r/security_failure_calculator.R",
+      "language": "r",
+      "outputs": [
+        "calculators/outputs/r_security_failure_calculator_result.csv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+control,control_gap_score,coverage,detectability,hidden_gap_score,importance,priority
+server_side_object_authorization,55.1,0.42,0.45,30.305,0.95,high
+service_account_lifecycle_review,56.32,0.36,0.52,27.034,0.88,high
+signed_artifact_verification,18.92,0.78,0.76,4.541,0.86,standard
+prompt_tool_boundary_enforcement,59.04,0.28,0.4,35.424,0.82,high
+centralized_security_logging,26.88,0.68,0.74,6.989,0.84,medium
+dependency_and_configuration_review,32.0,0.6,0.66,10.88,0.8,medium

@@ -1,0 +1,6 @@
+assumption,expected_control,interpretation,passed,result,stress_condition
+users cannot access records they do not own,object-level authorization,Assumption breaks under stress and requires remediation.,False,fail,user changes record identifier
+service tokens remain private,secret scanning and rotation,Assumption breaks under stress and requires remediation.,False,fail,token appears in logs
+downloaded model artifact is authentic,signature and hash verification,Stress condition is covered by current controls.,True,pass,artifact hash differs from signed manifest
+"external text is data, not instruction",instruction/data separation and tool authorization,Assumption breaks under stress and requires remediation.,False,fail,external content requests privileged tool call
+rate limits prevent resource exhaustion,adaptive rate limiting and anomaly detection,Stress condition is covered by current controls.,True,pass,distributed burst exceeds ordinary traffic

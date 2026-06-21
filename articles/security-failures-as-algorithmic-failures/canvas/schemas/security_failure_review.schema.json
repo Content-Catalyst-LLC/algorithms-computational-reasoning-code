@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SecurityFailureReview",
+  "type": "object",
+  "required": ["system", "protected_asset", "failure_pattern", "failed_assumption", "remediation"],
+  "properties": {
+    "system": {"type": "string"},
+    "protected_asset": {"type": "string"},
+    "failure_pattern": {"type": "string"},
+    "failed_assumption": {"type": "string"},
+    "trust_boundary": {"type": "string"},
+    "control_gap": {"type": "string"},
+    "remediation": {"type": "string"},
+    "owner": {"type": "string"},
+    "notes": {"type": "string"}
+  }
+}

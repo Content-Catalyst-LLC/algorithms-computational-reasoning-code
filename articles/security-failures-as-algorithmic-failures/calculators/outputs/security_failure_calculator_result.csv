@@ -1,0 +1,2 @@
+assumption_quality,threat_model_coverage,input_boundary_control,authorization_control,cryptographic_procedure,dependency_governance,configuration_safety,state_timing_control,logging_traceability,monitoring_detection,incident_response,lifecycle_review,governance_ownership,failure_resistance_score,algorithmic_failure_risk,authorization_control_gap_score,interpretation
+0.62,0.58,0.7,0.55,0.66,0.5,0.54,0.48,0.6,0.52,0.5,0.44,0.46,56.24,45.0,40.5,Higher failure resistance and lower residual risk indicate stronger algorithmic security reasoning.

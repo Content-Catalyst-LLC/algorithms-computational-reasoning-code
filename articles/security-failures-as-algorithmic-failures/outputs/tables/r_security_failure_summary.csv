@@ -1,0 +1,2 @@
+"case_count","average_failure_resistance_score","average_algorithmic_failure_risk","highest_risk_case","strongest_case"
+5,58.048,42.0922,"Prompt-to-tool boundary failure","Signed release pipeline"

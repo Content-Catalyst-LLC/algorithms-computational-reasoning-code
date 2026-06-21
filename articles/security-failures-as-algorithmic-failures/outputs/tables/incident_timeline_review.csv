@@ -1,0 +1,5 @@
+contain_hours,detect_hours,incident,remediate_hours,response_gap_hours,response_priority,total_resolution_hours,triage_hours
+3,6,unexpected_admin_export,36,13,review,49,4
+12,24,dependency_vulnerability,96,44,urgent,140,8
+2,12,stolen_service_token,48,20,review,68,6
+2,2,prompt_tool_boundary_attempt,24,7,standard,31,3

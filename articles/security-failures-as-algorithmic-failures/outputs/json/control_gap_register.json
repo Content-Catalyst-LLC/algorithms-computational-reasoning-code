@@ -1,0 +1,56 @@
+[
+  {
+    "control": "server_side_object_authorization",
+    "control_gap_score": 55.1,
+    "coverage": 0.42,
+    "detectability": 0.45,
+    "hidden_gap_score": 30.305,
+    "importance": 0.95,
+    "priority": "high"
+  },
+  {
+    "control": "service_account_lifecycle_review",
+    "control_gap_score": 56.32,
+    "coverage": 0.36,
+    "detectability": 0.52,
+    "hidden_gap_score": 27.034,
+    "importance": 0.88,
+    "priority": "high"
+  },
+  {
+    "control": "signed_artifact_verification",
+    "control_gap_score": 18.92,
+    "coverage": 0.78,
+    "detectability": 0.76,
+    "hidden_gap_score": 4.541,
+    "importance": 0.86,
+    "priority": "standard"
+  },
+  {
+    "control": "prompt_tool_boundary_enforcement",
+    "control_gap_score": 59.04,
+    "coverage": 0.28,
+    "detectability": 0.4,
+    "hidden_gap_score": 35.424,
+    "importance": 0.82,
+    "priority": "high"
+  },
+  {
+    "control": "centralized_security_logging",
+    "control_gap_score": 26.88,
+    "coverage": 0.68,
+    "detectability": 0.74,
+    "hidden_gap_score": 6.989,
+    "importance": 0.84,
+    "priority": "medium"
+  },
+  {
+    "control": "dependency_and_configuration_review",
+    "control_gap_score": 32.0,
+    "coverage": 0.6,
+    "detectability": 0.66,
+    "hidden_gap_score": 10.88,
+    "importance": 0.8,
+    "priority": "medium"
+  }
+]

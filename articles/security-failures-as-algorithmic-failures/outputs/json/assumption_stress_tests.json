@@ -1,0 +1,42 @@
+[
+  {
+    "assumption": "users cannot access records they do not own",
+    "expected_control": "object-level authorization",
+    "interpretation": "Assumption breaks under stress and requires remediation.",
+    "passed": false,
+    "result": "fail",
+    "stress_condition": "user changes record identifier"
+  },
+  {
+    "assumption": "service tokens remain private",
+    "expected_control": "secret scanning and rotation",
+    "interpretation": "Assumption breaks under stress and requires remediation.",
+    "passed": false,
+    "result": "fail",
+    "stress_condition": "token appears in logs"
+  },
+  {
+    "assumption": "downloaded model artifact is authentic",
+    "expected_control": "signature and hash verification",
+    "interpretation": "Stress condition is covered by current controls.",
+    "passed": true,
+    "result": "pass",
+    "stress_condition": "artifact hash differs from signed manifest"
+  },
+  {
+    "assumption": "external text is data, not instruction",
+    "expected_control": "instruction/data separation and tool authorization",
+    "interpretation": "Assumption breaks under stress and requires remediation.",
+    "passed": false,
+    "result": "fail",
+    "stress_condition": "external content requests privileged tool call"
+  },
+  {
+    "assumption": "rate limits prevent resource exhaustion",
+    "expected_control": "adaptive rate limiting and anomaly detection",
+    "interpretation": "Stress condition is covered by current controls.",
+    "passed": true,
+    "result": "pass",
+    "stress_condition": "distributed burst exceeds ordinary traffic"
+  }
+]

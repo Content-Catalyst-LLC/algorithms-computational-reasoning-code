@@ -1,0 +1,19 @@
+{
+  "algorithmic_failure_risk": 45.0,
+  "assumption_quality": 0.62,
+  "authorization_control": 0.55,
+  "authorization_control_gap_score": 40.5,
+  "configuration_safety": 0.54,
+  "cryptographic_procedure": 0.66,
+  "dependency_governance": 0.5,
+  "failure_resistance_score": 56.24,
+  "governance_ownership": 0.46,
+  "incident_response": 0.5,
+  "input_boundary_control": 0.7,
+  "interpretation": "Higher failure resistance and lower residual risk indicate stronger algorithmic security reasoning.",
+  "lifecycle_review": 0.44,
+  "logging_traceability": 0.6,
+  "monitoring_detection": 0.52,
+  "state_timing_control": 0.48,
+  "threat_model_coverage": 0.58
+}
