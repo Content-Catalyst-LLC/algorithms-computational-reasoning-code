@@ -1,0 +1,7 @@
+{
+  "agent_definition": "Agents are simplified computational entities with attributes, local information, and decision rules.",
+  "rule": "Movement occurs when local neighborhood satisfaction falls below tolerance.",
+  "environment": "A finite grid with empty cells, neighborhoods, and stochastic update order.",
+  "emergent_metric": "Clustering score and satisfaction rate summarize system-level patterns.",
+  "governance_note": "Emergent patterns are conditional on simplified rules, parameters, seeds, and validation evidence."
+}

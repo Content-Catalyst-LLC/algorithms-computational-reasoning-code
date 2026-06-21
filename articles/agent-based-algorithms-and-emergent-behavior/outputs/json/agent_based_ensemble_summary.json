@@ -1,0 +1,38 @@
+[
+  {
+    "interpretation": "Repeated-seed ensembles show how emergent patterns vary across stochastic initial conditions.",
+    "mean_final_clustering_score": 0.685814,
+    "mean_final_satisfaction_rate": 1.0,
+    "runs": 15,
+    "std_final_clustering_score": 0.023939,
+    "std_final_satisfaction_rate": 0.0,
+    "tolerance": 0.25
+  },
+  {
+    "interpretation": "Repeated-seed ensembles show how emergent patterns vary across stochastic initial conditions.",
+    "mean_final_clustering_score": 0.844048,
+    "mean_final_satisfaction_rate": 1.0,
+    "runs": 15,
+    "std_final_clustering_score": 0.021798,
+    "std_final_satisfaction_rate": 0.0,
+    "tolerance": 0.35
+  },
+  {
+    "interpretation": "Repeated-seed ensembles show how emergent patterns vary across stochastic initial conditions.",
+    "mean_final_clustering_score": 0.896335,
+    "mean_final_satisfaction_rate": 1.0,
+    "runs": 15,
+    "std_final_clustering_score": 0.017396,
+    "std_final_satisfaction_rate": 0.0,
+    "tolerance": 0.45
+  },
+  {
+    "interpretation": "Repeated-seed ensembles show how emergent patterns vary across stochastic initial conditions.",
+    "mean_final_clustering_score": 0.946985,
+    "mean_final_satisfaction_rate": 0.998095,
+    "runs": 15,
+    "std_final_clustering_score": 0.010995,
+    "std_final_satisfaction_rate": 0.004617,
+    "tolerance": 0.55
+  }
+]

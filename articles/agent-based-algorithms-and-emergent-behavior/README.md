@@ -1,37 +1,32 @@
-# Agent-Based Algorithms and Emergent Behavior (planned)
+# Agent-Based Algorithms and Emergent Behavior
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Simulation, Modeling, and Scientific Computing  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Agent-Based Algorithms and Emergent Behavior**.
 
-## Purpose
+It treats agent-based algorithms as reproducible computational reasoning about local rules, interacting agents, environments, stochastic updates, thresholds, adaptation, repeated simulation, and emergent system-level behavior.
 
-This folder will hold computational companion materials for the planned article:
-**Agent-Based Algorithms and Emergent Behavior**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `monte-carlo-methods-and-computational-uncertainty`
+- Current: `agent-based-algorithms-and-emergent-behavior`
+- Next: `computational-experiments-and-reproducible-workflows`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## Included layers
 
-## Notes
+- `python/` — dependency-light agent-based simulation audit
+- `r/` — base R summaries and diagnostic figures
+- `calculators/` — self-contained calculator scripts for small agent-based scenarios
+- `sql/` — schema for agents, simulation runs, metrics, and review records
+- `julia/`, `haskell/`, `rust/`, `go/`, `c/`, `cpp/`, `fortran/`, `java/`, `typescript/`, `prolog/`, `racket/` — multilingual computational scaffolds
+- `docs/` — article metadata, navigation, and review checklist
+- `data/` — small synthetic parameter table
+- `outputs/` — generated tables, JSON summaries, and figures
+- `canvas/` — Canvas-ready schema/card artifacts
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+## Quick start
+
+```bash
+bash run_article_workflows.sh
+bash run_optional_language_checks.sh
+```
+
+The workflows are educational, synthetic, reproducible, and designed for transparent computational review rather than production forecasting.

@@ -1,0 +1,42 @@
+[
+  {
+    "check": "agent_definition_documented",
+    "question": "Are agents, attributes, and boundaries defined clearly?",
+    "status": "complete"
+  },
+  {
+    "check": "behavioral_rules_justified",
+    "question": "Are agent rules tied to theory, evidence, or explicit modeling purpose?",
+    "status": "complete"
+  },
+  {
+    "check": "environment_structure_documented",
+    "question": "Is the grid, network, space, or institution described?",
+    "status": "complete"
+  },
+  {
+    "check": "interaction_rules_reviewed",
+    "question": "Are neighborhoods, contacts, links, or exchange rules explicit?",
+    "status": "complete"
+  },
+  {
+    "check": "stochasticity_and_seeds_recorded",
+    "question": "Are random seeds, sample size, and repeated runs documented?",
+    "status": "complete"
+  },
+  {
+    "check": "sensitivity_analysis_performed",
+    "question": "Are key parameters varied and compared?",
+    "status": "complete"
+  },
+  {
+    "check": "validation_evidence_linked",
+    "question": "Are outputs compared with observed patterns, theory, benchmarks, or expert expectations?",
+    "status": "partial"
+  },
+  {
+    "check": "representation_limits_stated",
+    "question": "Are limits of agent simplification and emergent interpretation communicated?",
+    "status": "complete"
+  }
+]

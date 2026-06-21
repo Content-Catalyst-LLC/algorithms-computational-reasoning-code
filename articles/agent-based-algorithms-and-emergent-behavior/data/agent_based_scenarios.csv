@@ -1,0 +1,5 @@
+scenario_id,scenario_name,grid_size,agents_per_group,tolerance,empty_fraction,steps,seeds,interpretation
+baseline,baseline local satisfaction,24,210,0.35,0.20,40,15,Reference scenario for local movement and clustering.
+low_tolerance,low tolerance interaction,24,210,0.25,0.20,40,15,Tests weaker neighborhood satisfaction thresholds.
+high_tolerance,high tolerance interaction,24,210,0.55,0.20,40,15,Tests stronger neighborhood satisfaction thresholds.
+more_empty_space,more empty cells,24,180,0.35,0.30,40,15,Tests mobility under more available relocation space.

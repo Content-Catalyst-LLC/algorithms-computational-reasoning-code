@@ -1,0 +1,9 @@
+check,question,status
+agent_definition_documented,"Are agents, attributes, and boundaries defined clearly?",complete
+behavioral_rules_justified,"Are agent rules tied to theory, evidence, or explicit modeling purpose?",complete
+environment_structure_documented,"Is the grid, network, space, or institution described?",complete
+interaction_rules_reviewed,"Are neighborhoods, contacts, links, or exchange rules explicit?",complete
+stochasticity_and_seeds_recorded,"Are random seeds, sample size, and repeated runs documented?",complete
+sensitivity_analysis_performed,Are key parameters varied and compared?,complete
+validation_evidence_linked,"Are outputs compared with observed patterns, theory, benchmarks, or expert expectations?",partial
+representation_limits_stated,Are limits of agent simplification and emergent interpretation communicated?,complete

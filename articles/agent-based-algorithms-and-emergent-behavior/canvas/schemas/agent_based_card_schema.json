@@ -1,0 +1,12 @@
+{
+  "title": "Agent-Based Algorithms and Emergent Behavior",
+  "type": "object",
+  "properties": {
+    "agent_definition": {"type": "string"},
+    "rule": {"type": "string"},
+    "environment": {"type": "string"},
+    "emergent_metric": {"type": "string"},
+    "governance_note": {"type": "string"}
+  },
+  "required": ["agent_definition", "rule", "environment", "emergent_metric", "governance_note"]
+}

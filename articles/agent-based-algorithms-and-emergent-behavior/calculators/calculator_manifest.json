@@ -1,0 +1,15 @@
+{
+  "article": "Agent-Based Algorithms and Emergent Behavior",
+  "calculators": [
+    {
+      "language": "python",
+      "path": "calculators/python/agent_based_calculator.py",
+      "purpose": "Threshold adoption calculator for local rules and emergent diffusion."
+    },
+    {
+      "language": "r",
+      "path": "calculators/r/model_calculator.R",
+      "purpose": "Base R threshold adoption calculator."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Agent-Based Algorithms and Emergent Behavior",
+  "slug": "agent-based-algorithms-and-emergent-behavior",
+  "series": "Algorithms & Computational Reasoning",
+  "previous_article": "monte-carlo-methods-and-computational-uncertainty",
+  "next_article": "computational-experiments-and-reproducible-workflows",
+  "focus_keyword": "agent-based algorithms and emergent behavior",
+  "description": "Agent-based algorithms model local rules, interacting agents, environments, feedback, thresholds, stochastic updates, and repeated simulation to examine emergent system-level behavior.",
+  "repository_folder": "articles/agent-based-algorithms-and-emergent-behavior",
+  "canonical_url": "https://sustainablecatalyst.com/agent-based-algorithms-and-emergent-behavior/"
+}

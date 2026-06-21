@@ -1,0 +1,602 @@
+[
+  {
+    "agents": 420,
+    "final_clustering_score": 0.638515,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 1,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.692809,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 2,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.718795,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 3,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.651755,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 4,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.689084,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 5,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.660686,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 6,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.729799,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 7,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.665493,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 8,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.685768,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 9,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.691499,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 10,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.682015,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 11,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.685391,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 12,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.695731,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 13,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.683685,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 14,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.716188,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 15,
+    "steps": 40,
+    "tolerance": 0.25
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.872514,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 1,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.838861,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 2,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.810825,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 3,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.808943,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 4,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.842917,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 5,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.849538,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 6,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.887585,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 7,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.841185,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 8,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.877602,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 9,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.831355,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 10,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.843158,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 11,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.829504,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 12,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.828611,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 13,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.859816,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 14,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.838308,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 15,
+    "steps": 40,
+    "tolerance": 0.35
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.933696,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 1,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.878041,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 2,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.922993,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 3,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.896465,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 4,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.891576,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 5,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.868328,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 6,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.884779,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 7,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.905278,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 8,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.920383,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 9,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.8868,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 10,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.887897,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 11,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.895014,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 12,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.904368,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 13,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.884552,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 14,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.884855,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 15,
+    "steps": 40,
+    "tolerance": 0.45
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.960663,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 1,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.926658,
+    "final_satisfaction_rate": 0.983333,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 2,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.934711,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 3,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.947772,
+    "final_satisfaction_rate": 0.990476,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 4,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.94252,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 5,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.957868,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 6,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.962262,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 7,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.940887,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 8,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.956003,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 9,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.955,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 10,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.932622,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 11,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.951179,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 12,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.932146,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 13,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.954223,
+    "final_satisfaction_rate": 1.0,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 14,
+    "steps": 40,
+    "tolerance": 0.55
+  },
+  {
+    "agents": 420,
+    "final_clustering_score": 0.950261,
+    "final_satisfaction_rate": 0.997619,
+    "grid_size": 24,
+    "interpretation": "Emergent pattern depends on local rules, stochastic update order, empty space, tolerance, and initial arrangement.",
+    "seed": 15,
+    "steps": 40,
+    "tolerance": 0.55
+  }
+]

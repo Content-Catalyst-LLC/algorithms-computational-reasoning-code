@@ -1,0 +1,14 @@
+{
+  "previous": {
+    "title": "Monte Carlo Methods and Computational Uncertainty",
+    "slug": "monte-carlo-methods-and-computational-uncertainty"
+  },
+  "current": {
+    "title": "Agent-Based Algorithms and Emergent Behavior",
+    "slug": "agent-based-algorithms-and-emergent-behavior"
+  },
+  "next": {
+    "title": "Computational Experiments and Reproducible Workflows",
+    "slug": "computational-experiments-and-reproducible-workflows"
+  }
+}

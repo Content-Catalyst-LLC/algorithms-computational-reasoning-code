@@ -1,0 +1,2 @@
+highest_observed_clustering_score,highest_observed_clustering_seed,highest_observed_clustering_tolerance,interpretation,review_items_needing_attention,simulation_runs,tolerance_levels
+0.962262,7,0.55,"Agent-based emergence should be reviewed through local rules, environment structure, repeated seeds, parameter sweeps, validation evidence, and representation limits.",1,60,4
