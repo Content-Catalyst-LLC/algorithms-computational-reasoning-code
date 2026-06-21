@@ -1,0 +1,4 @@
+train_error=0.040000
+test_error=0.090000
+generalization_gap=0.050000
+test_to_train_ratio=2.250000

@@ -1,0 +1,9 @@
+count,group,interpretation,mean_absolute_residual,mean_residual,residual_sd,split
+26,lower_region,Residual patterns can reveal regions where error is systematic rather than random.,0.177209,-0.022081,0.210965,train
+22,upper_region,Residual patterns can reveal regions where error is systematic rather than random.,0.164931,-0.009158,0.2084,train
+42,middle_region,Residual patterns can reveal regions where error is systematic rather than random.,0.188973,0.018471,0.238852,train
+105,middle_region,Residual patterns can reveal regions where error is systematic rather than random.,0.201325,0.016789,0.246972,test
+79,upper_region,Residual patterns can reveal regions where error is systematic rather than random.,0.186517,0.036792,0.225877,test
+116,lower_region,Residual patterns can reveal regions where error is systematic rather than random.,0.180884,-0.003779,0.221153,test
+139,upper_region,Residual patterns can reveal regions where error is systematic rather than random.,0.257031,0.123058,0.29905,shifted_test
+161,middle_region,Residual patterns can reveal regions where error is systematic rather than random.,0.226046,-0.033801,0.284092,shifted_test

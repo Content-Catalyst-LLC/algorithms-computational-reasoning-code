@@ -1,0 +1,14 @@
+degree,gap_mse,interpretation,test_mse,train_mse
+0,0.033237,Validation curves compare model complexity with train and held-out error.,0.524002,0.490765
+1,0.007677,Validation curves compare model complexity with train and held-out error.,0.132677,0.125
+2,0.004791,Validation curves compare model complexity with train and held-out error.,0.055146,0.050354
+3,0.003356,Validation curves compare model complexity with train and held-out error.,0.057444,0.054087
+4,0.002099,Validation curves compare model complexity with train and held-out error.,0.057793,0.055695
+5,0.001625,Validation curves compare model complexity with train and held-out error.,0.063509,0.061884
+6,0.000772,Validation curves compare model complexity with train and held-out error.,0.064284,0.063512
+7,0.000887,Validation curves compare model complexity with train and held-out error.,0.063467,0.062579
+8,0.000332,Validation curves compare model complexity with train and held-out error.,0.064441,0.06411
+9,0.000425,Validation curves compare model complexity with train and held-out error.,0.063467,0.063041
+10,0.000124,Validation curves compare model complexity with train and held-out error.,0.064066,0.063942
+11,0.000185,Validation curves compare model complexity with train and held-out error.,0.063386,0.063201
+12,8.5e-05,Validation curves compare model complexity with train and held-out error.,0.063674,0.063589

@@ -1,0 +1,9 @@
+{
+  "article": "Overfitting, Underfitting, and Model Error",
+  "calculators": [
+    {"name": "Generalization gap calculator", "path": "calculators/python/generalization_gap_calculator.py"},
+    {"name": "Bias variance error calculator", "path": "calculators/python/bias_variance_error_calculator.py"},
+    {"name": "Regularization review calculator", "path": "calculators/python/regularization_review_calculator.py"},
+    {"name": "R model error calculator", "path": "calculators/r/model_error_calculator.R"}
+  ]
+}

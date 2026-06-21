@@ -1,0 +1,4 @@
+unregularized_test_error=0.130000
+regularized_test_error=0.090000
+absolute_improvement=0.040000
+percent_improvement=30.77

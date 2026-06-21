@@ -1,0 +1,74 @@
+[
+  {
+    "count": 26,
+    "group": "lower_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.177209,
+    "mean_residual": -0.022081,
+    "residual_sd": 0.210965,
+    "split": "train"
+  },
+  {
+    "count": 22,
+    "group": "upper_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.164931,
+    "mean_residual": -0.009158,
+    "residual_sd": 0.2084,
+    "split": "train"
+  },
+  {
+    "count": 42,
+    "group": "middle_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.188973,
+    "mean_residual": 0.018471,
+    "residual_sd": 0.238852,
+    "split": "train"
+  },
+  {
+    "count": 105,
+    "group": "middle_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.201325,
+    "mean_residual": 0.016789,
+    "residual_sd": 0.246972,
+    "split": "test"
+  },
+  {
+    "count": 79,
+    "group": "upper_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.186517,
+    "mean_residual": 0.036792,
+    "residual_sd": 0.225877,
+    "split": "test"
+  },
+  {
+    "count": 116,
+    "group": "lower_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.180884,
+    "mean_residual": -0.003779,
+    "residual_sd": 0.221153,
+    "split": "test"
+  },
+  {
+    "count": 139,
+    "group": "upper_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.257031,
+    "mean_residual": 0.123058,
+    "residual_sd": 0.29905,
+    "split": "shifted_test"
+  },
+  {
+    "count": 161,
+    "group": "middle_region",
+    "interpretation": "Residual patterns can reveal regions where error is systematic rather than random.",
+    "mean_absolute_residual": 0.226046,
+    "mean_residual": -0.033801,
+    "residual_sd": 0.284092,
+    "split": "shifted_test"
+  }
+]

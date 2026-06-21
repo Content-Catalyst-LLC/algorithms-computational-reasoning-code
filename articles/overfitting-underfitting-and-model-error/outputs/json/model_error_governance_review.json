@@ -1,0 +1,32 @@
+[
+  {
+    "evidence": "Lowest test MSE in synthetic audit: moderate_polynomial",
+    "review_item": "model_selection_boundary",
+    "review_question": "Was the model selected through a valid validation process rather than repeated test-set probing?",
+    "status": "needs_documentation"
+  },
+  {
+    "evidence": "Generalization gaps are reported for each model complexity level.",
+    "review_item": "overfitting_check",
+    "review_question": "Does a high-capacity model perform substantially better on training data than held-out data?",
+    "status": "complete"
+  },
+  {
+    "evidence": "Constant and linear baselines are included for low-capacity comparison.",
+    "review_item": "underfitting_check",
+    "review_question": "Does the model fail to learn stable structure visible in the data?",
+    "status": "complete"
+  },
+  {
+    "evidence": "Shifted-test performance is reported separately from ordinary test performance.",
+    "review_item": "shift_review",
+    "review_question": "Would future deployment cases differ from training and test data?",
+    "status": "needs_review"
+  },
+  {
+    "evidence": "Synthetic workflow cannot establish operational reliability.",
+    "review_item": "use_boundary",
+    "review_question": "Where should model-error evidence not be generalized?",
+    "status": "needs_review"
+  }
+]

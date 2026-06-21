@@ -1,0 +1,9 @@
+item,description,review_question
+model_complexity,The capacity of a model to fit patterns and noise,Is complexity justified by held-out evidence?
+underfitting,Failure to learn enough structure from the data,Does the model perform poorly on both training and test cases?
+overfitting,Learning noise or accidental sample detail,Is training performance much stronger than held-out performance?
+generalization_gap,Difference between fitted and held-out performance,How large is the gap between train and test error?
+regularization,A constraint or penalty that discourages excessive complexity,Does regularization improve held-out reliability?
+residual_error,The part of outcomes not explained by the model,Are errors patterned by region group or scenario?
+distribution_shift,Performance change when future cases differ from development data,Does shifted-test performance reveal deployment fragility?
+use_boundary,Limits on where model-error evidence applies,Where should this model not be trusted?

@@ -1,0 +1,2 @@
+article,best_test_model,best_test_mse,interpretation,largest_generalization_gap_model,largest_generalization_gap_mse,model_count,models_flagged_for_review,shifted_test_n,test_n,timestamp_utc,train_n
+overfitting_underfitting_and_model_error,moderate_polynomial,0.054156,"Model error review should compare underfitting, overfitting, regularization, residual patterns, and shifted-test fragility before trusting model performance claims.",constant_underfit,0.033237,5,4,300,300,2026-06-21T09:47:21.946790+00:00,90

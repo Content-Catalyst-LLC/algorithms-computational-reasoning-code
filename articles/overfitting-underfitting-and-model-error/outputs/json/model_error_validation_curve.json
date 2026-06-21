@@ -1,0 +1,93 @@
+[
+  {
+    "degree": 0,
+    "gap_mse": 0.033237,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.524002,
+    "train_mse": 0.490765
+  },
+  {
+    "degree": 1,
+    "gap_mse": 0.007677,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.132677,
+    "train_mse": 0.125
+  },
+  {
+    "degree": 2,
+    "gap_mse": 0.004791,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.055146,
+    "train_mse": 0.050354
+  },
+  {
+    "degree": 3,
+    "gap_mse": 0.003356,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.057444,
+    "train_mse": 0.054087
+  },
+  {
+    "degree": 4,
+    "gap_mse": 0.002099,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.057793,
+    "train_mse": 0.055695
+  },
+  {
+    "degree": 5,
+    "gap_mse": 0.001625,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.063509,
+    "train_mse": 0.061884
+  },
+  {
+    "degree": 6,
+    "gap_mse": 0.000772,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.064284,
+    "train_mse": 0.063512
+  },
+  {
+    "degree": 7,
+    "gap_mse": 0.000887,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.063467,
+    "train_mse": 0.062579
+  },
+  {
+    "degree": 8,
+    "gap_mse": 0.000332,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.064441,
+    "train_mse": 0.06411
+  },
+  {
+    "degree": 9,
+    "gap_mse": 0.000425,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.063467,
+    "train_mse": 0.063041
+  },
+  {
+    "degree": 10,
+    "gap_mse": 0.000124,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.064066,
+    "train_mse": 0.063942
+  },
+  {
+    "degree": 11,
+    "gap_mse": 0.000185,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.063386,
+    "train_mse": 0.063201
+  },
+  {
+    "degree": 12,
+    "gap_mse": 8.5e-05,
+    "interpretation": "Validation curves compare model complexity with train and held-out error.",
+    "test_mse": 0.063674,
+    "train_mse": 0.063589
+  }
+]

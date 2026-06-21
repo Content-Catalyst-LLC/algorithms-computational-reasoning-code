@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ModelErrorAudit",
+  "type": "object",
+  "required": ["model_name", "train_mse", "test_mse", "generalization_gap_mse"],
+  "properties": {
+    "model_name": {"type": "string"},
+    "train_mse": {"type": "number"},
+    "test_mse": {"type": "number"},
+    "generalization_gap_mse": {"type": "number"},
+    "pattern_classification": {"type": "string"}
+  }
+}

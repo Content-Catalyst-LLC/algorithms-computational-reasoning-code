@@ -1,0 +1,20 @@
+{
+  "title": "Overfitting, Underfitting, and Model Error",
+  "slug": "overfitting-underfitting-and-model-error",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "training-testing-and-generalization",
+  "next": "neural-networks-and-representation-learning",
+  "repo_folder": "articles/overfitting-underfitting-and-model-error",
+  "topics": [
+    "overfitting",
+    "underfitting",
+    "model error",
+    "bias variance tradeoff",
+    "validation curves",
+    "learning curves",
+    "regularization",
+    "generalization gap",
+    "distribution shift",
+    "model governance"
+  ]
+}

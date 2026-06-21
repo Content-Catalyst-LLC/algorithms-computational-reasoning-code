@@ -1,0 +1,42 @@
+[
+  {
+    "gap_mse": 0.019352,
+    "interpretation": "Learning curves show whether more data appears to reduce held-out error or close the generalization gap.",
+    "model_name": "moderate_polynomial",
+    "test_mse": 0.064175,
+    "train_mse": 0.044823,
+    "train_size": 20
+  },
+  {
+    "gap_mse": -0.003359,
+    "interpretation": "Learning curves show whether more data appears to reduce held-out error or close the generalization gap.",
+    "model_name": "moderate_polynomial",
+    "test_mse": 0.059329,
+    "train_mse": 0.062688,
+    "train_size": 35
+  },
+  {
+    "gap_mse": 0.004848,
+    "interpretation": "Learning curves show whether more data appears to reduce held-out error or close the generalization gap.",
+    "model_name": "moderate_polynomial",
+    "test_mse": 0.059266,
+    "train_mse": 0.054419,
+    "train_size": 50
+  },
+  {
+    "gap_mse": -0.000528,
+    "interpretation": "Learning curves show whether more data appears to reduce held-out error or close the generalization gap.",
+    "model_name": "moderate_polynomial",
+    "test_mse": 0.05829,
+    "train_mse": 0.058818,
+    "train_size": 70
+  },
+  {
+    "gap_mse": 0.002099,
+    "interpretation": "Learning curves show whether more data appears to reduce held-out error or close the generalization gap.",
+    "model_name": "moderate_polynomial",
+    "test_mse": 0.057793,
+    "train_mse": 0.055695,
+    "train_size": 90
+  }
+]

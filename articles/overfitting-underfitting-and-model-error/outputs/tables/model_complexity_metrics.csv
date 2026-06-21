@@ -1,0 +1,6 @@
+degree,generalization_gap_mse,interpretation,model_name,pattern_classification,ridge_penalty,shift_penalty_mse,shifted_test_mse,test_mae,test_mse,train_mae,train_mse,weight_count
+0,0.033237,Very low capacity; useful for showing underfitting.,constant_underfit,underfitting_risk,0.0,-0.20081,0.323193,0.596439,0.524002,0.583431,0.490765,1
+1,0.007679,Low capacity; misses curvature and periodic structure.,linear_underfit,underfitting_risk,0.0,0.029232,0.16191,0.300918,0.132678,0.289198,0.125,2
+4,0.003738,Moderate capacity intended to capture stable structure.,moderate_polynomial,comparatively_stable,0.0,0.038223,0.092379,0.189522,0.054156,0.179697,0.050418,5
+12,0.003239,High capacity; can follow sample noise and unstable edges.,high_degree_overfit,overfitting_or_shift_risk,0.0,0.078724,0.134006,0.190591,0.055282,0.181597,0.052043,13
+12,0.001951,High capacity constrained by ridge regularization.,regularized_high_degree,overfitting_or_shift_risk,0.02,0.059664,0.119922,0.197271,0.060257,0.187245,0.058306,13

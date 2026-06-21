@@ -1,0 +1,4 @@
+bias_squared=0.040000
+variance=0.040000
+irreducible_error=0.020000
+total_expected_error=0.100000

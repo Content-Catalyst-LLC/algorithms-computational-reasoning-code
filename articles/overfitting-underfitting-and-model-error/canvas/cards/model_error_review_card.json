@@ -1,0 +1,11 @@
+{
+  "title": "Overfitting, Underfitting, and Model Error Review",
+  "article": "Overfitting, Underfitting, and Model Error",
+  "checks": [
+    "Compare low-capacity and high-capacity models",
+    "Report train/test/shifted-test error separately",
+    "Inspect generalization gaps and residual patterns",
+    "Review regularization and validation curves",
+    "Document use boundaries before deployment"
+  ]
+}

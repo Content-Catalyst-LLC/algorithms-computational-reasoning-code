@@ -1,0 +1,9 @@
+{
+  "epochs": 900,
+  "experiment_name": "overfitting_underfitting_model_error_audit",
+  "learning_rate": 0.03,
+  "seed": 2026,
+  "shifted_test_n": 300,
+  "test_n": 300,
+  "train_n": 90
+}
