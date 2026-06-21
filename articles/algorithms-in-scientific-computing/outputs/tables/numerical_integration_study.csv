@@ -1,0 +1,7 @@
+absolute_error,estimate,interpretation,interval_end,interval_start,method,subintervals,true_value
+0.016476462491,1.983523537509,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,10,2.0
+0.004114027291,1.995885972709,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,20,2.0
+0.000658016924,1.999341983076,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,50,2.0
+0.000164496113,1.999835503887,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,100,2.0
+4.1123521e-05,1.999958876479,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,200,2.0
+6.579741e-06,1.999993420259,Numerical integration improves as resolution increases for this smooth example.,3.141592653589793,0.0,trapezoid_rule,500,2.0

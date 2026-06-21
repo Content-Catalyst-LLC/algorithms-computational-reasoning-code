@@ -1,0 +1,11 @@
+absolute_error,estimate,interpretation,method,step_size,true_value
+0.042938553333,0.497363752535,Derivative approximation error depends on method and step size.,forward_difference,0.1,0.540302305868
+0.000900053698,0.53940225217,Derivative approximation error depends on method and step size.,central_difference,0.1,0.540302305868
+0.004216324856,0.536085981012,Derivative approximation error depends on method and step size.,forward_difference,0.01,0.540302305868
+9.004993e-06,0.540293300875,Derivative approximation error depends on method and step size.,central_difference,0.01,0.540302305868
+0.000420825508,0.53988148036,Derivative approximation error depends on method and step size.,forward_difference,0.001,0.540302305868
+9.005e-08,0.540302215818,Derivative approximation error depends on method and step size.,central_difference,0.001,0.540302305868
+4.207445e-05,0.540260231419,Derivative approximation error depends on method and step size.,forward_difference,0.0001,0.540302305868
+9e-10,0.540302304968,Derivative approximation error depends on method and step size.,central_difference,0.0001,0.540302305868
+4.207362e-06,0.540298098506,Derivative approximation error depends on method and step size.,forward_difference,1e-05,0.540302305868
+1.1e-11,0.540302305857,Derivative approximation error depends on method and step size.,central_difference,1e-05,0.540302305868

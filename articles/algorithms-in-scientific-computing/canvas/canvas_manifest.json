@@ -1,0 +1,14 @@
+{
+  "article": "Algorithms in Scientific Computing",
+  "slug": "algorithms-in-scientific-computing",
+  "cards": [
+    "approximation_and_discretization",
+    "convergence_and_error",
+    "scientific_workflow_governance"
+  ],
+  "exports": [
+    "scientific_computing_audit_summary.csv",
+    "finite_difference_derivative_study.csv",
+    "ode_convergence_study.csv"
+  ]
+}

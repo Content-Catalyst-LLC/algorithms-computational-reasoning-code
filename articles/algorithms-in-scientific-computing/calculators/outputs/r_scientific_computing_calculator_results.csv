@@ -1,0 +1,10 @@
+"calculator","metric","value"
+"finite_difference_derivative","estimate",0.54030230496771
+"finite_difference_derivative","true_value",0.54030230586814
+"finite_difference_derivative","absolute_error",9.00429508732259e-10
+"trapezoid_integral","estimate",1.99995887647922
+"trapezoid_integral","true_value",2
+"trapezoid_integral","absolute_error",4.11235207837812e-05
+"monte_carlo_pi","estimate",3.15
+"monte_carlo_pi","true_value",3.14159265358979
+"monte_carlo_pi","absolute_error",0.0084073464102068

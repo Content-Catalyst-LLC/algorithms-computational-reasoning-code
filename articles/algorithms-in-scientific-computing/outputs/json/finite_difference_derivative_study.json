@@ -1,0 +1,82 @@
+[
+  {
+    "absolute_error": 0.042938553333,
+    "estimate": 0.497363752535,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "forward_difference",
+    "step_size": 0.1,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 0.000900053698,
+    "estimate": 0.53940225217,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "central_difference",
+    "step_size": 0.1,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 0.004216324856,
+    "estimate": 0.536085981012,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "forward_difference",
+    "step_size": 0.01,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 9.004993e-06,
+    "estimate": 0.540293300875,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "central_difference",
+    "step_size": 0.01,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 0.000420825508,
+    "estimate": 0.53988148036,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "forward_difference",
+    "step_size": 0.001,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 9.005e-08,
+    "estimate": 0.540302215818,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "central_difference",
+    "step_size": 0.001,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 4.207445e-05,
+    "estimate": 0.540260231419,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "forward_difference",
+    "step_size": 0.0001,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 9e-10,
+    "estimate": 0.540302304968,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "central_difference",
+    "step_size": 0.0001,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 4.207362e-06,
+    "estimate": 0.540298098506,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "forward_difference",
+    "step_size": 1e-05,
+    "true_value": 0.540302305868
+  },
+  {
+    "absolute_error": 1.1e-11,
+    "estimate": 0.540302305857,
+    "interpretation": "Derivative approximation error depends on method and step size.",
+    "method": "central_difference",
+    "step_size": 1e-05,
+    "true_value": 0.540302305868
+  }
+]

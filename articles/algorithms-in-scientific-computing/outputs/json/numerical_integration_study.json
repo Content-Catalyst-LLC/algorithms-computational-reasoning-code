@@ -1,0 +1,62 @@
+[
+  {
+    "absolute_error": 0.016476462491,
+    "estimate": 1.983523537509,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 10,
+    "true_value": 2.0
+  },
+  {
+    "absolute_error": 0.004114027291,
+    "estimate": 1.995885972709,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 20,
+    "true_value": 2.0
+  },
+  {
+    "absolute_error": 0.000658016924,
+    "estimate": 1.999341983076,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 50,
+    "true_value": 2.0
+  },
+  {
+    "absolute_error": 0.000164496113,
+    "estimate": 1.999835503887,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 100,
+    "true_value": 2.0
+  },
+  {
+    "absolute_error": 4.1123521e-05,
+    "estimate": 1.999958876479,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 200,
+    "true_value": 2.0
+  },
+  {
+    "absolute_error": 6.579741e-06,
+    "estimate": 1.999993420259,
+    "interpretation": "Numerical integration improves as resolution increases for this smooth example.",
+    "interval_end": 3.141592653589793,
+    "interval_start": 0.0,
+    "method": "trapezoid_rule",
+    "subintervals": 500,
+    "true_value": 2.0
+  }
+]

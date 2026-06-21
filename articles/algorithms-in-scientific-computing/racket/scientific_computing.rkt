@@ -1,0 +1,12 @@
+#lang racket
+(define (f x) (sin x))
+(define (central-difference x h) (/ (- (f (+ x h)) (f (- x h))) (* 2 h)))
+(define (trapezoid n)
+  (define a 0.0)
+  (define b pi)
+  (define h (/ (- b a) n))
+  (define total (+ (* 0.5 (+ (f a) (f b)))
+                   (for/sum ([i (in-range 1 n)]) (f (+ a (* i h))))))
+  (* h total))
+(displayln (list 'central-difference (central-difference 1.0 1e-4)))
+(displayln (list 'trapezoid-integral (trapezoid 200)))

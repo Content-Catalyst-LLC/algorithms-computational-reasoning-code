@@ -1,0 +1,422 @@
+[
+  {
+    "absolute_error": 0.0584073464,
+    "pi_estimate": 3.2,
+    "samples": 100,
+    "seed": 1,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1415926536,
+    "pi_estimate": 3.0,
+    "samples": 100,
+    "seed": 2,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1415926536,
+    "pi_estimate": 3.0,
+    "samples": 100,
+    "seed": 3,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.3015926536,
+    "pi_estimate": 2.84,
+    "samples": 100,
+    "seed": 4,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.2615926536,
+    "pi_estimate": 2.88,
+    "samples": 100,
+    "seed": 5,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1415926536,
+    "pi_estimate": 3.0,
+    "samples": 100,
+    "seed": 6,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0184073464,
+    "pi_estimate": 3.16,
+    "samples": 100,
+    "seed": 7,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1384073464,
+    "pi_estimate": 3.28,
+    "samples": 100,
+    "seed": 8,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.2584073464,
+    "pi_estimate": 3.4,
+    "samples": 100,
+    "seed": 9,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0215926536,
+    "pi_estimate": 3.12,
+    "samples": 100,
+    "seed": 10,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1815926536,
+    "pi_estimate": 2.96,
+    "samples": 100,
+    "seed": 11,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1784073464,
+    "pi_estimate": 3.32,
+    "samples": 100,
+    "seed": 12,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1384073464,
+    "pi_estimate": 3.28,
+    "samples": 100,
+    "seed": 13,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0184073464,
+    "pi_estimate": 3.16,
+    "samples": 100,
+    "seed": 14,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0215926536,
+    "pi_estimate": 3.12,
+    "samples": 100,
+    "seed": 15,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0584073464,
+    "pi_estimate": 3.2,
+    "samples": 100,
+    "seed": 16,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0584073464,
+    "pi_estimate": 3.2,
+    "samples": 100,
+    "seed": 17,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0215926536,
+    "pi_estimate": 3.12,
+    "samples": 100,
+    "seed": 18,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1784073464,
+    "pi_estimate": 3.32,
+    "samples": 100,
+    "seed": 19,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.1784073464,
+    "pi_estimate": 3.32,
+    "samples": 100,
+    "seed": 20,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0295926536,
+    "pi_estimate": 3.112,
+    "samples": 1000,
+    "seed": 1,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0135926536,
+    "pi_estimate": 3.128,
+    "samples": 1000,
+    "seed": 2,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0264073464,
+    "pi_estimate": 3.168,
+    "samples": 1000,
+    "seed": 3,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0495926536,
+    "pi_estimate": 3.092,
+    "samples": 1000,
+    "seed": 4,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0135926536,
+    "pi_estimate": 3.128,
+    "samples": 1000,
+    "seed": 5,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0215926536,
+    "pi_estimate": 3.12,
+    "samples": 1000,
+    "seed": 6,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0104073464,
+    "pi_estimate": 3.152,
+    "samples": 1000,
+    "seed": 7,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0504073464,
+    "pi_estimate": 3.192,
+    "samples": 1000,
+    "seed": 8,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0015926536,
+    "pi_estimate": 3.14,
+    "samples": 1000,
+    "seed": 9,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0375926536,
+    "pi_estimate": 3.104,
+    "samples": 1000,
+    "seed": 10,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0144073464,
+    "pi_estimate": 3.156,
+    "samples": 1000,
+    "seed": 11,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0064073464,
+    "pi_estimate": 3.148,
+    "samples": 1000,
+    "seed": 12,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0304073464,
+    "pi_estimate": 3.172,
+    "samples": 1000,
+    "seed": 13,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0144073464,
+    "pi_estimate": 3.156,
+    "samples": 1000,
+    "seed": 14,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0295926536,
+    "pi_estimate": 3.112,
+    "samples": 1000,
+    "seed": 15,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0375926536,
+    "pi_estimate": 3.104,
+    "samples": 1000,
+    "seed": 16,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0215926536,
+    "pi_estimate": 3.12,
+    "samples": 1000,
+    "seed": 17,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0175926536,
+    "pi_estimate": 3.124,
+    "samples": 1000,
+    "seed": 18,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0264073464,
+    "pi_estimate": 3.168,
+    "samples": 1000,
+    "seed": 19,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0615926536,
+    "pi_estimate": 3.08,
+    "samples": 1000,
+    "seed": 20,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 7.3464e-06,
+    "pi_estimate": 3.1416,
+    "samples": 10000,
+    "seed": 1,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0059926536,
+    "pi_estimate": 3.1356,
+    "samples": 10000,
+    "seed": 2,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0024073464,
+    "pi_estimate": 3.144,
+    "samples": 10000,
+    "seed": 3,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0024073464,
+    "pi_estimate": 3.144,
+    "samples": 10000,
+    "seed": 4,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0211926536,
+    "pi_estimate": 3.1204,
+    "samples": 10000,
+    "seed": 5,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0135926536,
+    "pi_estimate": 3.128,
+    "samples": 10000,
+    "seed": 6,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0080073464,
+    "pi_estimate": 3.1496,
+    "samples": 10000,
+    "seed": 7,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0116073464,
+    "pi_estimate": 3.1532,
+    "samples": 10000,
+    "seed": 8,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0060073464,
+    "pi_estimate": 3.1476,
+    "samples": 10000,
+    "seed": 9,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0164073464,
+    "pi_estimate": 3.158,
+    "samples": 10000,
+    "seed": 10,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0039926536,
+    "pi_estimate": 3.1376,
+    "samples": 10000,
+    "seed": 11,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0187926536,
+    "pi_estimate": 3.1228,
+    "samples": 10000,
+    "seed": 12,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0151926536,
+    "pi_estimate": 3.1264,
+    "samples": 10000,
+    "seed": 13,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0004073464,
+    "pi_estimate": 3.142,
+    "samples": 10000,
+    "seed": 14,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0016073464,
+    "pi_estimate": 3.1432,
+    "samples": 10000,
+    "seed": 15,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0135926536,
+    "pi_estimate": 3.128,
+    "samples": 10000,
+    "seed": 16,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0360073464,
+    "pi_estimate": 3.1776,
+    "samples": 10000,
+    "seed": 17,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0059926536,
+    "pi_estimate": 3.1356,
+    "samples": 10000,
+    "seed": 18,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0060073464,
+    "pi_estimate": 3.1476,
+    "samples": 10000,
+    "seed": 19,
+    "true_pi": 3.1415926536
+  },
+  {
+    "absolute_error": 0.0067926536,
+    "pi_estimate": 3.1348,
+    "samples": 10000,
+    "seed": 20,
+    "true_pi": 3.1415926536
+  }
+]

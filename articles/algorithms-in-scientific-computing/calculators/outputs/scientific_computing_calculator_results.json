@@ -1,0 +1,29 @@
+{
+  "finite_difference_derivative": {
+    "absolute_error": 9.004295087322589e-10,
+    "estimate": 0.5403023049677103,
+    "h": 0.0001,
+    "true_value": 0.5403023058681398,
+    "x": 1.0
+  },
+  "monte_carlo_pi": {
+    "absolute_error": 0.015592653589793226,
+    "estimate": 3.126,
+    "samples": 10000,
+    "seed": 42,
+    "true_value": 3.141592653589793
+  },
+  "rk4_growth": {
+    "absolute_error": 7.383000637517512e-07,
+    "estimate": 7.389055360630587,
+    "h": 0.125,
+    "t_end": 5.0,
+    "true_value": 7.38905609893065
+  },
+  "trapezoid_integral": {
+    "absolute_error": 4.112352078378123e-05,
+    "estimate": 1.9999588764792162,
+    "n": 200,
+    "true_value": 2.0
+  }
+}

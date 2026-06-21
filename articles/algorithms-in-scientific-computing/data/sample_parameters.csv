@@ -1,0 +1,6 @@
+parameter,value,meaning
+initial_value,1.0,initial ODE state
+rate,0.4,exponential growth rate
+time_end,5.0,end time for ODE examples
+step_size,0.125,default step size
+samples,10000,default Monte Carlo samples

@@ -1,0 +1,9 @@
+check,question,status
+mathematical_problem_defined,Is the mathematical problem stated before the algorithm is chosen?,complete
+algorithm_choice_documented,Is the numerical method documented and justified?,complete
+step_size_or_resolution_tested,Has resolution or step-size sensitivity been checked?,complete
+floating_point_risk_reviewed,"Have roundoff, cancellation, overflow, and precision limits been considered?",partial
+convergence_checked,Does the workflow test convergence or stability where relevant?,complete
+validation_evidence_linked,"Are results compared with theory, benchmark, data, or expert expectations?",partial
+uncertainty_communicated,"Are uncertainty, variability, or error estimates communicated?",complete
+workflow_reproducible,"Are scripts, parameters, outputs, and seeds preserved?",complete

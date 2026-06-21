@@ -1,0 +1,42 @@
+[
+  {
+    "check": "mathematical_problem_defined",
+    "question": "Is the mathematical problem stated before the algorithm is chosen?",
+    "status": "complete"
+  },
+  {
+    "check": "algorithm_choice_documented",
+    "question": "Is the numerical method documented and justified?",
+    "status": "complete"
+  },
+  {
+    "check": "step_size_or_resolution_tested",
+    "question": "Has resolution or step-size sensitivity been checked?",
+    "status": "complete"
+  },
+  {
+    "check": "floating_point_risk_reviewed",
+    "question": "Have roundoff, cancellation, overflow, and precision limits been considered?",
+    "status": "partial"
+  },
+  {
+    "check": "convergence_checked",
+    "question": "Does the workflow test convergence or stability where relevant?",
+    "status": "complete"
+  },
+  {
+    "check": "validation_evidence_linked",
+    "question": "Are results compared with theory, benchmark, data, or expert expectations?",
+    "status": "partial"
+  },
+  {
+    "check": "uncertainty_communicated",
+    "question": "Are uncertainty, variability, or error estimates communicated?",
+    "status": "complete"
+  },
+  {
+    "check": "workflow_reproducible",
+    "question": "Are scripts, parameters, outputs, and seeds preserved?",
+    "status": "complete"
+  }
+]

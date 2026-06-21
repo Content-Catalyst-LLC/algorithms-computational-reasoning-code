@@ -1,0 +1,2 @@
+best_derivative_method,best_derivative_step_size,best_integration_subintervals,best_ode_method,best_ode_step_size,derivative_methods_reviewed,integration_resolutions_reviewed,interpretation,monte_carlo_sample_levels,ode_solver_runs,review_items_needing_attention
+central_difference,1e-05,500,rk4,0.0625,2,6,"Scientific computing requires attention to approximation, discretization, finite precision, solver behavior, convergence, uncertainty, validation, reproducibility, and interpretation.",3,8,2

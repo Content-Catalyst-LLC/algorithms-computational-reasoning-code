@@ -1,0 +1,6 @@
+[package]
+name = "algorithms_in_scientific_computing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

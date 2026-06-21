@@ -1,0 +1,74 @@
+[
+  {
+    "absolute_error": 1.197319676531,
+    "final_estimate": 6.1917364224,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "euler",
+    "step_size": 0.5,
+    "trajectory_points": 11,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 0.000166857271,
+    "final_estimate": 7.388889241659,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "rk4",
+    "step_size": 0.5,
+    "trajectory_points": 11,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 0.661556149605,
+    "final_estimate": 6.727499949326,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "euler",
+    "step_size": 0.25,
+    "trajectory_points": 21,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 1.1331555e-05,
+    "final_estimate": 7.389044767376,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "rk4",
+    "step_size": 0.25,
+    "trajectory_points": 21,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 0.349067386806,
+    "final_estimate": 7.039988712125,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "euler",
+    "step_size": 0.125,
+    "trajectory_points": 41,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 7.383e-07,
+    "final_estimate": 7.389055360631,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "rk4",
+    "step_size": 0.125,
+    "trajectory_points": 41,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 0.179488282701,
+    "final_estimate": 7.209567816229,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "euler",
+    "step_size": 0.0625,
+    "trajectory_points": 81,
+    "true_final": 7.389056098931
+  },
+  {
+    "absolute_error": 4.7114e-08,
+    "final_estimate": 7.389056051816,
+    "interpretation": "ODE solver accuracy depends on method order and time-step size.",
+    "method": "rk4",
+    "step_size": 0.0625,
+    "trajectory_points": 81,
+    "true_final": 7.389056098931
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "article": "Algorithms in Scientific Computing",
+  "slug": "algorithms-in-scientific-computing",
+  "calculators": [
+    "finite_difference_derivative",
+    "trapezoid_integral",
+    "euler_ode_solver",
+    "rk4_ode_solver",
+    "monte_carlo_pi"
+  ],
+  "purpose": "Educational calculators for approximation, discretization, convergence, uncertainty, and reproducible scientific computing workflows."
+}

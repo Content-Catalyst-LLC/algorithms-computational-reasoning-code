@@ -1,0 +1,9 @@
+absolute_error,final_estimate,interpretation,method,step_size,trajectory_points,true_final
+1.197319676531,6.1917364224,ODE solver accuracy depends on method order and time-step size.,euler,0.5,11,7.389056098931
+0.000166857271,7.388889241659,ODE solver accuracy depends on method order and time-step size.,rk4,0.5,11,7.389056098931
+0.661556149605,6.727499949326,ODE solver accuracy depends on method order and time-step size.,euler,0.25,21,7.389056098931
+1.1331555e-05,7.389044767376,ODE solver accuracy depends on method order and time-step size.,rk4,0.25,21,7.389056098931
+0.349067386806,7.039988712125,ODE solver accuracy depends on method order and time-step size.,euler,0.125,41,7.389056098931
+7.383e-07,7.389055360631,ODE solver accuracy depends on method order and time-step size.,rk4,0.125,41,7.389056098931
+0.179488282701,7.209567816229,ODE solver accuracy depends on method order and time-step size.,euler,0.0625,81,7.389056098931
+4.7114e-08,7.389056051816,ODE solver accuracy depends on method order and time-step size.,rk4,0.0625,81,7.389056098931

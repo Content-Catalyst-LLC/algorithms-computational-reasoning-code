@@ -1,0 +1,26 @@
+[
+  {
+    "interpretation": "Monte Carlo error generally decreases as sample size increases, but individual runs vary.",
+    "mean_absolute_error": 0.1258407346,
+    "mean_estimate": 3.144,
+    "runs": 20,
+    "samples": 100,
+    "std_estimate": 0.1525254077
+  },
+  {
+    "interpretation": "Monte Carlo error generally decreases as sample size increases, but individual runs vary.",
+    "mean_absolute_error": 0.0257185307,
+    "mean_estimate": 3.1338,
+    "runs": 20,
+    "samples": 1000,
+    "std_estimate": 0.0288575813
+  },
+  {
+    "interpretation": "Monte Carlo error generally decreases as sample size increases, but individual runs vary.",
+    "mean_absolute_error": 0.0098007346,
+    "mean_estimate": 3.14088,
+    "runs": 20,
+    "samples": 10000,
+    "std_estimate": 0.0129951376
+  }
+]
