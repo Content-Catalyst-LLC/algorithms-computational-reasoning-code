@@ -1,0 +1,25 @@
+{
+  "article": "Machine Learning as Algorithmic Inference",
+  "calculators": [
+    {
+      "name": "threshold_confusion_calculator",
+      "path": "calculators/python/threshold_confusion_calculator.py",
+      "purpose": "Compute accuracy, precision, recall, false positive rate, and false negative rate from confusion-matrix counts."
+    },
+    {
+      "name": "expected_prediction_value_calculator",
+      "path": "calculators/python/expected_prediction_value_calculator.py",
+      "purpose": "Connect a model score to expected benefit and harm."
+    },
+    {
+      "name": "train_test_gap_calculator",
+      "path": "calculators/python/train_test_gap_calculator.py",
+      "purpose": "Flag large train/test metric gaps that may suggest overfitting or distribution mismatch."
+    },
+    {
+      "name": "calibration_gap_calculator",
+      "path": "calculators/python/calibration_gap_calculator.py",
+      "purpose": "Compare average predicted score with observed rate in a calibration bin."
+    }
+  ]
+}

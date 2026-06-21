@@ -1,0 +1,9 @@
+{
+  "default_threshold": 0.5,
+  "epochs": 900,
+  "experiment_name": "machine_learning_as_algorithmic_inference",
+  "learning_rate": 0.12,
+  "n": 1000,
+  "seed": 2026,
+  "train_fraction": 0.7
+}

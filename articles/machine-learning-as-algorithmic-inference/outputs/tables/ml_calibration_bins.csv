@@ -1,0 +1,5 @@
+absolute_calibration_gap,average_score,bin,interpretation,n,observed_positive_rate,score_lower,score_upper
+0.178997,0.178997,1,Calibration compares model scores with observed rates inside score bands.,9,0.0,0.0,0.2
+0.022753,0.312227,2,Calibration compares model scores with observed rates inside score bands.,190,0.289474,0.2,0.4
+0.005549,0.452784,3,Calibration compares model scores with observed rates inside score bands.,96,0.458333,0.4,0.6
+0.173965,0.626035,4,Calibration compares model scores with observed rates inside score bands.,5,0.8,0.6,0.8

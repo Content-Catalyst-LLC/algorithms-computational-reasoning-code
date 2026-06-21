@@ -1,0 +1,14 @@
+{
+  "article": "machine_learning_as_algorithmic_inference",
+  "default_threshold": 0.5,
+  "governance_items_requiring_review": 3,
+  "interpretation": "Machine learning inference requires data design, train/test separation, threshold review, calibration, subgroup diagnostics, and governance before institutional use.",
+  "max_calibration_gap": 0.178997,
+  "n_test": 300,
+  "n_total": 1000,
+  "n_train": 700,
+  "test_accuracy": 0.686667,
+  "test_false_negative_rate": 0.864078,
+  "test_false_positive_rate": 0.025381,
+  "timestamp_utc": "2026-06-21T08:15:23.404101+00:00"
+}

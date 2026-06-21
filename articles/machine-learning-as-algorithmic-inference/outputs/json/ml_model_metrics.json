@@ -1,0 +1,34 @@
+[
+  {
+    "accuracy": 0.668571,
+    "false_negative": 212,
+    "false_negative_rate": 0.861789,
+    "false_positive": 20,
+    "false_positive_rate": 0.044053,
+    "interpretation": "Classification metrics depend on threshold choice and should be reviewed before institutional use.",
+    "mean_log_loss": 0.609332,
+    "n": 700,
+    "precision": 0.62963,
+    "recall": 0.138211,
+    "split": "train",
+    "threshold": 0.5,
+    "true_negative": 434,
+    "true_positive": 34
+  },
+  {
+    "accuracy": 0.686667,
+    "false_negative": 89,
+    "false_negative_rate": 0.864078,
+    "false_positive": 5,
+    "false_positive_rate": 0.025381,
+    "interpretation": "Classification metrics depend on threshold choice and should be reviewed before institutional use.",
+    "mean_log_loss": 0.613346,
+    "n": 300,
+    "precision": 0.736842,
+    "recall": 0.135922,
+    "split": "test",
+    "threshold": 0.5,
+    "true_negative": 192,
+    "true_positive": 14
+  }
+]

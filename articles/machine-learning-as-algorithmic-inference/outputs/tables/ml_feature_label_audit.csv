@@ -1,0 +1,7 @@
+item,review_question,risk,status
+features,Are features valid for the intended use?,"Input features may encode measurement choices, institutional history, or proxy variables.",review_required
+labels,Does the label measure the target construct?,"Labels may reflect noisy, delayed, biased, or administratively produced outcomes.",review_required
+train_test_split,Is held-out evaluation preserved?,Evaluation can be inflated if test data leak into training.,complete
+threshold,Who approved the threshold and why?,Thresholds convert scores into decisions and encode trade-offs.,review_required
+calibration,Do predicted scores match observed frequencies?,Scores may be misread as probabilities if not calibrated.,partial
+subgroup_error,Which groups face higher false positives or false negatives?,Average performance can hide uneven error burdens.,partial

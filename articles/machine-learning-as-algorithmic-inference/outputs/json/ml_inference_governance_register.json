@@ -1,0 +1,32 @@
+[
+  {
+    "evidence": "Compare training and test metrics before using the model outside the synthetic exercise.",
+    "review_area": "generalization",
+    "signal": "train_test_metric_comparison",
+    "status": "review_required"
+  },
+  {
+    "evidence": "False positives and false negatives shift as threshold changes.",
+    "review_area": "threshold_tradeoff",
+    "signal": "threshold_sweep",
+    "status": "review_required"
+  },
+  {
+    "evidence": "Calibration should be checked before interpreting scores as probabilities.",
+    "review_area": "calibration",
+    "signal": "max_gap=0.1790",
+    "status": "partial"
+  },
+  {
+    "evidence": "Subgroup error differences should be reviewed before deployment.",
+    "review_area": "subgroup_error",
+    "signal": "fpr_range=0.0538; fnr_range=0.2090",
+    "status": "review_required"
+  },
+  {
+    "evidence": "Outputs are not validated for real-world decision-making.",
+    "review_area": "use_boundary",
+    "signal": "educational_synthetic_only",
+    "status": "complete"
+  }
+]

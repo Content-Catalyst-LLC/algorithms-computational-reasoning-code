@@ -1,0 +1,9 @@
+item,description,review_question
+feature_definition,Define each input variable used by the model,What does the feature measure and what does it omit?
+label_definition,Define the target outcome or class,Is the label a valid proxy for the construct of interest?
+training_distribution,Describe the data used for fitting,Who or what is represented in the training data?
+test_distribution,Describe the data used for evaluation,Does the test set reflect intended use conditions?
+threshold_policy,Specify how prediction scores become decisions,Who chose the threshold and what trade-offs does it encode?
+calibration,Compare predicted probabilities with observed frequencies,Are model scores interpretable as probabilities?
+subgroup_error,Check error patterns across meaningful groups,Who experiences higher false positive or false negative rates?
+governance_boundary,State where the model should not be used,What use would exceed the evidence base?

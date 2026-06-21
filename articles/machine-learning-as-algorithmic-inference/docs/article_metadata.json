@@ -1,0 +1,21 @@
+{
+  "next": "supervised-unsupervised-and-reinforcement-learning",
+  "previous": "decision-under-uncertainty-and-computational-risk",
+  "repo_folder": "articles/machine-learning-as-algorithmic-inference",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "machine-learning-as-algorithmic-inference",
+  "title": "Machine Learning as Algorithmic Inference",
+  "topics": [
+    "machine learning",
+    "algorithmic inference",
+    "features",
+    "labels",
+    "prediction",
+    "classification",
+    "generalization",
+    "thresholds",
+    "calibration",
+    "model evaluation",
+    "algorithmic governance"
+  ]
+}

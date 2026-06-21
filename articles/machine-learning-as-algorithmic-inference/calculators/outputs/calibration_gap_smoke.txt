@@ -1,0 +1,3 @@
+average_score=0.620000
+observed_rate=0.550000
+absolute_calibration_gap=0.070000

@@ -1,0 +1,27 @@
+{
+  "properties": {
+    "artifact": {
+      "type": "string"
+    },
+    "card_id": {
+      "type": "string"
+    },
+    "claim": {
+      "type": "string"
+    },
+    "review_question": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "card_id",
+    "title",
+    "claim",
+    "review_question",
+    "artifact"
+  ],
+  "type": "object"
+}

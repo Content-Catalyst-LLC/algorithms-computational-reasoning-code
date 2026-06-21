@@ -1,0 +1,5 @@
+accuracy=0.785714
+precision=0.761905
+recall=0.695652
+false_positive_rate=0.151515
+false_negative_rate=0.304348

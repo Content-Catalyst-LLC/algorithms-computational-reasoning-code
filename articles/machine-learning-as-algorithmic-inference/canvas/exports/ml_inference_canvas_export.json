@@ -1,0 +1,25 @@
+{
+  "article": "Machine Learning as Algorithmic Inference",
+  "cards": [
+    {
+      "artifact": "outputs/tables/ml_feature_label_audit.csv",
+      "card_id": "feature-review",
+      "title": "Feature Review"
+    },
+    {
+      "artifact": "outputs/tables/ml_threshold_sweep.csv",
+      "card_id": "threshold-review",
+      "title": "Threshold Review"
+    },
+    {
+      "artifact": "outputs/tables/ml_calibration_bins.csv",
+      "card_id": "calibration-review",
+      "title": "Calibration Review"
+    },
+    {
+      "artifact": "outputs/tables/ml_group_error_diagnostics.csv",
+      "card_id": "subgroup-error-review",
+      "title": "Subgroup Error Review"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+accuracy,false_negative,false_negative_rate,false_positive,false_positive_rate,interpretation,mean_log_loss,n,precision,recall,split,threshold,true_negative,true_positive
+0.373333,0,0.0,188,0.954315,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.353952,1.0,test,0.2,9,103
+0.45,6,0.058252,159,0.807107,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.378906,0.941748,test,0.25,38,97
+0.506667,17,0.165049,131,0.664975,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.396313,0.834951,test,0.3,66,86
+0.573333,31,0.300971,97,0.492386,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.426036,0.699029,test,0.35,100,72
+0.64,55,0.533981,53,0.269036,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.475248,0.466019,test,0.4,144,48
+0.636667,83,0.805825,26,0.13198,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.434783,0.194175,test,0.45,171,20
+0.686667,89,0.864078,5,0.025381,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.736842,0.135922,test,0.5,192,14
+0.663333,98,0.951456,3,0.015228,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.625,0.048544,test,0.55,194,5
+0.666667,99,0.961165,1,0.005076,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.8,0.038835,test,0.6,196,4
+0.656667,103,1.0,0,0.0,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.0,0.0,test,0.65,197,0
+0.656667,103,1.0,0,0.0,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.0,0.0,test,0.7,197,0
+0.656667,103,1.0,0,0.0,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.0,0.0,test,0.75,197,0
+0.656667,103,1.0,0,0.0,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.0,0.0,test,0.8,197,0
+0.656667,103,1.0,0,0.0,Classification metrics depend on threshold choice and should be reviewed before institutional use.,0.613346,300,0.0,0.0,test,0.85,197,0

@@ -1,0 +1,36 @@
+[
+  {
+    "accuracy": 0.6375,
+    "false_negative": 53,
+    "false_negative_rate": 0.791045,
+    "false_positive": 5,
+    "false_positive_rate": 0.053763,
+    "group": "high_context_pressure",
+    "interpretation": "Subgroup diagnostics reveal whether error burdens differ across observed groups.",
+    "mean_log_loss": 0.668023,
+    "n": 160,
+    "precision": 0.736842,
+    "recall": 0.208955,
+    "split": "test:high_context_pressure",
+    "threshold": 0.5,
+    "true_negative": 88,
+    "true_positive": 14
+  },
+  {
+    "accuracy": 0.742857,
+    "false_negative": 36,
+    "false_negative_rate": 1.0,
+    "false_positive": 0,
+    "false_positive_rate": 0.0,
+    "group": "lower_context_pressure",
+    "interpretation": "Subgroup diagnostics reveal whether error burdens differ across observed groups.",
+    "mean_log_loss": 0.550858,
+    "n": 140,
+    "precision": 0.0,
+    "recall": 0.0,
+    "split": "test:lower_context_pressure",
+    "threshold": 0.5,
+    "true_negative": 104,
+    "true_positive": 0
+  }
+]

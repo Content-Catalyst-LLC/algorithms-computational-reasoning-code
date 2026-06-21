@@ -1,0 +1,42 @@
+[
+  {
+    "absolute_calibration_gap": 0.178997,
+    "average_score": 0.178997,
+    "bin": 1,
+    "interpretation": "Calibration compares model scores with observed rates inside score bands.",
+    "n": 9,
+    "observed_positive_rate": 0.0,
+    "score_lower": 0.0,
+    "score_upper": 0.2
+  },
+  {
+    "absolute_calibration_gap": 0.022753,
+    "average_score": 0.312227,
+    "bin": 2,
+    "interpretation": "Calibration compares model scores with observed rates inside score bands.",
+    "n": 190,
+    "observed_positive_rate": 0.289474,
+    "score_lower": 0.2,
+    "score_upper": 0.4
+  },
+  {
+    "absolute_calibration_gap": 0.005549,
+    "average_score": 0.452784,
+    "bin": 3,
+    "interpretation": "Calibration compares model scores with observed rates inside score bands.",
+    "n": 96,
+    "observed_positive_rate": 0.458333,
+    "score_lower": 0.4,
+    "score_upper": 0.6
+  },
+  {
+    "absolute_calibration_gap": 0.173965,
+    "average_score": 0.626035,
+    "bin": 4,
+    "interpretation": "Calibration compares model scores with observed rates inside score bands.",
+    "n": 5,
+    "observed_positive_rate": 0.8,
+    "score_lower": 0.6,
+    "score_upper": 0.8
+  }
+]

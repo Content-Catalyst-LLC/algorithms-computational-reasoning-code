@@ -1,0 +1,38 @@
+[
+  {
+    "item": "features",
+    "review_question": "Are features valid for the intended use?",
+    "risk": "Input features may encode measurement choices, institutional history, or proxy variables.",
+    "status": "review_required"
+  },
+  {
+    "item": "labels",
+    "review_question": "Does the label measure the target construct?",
+    "risk": "Labels may reflect noisy, delayed, biased, or administratively produced outcomes.",
+    "status": "review_required"
+  },
+  {
+    "item": "train_test_split",
+    "review_question": "Is held-out evaluation preserved?",
+    "risk": "Evaluation can be inflated if test data leak into training.",
+    "status": "complete"
+  },
+  {
+    "item": "threshold",
+    "review_question": "Who approved the threshold and why?",
+    "risk": "Thresholds convert scores into decisions and encode trade-offs.",
+    "status": "review_required"
+  },
+  {
+    "item": "calibration",
+    "review_question": "Do predicted scores match observed frequencies?",
+    "risk": "Scores may be misread as probabilities if not calibrated.",
+    "status": "partial"
+  },
+  {
+    "item": "subgroup_error",
+    "review_question": "Which groups face higher false positives or false negatives?",
+    "risk": "Average performance can hide uneven error burdens.",
+    "status": "partial"
+  }
+]
