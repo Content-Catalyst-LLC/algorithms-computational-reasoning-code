@@ -1,0 +1,9 @@
+check,question,status
+purpose_defined,Is the simulation purpose explicitly stated?,complete
+assumptions_documented,Are model assumptions and boundaries documented?,complete
+parameters_reviewed,"Are parameter meanings, sources, and ranges documented?",partial
+sensitivity_tested,Have important parameters been varied?,complete
+uncertainty_reported,Are stochastic outcomes summarized as ranges rather than single values?,complete
+validation_evidence_linked,Is there evidence that the model is fit for intended use?,partial
+limitations_communicated,Are omitted mechanisms and interpretation limits stated?,complete
+decision_use_governed,Is use of simulation output in decisions documented?,needs_review

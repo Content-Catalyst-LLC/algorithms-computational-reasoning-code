@@ -1,0 +1,35 @@
+[
+  {
+    "average_stock": 228.260613,
+    "final_stock": 432.194238,
+    "initial_stock": 100.0,
+    "interpretation": "Scenario trajectory summarizes how model rules transform initial conditions over time.",
+    "minimum_stock": 100.0,
+    "peak_stock": 432.194238,
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "total_stock_over_time": 7076.07899
+  },
+  {
+    "average_stock": 116.557227,
+    "final_stock": 134.784892,
+    "initial_stock": 100.0,
+    "interpretation": "Scenario trajectory summarizes how model rules transform initial conditions over time.",
+    "minimum_stock": 100.0,
+    "peak_stock": 134.784892,
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "total_stock_over_time": 3613.274047
+  },
+  {
+    "average_stock": 65.701413,
+    "final_stock": 40.100707,
+    "initial_stock": 100.0,
+    "interpretation": "Scenario trajectory summarizes how model rules transform initial conditions over time.",
+    "minimum_stock": 40.100707,
+    "peak_stock": 100.0,
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "total_stock_over_time": 2036.74381
+  }
+]

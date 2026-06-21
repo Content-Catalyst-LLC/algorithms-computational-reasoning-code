@@ -1,0 +1,14 @@
+{
+  "title": "Simulation as Computational Reasoning Canvas Schema",
+  "type": "object",
+  "properties": {
+    "purpose": {"type": "string"},
+    "system_boundary": {"type": "string"},
+    "state_variables": {"type": "array", "items": {"type": "string"}},
+    "parameters": {"type": "array", "items": {"type": "string"}},
+    "scenarios": {"type": "array", "items": {"type": "string"}},
+    "uncertainty": {"type": "string"},
+    "validation_evidence": {"type": "string"},
+    "limitations": {"type": "string"}
+  }
+}

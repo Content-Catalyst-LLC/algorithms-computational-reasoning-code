@@ -1,0 +1,6 @@
+[package]
+name = "simulation_as_computational_reasoning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,16 @@
+{
+  "article": "Simulation as Computational Reasoning",
+  "slug": "simulation-as-computational-reasoning",
+  "calculators": [
+    {
+      "name": "Simulation state-update calculator",
+      "language": "python",
+      "path": "calculators/python/simulation_calculator.py"
+    },
+    {
+      "name": "Simulation state-update calculator",
+      "language": "r",
+      "path": "calculators/r/simulation_calculator.R"
+    }
+  ]
+}

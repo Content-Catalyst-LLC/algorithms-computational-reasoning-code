@@ -1,0 +1,8 @@
+{
+  "deterministic_scenarios": 3,
+  "highest_final_stock_in_sweep": 432.194238,
+  "interpretation": "Simulation as computational reasoning compares scenarios, explores uncertainty, tests sensitivity, and documents assumptions so modeled consequences can be interpreted responsibly.",
+  "lowest_final_stock_in_sweep": 21.463876,
+  "monte_carlo_runs": 250,
+  "review_items_needing_attention": 3
+}

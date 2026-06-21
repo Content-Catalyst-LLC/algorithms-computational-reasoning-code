@@ -1,0 +1,2002 @@
+[
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 100.0,
+    "run_id": 1,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2294.547558
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 102.01,
+    "run_id": 2,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2470.984922
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.817499,
+    "peak_stock": 105.101005,
+    "run_id": 3,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2638.032137
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 101.0,
+    "run_id": 4,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2203.335781
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 106.152015,
+    "run_id": 5,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2629.1821
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 91.311555,
+    "peak_stock": 111.887509,
+    "run_id": 6,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3137.233665
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 36.563019,
+    "peak_stock": 101.0,
+    "run_id": 7,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1835.848489
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.040755,
+    "peak_stock": 102.01,
+    "run_id": 8,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2432.992091
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.999345,
+    "peak_stock": 102.01,
+    "run_id": 9,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2148.494204
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 107.213535,
+    "run_id": 10,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2904.246773
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 110.462213,
+    "run_id": 11,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2637.832058
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.326871,
+    "peak_stock": 103.0301,
+    "run_id": 12,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2208.052076
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.841794,
+    "peak_stock": 106.152015,
+    "run_id": 13,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2713.04559
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.247574,
+    "peak_stock": 100.0,
+    "run_id": 14,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2657.20063
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.633027,
+    "peak_stock": 101.0,
+    "run_id": 15,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2541.767489
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 84.324689,
+    "peak_stock": 108.285671,
+    "run_id": 16,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2930.818292
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 107.213535,
+    "run_id": 17,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2766.054369
+  },
+  {
+    "final_stock": 118.770845,
+    "minimum_stock": 100.0,
+    "peak_stock": 129.525631,
+    "run_id": 18,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3550.162925
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 77.323032,
+    "peak_stock": 107.213535,
+    "run_id": 19,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2832.173833
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.20073,
+    "peak_stock": 109.368527,
+    "run_id": 20,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2929.911553
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 100.0,
+    "run_id": 21,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2477.681135
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.120588,
+    "peak_stock": 101.0,
+    "run_id": 22,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2450.409801
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 64.829197,
+    "peak_stock": 103.0301,
+    "run_id": 23,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2461.389164
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.817499,
+    "peak_stock": 106.152015,
+    "run_id": 24,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2683.325043
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 106.152015,
+    "run_id": 25,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2876.496475
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 104.060401,
+    "run_id": 26,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2657.77345
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 104.060401,
+    "run_id": 27,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2741.930968
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 37.297936,
+    "peak_stock": 100.0,
+    "run_id": 28,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1748.811441
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 93.808754,
+    "peak_stock": 108.285671,
+    "run_id": 29,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3134.870386
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 66.793586,
+    "peak_stock": 102.01,
+    "run_id": 30,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2643.911069
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 43.484431,
+    "peak_stock": 100.0,
+    "run_id": 31,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1789.393667
+  },
+  {
+    "final_stock": 29.543695,
+    "minimum_stock": 29.543695,
+    "peak_stock": 100.0,
+    "run_id": 32,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2217.12909
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 91.311555,
+    "peak_stock": 120.810895,
+    "run_id": 33,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3378.923237
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.120588,
+    "peak_stock": 109.368527,
+    "run_id": 34,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2765.165081
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 118.430443,
+    "run_id": 35,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3061.396904
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 91.311555,
+    "peak_stock": 107.521697,
+    "run_id": 36,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3109.943288
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.902738,
+    "peak_stock": 101.0,
+    "run_id": 37,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2684.853734
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 103.0301,
+    "run_id": 38,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2656.44508
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 108.285671,
+    "run_id": 39,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2763.928067
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 47.087408,
+    "peak_stock": 102.01,
+    "run_id": 40,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2204.414982
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 102.01,
+    "run_id": 41,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2528.752619
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.033865,
+    "peak_stock": 101.0,
+    "run_id": 42,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2289.906656
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 100.0,
+    "run_id": 43,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2307.624244
+  },
+  {
+    "final_stock": 33.527114,
+    "minimum_stock": 32.541087,
+    "peak_stock": 103.0301,
+    "run_id": 44,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1876.922513
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 37.297936,
+    "peak_stock": 102.01,
+    "run_id": 45,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1900.745469
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 108.285671,
+    "run_id": 46,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2535.614429
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 106.152015,
+    "run_id": 47,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2657.842768
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 45.250073,
+    "peak_stock": 101.0,
+    "run_id": 48,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2192.3003
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 56.001096,
+    "peak_stock": 100.0,
+    "run_id": 49,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2041.593998
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 76.338041,
+    "peak_stock": 106.152015,
+    "run_id": 50,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2774.283813
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.019615,
+    "peak_stock": 105.403094,
+    "run_id": 51,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2963.463884
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 56.001096,
+    "peak_stock": 101.0,
+    "run_id": 52,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2336.333027
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.860049,
+    "peak_stock": 109.368527,
+    "run_id": 53,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2689.60809
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 101.0,
+    "run_id": 54,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2822.639841
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 77.323032,
+    "peak_stock": 100.0,
+    "run_id": 55,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2654.938454
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.902738,
+    "peak_stock": 109.368527,
+    "run_id": 56,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2955.257886
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.136137,
+    "peak_stock": 100.0,
+    "run_id": 57,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2471.259081
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 59.446292,
+    "peak_stock": 104.060401,
+    "run_id": 58,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2622.207461
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.902738,
+    "peak_stock": 103.0301,
+    "run_id": 59,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2716.785383
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.877225,
+    "peak_stock": 114.947421,
+    "run_id": 60,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3073.920037
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 90.40748,
+    "peak_stock": 110.462213,
+    "run_id": 61,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3111.52952
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 57.697985,
+    "peak_stock": 101.0,
+    "run_id": 62,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2338.671838
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 74.83388,
+    "peak_stock": 104.060401,
+    "run_id": 63,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2683.934008
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 51.351207,
+    "peak_stock": 104.060401,
+    "run_id": 64,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2475.626939
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 74.305914,
+    "peak_stock": 109.368527,
+    "run_id": 65,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2819.559538
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 70.699528,
+    "peak_stock": 100.0,
+    "run_id": 66,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2601.449234
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 36.563019,
+    "peak_stock": 100.0,
+    "run_id": 67,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2030.585093
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 73.570212,
+    "peak_stock": 104.060401,
+    "run_id": 68,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2779.841065
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 101.0,
+    "run_id": 69,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2558.632452
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.514203,
+    "peak_stock": 103.0301,
+    "run_id": 70,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2337.694505
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 102.01,
+    "run_id": 71,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2370.925451
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 85.167936,
+    "peak_stock": 106.457125,
+    "run_id": 72,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2940.508938
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 87.497119,
+    "peak_stock": 108.285671,
+    "run_id": 73,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3049.769684
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.136137,
+    "peak_stock": 102.01,
+    "run_id": 74,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2498.918862
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 102.01,
+    "run_id": 75,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2815.854694
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.20073,
+    "peak_stock": 109.368527,
+    "run_id": 76,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2886.07588
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.641162,
+    "peak_stock": 104.060401,
+    "run_id": 77,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2461.467983
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 54.510341,
+    "peak_stock": 101.0,
+    "run_id": 78,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2364.927068
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 47.558282,
+    "peak_stock": 100.0,
+    "run_id": 79,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2269.928254
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 112.682503,
+    "run_id": 80,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2923.169586
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 79.437671,
+    "peak_stock": 105.101005,
+    "run_id": 81,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2850.422634
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 58.274965,
+    "peak_stock": 100.0,
+    "run_id": 82,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2316.2585
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 57.697985,
+    "peak_stock": 102.01,
+    "run_id": 83,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2267.39869
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.247574,
+    "peak_stock": 102.01,
+    "run_id": 84,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2529.868491
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 90.7889,
+    "peak_stock": 104.359499,
+    "run_id": 85,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3034.604411
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 45.702574,
+    "peak_stock": 101.0,
+    "run_id": 86,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2027.250702
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 66.793586,
+    "peak_stock": 100.0,
+    "run_id": 87,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2594.361401
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 50.339385,
+    "peak_stock": 108.285671,
+    "run_id": 88,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2314.799221
+  },
+  {
+    "final_stock": 33.527114,
+    "minimum_stock": 33.527114,
+    "peak_stock": 100.0,
+    "run_id": 89,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1921.566755
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 101.0,
+    "run_id": 90,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2553.770703
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 71.201869,
+    "peak_stock": 100.0,
+    "run_id": 91,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2408.433295
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 81.267284,
+    "peak_stock": 114.947421,
+    "run_id": 92,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3096.272238
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.750139,
+    "peak_stock": 104.060401,
+    "run_id": 93,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2039.320258
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 47.558282,
+    "peak_stock": 101.0,
+    "run_id": 94,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2175.068495
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.247574,
+    "peak_stock": 105.101005,
+    "run_id": 95,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2375.276869
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.877225,
+    "peak_stock": 107.213535,
+    "run_id": 96,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2968.513456
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 107.213535,
+    "run_id": 97,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2860.638767
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 64.829197,
+    "peak_stock": 103.0301,
+    "run_id": 98,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2469.016048
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 90.7889,
+    "peak_stock": 105.403094,
+    "run_id": 99,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3034.815881
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 100.0,
+    "run_id": 100,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2517.536571
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 87.748609,
+    "peak_stock": 112.682503,
+    "run_id": 101,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3065.492696
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 100.0,
+    "run_id": 102,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2393.430139
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 49.840975,
+    "peak_stock": 105.101005,
+    "run_id": 103,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2242.986701
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 107.213535,
+    "run_id": 104,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2673.381083
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.65116,
+    "peak_stock": 107.213535,
+    "run_id": 105,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2818.817699
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 54.510341,
+    "peak_stock": 102.01,
+    "run_id": 106,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2519.29072
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.136137,
+    "peak_stock": 106.457125,
+    "run_id": 107,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2873.13439
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 100.0,
+    "run_id": 108,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2613.440398
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 103.0301,
+    "run_id": 109,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2638.423367
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 78.65116,
+    "peak_stock": 107.213535,
+    "run_id": 110,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2829.775085
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 90.40748,
+    "peak_stock": 114.136448,
+    "run_id": 111,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3177.130528
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.019615,
+    "peak_stock": 106.152015,
+    "run_id": 112,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3000.644925
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 100.0,
+    "run_id": 113,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2633.888898
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 63.551805,
+    "peak_stock": 101.0,
+    "run_id": 114,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2366.586945
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 64.829197,
+    "peak_stock": 102.01,
+    "run_id": 115,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2404.911244
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 88.626096,
+    "peak_stock": 104.359499,
+    "run_id": 116,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2998.325501
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.033865,
+    "peak_stock": 101.0,
+    "run_id": 117,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2083.08874
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.136137,
+    "peak_stock": 102.303205,
+    "run_id": 118,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2728.775656
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.20073,
+    "peak_stock": 101.0,
+    "run_id": 119,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2695.365436
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 77.323032,
+    "peak_stock": 106.152015,
+    "run_id": 120,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2888.978144
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.879811,
+    "peak_stock": 102.303205,
+    "run_id": 121,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2913.743362
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 87.748609,
+    "peak_stock": 110.462213,
+    "run_id": 122,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3063.280431
+  },
+  {
+    "final_stock": 33.527114,
+    "minimum_stock": 31.899899,
+    "peak_stock": 100.0,
+    "run_id": 123,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1678.929281
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.033865,
+    "peak_stock": 102.01,
+    "run_id": 124,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2127.745104
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 108.285671,
+    "run_id": 125,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2876.418879
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 66.793586,
+    "peak_stock": 106.152015,
+    "run_id": 126,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2551.947652
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 51.351207,
+    "peak_stock": 100.0,
+    "run_id": 127,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2140.425918
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 103.0301,
+    "run_id": 128,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2175.962454
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.750139,
+    "peak_stock": 109.368527,
+    "run_id": 129,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2499.415903
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 84.324689,
+    "peak_stock": 105.101005,
+    "run_id": 130,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2904.399668
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 102.01,
+    "run_id": 131,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2409.689424
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 88.37209,
+    "peak_stock": 108.285671,
+    "run_id": 132,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3061.567048
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 114.947421,
+    "run_id": 133,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2862.974145
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 79.437671,
+    "peak_stock": 106.152015,
+    "run_id": 134,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2804.626179
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 81.844712,
+    "peak_stock": 105.101005,
+    "run_id": 135,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2824.468542
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.040755,
+    "peak_stock": 105.101005,
+    "run_id": 136,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2489.90211
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.033865,
+    "peak_stock": 100.0,
+    "run_id": 137,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2348.254903
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 106.152015,
+    "run_id": 138,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2841.622869
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 100.287428,
+    "run_id": 139,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2774.707578
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.136137,
+    "peak_stock": 101.0,
+    "run_id": 140,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2435.090696
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.633027,
+    "peak_stock": 101.0,
+    "run_id": 141,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2531.341912
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 52.9072,
+    "peak_stock": 107.213535,
+    "run_id": 142,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2440.201799
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 102.01,
+    "run_id": 143,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2705.528792
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 105.101005,
+    "run_id": 144,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2814.406423
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 67.461522,
+    "peak_stock": 103.0301,
+    "run_id": 145,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2472.88383
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 57.126718,
+    "peak_stock": 100.0,
+    "run_id": 146,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2233.814228
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 84.324689,
+    "peak_stock": 101.0,
+    "run_id": 147,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2867.102946
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 64.829197,
+    "peak_stock": 103.0301,
+    "run_id": 148,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2458.825187
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.033865,
+    "peak_stock": 100.0,
+    "run_id": 149,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1905.262053
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 58.857715,
+    "peak_stock": 105.101005,
+    "run_id": 150,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2456.113144
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.877225,
+    "peak_stock": 117.257864,
+    "run_id": 151,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3080.402422
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 102.01,
+    "run_id": 152,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2755.914679
+  },
+  {
+    "final_stock": 118.770845,
+    "minimum_stock": 89.89,
+    "peak_stock": 118.770845,
+    "run_id": 153,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3207.855347
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 105.101005,
+    "run_id": 154,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2784.582212
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 112.682503,
+    "run_id": 155,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2919.563543
+  },
+  {
+    "final_stock": 33.527114,
+    "minimum_stock": 33.527114,
+    "peak_stock": 105.101005,
+    "run_id": 156,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2148.313191
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 56.561107,
+    "peak_stock": 102.01,
+    "run_id": 157,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2238.064507
+  },
+  {
+    "final_stock": 33.527114,
+    "minimum_stock": 33.195163,
+    "peak_stock": 103.0301,
+    "run_id": 158,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2100.350273
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 74.305914,
+    "peak_stock": 105.101005,
+    "run_id": 159,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2697.906203
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.999345,
+    "peak_stock": 100.0,
+    "run_id": 160,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2212.416911
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 90.148369,
+    "peak_stock": 110.462213,
+    "run_id": 161,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3111.635381
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 82.663159,
+    "peak_stock": 100.287428,
+    "run_id": 162,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2832.7003
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 41.082044,
+    "peak_stock": 108.285671,
+    "run_id": 163,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2186.891897
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.999345,
+    "peak_stock": 100.0,
+    "run_id": 164,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2163.986924
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 100.0,
+    "run_id": 165,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2199.110357
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 100.0,
+    "run_id": 166,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2288.450081
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.436272,
+    "peak_stock": 101.0,
+    "run_id": 167,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2460.140554
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 111.566835,
+    "run_id": 168,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3107.236248
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 72.841794,
+    "peak_stock": 103.0301,
+    "run_id": 169,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2677.299575
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.750139,
+    "peak_stock": 106.152015,
+    "run_id": 170,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2366.49932
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 57.697985,
+    "peak_stock": 103.0301,
+    "run_id": 171,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2340.89714
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 110.462213,
+    "run_id": 172,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2821.811556
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 110.462213,
+    "run_id": 173,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3044.99104
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 62.47865,
+    "peak_stock": 103.326237,
+    "run_id": 174,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2724.204023
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 80.462657,
+    "peak_stock": 101.0,
+    "run_id": 175,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2845.497132
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 73.570212,
+    "peak_stock": 100.0,
+    "run_id": 176,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2498.416517
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.096262,
+    "peak_stock": 105.101005,
+    "run_id": 177,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2796.709901
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.096262,
+    "peak_stock": 117.257864,
+    "run_id": 178,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3105.373897
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 103.0301,
+    "run_id": 179,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2497.79985
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 37.670915,
+    "peak_stock": 100.0,
+    "run_id": 180,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1794.372665
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 101.0,
+    "run_id": 181,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2833.695415
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 110.462213,
+    "run_id": 182,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2745.068979
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 56.001096,
+    "peak_stock": 100.0,
+    "run_id": 183,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2161.58507
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 62.47865,
+    "peak_stock": 112.682503,
+    "run_id": 184,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2824.985353
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.20073,
+    "peak_stock": 102.01,
+    "run_id": 185,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2640.161297
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.096262,
+    "peak_stock": 104.060401,
+    "run_id": 186,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2780.754209
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.63081,
+    "peak_stock": 104.060401,
+    "run_id": 187,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2926.430992
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 90.148369,
+    "peak_stock": 110.462213,
+    "run_id": 188,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3111.635381
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 102.01,
+    "run_id": 189,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2869.21093
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 62.92258,
+    "peak_stock": 100.0,
+    "run_id": 190,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2358.155342
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.879811,
+    "peak_stock": 104.060401,
+    "run_id": 191,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2974.744559
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 99.294483,
+    "peak_stock": 113.006384,
+    "run_id": 192,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3265.483829
+  },
+  {
+    "final_stock": 134.784892,
+    "minimum_stock": 100.0,
+    "peak_stock": 134.784892,
+    "run_id": 193,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3613.274047
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 101.0,
+    "run_id": 194,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2345.750636
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 70.902738,
+    "peak_stock": 102.303205,
+    "run_id": 195,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2785.535879
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.860049,
+    "peak_stock": 110.462213,
+    "run_id": 196,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2685.886628
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 68.620265,
+    "peak_stock": 101.0,
+    "run_id": 197,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2393.518179
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.641162,
+    "peak_stock": 100.0,
+    "run_id": 198,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2212.947337
+  },
+  {
+    "final_stock": 118.770845,
+    "minimum_stock": 92.613757,
+    "peak_stock": 118.770845,
+    "run_id": 199,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3244.580159
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 38.047624,
+    "peak_stock": 100.0,
+    "run_id": 200,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1945.4839
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 100.0,
+    "run_id": 201,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2530.750874
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 79.665997,
+    "peak_stock": 108.285671,
+    "run_id": 202,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2982.217708
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.247574,
+    "peak_stock": 100.0,
+    "run_id": 203,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2589.350189
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.750139,
+    "peak_stock": 101.0,
+    "run_id": 204,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1988.866118
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 86.019615,
+    "peak_stock": 108.285671,
+    "run_id": 205,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3026.248792
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 89.0,
+    "peak_stock": 110.779712,
+    "run_id": 206,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3087.526957
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.860049,
+    "peak_stock": 104.060401,
+    "run_id": 207,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2572.493229
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 81.844712,
+    "peak_stock": 102.01,
+    "run_id": 208,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2833.86972
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.514203,
+    "peak_stock": 101.0,
+    "run_id": 209,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2456.114728
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.326871,
+    "peak_stock": 104.060401,
+    "run_id": 210,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1947.044443
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 69.505674,
+    "peak_stock": 102.01,
+    "run_id": 211,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2668.636651
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 37.297936,
+    "peak_stock": 103.0301,
+    "run_id": 212,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1957.152138
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 80.0021,
+    "peak_stock": 100.575682,
+    "run_id": 213,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2789.32251
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 75.048973,
+    "peak_stock": 106.152015,
+    "run_id": 214,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2858.316676
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 43.177641,
+    "peak_stock": 100.0,
+    "run_id": 215,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1985.406217
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 98.593943,
+    "peak_stock": 113.809328,
+    "run_id": 216,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3265.673682
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 76.557458,
+    "peak_stock": 112.682503,
+    "run_id": 217,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2945.764597
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 74.305914,
+    "peak_stock": 101.0,
+    "run_id": 218,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2658.911349
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 37.670915,
+    "peak_stock": 102.01,
+    "run_id": 219,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1904.623029
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 100.0,
+    "peak_stock": 120.810895,
+    "run_id": 220,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3389.97332
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 68.817499,
+    "peak_stock": 101.0,
+    "run_id": 221,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2562.033113
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.514203,
+    "peak_stock": 103.0301,
+    "run_id": 222,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2293.229084
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 92.22467,
+    "peak_stock": 114.947421,
+    "run_id": 223,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3202.376608
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 63.103436,
+    "peak_stock": 100.0,
+    "run_id": 224,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2365.16771
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 52.9072,
+    "peak_stock": 108.285671,
+    "run_id": 225,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2466.034913
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.860049,
+    "peak_stock": 104.060401,
+    "run_id": 226,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2682.873098
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 54.510341,
+    "peak_stock": 103.0301,
+    "run_id": 227,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2593.178234
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 90.148369,
+    "peak_stock": 109.368527,
+    "run_id": 228,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3098.511157
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 83.489791,
+    "peak_stock": 113.809328,
+    "run_id": 229,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3058.422693
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 78.877225,
+    "peak_stock": 114.947421,
+    "run_id": 230,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3051.523585
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 80.462657,
+    "peak_stock": 118.430443,
+    "run_id": 231,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3162.015202
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.514203,
+    "peak_stock": 102.01,
+    "run_id": 232,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2421.512973
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 91.311555,
+    "peak_stock": 110.462213,
+    "run_id": 233,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3174.568263
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 96.651253,
+    "peak_stock": 120.810895,
+    "run_id": 234,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3323.498911
+  },
+  {
+    "final_stock": 38.047624,
+    "minimum_stock": 36.563019,
+    "peak_stock": 102.01,
+    "run_id": 235,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1724.434212
+  },
+  {
+    "final_stock": 48.999345,
+    "minimum_stock": 48.999345,
+    "peak_stock": 103.0301,
+    "run_id": 236,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2321.451808
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.040755,
+    "peak_stock": 104.060401,
+    "run_id": 237,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2409.238306
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 42.750139,
+    "peak_stock": 101.0,
+    "run_id": 238,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1789.186394
+  },
+  {
+    "final_stock": 43.177641,
+    "minimum_stock": 41.907793,
+    "peak_stock": 100.0,
+    "run_id": 239,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 1693.557394
+  },
+  {
+    "final_stock": 104.659457,
+    "minimum_stock": 89.89,
+    "peak_stock": 104.659457,
+    "run_id": 240,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3010.243665
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.055444,
+    "peak_stock": 108.285671,
+    "run_id": 241,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2667.110037
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 53.970634,
+    "peak_stock": 106.152015,
+    "run_id": 242,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2733.724384
+  },
+  {
+    "final_stock": 55.605998,
+    "minimum_stock": 55.605998,
+    "peak_stock": 106.152015,
+    "run_id": 243,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2659.16662
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 61.247574,
+    "peak_stock": 105.101005,
+    "run_id": 244,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2434.559673
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 80.462657,
+    "peak_stock": 107.521697,
+    "run_id": 245,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2942.960826
+  },
+  {
+    "final_stock": 63.103436,
+    "minimum_stock": 60.641162,
+    "peak_stock": 103.0301,
+    "run_id": 246,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2582.650894
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 101.0,
+    "run_id": 247,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2553.840187
+  },
+  {
+    "final_stock": 92.22467,
+    "minimum_stock": 88.37209,
+    "peak_stock": 110.462213,
+    "run_id": 248,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 3062.939095
+  },
+  {
+    "final_stock": 71.611765,
+    "minimum_stock": 71.611765,
+    "peak_stock": 108.285671,
+    "run_id": 249,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2847.299277
+  },
+  {
+    "final_stock": 81.267284,
+    "minimum_stock": 70.699528,
+    "peak_stock": 103.0301,
+    "run_id": 250,
+    "scenario_name": "stochastic_shocks",
+    "total_stock_over_time": 2487.08532
+  }
+]

@@ -1,0 +1,2 @@
+interpretation,mean_final_stock,mean_total_stock_over_time,p05_final_stock,p50_final_stock,p95_final_stock,runs,scenario_name,std_final_stock
+Monte Carlo results summarize uncertainty across repeated stochastic simulation runs.,70.070034,2611.655326,38.047624,71.611765,104.659457,250,stochastic_shocks,18.743052

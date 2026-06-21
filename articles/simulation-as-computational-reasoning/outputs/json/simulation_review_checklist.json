@@ -1,0 +1,42 @@
+[
+  {
+    "check": "purpose_defined",
+    "question": "Is the simulation purpose explicitly stated?",
+    "status": "complete"
+  },
+  {
+    "check": "assumptions_documented",
+    "question": "Are model assumptions and boundaries documented?",
+    "status": "complete"
+  },
+  {
+    "check": "parameters_reviewed",
+    "question": "Are parameter meanings, sources, and ranges documented?",
+    "status": "partial"
+  },
+  {
+    "check": "sensitivity_tested",
+    "question": "Have important parameters been varied?",
+    "status": "complete"
+  },
+  {
+    "check": "uncertainty_reported",
+    "question": "Are stochastic outcomes summarized as ranges rather than single values?",
+    "status": "complete"
+  },
+  {
+    "check": "validation_evidence_linked",
+    "question": "Is there evidence that the model is fit for intended use?",
+    "status": "partial"
+  },
+  {
+    "check": "limitations_communicated",
+    "question": "Are omitted mechanisms and interpretation limits stated?",
+    "status": "complete"
+  },
+  {
+    "check": "decision_use_governed",
+    "question": "Is use of simulation output in decisions documented?",
+    "status": "needs_review"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "final_stock": 432.194238,
+    "intervention_strength": 0.0,
+    "peak_stock": 432.194238,
+    "threshold_crossed": true,
+    "total_stock_over_time": 7076.07899
+  },
+  {
+    "final_stock": 242.726247,
+    "intervention_strength": 0.02,
+    "peak_stock": 242.726247,
+    "threshold_crossed": false,
+    "total_stock_over_time": 5000.267818
+  },
+  {
+    "final_stock": 134.784892,
+    "intervention_strength": 0.04,
+    "peak_stock": 134.784892,
+    "threshold_crossed": false,
+    "total_stock_over_time": 3613.274047
+  },
+  {
+    "final_stock": 73.970037,
+    "intervention_strength": 0.06,
+    "peak_stock": 100.0,
+    "threshold_crossed": false,
+    "total_stock_over_time": 2676.966301
+  },
+  {
+    "final_stock": 40.100707,
+    "intervention_strength": 0.08,
+    "peak_stock": 100.0,
+    "threshold_crossed": false,
+    "total_stock_over_time": 2036.74381
+  },
+  {
+    "final_stock": 21.463876,
+    "intervention_strength": 0.1,
+    "peak_stock": 100.0,
+    "threshold_crossed": false,
+    "total_stock_over_time": 1592.186348
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 100.0,
+    "time_step": 0
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 105.0,
+    "time_step": 1
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 110.25,
+    "time_step": 2
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 115.7625,
+    "time_step": 3
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 121.550625,
+    "time_step": 4
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 127.628156,
+    "time_step": 5
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 134.009564,
+    "time_step": 6
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 140.710042,
+    "time_step": 7
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 147.745544,
+    "time_step": 8
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 155.132822,
+    "time_step": 9
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 162.889463,
+    "time_step": 10
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 171.033936,
+    "time_step": 11
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 179.585633,
+    "time_step": 12
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 188.564914,
+    "time_step": 13
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 197.99316,
+    "time_step": 14
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 207.892818,
+    "time_step": 15
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 218.287459,
+    "time_step": 16
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 229.201832,
+    "time_step": 17
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 240.661923,
+    "time_step": 18
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 252.69502,
+    "time_step": 19
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 265.329771,
+    "time_step": 20
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 278.596259,
+    "time_step": 21
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 292.526072,
+    "time_step": 22
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 307.152376,
+    "time_step": 23
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 322.509994,
+    "time_step": 24
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 338.635494,
+    "time_step": 25
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 355.567269,
+    "time_step": 26
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 373.345632,
+    "time_step": 27
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 392.012914,
+    "time_step": 28
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 411.61356,
+    "time_step": 29
+  },
+  {
+    "scenario_name": "baseline_growth",
+    "stochastic": false,
+    "stock": 432.194238,
+    "time_step": 30
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 100.0,
+    "time_step": 0
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 101.0,
+    "time_step": 1
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 102.01,
+    "time_step": 2
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 103.0301,
+    "time_step": 3
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 104.060401,
+    "time_step": 4
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 105.101005,
+    "time_step": 5
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 106.152015,
+    "time_step": 6
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 107.213535,
+    "time_step": 7
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 108.285671,
+    "time_step": 8
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 109.368527,
+    "time_step": 9
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 110.462213,
+    "time_step": 10
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 111.566835,
+    "time_step": 11
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 112.682503,
+    "time_step": 12
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 113.809328,
+    "time_step": 13
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 114.947421,
+    "time_step": 14
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 116.096896,
+    "time_step": 15
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 117.257864,
+    "time_step": 16
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 118.430443,
+    "time_step": 17
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 119.614748,
+    "time_step": 18
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 120.810895,
+    "time_step": 19
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 122.019004,
+    "time_step": 20
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 123.239194,
+    "time_step": 21
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 124.471586,
+    "time_step": 22
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 125.716302,
+    "time_step": 23
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 126.973465,
+    "time_step": 24
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 128.2432,
+    "time_step": 25
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 129.525631,
+    "time_step": 26
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 130.820888,
+    "time_step": 27
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 132.129097,
+    "time_step": 28
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 133.450388,
+    "time_step": 29
+  },
+  {
+    "scenario_name": "moderate_intervention",
+    "stochastic": false,
+    "stock": 134.784892,
+    "time_step": 30
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 100.0,
+    "time_step": 0
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 97.0,
+    "time_step": 1
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 94.09,
+    "time_step": 2
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 91.2673,
+    "time_step": 3
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 88.529281,
+    "time_step": 4
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 85.873403,
+    "time_step": 5
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 83.2972,
+    "time_step": 6
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 80.798284,
+    "time_step": 7
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 78.374336,
+    "time_step": 8
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 76.023106,
+    "time_step": 9
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 73.742413,
+    "time_step": 10
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 71.53014,
+    "time_step": 11
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 69.384236,
+    "time_step": 12
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 67.302709,
+    "time_step": 13
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 65.283628,
+    "time_step": 14
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 63.325119,
+    "time_step": 15
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 61.425365,
+    "time_step": 16
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 59.582604,
+    "time_step": 17
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 57.795126,
+    "time_step": 18
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 56.061272,
+    "time_step": 19
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 54.379434,
+    "time_step": 20
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 52.748051,
+    "time_step": 21
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 51.16561,
+    "time_step": 22
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 49.630641,
+    "time_step": 23
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 48.141722,
+    "time_step": 24
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 46.697471,
+    "time_step": 25
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 45.296546,
+    "time_step": 26
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 43.93765,
+    "time_step": 27
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 42.619521,
+    "time_step": 28
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 41.340935,
+    "time_step": 29
+  },
+  {
+    "scenario_name": "strong_intervention",
+    "stochastic": false,
+    "stock": 40.100707,
+    "time_step": 30
+  }
+]
