@@ -1,0 +1,8 @@
+{
+  "article": "Supervised, Unsupervised, and Reinforcement Learning",
+  "cards": [
+    "canvas/cards/supervised_unsupervised_reinforcement_learning_cards.md"
+  ],
+  "schema": "canvas/schemas/learning_paradigms_canvas_schema.json",
+  "slug": "supervised-unsupervised-and-reinforcement-learning"
+}

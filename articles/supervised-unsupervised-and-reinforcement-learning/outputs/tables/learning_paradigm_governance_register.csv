@@ -1,0 +1,7 @@
+governance_item,paradigm,review_question,status
+label_validity,supervised_learning,Do labels measure the intended outcome rather than institutional convenience?,needs_review
+generalization,supervised_learning,Does the model perform beyond the training set and across relevant subgroups?,partial
+cluster_interpretation,unsupervised_learning,Are clusters interpreted cautiously and validated against domain knowledge?,needs_review
+feature_scaling,unsupervised_learning,Do distance calculations depend on arbitrary feature scaling?,complete
+reward_alignment,reinforcement_learning,Does the reward function reflect the actual public or institutional purpose?,needs_review
+exploration_safety,reinforcement_learning,Are exploration and experimentation bounded in high-stakes settings?,needs_review

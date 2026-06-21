@@ -1,0 +1,31 @@
+{
+  "article": "Supervised, Unsupervised, and Reinforcement Learning",
+  "slug": "supervised-unsupervised-and-reinforcement-learning",
+  "calculators": [
+    {
+      "name": "classification_metrics_calculator",
+      "language": "python",
+      "path": "calculators/python/classification_metrics_calculator.py"
+    },
+    {
+      "name": "generalization_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/generalization_gap_calculator.py"
+    },
+    {
+      "name": "cluster_assignment_calculator",
+      "language": "python",
+      "path": "calculators/python/cluster_assignment_calculator.py"
+    },
+    {
+      "name": "expected_reward_calculator",
+      "language": "python",
+      "path": "calculators/python/expected_reward_calculator.py"
+    },
+    {
+      "name": "classification_metrics_calculator_r",
+      "language": "r",
+      "path": "calculators/r/classification_metrics_calculator.R"
+    }
+  ]
+}

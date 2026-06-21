@@ -1,0 +1,12 @@
+{
+  "article": "supervised_unsupervised_and_reinforcement_learning",
+  "cluster_count": 3,
+  "governance_items_needing_review": 4,
+  "interpretation": "Learning paradigms differ in evidence structure: supervised learning uses labels, unsupervised learning searches for structure, and reinforcement learning updates action from rewards.",
+  "n_observations": 360,
+  "rl_final_average_reward": 0.425,
+  "rl_rounds": 240,
+  "supervised_generalization_gap": 0.03,
+  "supervised_test_accuracy": 0.52,
+  "timestamp_utc": "2026-06-21T08:41:10.010415+00:00"
+}

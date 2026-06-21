@@ -1,0 +1,9 @@
+{
+  "bandit_rounds": 240,
+  "cluster_count": 3,
+  "epsilon": 0.12,
+  "n": 360,
+  "seed": 2026,
+  "supervised_threshold": 0.55,
+  "test_fraction": 0.3
+}

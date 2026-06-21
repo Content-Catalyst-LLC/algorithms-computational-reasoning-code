@@ -1,0 +1,20 @@
+{
+  "next": "features-labels-and-the-politics-of-measurement",
+  "previous": "machine-learning-as-algorithmic-inference",
+  "repo_folder": "articles/supervised-unsupervised-and-reinforcement-learning",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "supervised-unsupervised-and-reinforcement-learning",
+  "title": "Supervised, Unsupervised, and Reinforcement Learning",
+  "topics": [
+    "supervised learning",
+    "unsupervised learning",
+    "reinforcement learning",
+    "features",
+    "labels",
+    "clusters",
+    "reward signals",
+    "policies",
+    "generalization",
+    "algorithmic governance"
+  ]
+}

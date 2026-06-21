@@ -1,0 +1,4 @@
+arm,interpretation,observed_mean_reward,paradigm,times_selected,true_reward_probability
+baseline,"Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",0.266667,reinforcement_learning,15,0.42
+support,"Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",0.25,reinforcement_learning,8,0.54
+intensive_support,"Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",0.442396,reinforcement_learning,217,0.49

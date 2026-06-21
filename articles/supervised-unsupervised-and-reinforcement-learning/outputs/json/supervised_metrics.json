@@ -1,0 +1,47 @@
+[
+  {
+    "accuracy": 0.55,
+    "f1": 0.235294,
+    "fn": 111,
+    "fp": 6,
+    "interpretation": "Classification metrics depend on labels, threshold choice, split integrity, and intended use.",
+    "n": 260,
+    "paradigm": "supervised_learning",
+    "precision": 0.75,
+    "recall": 0.139535,
+    "split": "train",
+    "threshold": 0.55,
+    "tn": 125,
+    "tp": 18
+  },
+  {
+    "accuracy": 0.52,
+    "f1": 0.25,
+    "fn": 47,
+    "fp": 1,
+    "interpretation": "Classification metrics depend on labels, threshold choice, split integrity, and intended use.",
+    "n": 100,
+    "paradigm": "supervised_learning",
+    "precision": 0.888889,
+    "recall": 0.145455,
+    "split": "test",
+    "threshold": 0.55,
+    "tn": 44,
+    "tp": 8
+  },
+  {
+    "accuracy": 0.541667,
+    "f1": 0.239631,
+    "fn": 158,
+    "fp": 7,
+    "interpretation": "Classification metrics depend on labels, threshold choice, split integrity, and intended use.",
+    "n": 360,
+    "paradigm": "supervised_learning",
+    "precision": 0.787879,
+    "recall": 0.141304,
+    "split": "all",
+    "threshold": 0.55,
+    "tn": 169,
+    "tp": 26
+  }
+]

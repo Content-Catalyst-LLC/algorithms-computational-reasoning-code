@@ -1,0 +1,4 @@
+accuracy,f1,fn,fp,interpretation,n,paradigm,precision,recall,split,threshold,tn,tp
+0.55,0.235294,111,6,"Classification metrics depend on labels, threshold choice, split integrity, and intended use.",260,supervised_learning,0.75,0.139535,train,0.55,125,18
+0.52,0.25,47,1,"Classification metrics depend on labels, threshold choice, split integrity, and intended use.",100,supervised_learning,0.888889,0.145455,test,0.55,44,8
+0.541667,0.239631,158,7,"Classification metrics depend on labels, threshold choice, split integrity, and intended use.",360,supervised_learning,0.787879,0.141304,all,0.55,169,26

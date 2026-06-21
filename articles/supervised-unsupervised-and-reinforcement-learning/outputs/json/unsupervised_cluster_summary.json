@@ -1,0 +1,29 @@
+[
+  {
+    "centroid_access": 0.22531,
+    "centroid_risk": 0.714611,
+    "cluster": 0,
+    "interpretation": "Clusters require interpretation, validation, and caution before institutional use.",
+    "mean_distance_to_centroid": 0.147873,
+    "n": 118,
+    "paradigm": "unsupervised_learning"
+  },
+  {
+    "centroid_access": 0.645814,
+    "centroid_risk": 0.581905,
+    "cluster": 1,
+    "interpretation": "Clusters require interpretation, validation, and caution before institutional use.",
+    "mean_distance_to_centroid": 0.138295,
+    "n": 124,
+    "paradigm": "unsupervised_learning"
+  },
+  {
+    "centroid_access": 0.554932,
+    "centroid_risk": 0.217722,
+    "cluster": 2,
+    "interpretation": "Clusters require interpretation, validation, and caution before institutional use.",
+    "mean_distance_to_centroid": 0.140104,
+    "n": 118,
+    "paradigm": "unsupervised_learning"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "arm": "baseline",
+    "interpretation": "Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",
+    "observed_mean_reward": 0.266667,
+    "paradigm": "reinforcement_learning",
+    "times_selected": 15,
+    "true_reward_probability": 0.42
+  },
+  {
+    "arm": "support",
+    "interpretation": "Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",
+    "observed_mean_reward": 0.25,
+    "paradigm": "reinforcement_learning",
+    "times_selected": 8,
+    "true_reward_probability": 0.54
+  },
+  {
+    "arm": "intensive_support",
+    "interpretation": "Observed reward estimates are feedback records, not proof that the reward captures the right institutional goal.",
+    "observed_mean_reward": 0.442396,
+    "paradigm": "reinforcement_learning",
+    "times_selected": 217,
+    "true_reward_probability": 0.49
+  }
+]

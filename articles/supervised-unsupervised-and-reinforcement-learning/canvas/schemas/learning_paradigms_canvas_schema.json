@@ -1,0 +1,10 @@
+{
+  "fields": [
+    "paradigm",
+    "evidence_structure",
+    "output",
+    "risk",
+    "review_question"
+  ],
+  "schema_name": "learning_paradigms_canvas"
+}

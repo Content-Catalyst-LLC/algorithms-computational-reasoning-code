@@ -1,0 +1,10 @@
+item,description,review_question
+supervised_labels,Labeled examples define the target behavior,Are labels valid and consistently measured?
+train_test_split,Evaluation separates fitting from testing,Was the test set kept independent of training?
+class_threshold,Classification turns scores into actions,Who chose the threshold and what tradeoffs follow?
+unsupervised_clusters,Clusters group observations by similarity,Do clusters correspond to meaningful structure or only mathematical convenience?
+feature_scaling,Distance-based methods depend on feature scale,Are features scaled and justified?
+reward_signal,Reinforcement learning optimizes a reward definition,Does the reward reflect the real purpose?
+exploration,Agents need to test alternatives,Is exploration safe, ethical, and bounded?
+policy_update,Feedback changes future action,Can the learned policy be monitored and challenged?
+governance_boundary,Learning outputs may support decisions,Where should the model not be used?
