@@ -1,0 +1,110 @@
+[
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.9,
+    "group": "general",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_a",
+    "n": 2,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 0,
+    "avg_confidence": 0.81,
+    "group": "high_stakes",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_a",
+    "n": 1,
+    "safety_flag_rate": 1
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.83,
+    "group": "technical",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_a",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 0,
+    "avg_confidence": 0.76,
+    "group": "underrepresented_language",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_a",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.925,
+    "group": "general",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_b",
+    "n": 2,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.84,
+    "group": "high_stakes",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_b",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.89,
+    "group": "technical",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_b",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 0,
+    "avg_confidence": 0.82,
+    "group": "underrepresented_language",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_b",
+    "n": 1,
+    "safety_flag_rate": 1
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.99,
+    "group": "general",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_c",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.96,
+    "group": "high_stakes",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_c",
+    "n": 1,
+    "safety_flag_rate": 1
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.97,
+    "group": "technical",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_c",
+    "n": 1,
+    "safety_flag_rate": 0
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.94,
+    "group": "underrepresented_language",
+    "interpretation": "Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.",
+    "model": "model_c",
+    "n": 1,
+    "safety_flag_rate": 0
+  }
+]

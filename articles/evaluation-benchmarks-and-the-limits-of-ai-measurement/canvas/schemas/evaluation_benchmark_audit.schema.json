@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EvaluationBenchmarkAudit",
+  "type": "object",
+  "required": [
+    "model",
+    "accuracy",
+    "calibration_gap",
+    "safety_flag_rate",
+    "status"
+  ],
+  "properties": {
+    "model": {
+      "type": "string"
+    },
+    "accuracy": {
+      "type": "number"
+    },
+    "avg_confidence": {
+      "type": "number"
+    },
+    "calibration_gap": {
+      "type": "number"
+    },
+    "safety_flag_rate": {
+      "type": "number"
+    },
+    "saturated": {
+      "type": "integer"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "article": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "calculators": [
+    {
+      "name": "classification_metrics_calculator",
+      "language": "python",
+      "path": "calculators/python/classification_metrics_calculator.py",
+      "purpose": "Compute accuracy, precision, recall, and F1."
+    },
+    {
+      "name": "calibration_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/calibration_gap_calculator.py",
+      "purpose": "Compute calibration gap from confidence and accuracy."
+    },
+    {
+      "name": "benchmark_saturation_calculator",
+      "language": "python",
+      "path": "calculators/python/benchmark_saturation_calculator.py",
+      "purpose": "Flag near-ceiling benchmark scores."
+    },
+    {
+      "name": "evaluation_risk_score",
+      "language": "r",
+      "path": "calculators/r/evaluation_risk_score.R",
+      "purpose": "Combine calibration and safety indicators."
+    }
+  ]
+}

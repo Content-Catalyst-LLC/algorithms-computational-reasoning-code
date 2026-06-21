@@ -1,0 +1,19 @@
+{
+  "title": "Evaluation, Benchmarks, and the Limits of AI Measurement",
+  "slug": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "ai-agents-tool-use-and-procedural-autonomy",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "topics": [
+    "AI evaluation",
+    "benchmarks",
+    "metrics",
+    "calibration",
+    "disaggregated performance",
+    "benchmark saturation",
+    "data contamination",
+    "leaderboards",
+    "AI governance"
+  ]
+}

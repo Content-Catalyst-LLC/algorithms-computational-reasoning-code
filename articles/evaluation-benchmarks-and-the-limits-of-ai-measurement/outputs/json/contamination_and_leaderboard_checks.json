@@ -1,0 +1,22 @@
+[
+  {
+    "check": "training_overlap_scan",
+    "risk": "Test items may appear in training data.",
+    "status": "required"
+  },
+  {
+    "check": "fresh_hidden_set",
+    "risk": "Public benchmark may be overfit.",
+    "status": "recommended"
+  },
+  {
+    "check": "prompt_variant_sweep",
+    "risk": "Score may depend on one prompt template.",
+    "status": "required"
+  },
+  {
+    "check": "leaderboard_claim_review",
+    "risk": "Rank may be used beyond benchmark scope.",
+    "status": "required"
+  }
+]

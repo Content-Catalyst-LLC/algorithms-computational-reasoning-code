@@ -1,0 +1,8 @@
+item,description,review_question
+evaluation_purpose,Define the decision the evaluation should inform,What decision depends on the score?
+benchmark_choice,Justify the benchmark for the intended use,Does the benchmark match deployment conditions?
+metric_selection,Document what each metric measures and omits,What does the metric hide?
+calibration,Compare confidence with observed correctness,Does model confidence match accuracy?
+disaggregation,Review performance across groups tasks and contexts,Which gaps are hidden by aggregate scores?
+safety_testing,Track unsafe harmful or policy-violating outputs,Which harms are tested and which are omitted?
+deployment_monitoring,Measure behavior after launch,How will drift incidents and appeals be tracked?

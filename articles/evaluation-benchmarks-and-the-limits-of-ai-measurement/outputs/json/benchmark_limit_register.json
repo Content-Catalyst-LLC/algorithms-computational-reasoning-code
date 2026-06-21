@@ -1,0 +1,32 @@
+[
+  {
+    "limit": "task_coverage",
+    "review_question": "Do benchmark tasks match intended use?",
+    "status": "required"
+  },
+  {
+    "limit": "data_contamination",
+    "review_question": "Could test items appear in training data?",
+    "status": "required"
+  },
+  {
+    "limit": "prompt_sensitivity",
+    "review_question": "Do scores change with prompt wording?",
+    "status": "required"
+  },
+  {
+    "limit": "population_coverage",
+    "review_question": "Which groups, languages, and contexts are omitted?",
+    "status": "required"
+  },
+  {
+    "limit": "safety_coverage",
+    "review_question": "Which harms and misuse cases are tested?",
+    "status": "required"
+  },
+  {
+    "limit": "deployment_validity",
+    "review_question": "Does benchmark performance predict real-world workflow performance?",
+    "status": "required"
+  }
+]

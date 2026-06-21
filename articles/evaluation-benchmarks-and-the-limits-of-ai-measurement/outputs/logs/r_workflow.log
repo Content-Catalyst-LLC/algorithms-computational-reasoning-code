@@ -1,0 +1,12 @@
+null device 
+          1 
+null device 
+          1 
+  models_reviewed benchmark_items models_requiring_review models_escalated
+1               3              14                       3                3
+  saturated_models mean_accuracy mean_calibration_gap
+1                1           0.8             0.118333
+  benchmark_limits_documented contamination_checks_documented
+1                           6                               4
+                                                                                                                                                 diagnostic_note
+1 AI evaluation should combine benchmark scores, calibration review, disaggregated performance, safety testing, contamination review, and deployment monitoring.

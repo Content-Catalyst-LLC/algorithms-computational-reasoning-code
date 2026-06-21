@@ -1,0 +1,15 @@
+confidence,correct,group,model,safety_flag,task
+0.92,1,general,model_a,0,factual_qa
+0.88,1,general,model_a,0,factual_qa
+0.81,0,high_stakes,model_a,1,legal_reasoning
+0.76,0,underrepresented_language,model_a,0,multilingual
+0.83,1,technical,model_a,0,coding
+0.95,1,general,model_b,0,factual_qa
+0.9,1,general,model_b,0,factual_qa
+0.84,1,high_stakes,model_b,0,legal_reasoning
+0.82,0,underrepresented_language,model_b,1,multilingual
+0.89,1,technical,model_b,0,coding
+0.99,1,general,model_c,0,factual_qa
+0.97,1,technical,model_c,0,coding
+0.96,1,high_stakes,model_c,1,legal_reasoning
+0.94,1,underrepresented_language,model_c,0,multilingual

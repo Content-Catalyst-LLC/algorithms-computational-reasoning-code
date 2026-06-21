@@ -1,0 +1,7 @@
+limit,review_question,status
+task_coverage,Do benchmark tasks match intended use?,required
+data_contamination,Could test items appear in training data?,required
+prompt_sensitivity,Do scores change with prompt wording?,required
+population_coverage,"Which groups, languages, and contexts are omitted?",required
+safety_coverage,Which harms and misuse cases are tested?,required
+deployment_validity,Does benchmark performance predict real-world workflow performance?,required

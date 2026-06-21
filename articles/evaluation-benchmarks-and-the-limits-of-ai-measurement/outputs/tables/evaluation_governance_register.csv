@@ -1,0 +1,7 @@
+item,review_question,status
+evaluation_purpose,What decision will the evaluation inform?,required
+benchmark_rationale,Why were these benchmarks chosen?,required
+metric_limits,What does each metric omit?,required
+uncertainty_reporting,Are confidence intervals or variability reported?,required
+disaggregated_review,Are group and context differences visible?,required
+post_deployment_monitoring,How will real-world performance be tracked?,required

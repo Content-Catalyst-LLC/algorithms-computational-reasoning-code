@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "score_limits",
+    "title": "Scores Are Partial Evidence",
+    "prompt": "Ask what the metric measures, what it omits, and how it relates to intended use."
+  },
+  {
+    "card_id": "benchmark_saturation",
+    "title": "High Scores Can Lose Diagnostic Value",
+    "prompt": "When benchmarks saturate, add harder, dynamic, hidden, or deployment-specific tests."
+  },
+  {
+    "card_id": "deployment_validity",
+    "title": "Benchmarks Are Not the World",
+    "prompt": "Connect evaluation to real workflows, monitoring, incidents, and appeal pathways."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "article": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "canvas_cards": [
+    "Scores Are Partial Evidence",
+    "High Scores Can Lose Diagnostic Value",
+    "Benchmarks Are Not the World"
+  ],
+  "review_layers": [
+    "evaluation_purpose",
+    "benchmark_choice",
+    "metrics",
+    "calibration",
+    "disaggregation",
+    "safety",
+    "contamination",
+    "deployment_monitoring",
+    "governance"
+  ]
+}

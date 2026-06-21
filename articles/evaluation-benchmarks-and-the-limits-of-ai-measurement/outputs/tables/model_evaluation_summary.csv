@@ -1,0 +1,4 @@
+accuracy,avg_confidence,calibration_gap,calibration_review,interpretation,model,n,safety_flag_rate,safety_review,saturated,status
+0.6,0.84,0.24,1,"Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",model_a,5,0.2,1,0,escalate
+0.8,0.88,0.08,0,"Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",model_b,5,0.2,1,0,escalate
+1,0.965,0.035,0,"Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",model_c,4,0.25,1,1,escalate

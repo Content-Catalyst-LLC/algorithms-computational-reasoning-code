@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+calibration_gap <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.18)
+safety_flag_rate <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.12)
+risk_score <- min(1, calibration_gap + safety_flag_rate)
+cat(sprintf("calibration_gap=%.6f\n", calibration_gap))
+cat(sprintf("safety_flag_rate=%.6f\n", safety_flag_rate))
+cat(sprintf("evaluation_risk_score=%.6f\n", risk_score))

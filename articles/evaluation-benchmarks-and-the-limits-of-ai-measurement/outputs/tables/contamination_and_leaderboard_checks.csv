@@ -1,0 +1,5 @@
+check,risk,status
+training_overlap_scan,Test items may appear in training data.,required
+fresh_hidden_set,Public benchmark may be overfit.,recommended
+prompt_variant_sweep,Score may depend on one prompt template.,required
+leaderboard_claim_review,Rank may be used beyond benchmark scope.,required

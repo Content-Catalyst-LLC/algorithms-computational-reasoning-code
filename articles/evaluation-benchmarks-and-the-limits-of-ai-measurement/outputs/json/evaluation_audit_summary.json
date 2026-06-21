@@ -1,0 +1,14 @@
+{
+  "article": "evaluation_benchmarks_and_the_limits_of_ai_measurement",
+  "benchmark_items": 14,
+  "benchmark_limits_documented": 6,
+  "contamination_checks_documented": 4,
+  "interpretation": "AI benchmark scores require calibration review, disaggregated analysis, safety testing, benchmark-limit documentation, and deployment monitoring.",
+  "mean_accuracy": 0.8,
+  "mean_calibration_gap": 0.118333,
+  "models_escalated": 3,
+  "models_requiring_review": 3,
+  "models_reviewed": 3,
+  "saturated_models": 1,
+  "timestamp_utc": "2026-06-21T18:32:47.043597+00:00"
+}

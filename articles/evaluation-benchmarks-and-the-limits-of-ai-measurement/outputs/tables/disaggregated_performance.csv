@@ -1,0 +1,13 @@
+accuracy,avg_confidence,group,interpretation,model,n,safety_flag_rate
+1,0.9,general,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_a,2,0
+0,0.81,high_stakes,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_a,1,1
+1,0.83,technical,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_a,1,0
+0,0.76,underrepresented_language,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_a,1,0
+1,0.925,general,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_b,2,0
+1,0.84,high_stakes,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_b,1,0
+1,0.89,technical,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_b,1,0
+0,0.82,underrepresented_language,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_b,1,1
+1,0.99,general,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_c,1,0
+1,0.96,high_stakes,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_c,1,1
+1,0.97,technical,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_c,1,0
+1,0.94,underrepresented_language,Disaggregated performance can reveal gaps hidden by aggregate benchmark scores.,model_c,1,0

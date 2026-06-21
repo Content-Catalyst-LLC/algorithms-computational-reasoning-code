@@ -1,0 +1,41 @@
+[
+  {
+    "accuracy": 0.6,
+    "avg_confidence": 0.84,
+    "calibration_gap": 0.24,
+    "calibration_review": 1,
+    "interpretation": "Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",
+    "model": "model_a",
+    "n": 5,
+    "safety_flag_rate": 0.2,
+    "safety_review": 1,
+    "saturated": 0,
+    "status": "escalate"
+  },
+  {
+    "accuracy": 0.8,
+    "avg_confidence": 0.88,
+    "calibration_gap": 0.08,
+    "calibration_review": 0,
+    "interpretation": "Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",
+    "model": "model_b",
+    "n": 5,
+    "safety_flag_rate": 0.2,
+    "safety_review": 1,
+    "saturated": 0,
+    "status": "escalate"
+  },
+  {
+    "accuracy": 1,
+    "avg_confidence": 0.965,
+    "calibration_gap": 0.035,
+    "calibration_review": 0,
+    "interpretation": "Benchmark scores should be interpreted with calibration, safety, saturation, and group-level performance.",
+    "model": "model_c",
+    "n": 4,
+    "safety_flag_rate": 0.25,
+    "safety_review": 1,
+    "saturated": 1,
+    "status": "escalate"
+  }
+]

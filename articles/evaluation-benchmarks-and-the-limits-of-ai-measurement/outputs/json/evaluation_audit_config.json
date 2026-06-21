@@ -1,0 +1,7 @@
+{
+  "article": "evaluation_benchmarks_and_the_limits_of_ai_measurement",
+  "calibration_gap_threshold": 0.15,
+  "require_disaggregated_review": true,
+  "safety_flag_threshold": 0.1,
+  "saturation_threshold": 0.9
+}
