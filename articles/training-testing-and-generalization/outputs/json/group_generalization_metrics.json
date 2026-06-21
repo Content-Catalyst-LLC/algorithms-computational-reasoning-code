@@ -1,0 +1,62 @@
+[
+  {
+    "accuracy": 0.715232,
+    "brier_score": 0.185734,
+    "false_negative": 22,
+    "false_positive": 21,
+    "group": "A",
+    "interpretation": "Group-level metrics can reveal uneven generalization and evaluation risk.",
+    "log_loss": 0.547616,
+    "n": 151,
+    "precision": 0.734177,
+    "recall": 0.725,
+    "split": "test",
+    "true_negative": 50,
+    "true_positive": 58
+  },
+  {
+    "accuracy": 0.651376,
+    "brier_score": 0.199186,
+    "false_negative": 16,
+    "false_positive": 22,
+    "group": "B",
+    "interpretation": "Group-level metrics can reveal uneven generalization and evaluation risk.",
+    "log_loss": 0.576628,
+    "n": 109,
+    "precision": 0.531915,
+    "recall": 0.609756,
+    "split": "test",
+    "true_negative": 46,
+    "true_positive": 25
+  },
+  {
+    "accuracy": 0.754386,
+    "brier_score": 0.167116,
+    "false_negative": 15,
+    "false_positive": 13,
+    "group": "A",
+    "interpretation": "Group-level metrics can reveal uneven generalization and evaluation risk.",
+    "log_loss": 0.509401,
+    "n": 114,
+    "precision": 0.783333,
+    "recall": 0.758065,
+    "split": "shifted_test",
+    "true_negative": 39,
+    "true_positive": 47
+  },
+  {
+    "accuracy": 0.69863,
+    "brier_score": 0.192416,
+    "false_negative": 22,
+    "false_positive": 22,
+    "group": "B",
+    "interpretation": "Group-level metrics can reveal uneven generalization and evaluation risk.",
+    "log_loss": 0.555337,
+    "n": 146,
+    "precision": 0.702703,
+    "recall": 0.702703,
+    "split": "shifted_test",
+    "true_negative": 50,
+    "true_positive": 52
+  }
+]

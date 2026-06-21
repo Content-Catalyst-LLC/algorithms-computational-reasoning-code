@@ -1,0 +1,19 @@
+{
+  "next": "overfitting-underfitting-and-model-error",
+  "previous": "features-labels-and-the-politics-of-measurement",
+  "repo_folder": "articles/training-testing-and-generalization",
+  "series": "Algorithms & Computational Reasoning",
+  "slug": "training-testing-and-generalization",
+  "title": "Training, Testing, and Generalization",
+  "topics": [
+    "training data",
+    "testing",
+    "generalization",
+    "cross-validation",
+    "distribution shift",
+    "model evaluation",
+    "leakage",
+    "calibration",
+    "algorithmic governance"
+  ]
+}

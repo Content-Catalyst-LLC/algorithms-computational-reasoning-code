@@ -1,0 +1,44 @@
+[
+  {
+    "accuracy": 0.742308,
+    "brier_score": 0.169547,
+    "false_negative": 71,
+    "false_positive": 63,
+    "interpretation": "Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.",
+    "log_loss": 0.506718,
+    "n": 520,
+    "precision": 0.733051,
+    "recall": 0.709016,
+    "split": "train",
+    "true_negative": 213,
+    "true_positive": 173
+  },
+  {
+    "accuracy": 0.688462,
+    "brier_score": 0.191374,
+    "false_negative": 38,
+    "false_positive": 43,
+    "interpretation": "Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.",
+    "log_loss": 0.559778,
+    "n": 260,
+    "precision": 0.65873,
+    "recall": 0.68595,
+    "split": "test",
+    "true_negative": 96,
+    "true_positive": 83
+  },
+  {
+    "accuracy": 0.723077,
+    "brier_score": 0.181323,
+    "false_negative": 37,
+    "false_positive": 35,
+    "interpretation": "Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.",
+    "log_loss": 0.535196,
+    "n": 260,
+    "precision": 0.738806,
+    "recall": 0.727941,
+    "split": "shifted_test",
+    "true_negative": 89,
+    "true_positive": 99
+  }
+]

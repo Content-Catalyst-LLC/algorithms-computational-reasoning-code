@@ -1,0 +1,30 @@
+[
+  {
+    "interpretation": "A large train-test gap suggests overfitting, leakage, or unstable learning.",
+    "review_question": "Is the model performing materially worse on held-out data than on training data?",
+    "risk": "generalization_gap",
+    "status": "acceptable_for_teaching",
+    "value": 0.053846
+  },
+  {
+    "interpretation": "A shifted-test decline warns that ordinary test performance may overstate deployment reliability.",
+    "review_question": "Does performance decline when the data-generating conditions shift?",
+    "risk": "distribution_shift_gap",
+    "status": "acceptable_for_teaching",
+    "value": -0.034615
+  },
+  {
+    "interpretation": "Feature shift should be documented before generalization claims are made.",
+    "review_question": "Are future or deployment cases distributed differently from training cases?",
+    "risk": "feature_distribution_shift",
+    "status": "acceptable_for_teaching",
+    "value": 0.21389
+  },
+  {
+    "interpretation": "Even a technically held-out test set can become contaminated if repeatedly used for tuning.",
+    "review_question": "Was the test set used repeatedly for model selection?",
+    "risk": "test_set_reuse",
+    "status": "needs_process_control",
+    "value": 1
+  }
+]

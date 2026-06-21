@@ -1,0 +1,10 @@
+{
+  "epochs": 520,
+  "experiment_name": "training_testing_generalization_audit",
+  "learning_rate": 0.18,
+  "seed": 2026,
+  "shifted_test_n": 260,
+  "test_n": 260,
+  "threshold": 0.5,
+  "train_n": 520
+}

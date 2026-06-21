@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "accuracy": {
+      "type": "number"
+    },
+    "brier_score": {
+      "type": "number"
+    },
+    "interpretation": {
+      "type": "string"
+    },
+    "log_loss": {
+      "type": "number"
+    },
+    "split": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "split",
+    "accuracy",
+    "brier_score",
+    "log_loss"
+  ],
+  "title": "TrainingTestingGeneralizationAudit",
+  "type": "object"
+}

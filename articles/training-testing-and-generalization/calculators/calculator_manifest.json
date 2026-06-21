@@ -1,0 +1,30 @@
+{
+  "article": "Training, Testing, and Generalization",
+  "calculators": [
+    {
+      "language": "python",
+      "name": "train_test_split_calculator",
+      "path": "calculators/python/train_test_split_calculator.py"
+    },
+    {
+      "language": "python",
+      "name": "generalization_gap_calculator",
+      "path": "calculators/python/generalization_gap_calculator.py"
+    },
+    {
+      "language": "python",
+      "name": "confusion_metrics_calculator",
+      "path": "calculators/python/confusion_metrics_calculator.py"
+    },
+    {
+      "language": "python",
+      "name": "cross_validation_summary_calculator",
+      "path": "calculators/python/cross_validation_summary_calculator.py"
+    },
+    {
+      "language": "r",
+      "name": "generalization_gap_calculator_r",
+      "path": "calculators/r/generalization_gap_calculator.R"
+    }
+  ]
+}

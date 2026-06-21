@@ -1,0 +1,5 @@
+accuracy,brier_score,false_negative,false_positive,group,interpretation,log_loss,n,precision,recall,split,true_negative,true_positive
+0.715232,0.185734,22,21,A,Group-level metrics can reveal uneven generalization and evaluation risk.,0.547616,151,0.734177,0.725,test,50,58
+0.651376,0.199186,16,22,B,Group-level metrics can reveal uneven generalization and evaluation risk.,0.576628,109,0.531915,0.609756,test,46,25
+0.754386,0.167116,15,13,A,Group-level metrics can reveal uneven generalization and evaluation risk.,0.509401,114,0.783333,0.758065,shifted_test,39,47
+0.69863,0.192416,22,22,B,Group-level metrics can reveal uneven generalization and evaluation risk.,0.555337,146,0.702703,0.702703,shifted_test,50,52

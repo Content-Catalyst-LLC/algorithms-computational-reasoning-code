@@ -1,0 +1,3 @@
+train_metric=0.880000
+test_metric=0.810000
+generalization_gap=0.070000

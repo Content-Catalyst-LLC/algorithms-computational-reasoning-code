@@ -1,0 +1,9 @@
+item,description,review_question
+training_set,Data used to fit model parameters,Does training data reflect the intended learning problem?
+test_set,Held-out data used to estimate future performance,Was the test set protected from modeling choices?
+validation_design,Procedure for model selection and tuning,Was evaluation separated from optimization?
+generalization_gap,Difference between training and held-out performance,Is performance stable beyond the fitting data?
+distribution_shift,Change between development data and deployment conditions,What might make future cases different?
+leakage,Information from target or test data entering training,Could the model be learning information unavailable at decision time?
+calibration,Agreement between predicted probabilities and observed rates,Are confidence scores meaningful?
+use_boundary,Limits on where evaluation evidence applies,Where should the model not be trusted?

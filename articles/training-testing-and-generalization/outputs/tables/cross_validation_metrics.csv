@@ -1,0 +1,6 @@
+accuracy,brier_score,false_negative,false_positive,fold,interpretation,log_loss,n,precision,recall,split,true_negative,true_positive
+0.740385,0.182863,15,12,1,Cross-validation estimates stability across repeated development splits.,0.547564,104,0.73913,0.693878,cv_fold_1,43,34
+0.701923,0.171365,13,18,2,Cross-validation estimates stability across repeated development splits.,0.501853,104,0.653846,0.723404,cv_fold_2,39,34
+0.75,0.15657,14,12,3,Cross-validation estimates stability across repeated development splits.,0.467079,104,0.714286,0.681818,cv_fold_3,48,30
+0.759615,0.172118,16,9,4,Cross-validation estimates stability across repeated development splits.,0.514311,104,0.804348,0.698113,cv_fold_4,42,37
+0.711538,0.177994,14,16,5,Cross-validation estimates stability across repeated development splits.,0.537111,104,0.698113,0.72549,cv_fold_5,37,37

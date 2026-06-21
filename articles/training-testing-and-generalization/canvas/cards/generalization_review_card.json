@@ -1,0 +1,11 @@
+{
+  "article": "Training, Testing, and Generalization",
+  "checks": [
+    "Separate fitting from testing",
+    "Compare train/test/shifted-test metrics",
+    "Review cross-validation stability",
+    "Check group-level performance",
+    "Document leakage, shift, calibration, and use boundaries"
+  ],
+  "title": "Training, Testing, and Generalization Review"
+}

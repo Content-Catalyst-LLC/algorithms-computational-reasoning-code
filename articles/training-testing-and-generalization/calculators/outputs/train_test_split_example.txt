@@ -1,0 +1,4 @@
+n=1000
+train_n=700
+validation_n=150
+test_n=150

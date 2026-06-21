@@ -1,0 +1,10 @@
+null device 
+          1 
+null device 
+          1 
+  train_accuracy test_accuracy shifted_test_accuracy
+1       0.742308      0.688462              0.723077
+  generalization_gap_accuracy distribution_shift_gap_accuracy
+1                    0.053846                       -0.034615
+  risks_needing_review
+1                    1

@@ -1,0 +1,26 @@
+[
+  {
+    "absolute_standardized_shift": 0.132605,
+    "feature": "feature_signal",
+    "interpretation": "Large shifts warn that held-out performance may not transfer to deployment conditions.",
+    "shifted_test_mean": 0.188918,
+    "standardized_shift": 0.132605,
+    "train_mean": 0.057383
+  },
+  {
+    "absolute_standardized_shift": 0.107479,
+    "feature": "feature_context",
+    "interpretation": "Large shifts warn that held-out performance may not transfer to deployment conditions.",
+    "shifted_test_mean": 0.107025,
+    "standardized_shift": 0.107479,
+    "train_mean": -0.004083
+  },
+  {
+    "absolute_standardized_shift": 0.21389,
+    "feature": "feature_noise_proxy",
+    "interpretation": "Large shifts warn that held-out performance may not transfer to deployment conditions.",
+    "shifted_test_mean": 0.229912,
+    "standardized_shift": -0.21389,
+    "train_mean": 0.450835
+  }
+]

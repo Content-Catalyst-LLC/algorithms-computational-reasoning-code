@@ -1,0 +1,4 @@
+absolute_standardized_shift,feature,interpretation,shifted_test_mean,standardized_shift,train_mean
+0.132605,feature_signal,Large shifts warn that held-out performance may not transfer to deployment conditions.,0.188918,0.132605,0.057383
+0.107479,feature_context,Large shifts warn that held-out performance may not transfer to deployment conditions.,0.107025,0.107479,-0.004083
+0.21389,feature_noise_proxy,Large shifts warn that held-out performance may not transfer to deployment conditions.,0.229912,-0.21389,0.450835

@@ -1,0 +1,5 @@
+folds=5
+mean=0.810000
+population_sd=0.014142
+min=0.790000
+max=0.830000

@@ -1,0 +1,16 @@
+{
+  "article": "training_testing_and_generalization",
+  "cross_validation_accuracy_mean": 0.732692,
+  "cross_validation_accuracy_sd": 0.022261,
+  "distribution_shift_gap_accuracy": -0.034615,
+  "generalization_gap_accuracy": 0.053846,
+  "interpretation": "Training, testing, and generalization workflows should separate fitting from evaluation, check stability, document uncertainty, and avoid treating benchmark performance as deployment proof.",
+  "risks_needing_review": 1,
+  "shifted_test_accuracy": 0.723077,
+  "shifted_test_n": 260,
+  "test_accuracy": 0.688462,
+  "test_n": 260,
+  "timestamp_utc": "2026-06-21T09:18:05.904580+00:00",
+  "train_accuracy": 0.742308,
+  "train_n": 520
+}

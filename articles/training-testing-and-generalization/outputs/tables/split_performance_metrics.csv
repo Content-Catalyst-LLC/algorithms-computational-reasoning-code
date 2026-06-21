@@ -1,0 +1,4 @@
+accuracy,brier_score,false_negative,false_positive,interpretation,log_loss,n,precision,recall,split,true_negative,true_positive
+0.742308,0.169547,71,63,Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.,0.506718,520,0.733051,0.709016,train,213,173
+0.688462,0.191374,38,43,Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.,0.559778,260,0.65873,0.68595,test,96,83
+0.723077,0.181323,37,35,Held-out performance estimates how well the fitted model transfers beyond the data used to fit it.,0.535196,260,0.738806,0.727941,shifted_test,89,99
