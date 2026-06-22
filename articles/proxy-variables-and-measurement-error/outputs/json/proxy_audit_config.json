@@ -1,0 +1,7 @@
+{
+  "article": "proxy_variables_and_measurement_error",
+  "differential_error_threshold": 0.15,
+  "label_error_threshold": 0.1,
+  "missingness_threshold": 0.2,
+  "validity_gap_threshold": 0.3
+}

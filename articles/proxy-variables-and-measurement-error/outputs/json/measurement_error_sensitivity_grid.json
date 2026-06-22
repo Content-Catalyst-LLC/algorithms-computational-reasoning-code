@@ -1,0 +1,27 @@
+[
+  {
+    "attenuation_factor": 1.0,
+    "error_rate": 0.0,
+    "interpretation": "Higher measurement error can attenuate observed relationships and weaken model validity."
+  },
+  {
+    "attenuation_factor": 0.952381,
+    "error_rate": 0.05,
+    "interpretation": "Higher measurement error can attenuate observed relationships and weaken model validity."
+  },
+  {
+    "attenuation_factor": 0.909091,
+    "error_rate": 0.1,
+    "interpretation": "Higher measurement error can attenuate observed relationships and weaken model validity."
+  },
+  {
+    "attenuation_factor": 0.833333,
+    "error_rate": 0.2,
+    "interpretation": "Higher measurement error can attenuate observed relationships and weaken model validity."
+  },
+  {
+    "attenuation_factor": 0.769231,
+    "error_rate": 0.3,
+    "interpretation": "Higher measurement error can attenuate observed relationships and weaken model validity."
+  }
+]

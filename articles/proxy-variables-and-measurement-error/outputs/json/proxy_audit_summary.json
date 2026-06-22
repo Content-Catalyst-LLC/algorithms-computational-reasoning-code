@@ -1,0 +1,13 @@
+{
+  "article": "proxy_variables_and_measurement_error",
+  "cases_escalated": 5,
+  "cases_passed": 1,
+  "cases_requiring_review": 0,
+  "governance_items": 7,
+  "interpretation": "Proxy variables should be reviewed through construct validity, missingness, differential error, label error, validation, sensitivity analysis, and use boundaries.",
+  "mean_measurement_risk_score": 0.200417,
+  "mean_validity_gap": 0.405,
+  "proxy_cases_reviewed": 6,
+  "sensitivity_scenarios": 5,
+  "timestamp_utc": "2026-06-22T07:38:15.187121+00:00"
+}

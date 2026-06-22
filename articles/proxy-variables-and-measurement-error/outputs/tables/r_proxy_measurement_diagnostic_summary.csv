@@ -1,0 +1,2 @@
+"proxy_cases_reviewed","cases_passed","cases_requiring_review","cases_escalated","mean_measurement_risk_score","mean_validity_gap","sensitivity_scenarios","governance_items","diagnostic_note"
+6,1,0,5,0.200417,0.405,5,7,"Proxy-variable governance should review construct validity, missingness, differential error, label error, sensitivity, and use boundaries."

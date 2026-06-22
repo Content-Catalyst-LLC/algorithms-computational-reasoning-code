@@ -1,0 +1,37 @@
+[
+  {
+    "item": "construct_definition",
+    "review_question": "What concept is the variable supposed to measure?",
+    "status": "required"
+  },
+  {
+    "item": "proxy_rationale",
+    "review_question": "Why is this proxy appropriate?",
+    "status": "required"
+  },
+  {
+    "item": "data_provenance",
+    "review_question": "Where did the data come from and how were they recorded?",
+    "status": "required"
+  },
+  {
+    "item": "error_analysis",
+    "review_question": "What random, systematic, or differential errors are likely?",
+    "status": "required"
+  },
+  {
+    "item": "missingness_review",
+    "review_question": "Who or what is missing from the record?",
+    "status": "required"
+  },
+  {
+    "item": "validation_plan",
+    "review_question": "How will the proxy be validated against stronger evidence?",
+    "status": "required"
+  },
+  {
+    "item": "use_boundary",
+    "review_question": "Which decisions should not rely on this proxy?",
+    "status": "required"
+  }
+]

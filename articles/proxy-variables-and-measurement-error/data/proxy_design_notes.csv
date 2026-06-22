@@ -1,0 +1,8 @@
+item,description,review_question
+construct_definition,Plain-language definition of the intended concept,What is the system trying to measure?
+proxy_variable,Observable stand-in for the construct,Why is this proxy appropriate?
+data_provenance,Origin and recording process for the variable,Where did the data come from?
+measurement_error,Expected error sources,What random systematic or differential errors are likely?
+missingness,Unrecorded values or cases,Who or what is missing from the data?
+validation,Checks against stronger evidence,How is proxy quality tested?
+use_boundary,Limits on decisions using this proxy,Where is the proxy too weak to rely on?

@@ -1,0 +1,18 @@
+{
+  "article": "proxy-variables-and-measurement-error",
+  "canvas_cards": [
+    "A Proxy Is Not the Construct",
+    "Missingness Has Meaning",
+    "Labels Are Produced"
+  ],
+  "review_layers": [
+    "construct_definition",
+    "proxy_rationale",
+    "data_provenance",
+    "measurement_error",
+    "missingness",
+    "differential_error",
+    "validation",
+    "use_boundaries"
+  ]
+}

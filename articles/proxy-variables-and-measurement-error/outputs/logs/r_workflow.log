@@ -1,0 +1,12 @@
+null device 
+          1 
+null device 
+          1 
+  proxy_cases_reviewed cases_passed cases_requiring_review cases_escalated
+1                    6            1                      0               5
+  mean_measurement_risk_score mean_validity_gap sensitivity_scenarios
+1                    0.200417             0.405                     5
+  governance_items
+1                7
+                                                                                                                             diagnostic_note
+1 Proxy-variable governance should review construct validity, missingness, differential error, label error, sensitivity, and use boundaries.

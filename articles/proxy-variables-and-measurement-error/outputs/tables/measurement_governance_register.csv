@@ -1,0 +1,8 @@
+item,review_question,status
+construct_definition,What concept is the variable supposed to measure?,required
+proxy_rationale,Why is this proxy appropriate?,required
+data_provenance,Where did the data come from and how were they recorded?,required
+error_analysis,"What random, systematic, or differential errors are likely?",required
+missingness_review,Who or what is missing from the record?,required
+validation_plan,How will the proxy be validated against stronger evidence?,required
+use_boundary,Which decisions should not rely on this proxy?,required

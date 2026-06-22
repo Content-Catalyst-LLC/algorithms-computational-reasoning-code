@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+true_variance <- ifelse(length(args) >= 1, as.numeric(args[1]), 1.0)
+error_variance <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.25)
+factor <- true_variance / (true_variance + error_variance)
+cat(sprintf("true_variance=%.6f\n", true_variance))
+cat(sprintf("error_variance=%.6f\n", error_variance))
+cat(sprintf("attenuation_factor=%.6f\n", factor))

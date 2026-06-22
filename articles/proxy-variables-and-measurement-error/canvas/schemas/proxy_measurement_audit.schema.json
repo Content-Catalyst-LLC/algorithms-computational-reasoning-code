@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProxyMeasurementAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "construct",
+    "proxy",
+    "validity_gap",
+    "measurement_risk_score",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "construct": {
+      "type": "string"
+    },
+    "proxy": {
+      "type": "string"
+    },
+    "proxy_validity": {
+      "type": "number"
+    },
+    "validity_gap": {
+      "type": "number"
+    },
+    "missingness_rate": {
+      "type": "number"
+    },
+    "differential_error": {
+      "type": "number"
+    },
+    "label_error": {
+      "type": "number"
+    },
+    "measurement_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

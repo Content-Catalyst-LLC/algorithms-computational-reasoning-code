@@ -1,0 +1,7 @@
+case_id,construct,differential_error,label_error,missingness_rate,proxy,proxy_validity
+health_spending_as_need,health_need,0.24,0.08,0.12,health_spending,0.58
+clicks_as_value,user_value,0.18,0.12,0.05,click_rate,0.51
+test_scores_as_learning,learning,0.16,0.05,0.08,standardized_score,0.67
+expert_label_as_truth,true_category,0.06,0.07,0.03,expert_label,0.82
+arrest_record_as_risk,future_harm_risk,0.31,0.14,0.1,prior_arrest_record,0.45
+complaints_as_quality,service_quality,0.22,0.09,0.28,complaint_count,0.54

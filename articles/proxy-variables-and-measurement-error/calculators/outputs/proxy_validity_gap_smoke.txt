@@ -1,0 +1,2 @@
+proxy_validity=0.580000
+validity_gap=0.420000

@@ -1,0 +1,3 @@
+true_variance=1.000000
+error_variance=0.250000
+attenuation_factor=0.800000

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "proxy_is_not_construct",
+    "title": "A Proxy Is Not the Construct",
+    "prompt": "Label proxy variables explicitly and document what they are supposed to represent."
+  },
+  {
+    "card_id": "missingness_has_meaning",
+    "title": "Missingness Has Meaning",
+    "prompt": "Ask who or what is absent from the records and why the absence occurred."
+  },
+  {
+    "card_id": "labels_are_produced",
+    "title": "Labels Are Produced",
+    "prompt": "Treat labels as outputs of measurement processes, institutions, and judgments."
+  }
+]

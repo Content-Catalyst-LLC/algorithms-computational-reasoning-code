@@ -1,0 +1,19 @@
+{
+  "title": "Proxy Variables and Measurement Error",
+  "slug": "proxy-variables-and-measurement-error",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "metrics-objectives-and-goodharts-law",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/proxy-variables-and-measurement-error",
+  "topics": [
+    "proxy variables",
+    "measurement error",
+    "construct validity",
+    "label error",
+    "missing data",
+    "differential error",
+    "proxy bias",
+    "fairness risk",
+    "measurement governance"
+  ]
+}

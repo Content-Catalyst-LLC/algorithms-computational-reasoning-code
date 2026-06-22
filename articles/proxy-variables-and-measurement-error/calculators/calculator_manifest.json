@@ -1,0 +1,29 @@
+{
+  "article": "proxy-variables-and-measurement-error",
+  "calculators": [
+    {
+      "name": "proxy_validity_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/proxy_validity_gap_calculator.py",
+      "purpose": "Compute 1 minus proxy validity."
+    },
+    {
+      "name": "measurement_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/measurement_risk_calculator.py",
+      "purpose": "Combine validity gap, missingness, differential error, and label error."
+    },
+    {
+      "name": "misclassification_rates_calculator",
+      "language": "python",
+      "path": "calculators/python/misclassification_rates_calculator.py",
+      "purpose": "Compute sensitivity and specificity from labeled counts."
+    },
+    {
+      "name": "attenuation_factor",
+      "language": "r",
+      "path": "calculators/r/attenuation_factor.R",
+      "purpose": "Compute a simple attenuation factor under measurement error."
+    }
+  ]
+}

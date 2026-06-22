@@ -1,0 +1,6 @@
+attenuation_factor,error_rate,interpretation
+1.0,0.0,Higher measurement error can attenuate observed relationships and weaken model validity.
+0.952381,0.05,Higher measurement error can attenuate observed relationships and weaken model validity.
+0.909091,0.1,Higher measurement error can attenuate observed relationships and weaken model validity.
+0.833333,0.2,Higher measurement error can attenuate observed relationships and weaken model validity.
+0.769231,0.3,Higher measurement error can attenuate observed relationships and weaken model validity.
