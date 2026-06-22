@@ -1,0 +1,2 @@
+"failure_modes_reviewed","failure_modes_passed","failure_modes_requiring_review","failure_modes_escalated","mean_failure_risk_score","mean_priority_score","mean_resilience_capacity","failure_taxonomy_entries","governance_items","diagnostic_note"
+6,1,5,0,0.099309,0.172287,0.446667,7,7,"Failure-mode review should connect likelihood, severity, detectability, controllability, monitoring, fallback, rollback, escalation, repair, and governance."

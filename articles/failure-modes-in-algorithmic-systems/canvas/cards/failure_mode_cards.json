@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "failure_modes_are_patterns",
+    "title": "Failure Modes Are Patterns",
+    "prompt": "Ask how the system can repeatedly fail across data, model, objective, interface, workflow, infrastructure, and governance layers."
+  },
+  {
+    "card_id": "monitor_for_harm_not_only_uptime",
+    "title": "Monitor for Harm, Not Only Uptime",
+    "prompt": "Include appeals, incidents, subgroup outcomes, overrides, drift, and remediation status in monitoring."
+  },
+  {
+    "card_id": "fail_visibly_and_recoverably",
+    "title": "Fail Visibly and Recoverably",
+    "prompt": "Design fallback, rollback, escalation, repair, and post-incident learning before deployment."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "article": "failure-modes-in-algorithmic-systems",
+  "calculators": [
+    {
+      "name": "failure_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/failure_risk_calculator.py",
+      "purpose": "Compute failure risk from likelihood, severity, detectability, and controllability."
+    },
+    {
+      "name": "failure_priority_calculator",
+      "language": "python",
+      "path": "calculators/python/failure_priority_calculator.py",
+      "purpose": "Compute failure priority from likelihood, severity, and detectability."
+    },
+    {
+      "name": "resilience_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/resilience_capacity_calculator.py",
+      "purpose": "Compute resilience capacity."
+    },
+    {
+      "name": "failure_escalation_trigger",
+      "language": "python",
+      "path": "calculators/python/failure_escalation_trigger.py",
+      "purpose": "Flag high-risk low-resilience failure escalation."
+    },
+    {
+      "name": "failure_mode_score",
+      "language": "r",
+      "path": "calculators/r/failure_mode_score.R",
+      "purpose": "Compute failure risk, priority, and resilience capacity."
+    }
+  ]
+}

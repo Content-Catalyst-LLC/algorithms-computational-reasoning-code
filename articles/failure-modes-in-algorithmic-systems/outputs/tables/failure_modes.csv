@@ -1,0 +1,7 @@
+category,controllability,detectability,escalation,failure_id,fallback,likelihood,monitoring,repair,rollback,severity
+data,0.44,0.38,0.46,schema_drift_in_eligibility_pipeline,0.36,0.42,0.42,0.4,0.5,0.86
+model,0.66,0.62,0.74,miscalibrated_health_risk_model,0.62,0.28,0.7,0.66,0.68,0.94
+objective,0.4,0.35,0.38,engagement_metric_reward_hacking,0.32,0.55,0.46,0.34,0.45,0.64
+workflow,0.38,0.44,0.41,automation_bias_in_review_workflow,0.35,0.48,0.4,0.39,0.52,0.78
+governance,0.3,0.52,0.34,missing_appeal_pathway,0.28,0.36,0.38,0.24,0.42,0.82
+infrastructure,0.46,0.4,0.48,logging_outage_blocks_audit_trail,0.45,0.3,0.34,0.36,0.55,0.72

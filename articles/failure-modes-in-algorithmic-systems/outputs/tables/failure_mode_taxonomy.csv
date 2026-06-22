@@ -1,0 +1,8 @@
+category,description,monitoring_focus
+data,"Failure in inputs, labels, records, schemas, pipelines, or measurement.",missingness drift data quality and provenance
+model,"Failure in prediction, calibration, robustness, subgroup behavior, or generalization.",error calibration drift and disaggregated performance
+objective,Failure from optimizing a metric that does not represent the real goal.,metric gaming reward hacking and outcome quality
+interface,"Failure from misleading display, defaults, warnings, explanations, or uncertainty communication.",user interpretation reliance and error detection
+workflow,"Failure from human review, organizational procedure, workload, or authority gaps.",review time acceptance override and escalation
+infrastructure,"Failure from deployment, dependency, logging, version, API, schema, or rollback problems.",system dependencies logging and release controls
+governance,"Failure from weak ownership, appeal, incident response, audit trail, remediation, or retirement.",ownership incidents appeals and repair

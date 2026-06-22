@@ -1,0 +1,3 @@
+failure_risk=0.125400
+resilience_capacity=0.428000
+escalate=0

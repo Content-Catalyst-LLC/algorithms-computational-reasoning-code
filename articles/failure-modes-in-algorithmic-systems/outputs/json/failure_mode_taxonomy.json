@@ -1,0 +1,37 @@
+[
+  {
+    "category": "data",
+    "description": "Failure in inputs, labels, records, schemas, pipelines, or measurement.",
+    "monitoring_focus": "missingness drift data quality and provenance"
+  },
+  {
+    "category": "model",
+    "description": "Failure in prediction, calibration, robustness, subgroup behavior, or generalization.",
+    "monitoring_focus": "error calibration drift and disaggregated performance"
+  },
+  {
+    "category": "objective",
+    "description": "Failure from optimizing a metric that does not represent the real goal.",
+    "monitoring_focus": "metric gaming reward hacking and outcome quality"
+  },
+  {
+    "category": "interface",
+    "description": "Failure from misleading display, defaults, warnings, explanations, or uncertainty communication.",
+    "monitoring_focus": "user interpretation reliance and error detection"
+  },
+  {
+    "category": "workflow",
+    "description": "Failure from human review, organizational procedure, workload, or authority gaps.",
+    "monitoring_focus": "review time acceptance override and escalation"
+  },
+  {
+    "category": "infrastructure",
+    "description": "Failure from deployment, dependency, logging, version, API, schema, or rollback problems.",
+    "monitoring_focus": "system dependencies logging and release controls"
+  },
+  {
+    "category": "governance",
+    "description": "Failure from weak ownership, appeal, incident response, audit trail, remediation, or retirement.",
+    "monitoring_focus": "ownership incidents appeals and repair"
+  }
+]

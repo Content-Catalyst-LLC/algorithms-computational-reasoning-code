@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FailureModeAudit",
+  "type": "object",
+  "required": [
+    "failure_id",
+    "category",
+    "failure_risk_score",
+    "priority_score",
+    "resilience_capacity",
+    "status"
+  ],
+  "properties": {
+    "failure_id": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "likelihood": {
+      "type": "number"
+    },
+    "severity": {
+      "type": "number"
+    },
+    "detectability": {
+      "type": "number"
+    },
+    "controllability": {
+      "type": "number"
+    },
+    "failure_risk_score": {
+      "type": "number"
+    },
+    "priority_score": {
+      "type": "number"
+    },
+    "resilience_capacity": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "item": "failure_taxonomy",
+    "review_question": "Are data, model, objective, interface, workflow, infrastructure, and governance failures identified?",
+    "status": "required"
+  },
+  {
+    "item": "monitoring",
+    "review_question": "Are technical, institutional, and harm signals monitored?",
+    "status": "required"
+  },
+  {
+    "item": "fallback",
+    "review_question": "Can the system degrade safely or shift to manual process?",
+    "status": "required"
+  },
+  {
+    "item": "rollback",
+    "review_question": "Can unsafe changes be reversed quickly?",
+    "status": "required"
+  },
+  {
+    "item": "escalation",
+    "review_question": "Are severe failures routed to accountable owners?",
+    "status": "required"
+  },
+  {
+    "item": "repair",
+    "review_question": "Are affected people and source conditions corrected?",
+    "status": "required"
+  },
+  {
+    "item": "recurrence_review",
+    "review_question": "Are incidents reviewed for repeated causes and control updates?",
+    "status": "required"
+  }
+]

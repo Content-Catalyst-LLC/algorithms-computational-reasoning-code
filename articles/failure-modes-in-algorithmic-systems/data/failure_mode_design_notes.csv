@@ -1,0 +1,9 @@
+item,description,review_question
+failure_taxonomy,Classification of data model objective interface workflow infrastructure and governance failure modes,Have plausible failures been listed?
+system_boundary,Map of data model interface workflow institution and affected environment,Is the full decision system in scope?
+likelihood,Estimated chance of failure under relevant conditions,How likely is the failure?
+severity,Consequence if failure occurs,How serious is the harm or disruption?
+detectability,Ability to detect the failure before harm grows,Will monitoring catch it?
+controllability,Ability to limit or contain the failure,Can the organization control it?
+resilience,Monitoring fallback rollback escalation and repair capacity,Can the system recover safely?
+ownership,Named responsibility for detection escalation and correction,Who acts when failure occurs?

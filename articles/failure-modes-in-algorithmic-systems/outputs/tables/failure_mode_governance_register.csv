@@ -1,0 +1,8 @@
+item,review_question,status
+failure_taxonomy,"Are data, model, objective, interface, workflow, infrastructure, and governance failures identified?",required
+monitoring,"Are technical, institutional, and harm signals monitored?",required
+fallback,Can the system degrade safely or shift to manual process?,required
+rollback,Can unsafe changes be reversed quickly?,required
+escalation,Are severe failures routed to accountable owners?,required
+repair,Are affected people and source conditions corrected?,required
+recurrence_review,Are incidents reviewed for repeated causes and control updates?,required

@@ -1,0 +1,18 @@
+{
+  "article": "failure-modes-in-algorithmic-systems",
+  "canvas_cards": [
+    "Failure Modes Are Patterns",
+    "Monitor for Harm, Not Only Uptime",
+    "Fail Visibly and Recoverably"
+  ],
+  "review_layers": [
+    "failure_taxonomy",
+    "system_boundary",
+    "likelihood",
+    "severity",
+    "detectability",
+    "controllability",
+    "resilience",
+    "ownership"
+  ]
+}

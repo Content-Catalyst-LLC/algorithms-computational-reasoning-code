@@ -1,0 +1,7 @@
+{
+  "article": "failure_modes_in_algorithmic_systems",
+  "high_failure_risk_threshold": 0.2,
+  "high_priority_threshold": 0.35,
+  "low_resilience_threshold": 0.6,
+  "severe_failure_threshold": 0.75
+}

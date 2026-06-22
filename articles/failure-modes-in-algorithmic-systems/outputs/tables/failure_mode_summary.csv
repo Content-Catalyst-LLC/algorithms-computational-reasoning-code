@@ -1,0 +1,2 @@
+article,failure_modes_escalated,failure_modes_passed,failure_modes_requiring_review,failure_modes_reviewed,failure_taxonomy_entries,governance_items,interpretation,mean_failure_risk_score,mean_priority_score,mean_resilience_capacity,timestamp_utc
+failure_modes_in_algorithmic_systems,0,1,5,6,7,7,"Failure-mode review should connect technical breakdown, institutional consequence, detection, control, resilience, and accountable response.",0.099309,0.172287,0.446667,2026-06-22T19:15:37.354281+00:00

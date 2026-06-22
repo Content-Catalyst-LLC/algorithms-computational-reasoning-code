@@ -1,0 +1,1 @@
+resilience_capacity=0.428000

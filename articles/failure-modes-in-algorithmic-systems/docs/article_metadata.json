@@ -1,0 +1,20 @@
+{
+  "title": "Failure Modes in Algorithmic Systems",
+  "slug": "failure-modes-in-algorithmic-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithmic-harm-error-and-institutional-responsibility",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/failure-modes-in-algorithmic-systems",
+  "topics": [
+    "failure modes",
+    "data failure",
+    "model failure",
+    "objective failure",
+    "interface failure",
+    "workflow failure",
+    "deployment failure",
+    "governance failure",
+    "resilience",
+    "algorithmic governance"
+  ]
+}
