@@ -1,0 +1,14 @@
+{
+  "article": "algorithms_in_knowledge_architecture",
+  "governance_controls": 7,
+  "interpretation": "Knowledge architecture review should connect classification, metadata, search, linking, recommendation, provenance, maintenance, representation risk, and editorial governance.",
+  "mean_architecture_readiness_score": 0.688572,
+  "mean_governance_readiness_score": 0.6825,
+  "mean_maintenance_risk_score": 0.3125,
+  "objects_ready": 2,
+  "objects_requiring_editorial_review": 2,
+  "objects_requiring_metadata_or_link_review": 0,
+  "objects_requiring_rebuild": 0,
+  "objects_reviewed": 4,
+  "timestamp_utc": "2026-06-22T23:09:41.791508+00:00"
+}

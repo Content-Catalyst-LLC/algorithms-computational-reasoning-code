@@ -1,0 +1,1 @@
+maintenance_risk_score=0.120000

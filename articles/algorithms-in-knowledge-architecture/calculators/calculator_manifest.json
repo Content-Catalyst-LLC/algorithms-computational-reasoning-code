@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-knowledge-architecture",
+  "calculators": [
+    {
+      "name": "metadata_completeness_calculator",
+      "language": "python",
+      "path": "calculators/python/metadata_completeness_calculator.py",
+      "purpose": "Compute metadata completeness."
+    },
+    {
+      "name": "architecture_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/architecture_readiness_calculator.py",
+      "purpose": "Compute knowledge architecture readiness."
+    },
+    {
+      "name": "maintenance_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/maintenance_risk_calculator.py",
+      "purpose": "Compute maintenance risk."
+    },
+    {
+      "name": "weighted_relevance_calculator",
+      "language": "python",
+      "path": "calculators/python/weighted_relevance_calculator.py",
+      "purpose": "Compute weighted search relevance."
+    },
+    {
+      "name": "cosine_similarity_calculator",
+      "language": "python",
+      "path": "calculators/python/cosine_similarity_calculator.py",
+      "purpose": "Compute cosine similarity."
+    },
+    {
+      "name": "link_recommendation_calculator",
+      "language": "python",
+      "path": "calculators/python/link_recommendation_calculator.py",
+      "purpose": "Compute link recommendation score."
+    },
+    {
+      "name": "knowledge_architecture_score",
+      "language": "r",
+      "path": "calculators/r/knowledge_architecture_score.R",
+      "purpose": "Compute knowledge architecture indicators."
+    }
+  ]
+}

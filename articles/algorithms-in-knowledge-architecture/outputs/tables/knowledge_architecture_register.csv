@@ -1,0 +1,8 @@
+control,review_question,status
+taxonomy_register,"Are categories, hierarchy, alternatives, and revisions documented?",required
+metadata_schema,"Are required fields, validation rules, and provenance fields defined?",required
+search_evaluation,"Are retrieval quality, ranking signals, and failure cases reviewed?",required
+link_graph_audit,"Do internal links support learning, navigation, and conceptual clarity?",required
+recommendation_review,Do recommendations widen understanding rather than merely optimize engagement?,required
+maintenance_workflow,"Are stale content, broken links, duplicates, and metadata gaps reviewed?",required
+editorial_governance,"Can human editors approve, revise, reject, and document algorithmic suggestions?",required

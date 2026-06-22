@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-knowledge-architecture",
+  "canvas_cards": [
+    "Knowledge Architecture Is Not Neutral",
+    "Metadata Makes Knowledge Maintainable",
+    "Recommendations Should Open Pathways"
+  ],
+  "knowledge_architecture_layers": [
+    "taxonomy_register",
+    "metadata_schema",
+    "search_evaluation",
+    "link_graph_audit",
+    "recommendation_review",
+    "maintenance_workflow",
+    "editorial_governance",
+    "representation_risk_review"
+  ]
+}

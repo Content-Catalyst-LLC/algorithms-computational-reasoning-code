@@ -1,0 +1,17 @@
+args <- commandArgs(trailingOnly = TRUE)
+metadata <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.92)
+taxonomy <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.88)
+search <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.86)
+link <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.90)
+recommendation <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.82)
+provenance <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.86)
+freshness <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.84)
+editorial_review <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.90)
+
+architecture_readiness <- mean(c(metadata, taxonomy, search, link, recommendation, provenance, editorial_review))
+maintenance_risk <- mean(c(1 - metadata, 1 - link, 1 - freshness, 1 - provenance))
+governance_readiness <- mean(c(provenance, editorial_review, metadata, freshness))
+
+cat(sprintf("architecture_readiness_score=%.6f\n", architecture_readiness))
+cat(sprintf("maintenance_risk_score=%.6f\n", maintenance_risk))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))

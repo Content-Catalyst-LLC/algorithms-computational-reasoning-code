@@ -1,0 +1,37 @@
+[
+  {
+    "control": "taxonomy_register",
+    "review_question": "Are categories, hierarchy, alternatives, and revisions documented?",
+    "status": "required"
+  },
+  {
+    "control": "metadata_schema",
+    "review_question": "Are required fields, validation rules, and provenance fields defined?",
+    "status": "required"
+  },
+  {
+    "control": "search_evaluation",
+    "review_question": "Are retrieval quality, ranking signals, and failure cases reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "link_graph_audit",
+    "review_question": "Do internal links support learning, navigation, and conceptual clarity?",
+    "status": "required"
+  },
+  {
+    "control": "recommendation_review",
+    "review_question": "Do recommendations widen understanding rather than merely optimize engagement?",
+    "status": "required"
+  },
+  {
+    "control": "maintenance_workflow",
+    "review_question": "Are stale content, broken links, duplicates, and metadata gaps reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "editorial_governance",
+    "review_question": "Can human editors approve, revise, reject, and document algorithmic suggestions?",
+    "status": "required"
+  }
+]

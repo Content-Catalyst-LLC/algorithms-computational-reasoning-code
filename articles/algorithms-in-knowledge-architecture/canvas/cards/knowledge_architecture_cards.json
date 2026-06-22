@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "knowledge_architecture_is_not_neutral",
+    "title": "Knowledge Architecture Is Not Neutral",
+    "prompt": "Ask how categories, metadata, ranking, recommendation, and links shape what users can find and understand."
+  },
+  {
+    "card_id": "metadata_makes_knowledge_maintainable",
+    "title": "Metadata Makes Knowledge Maintainable",
+    "prompt": "Review whether objects can be found, filtered, cited, updated, audited, and reused."
+  },
+  {
+    "card_id": "recommendations_should_open_pathways",
+    "title": "Recommendations Should Open Pathways",
+    "prompt": "Check whether recommendations deepen understanding and build bridges rather than narrow attention."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "article": "algorithms_in_knowledge_architecture",
+  "high_maintenance_risk_threshold": 0.7,
+  "high_representation_risk_threshold": 0.7,
+  "low_readiness_threshold": 0.65
+}

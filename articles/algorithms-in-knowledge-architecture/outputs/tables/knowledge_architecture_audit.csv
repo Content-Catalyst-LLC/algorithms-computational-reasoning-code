@@ -1,0 +1,5 @@
+architecture_readiness_score,editorial_review,freshness,governance_readiness_score,link_quality,maintenance_risk_score,metadata_completeness,object_id,provenance,recommendation,recommendation_quality,representation_risk,search_readiness,taxonomy_fit
+0.877143,0.9,0.84,0.88,0.9,0.12,0.92,article_map_algorithms,0.86,knowledge_architecture_ready,0.82,0.28,0.86,0.88
+0.442857,0.42,0.32,0.41,0.38,0.6,0.46,legacy_policy_archive,0.44,editorial_governance_review_required,0.4,0.74,0.48,0.52
+0.734286,0.74,0.68,0.71,0.8,0.275,0.72,cross_domain_methods_cluster,0.7,knowledge_architecture_ready,0.78,0.52,0.74,0.66
+0.7,0.58,0.8,0.73,0.64,0.255,0.78,automated_recommendation_pathway,0.76,editorial_governance_review_required,0.62,0.72,0.82,0.7

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KnowledgeArchitectureAudit",
+  "type": "object",
+  "required": [
+    "object_id",
+    "architecture_readiness_score",
+    "maintenance_risk_score",
+    "governance_readiness_score",
+    "recommendation"
+  ],
+  "properties": {
+    "object_id": {
+      "type": "string"
+    },
+    "architecture_readiness_score": {
+      "type": "number"
+    },
+    "maintenance_risk_score": {
+      "type": "number"
+    },
+    "governance_readiness_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

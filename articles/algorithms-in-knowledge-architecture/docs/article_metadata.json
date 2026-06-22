@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Knowledge Architecture",
+  "slug": "algorithms-in-knowledge-architecture",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-systems-modeling",
+  "next": "algorithms-in-public-policy-and-governance",
+  "repo_folder": "articles/algorithms-in-knowledge-architecture",
+  "topics": [
+    "knowledge architecture",
+    "classification",
+    "metadata",
+    "taxonomy",
+    "ontology",
+    "search",
+    "information retrieval",
+    "recommendation",
+    "internal linking",
+    "knowledge governance"
+  ]
+}

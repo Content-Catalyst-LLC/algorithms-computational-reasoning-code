@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  objects_reviewed objects_ready objects_requiring_editorial_review
+1                4             2                                  2
+  objects_requiring_metadata_or_link_review objects_requiring_rebuild
+1                                         0                         0
+  mean_architecture_readiness_score mean_maintenance_risk_score
+1                          0.688572                      0.3125
+  mean_governance_readiness_score governance_controls
+1                          0.6825                   7
+                                                                                                                                                                  diagnostic_note
+1 Knowledge architecture review should connect classification, metadata, search, linking, recommendation, provenance, maintenance, representation risk, and editorial governance.

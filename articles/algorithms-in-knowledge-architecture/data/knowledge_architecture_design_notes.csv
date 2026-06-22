@@ -1,0 +1,9 @@
+item,description,review_question
+taxonomy_register,Controlled categories hierarchy alternatives and revision history,Are categories documented and reviewable?
+metadata_schema,Required fields validation rules provenance and freshness records,Can knowledge objects be found filtered cited and maintained?
+search_evaluation,Retrieval quality ranking signals and failure cases,Does search support relevance and understanding?
+link_graph_audit,Internal link quality and graph health,Do links clarify conceptual relationships?
+recommendation_review,Related content learning pathways and exploratory bridges,Do recommendations deepen knowledge rather than narrow attention?
+maintenance_workflow,Broken links stale content duplicates and metadata gaps,Can the system detect and repair decay?
+editorial_governance,Human approval revision rejection and documentation of algorithmic suggestions,Can editors govern automated organization?
+representation_risk_review,Category search ranking and recommendation bias review,What organization choices are being naturalized?
