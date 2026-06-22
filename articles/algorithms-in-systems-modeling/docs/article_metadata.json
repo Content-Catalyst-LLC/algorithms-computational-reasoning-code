@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Systems Modeling",
+  "slug": "algorithms-in-systems-modeling",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-decision-science",
+  "next": "algorithms-in-knowledge-architecture",
+  "repo_folder": "articles/algorithms-in-systems-modeling",
+  "topics": [
+    "systems modeling",
+    "feedback simulation",
+    "stock and flow modeling",
+    "network dynamics",
+    "scenario modeling",
+    "agent-based modeling",
+    "discrete-event simulation",
+    "resilience",
+    "sensitivity analysis",
+    "systems governance"
+  ]
+}

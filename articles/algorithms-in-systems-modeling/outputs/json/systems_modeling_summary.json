@@ -1,0 +1,13 @@
+{
+  "article": "algorithms_in_systems_modeling",
+  "governance_controls": 7,
+  "interpretation": "Systems modeling review should connect feedback, network dependency, scenario uncertainty, resilience, calibration, documentation, governance, and decision use.",
+  "mean_model_readiness_score": 0.6625,
+  "mean_system_modeling_risk_score": 0.164306,
+  "mean_system_vulnerability_score": 0.55875,
+  "scenarios_for_escalation": 1,
+  "scenarios_not_ready_for_decision_use": 1,
+  "scenarios_requiring_governance_review": 0,
+  "scenarios_reviewed": 4,
+  "timestamp_utc": "2026-06-22T22:46:03.807718+00:00"
+}

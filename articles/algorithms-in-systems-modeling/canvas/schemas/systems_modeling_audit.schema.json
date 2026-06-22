@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SystemsModelingAudit",
+  "type": "object",
+  "required": [
+    "scenario_id",
+    "system_vulnerability_score",
+    "model_readiness_score",
+    "system_modeling_risk_score",
+    "recommendation"
+  ],
+  "properties": {
+    "scenario_id": {
+      "type": "string"
+    },
+    "system_vulnerability_score": {
+      "type": "number"
+    },
+    "model_readiness_score": {
+      "type": "number"
+    },
+    "system_modeling_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

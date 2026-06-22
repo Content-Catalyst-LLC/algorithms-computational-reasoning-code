@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  scenarios_reviewed scenarios_for_escalation
+1                  4                        1
+  scenarios_requiring_governance_review scenarios_not_ready_for_decision_use
+1                                     0                                    1
+  mean_system_vulnerability_score mean_model_readiness_score
+1                         0.55875                     0.6625
+  mean_system_modeling_risk_score governance_controls
+1                        0.164306                   7
+                                                                                                                                                   diagnostic_note
+1 Systems modeling review should connect feedback, network dependency, scenario uncertainty, resilience, calibration, documentation, governance, and decision use.

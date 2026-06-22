@@ -1,0 +1,5 @@
+calibration,documentation,feedback_strength,governance,network_dependency,resilience,scenario_id,scenario_uncertainty,stakes
+0.7,0.74,0.72,0.7,0.68,0.62,urban_congestion_intervention,0.54,0.76
+0.66,0.7,0.8,0.68,0.74,0.46,public_health_capacity_stress,0.62,0.92
+0.58,0.62,0.64,0.54,0.88,0.42,supply_chain_disruption,0.7,0.84
+0.82,0.78,0.34,0.76,0.28,0.82,routine_service_queue,0.32,0.3

@@ -1,0 +1,8 @@
+control,review_question,status
+boundary_statement,Are system boundaries and exclusions documented?,required
+assumption_register,"Are feedback loops, parameters, and behavioral assumptions recorded?",required
+scenario_archive,"Are scenarios, shocks, interventions, and outputs reproducible?",required
+sensitivity_analysis,Which assumptions drive model conclusions?,required
+uncertainty_report,"Are ranges, fragility, and limits communicated?",required
+decision_log,How did model outputs influence action?,required
+stop_rule,"Can model use be paused, revised, or retired?",required

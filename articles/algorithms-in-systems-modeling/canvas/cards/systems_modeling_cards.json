@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "systems_models_are_representations",
+    "title": "Systems Models Are Representations",
+    "prompt": "Ask what the model includes, excludes, assumes, and makes visible."
+  },
+  {
+    "card_id": "feedback_changes_the_problem",
+    "title": "Feedback Changes the Problem",
+    "prompt": "Review how system outputs influence future inputs, behavior, data, and decisions."
+  },
+  {
+    "card_id": "scenario_models_are_not_oracles",
+    "title": "Scenario Models Are Not Oracles",
+    "prompt": "Compare multiple plausible futures and document uncertainty, sensitivity, and limits."
+  }
+]

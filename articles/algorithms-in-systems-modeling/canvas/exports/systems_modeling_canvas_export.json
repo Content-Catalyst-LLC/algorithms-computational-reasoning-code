@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-systems-modeling",
+  "canvas_cards": [
+    "Systems Models Are Representations",
+    "Feedback Changes the Problem",
+    "Scenario Models Are Not Oracles"
+  ],
+  "systems_modeling_layers": [
+    "boundary_statement",
+    "assumption_register",
+    "scenario_archive",
+    "sensitivity_analysis",
+    "uncertainty_report",
+    "resilience_review",
+    "decision_log",
+    "stop_rule"
+  ]
+}

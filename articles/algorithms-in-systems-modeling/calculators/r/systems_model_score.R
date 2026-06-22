@@ -1,0 +1,17 @@
+args <- commandArgs(trailingOnly = TRUE)
+feedback_strength <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.72)
+network_dependency <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.68)
+scenario_uncertainty <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.54)
+resilience <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.62)
+calibration <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.70)
+documentation <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.74)
+governance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.70)
+stakes <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.76)
+
+vulnerability <- mean(c(feedback_strength, network_dependency, scenario_uncertainty, 1 - resilience))
+readiness <- mean(c(calibration, documentation, governance, resilience))
+risk <- stakes * vulnerability * (1 - readiness)
+
+cat(sprintf("system_vulnerability_score=%.6f\n", vulnerability))
+cat(sprintf("model_readiness_score=%.6f\n", readiness))
+cat(sprintf("system_modeling_risk_score=%.6f\n", risk))

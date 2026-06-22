@@ -1,0 +1,9 @@
+item,description,review_question
+boundary_statement,Model purpose scope inclusions and exclusions,Are the system boundaries and exclusions documented?
+assumption_register,Feedback loops parameters behavioral rules delays and constraints,Which assumptions drive conclusions?
+scenario_archive,Scenario definitions shocks interventions parameters and outputs,Can scenario runs be reproduced?
+sensitivity_analysis,Parameter variation and output response,Do conclusions depend on fragile assumptions?
+uncertainty_report,Ranges distributions confidence and unknowns,Does the model communicate uncertainty?
+resilience_review,Shock response recovery redundancy and cascading failure,Can the system absorb and recover from stress?
+decision_log,Record of how model outputs influenced action,How did the model affect institutional decisions?
+stop_rule,Pause rollback revision or retirement condition,Who can stop misleading model use?

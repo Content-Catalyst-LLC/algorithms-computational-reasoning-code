@@ -1,0 +1,5 @@
+calibration,documentation,feedback_strength,governance,model_readiness_score,network_dependency,recommendation,resilience,scenario_id,scenario_uncertainty,stakes,system_modeling_risk_score,system_vulnerability_score
+0.7,0.74,0.72,0.7,0.69,0.68,model_support_acceptable,0.62,urban_congestion_intervention,0.54,0.76,0.136648,0.58
+0.66,0.7,0.8,0.68,0.625,0.74,stress_test_and_escalate,0.46,public_health_capacity_stress,0.62,0.92,0.232875,0.675
+0.58,0.62,0.64,0.54,0.54,0.88,do_not_use_for_decision_without_redesign,0.42,supply_chain_disruption,0.7,0.84,0.27048,0.7
+0.82,0.78,0.34,0.76,0.795,0.28,model_support_acceptable,0.82,routine_service_queue,0.32,0.3,0.01722,0.28

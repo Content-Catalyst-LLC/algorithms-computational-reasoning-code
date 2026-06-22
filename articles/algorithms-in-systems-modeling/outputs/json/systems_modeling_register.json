@@ -1,0 +1,37 @@
+[
+  {
+    "control": "boundary_statement",
+    "review_question": "Are system boundaries and exclusions documented?",
+    "status": "required"
+  },
+  {
+    "control": "assumption_register",
+    "review_question": "Are feedback loops, parameters, and behavioral assumptions recorded?",
+    "status": "required"
+  },
+  {
+    "control": "scenario_archive",
+    "review_question": "Are scenarios, shocks, interventions, and outputs reproducible?",
+    "status": "required"
+  },
+  {
+    "control": "sensitivity_analysis",
+    "review_question": "Which assumptions drive model conclusions?",
+    "status": "required"
+  },
+  {
+    "control": "uncertainty_report",
+    "review_question": "Are ranges, fragility, and limits communicated?",
+    "status": "required"
+  },
+  {
+    "control": "decision_log",
+    "review_question": "How did model outputs influence action?",
+    "status": "required"
+  },
+  {
+    "control": "stop_rule",
+    "review_question": "Can model use be paused, revised, or retired?",
+    "status": "required"
+  }
+]

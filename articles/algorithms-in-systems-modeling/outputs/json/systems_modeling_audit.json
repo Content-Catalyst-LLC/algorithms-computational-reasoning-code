@@ -1,0 +1,62 @@
+[
+  {
+    "calibration": 0.7,
+    "documentation": 0.74,
+    "feedback_strength": 0.72,
+    "governance": 0.7,
+    "model_readiness_score": 0.69,
+    "network_dependency": 0.68,
+    "recommendation": "model_support_acceptable",
+    "resilience": 0.62,
+    "scenario_id": "urban_congestion_intervention",
+    "scenario_uncertainty": 0.54,
+    "stakes": 0.76,
+    "system_modeling_risk_score": 0.136648,
+    "system_vulnerability_score": 0.58
+  },
+  {
+    "calibration": 0.66,
+    "documentation": 0.7,
+    "feedback_strength": 0.8,
+    "governance": 0.68,
+    "model_readiness_score": 0.625,
+    "network_dependency": 0.74,
+    "recommendation": "stress_test_and_escalate",
+    "resilience": 0.46,
+    "scenario_id": "public_health_capacity_stress",
+    "scenario_uncertainty": 0.62,
+    "stakes": 0.92,
+    "system_modeling_risk_score": 0.232875,
+    "system_vulnerability_score": 0.675
+  },
+  {
+    "calibration": 0.58,
+    "documentation": 0.62,
+    "feedback_strength": 0.64,
+    "governance": 0.54,
+    "model_readiness_score": 0.54,
+    "network_dependency": 0.88,
+    "recommendation": "do_not_use_for_decision_without_redesign",
+    "resilience": 0.42,
+    "scenario_id": "supply_chain_disruption",
+    "scenario_uncertainty": 0.7,
+    "stakes": 0.84,
+    "system_modeling_risk_score": 0.27048,
+    "system_vulnerability_score": 0.7
+  },
+  {
+    "calibration": 0.82,
+    "documentation": 0.78,
+    "feedback_strength": 0.34,
+    "governance": 0.76,
+    "model_readiness_score": 0.795,
+    "network_dependency": 0.28,
+    "recommendation": "model_support_acceptable",
+    "resilience": 0.82,
+    "scenario_id": "routine_service_queue",
+    "scenario_uncertainty": 0.32,
+    "stakes": 0.3,
+    "system_modeling_risk_score": 0.01722,
+    "system_vulnerability_score": 0.28
+  }
+]

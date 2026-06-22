@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-systems-modeling",
+  "calculators": [
+    {
+      "name": "stock_flow_calculator",
+      "language": "python",
+      "path": "calculators/python/stock_flow_calculator.py",
+      "purpose": "Compute next stock from inflow and outflow."
+    },
+    {
+      "name": "feedback_update_calculator",
+      "language": "python",
+      "path": "calculators/python/feedback_update_calculator.py",
+      "purpose": "Compute a simple feedback update."
+    },
+    {
+      "name": "system_vulnerability_calculator",
+      "language": "python",
+      "path": "calculators/python/system_vulnerability_calculator.py",
+      "purpose": "Compute system vulnerability."
+    },
+    {
+      "name": "model_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/model_readiness_calculator.py",
+      "purpose": "Compute model readiness."
+    },
+    {
+      "name": "sensitivity_calculator",
+      "language": "python",
+      "path": "calculators/python/sensitivity_calculator.py",
+      "purpose": "Compute proportional sensitivity."
+    },
+    {
+      "name": "resilience_calculator",
+      "language": "python",
+      "path": "calculators/python/resilience_calculator.py",
+      "purpose": "Compute a simple resilience score."
+    },
+    {
+      "name": "systems_model_score",
+      "language": "r",
+      "path": "calculators/r/systems_model_score.R",
+      "purpose": "Compute systems modeling indicators."
+    }
+  ]
+}
