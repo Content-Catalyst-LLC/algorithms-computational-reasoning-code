@@ -1,0 +1,7 @@
+item,review_question,status
+use_case_legitimacy,Should this task be automated or delegated at all?,required
+delegation_boundary,What authority is delegated and where must automation stop?,required
+reversibility,"Can errors be detected, corrected, remedied, and prevented from recurring?",required
+human_escalation,"Do uncertainty, high stakes, or disputes trigger meaningful human review?",required
+contestability,Can affected people challenge delegated outcomes?,required
+rollback_retirement,"Can the institution pause, rollback, or retire unsafe automation?",required

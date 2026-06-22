@@ -1,0 +1,20 @@
+{
+  "title": "Responsible Automation and Decision Delegation",
+  "slug": "responsible-automation-and-decision-delegation",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "human-in-the-loop-and-human-judgment",
+  "next": "algorithmic-risk-management-and-ai-governance",
+  "repo_folder": "articles/responsible-automation-and-decision-delegation",
+  "topics": [
+    "responsible automation",
+    "decision delegation",
+    "automation boundaries",
+    "assisted decision-making",
+    "constrained automation",
+    "reversibility",
+    "contestability",
+    "human review",
+    "rollback",
+    "algorithmic governance"
+  ]
+}

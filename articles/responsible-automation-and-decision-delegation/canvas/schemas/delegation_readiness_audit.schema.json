@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DelegationReadinessAudit",
+  "type": "object",
+  "required": [
+    "context_id",
+    "delegation_readiness_score",
+    "automation_reliance_score",
+    "delegation_risk_score",
+    "recommendation",
+    "status"
+  ],
+  "properties": {
+    "context_id": {
+      "type": "string"
+    },
+    "delegation_readiness_score": {
+      "type": "number"
+    },
+    "automation_reliance_score": {
+      "type": "number"
+    },
+    "delegation_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "article": "responsible_automation_and_decision_delegation",
+  "high_automation_reliance_threshold": 0.85,
+  "high_delegation_risk_threshold": 0.3,
+  "low_readiness_threshold": 0.7
+}

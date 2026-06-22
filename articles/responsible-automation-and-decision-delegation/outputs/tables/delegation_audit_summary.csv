@@ -1,0 +1,2 @@
+article,contexts_escalated,contexts_passed,contexts_requiring_review,contexts_reviewed,governance_items,interpretation,mean_automation_reliance_score,mean_delegation_readiness_score,mean_delegation_risk_score,timestamp_utc
+responsible_automation_and_decision_delegation,2,2,0,4,6,"Delegation review should connect evidence, validation, reversibility, contestability, governance, human review, automation reliance, and stakes.",0.4725,0.665,0.257133,2026-06-22T21:43:12.865488+00:00

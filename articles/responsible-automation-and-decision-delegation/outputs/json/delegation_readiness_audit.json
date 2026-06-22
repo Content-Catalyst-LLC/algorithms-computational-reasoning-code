@@ -1,0 +1,62 @@
+[
+  {
+    "automation_reliance_score": 0.76,
+    "contestability": 0.52,
+    "context_id": "benefits_eligibility_denial",
+    "delegation_readiness_score": 0.56,
+    "delegation_risk_score": 0.4048,
+    "evidence_quality": 0.62,
+    "governance": 0.6,
+    "human_review": 0.58,
+    "recommendation": "do_not_delegate_final_decision",
+    "reversibility": 0.46,
+    "stakes": 0.92,
+    "status": "escalate",
+    "validation": 0.58
+  },
+  {
+    "automation_reliance_score": 0.08,
+    "contestability": 0.76,
+    "context_id": "document_routing_support",
+    "delegation_readiness_score": 0.806667,
+    "delegation_risk_score": 0.054133,
+    "evidence_quality": 0.84,
+    "governance": 0.78,
+    "human_review": 0.74,
+    "recommendation": "constrained_automation_acceptable",
+    "reversibility": 0.9,
+    "stakes": 0.28,
+    "status": "pass",
+    "validation": 0.82
+  },
+  {
+    "automation_reliance_score": 0.93,
+    "contestability": 0.42,
+    "context_id": "content_visibility_ranking",
+    "delegation_readiness_score": 0.546667,
+    "delegation_risk_score": 0.3264,
+    "evidence_quality": 0.68,
+    "governance": 0.56,
+    "human_review": 0.44,
+    "recommendation": "do_not_delegate_final_decision",
+    "reversibility": 0.54,
+    "stakes": 0.72,
+    "status": "escalate",
+    "validation": 0.64
+  },
+  {
+    "automation_reliance_score": 0.12,
+    "contestability": 0.68,
+    "context_id": "clinical_triage_support",
+    "delegation_readiness_score": 0.746667,
+    "delegation_risk_score": 0.2432,
+    "evidence_quality": 0.78,
+    "governance": 0.74,
+    "human_review": 0.82,
+    "recommendation": "delegate_with_controls",
+    "reversibility": 0.7,
+    "stakes": 0.96,
+    "status": "pass",
+    "validation": 0.76
+  }
+]

@@ -1,0 +1,5 @@
+automated_final_actions,contestability,context_id,evidence_quality,governance,human_review,reversibility,stakes,total_decisions,validation
+760,0.52,benefits_eligibility_denial,0.62,0.6,0.58,0.46,0.92,1000,0.58
+80,0.76,document_routing_support,0.84,0.78,0.74,0.9,0.28,1000,0.82
+930,0.42,content_visibility_ranking,0.68,0.56,0.44,0.54,0.72,1000,0.64
+120,0.68,clinical_triage_support,0.78,0.74,0.82,0.7,0.96,1000,0.76

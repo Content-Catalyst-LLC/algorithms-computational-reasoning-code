@@ -1,0 +1,9 @@
+item,description,review_question
+use_case_legitimacy,Whether the task should be automated or delegated at all,Is automation appropriate for this decision?
+delegation_boundary,Definition of what authority is delegated and where automation stops,What can the system do without review?
+evidence_quality,Data label feature and measurement adequacy,Is the evidence reliable enough for delegation?
+validation,Testing in the intended decision context,Has the system been validated where it will be used?
+reversibility,Ability to detect correct remedy and prevent error recurrence,Can wrong outcomes be repaired?
+human_review,Human authority training evidence access and escalation capacity,Can people meaningfully intervene?
+contestability,Affected-person notice reasons appeal and correction,Can people challenge delegated outcomes?
+rollback_retirement,Ability to pause reverse or withdraw unsafe automation,Can the institution stop the system?

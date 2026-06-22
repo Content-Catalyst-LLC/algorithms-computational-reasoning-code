@@ -1,0 +1,35 @@
+{
+  "article": "responsible-automation-and-decision-delegation",
+  "calculators": [
+    {
+      "name": "delegation_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/delegation_readiness_calculator.py",
+      "purpose": "Compute delegation readiness."
+    },
+    {
+      "name": "delegation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/delegation_risk_calculator.py",
+      "purpose": "Compute delegation risk."
+    },
+    {
+      "name": "automation_reliance_calculator",
+      "language": "python",
+      "path": "calculators/python/automation_reliance_calculator.py",
+      "purpose": "Compute automation reliance."
+    },
+    {
+      "name": "reversibility_calculator",
+      "language": "python",
+      "path": "calculators/python/reversibility_calculator.py",
+      "purpose": "Compute reversibility capacity."
+    },
+    {
+      "name": "delegation_score",
+      "language": "r",
+      "path": "calculators/r/delegation_score.R",
+      "purpose": "Compute responsible automation delegation indicators."
+    }
+  ]
+}

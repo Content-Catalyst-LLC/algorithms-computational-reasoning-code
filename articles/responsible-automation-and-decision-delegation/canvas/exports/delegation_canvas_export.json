@@ -1,0 +1,18 @@
+{
+  "article": "responsible-automation-and-decision-delegation",
+  "canvas_cards": [
+    "Automation Is Delegated Authority",
+    "Boundaries Make Automation Responsible",
+    "Reversibility Changes Risk"
+  ],
+  "review_layers": [
+    "use_case_legitimacy",
+    "delegation_boundary",
+    "evidence_quality",
+    "validation",
+    "reversibility",
+    "human_review",
+    "contestability",
+    "rollback_retirement"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "automation_is_delegated_authority",
+    "title": "Automation Is Delegated Authority",
+    "prompt": "Ask what authority is being transferred to the system and who remains responsible."
+  },
+  {
+    "card_id": "boundaries_make_automation_responsible",
+    "title": "Boundaries Make Automation Responsible",
+    "prompt": "Define where automation must stop, defer, escalate, rollback, or retire."
+  },
+  {
+    "card_id": "reversibility_changes_risk",
+    "title": "Reversibility Changes Risk",
+    "prompt": "Assess whether errors can be detected, corrected, remedied, and prevented from recurring."
+  }
+]
