@@ -1,0 +1,20 @@
+{
+  "title": "Algorithmic Bias, Data, and Institutional History",
+  "slug": "algorithmic-bias-data-and-institutional-history",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithmic-fairness-and-computational-justice",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/algorithmic-bias-data-and-institutional-history",
+  "topics": [
+    "algorithmic bias",
+    "data provenance",
+    "institutional history",
+    "historical bias",
+    "measurement bias",
+    "label bias",
+    "proxy bias",
+    "representation bias",
+    "remediation",
+    "algorithmic governance"
+  ]
+}

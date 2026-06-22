@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BiasHistoryAudit",
+  "type": "object",
+  "required": [
+    "groups_reviewed",
+    "selection_gap",
+    "total_representation_gap",
+    "max_label_gap",
+    "mean_historical_risk_score",
+    "status"
+  ],
+  "properties": {
+    "groups_reviewed": {
+      "type": "integer"
+    },
+    "selection_gap": {
+      "type": "number"
+    },
+    "total_representation_gap": {
+      "type": "number"
+    },
+    "max_label_gap": {
+      "type": "number"
+    },
+    "mean_historical_risk_score": {
+      "type": "number"
+    },
+    "max_historical_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

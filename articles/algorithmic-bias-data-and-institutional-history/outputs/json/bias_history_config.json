@@ -1,0 +1,7 @@
+{
+  "article": "algorithmic_bias_data_and_institutional_history",
+  "high_historical_risk_threshold": 0.55,
+  "label_gap_threshold": 0.08,
+  "representation_gap_threshold": 0.15,
+  "selection_gap_threshold": 0.1
+}

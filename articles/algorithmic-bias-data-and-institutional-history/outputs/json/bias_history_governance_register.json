@@ -1,0 +1,37 @@
+[
+  {
+    "item": "data_provenance",
+    "review_question": "Where did the data come from and what institutional history do they encode?",
+    "status": "required"
+  },
+  {
+    "item": "representation_review",
+    "review_question": "Who is missing, overrepresented, or poorly represented?",
+    "status": "required"
+  },
+  {
+    "item": "measurement_validity",
+    "review_question": "Do features and labels validly measure the intended constructs?",
+    "status": "required"
+  },
+  {
+    "item": "proxy_review",
+    "review_question": "Which features carry historical inequality indirectly?",
+    "status": "required"
+  },
+  {
+    "item": "fairness_metrics",
+    "review_question": "How do outcomes and errors differ across groups and contexts?",
+    "status": "required"
+  },
+  {
+    "item": "contestability",
+    "review_question": "Can affected people challenge and correct outcomes?",
+    "status": "required"
+  },
+  {
+    "item": "remediation",
+    "review_question": "What changes when bias is found?",
+    "status": "required"
+  }
+]

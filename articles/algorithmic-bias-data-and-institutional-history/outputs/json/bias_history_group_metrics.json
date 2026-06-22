@@ -1,0 +1,47 @@
+[
+  {
+    "data_share": 0.42,
+    "deployment_share": 0.38,
+    "group_id": "A",
+    "historical_risk_score": 0.34,
+    "label_gap": 0.03,
+    "label_positive_rate": 0.44,
+    "measurement_weakness": 0.3,
+    "provenance_risk": 0.38,
+    "proxy_risk": 0.36,
+    "remediation": 0.68,
+    "representation_gap": 0.04,
+    "selection_rate": 0.46,
+    "verified_positive_rate": 0.41
+  },
+  {
+    "data_share": 0.28,
+    "deployment_share": 0.36,
+    "group_id": "B",
+    "historical_risk_score": 0.61,
+    "label_gap": 0.1,
+    "label_positive_rate": 0.33,
+    "measurement_weakness": 0.58,
+    "provenance_risk": 0.66,
+    "proxy_risk": 0.62,
+    "remediation": 0.42,
+    "representation_gap": 0.08,
+    "selection_rate": 0.31,
+    "verified_positive_rate": 0.43
+  },
+  {
+    "data_share": 0.3,
+    "deployment_share": 0.26,
+    "group_id": "C",
+    "historical_risk_score": 0.47,
+    "label_gap": 0.03,
+    "label_positive_rate": 0.39,
+    "measurement_weakness": 0.44,
+    "provenance_risk": 0.5,
+    "proxy_risk": 0.48,
+    "remediation": 0.54,
+    "representation_gap": 0.04,
+    "selection_rate": 0.37,
+    "verified_positive_rate": 0.42
+  }
+]

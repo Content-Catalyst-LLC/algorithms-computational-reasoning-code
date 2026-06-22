@@ -1,0 +1,2 @@
+article,governance_items,groups_reviewed,interpretation,max_historical_risk_score,max_label_gap,mean_historical_risk_score,selection_gap,status,timestamp_utc,total_representation_gap
+algorithmic_bias_data_and_institutional_history,7,3,"Bias review should connect selection gaps, representation gaps, label gaps, provenance risk, measurement weakness, proxy risk, remediation, and governance.",0.61,0.1,0.473333,0.15,escalate,2026-06-22T20:19:16.734745+00:00,0.16

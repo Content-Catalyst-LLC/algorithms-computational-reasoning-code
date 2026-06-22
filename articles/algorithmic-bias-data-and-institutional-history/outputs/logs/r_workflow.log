@@ -1,0 +1,10 @@
+null device 
+          1 
+null device 
+          1 
+  groups_reviewed   status selection_gap total_representation_gap max_label_gap
+1               3 escalate          0.15                     0.16           0.1
+  mean_historical_risk_score max_historical_risk_score governance_items
+1                   0.473333                      0.61                7
+                                                                                                                                                                   diagnostic_note
+1 Bias review should connect data provenance, institutional history, representation, labels, proxies, measurement validity, fairness, contestability, remediation, and governance.

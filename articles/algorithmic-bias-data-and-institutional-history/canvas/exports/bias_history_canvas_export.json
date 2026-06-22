@@ -1,0 +1,18 @@
+{
+  "article": "algorithmic-bias-data-and-institutional-history",
+  "canvas_cards": [
+    "Data Are Institutional Records",
+    "Labels Are Not Always Truth",
+    "Bias Requires Repair"
+  ],
+  "review_layers": [
+    "data_provenance",
+    "institutional_history",
+    "representation_gap",
+    "measurement_bias",
+    "label_bias",
+    "proxy_bias",
+    "feedback_reinforcement",
+    "remediation"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "article": "algorithmic-bias-data-and-institutional-history",
+  "calculators": [
+    {
+      "name": "selection_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/selection_gap_calculator.py",
+      "purpose": "Compute max-min selection-rate gap."
+    },
+    {
+      "name": "representation_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/representation_gap_calculator.py",
+      "purpose": "Compute group representation gap."
+    },
+    {
+      "name": "label_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/label_gap_calculator.py",
+      "purpose": "Compute gap between institutional label rate and verified outcome rate."
+    },
+    {
+      "name": "historical_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/historical_risk_calculator.py",
+      "purpose": "Compute simplified historical-risk score."
+    },
+    {
+      "name": "bias_history_score",
+      "language": "r",
+      "path": "calculators/r/bias_history_score.R",
+      "purpose": "Compute bias-history indicators."
+    }
+  ]
+}

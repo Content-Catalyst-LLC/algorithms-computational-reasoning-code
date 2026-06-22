@@ -1,0 +1,8 @@
+item,review_question,status
+data_provenance,Where did the data come from and what institutional history do they encode?,required
+representation_review,"Who is missing, overrepresented, or poorly represented?",required
+measurement_validity,Do features and labels validly measure the intended constructs?,required
+proxy_review,Which features carry historical inequality indirectly?,required
+fairness_metrics,How do outcomes and errors differ across groups and contexts?,required
+contestability,Can affected people challenge and correct outcomes?,required
+remediation,What changes when bias is found?,required

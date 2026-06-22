@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "data_are_institutional_records",
+    "title": "Data Are Institutional Records",
+    "prompt": "Ask what policies, categories, access patterns, enforcement choices, and omissions shaped the dataset."
+  },
+  {
+    "card_id": "labels_are_not_always_truth",
+    "title": "Labels Are Not Always Truth",
+    "prompt": "Review whether target labels represent reality, institutional decisions, contested categories, or historical outcomes."
+  },
+  {
+    "card_id": "bias_requires_repair",
+    "title": "Bias Requires Repair",
+    "prompt": "Connect bias findings to contestability, correction, remediation, recurrence monitoring, and governance change."
+  }
+]

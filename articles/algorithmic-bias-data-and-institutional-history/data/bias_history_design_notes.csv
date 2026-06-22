@@ -1,0 +1,9 @@
+item,description,review_question
+data_provenance,Source purpose and institutional context of records,Where did the data come from and why were they collected?
+institutional_history,Policies categories incentives access and enforcement patterns that shaped records,What history does the dataset encode?
+representation_gap,Difference between training data and deployment populations,Who is missing or overrepresented?
+measurement_bias,Weakness in variables used to measure constructs,Do features measure the intended concept?
+label_bias,Gap between institutional labels and verified or contested outcomes,Are labels ground truth or prior decisions?
+proxy_bias,Features carrying sensitive or historical inequality indirectly,Which variables carry history as signal?
+feedback_reinforcement,Outputs that shape future records,Does the system help create the data it later learns from?
+remediation,Correction and repair when bias is found,What changes after bias is detected?
