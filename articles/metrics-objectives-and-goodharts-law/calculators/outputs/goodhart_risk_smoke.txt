@@ -1,0 +1,2 @@
+goodhart_risk_score=0.745000
+status=escalate

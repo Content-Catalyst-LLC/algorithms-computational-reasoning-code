@@ -1,0 +1,2 @@
+"cases_reviewed","cases_passed","cases_requiring_review","cases_escalated","mean_goodhart_risk_score","mean_proxy_gap","guardrails_documented","governance_items","diagnostic_note"
+6,1,1,4,0.558333,0.371667,5,6,"Goodhart risk should be reviewed through proxy validity, optimization pressure, gaming risk, guardrails, and metric retirement policies."

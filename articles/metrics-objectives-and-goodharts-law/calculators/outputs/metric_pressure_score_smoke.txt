@@ -1,0 +1,3 @@
+optimization_pressure=0.880000
+gaming_risk=0.720000
+metric_pressure_score=0.800000

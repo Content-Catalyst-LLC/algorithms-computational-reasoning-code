@@ -1,0 +1,6 @@
+guardrail,purpose,status
+quality_review,Protect unmeasured quality from quantity optimization.,recommended
+equity_metric,Detect uneven harms across groups or contexts.,recommended
+drift_monitor,Track whether proxy-goal alignment changes over time.,required
+gaming_anomaly_check,Detect strategic manipulation of the metric.,required
+qualitative_review,Capture context that numbers omit.,recommended

@@ -1,0 +1,18 @@
+{
+  "article": "metrics-objectives-and-goodharts-law",
+  "canvas_cards": [
+    "A Metric Is Not the Goal",
+    "Pressure Changes Measurement",
+    "Metrics Need Guardrails"
+  ],
+  "review_layers": [
+    "goal_statement",
+    "proxy_metric",
+    "target_pressure",
+    "gaming_pathways",
+    "guardrails",
+    "drift_monitoring",
+    "sunset_policy",
+    "governance"
+  ]
+}

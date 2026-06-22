@@ -1,0 +1,13 @@
+{
+  "article": "metrics_objectives_and_goodharts_law",
+  "cases_escalated": 4,
+  "cases_passed": 1,
+  "cases_requiring_review": 1,
+  "cases_reviewed": 6,
+  "governance_items": 6,
+  "guardrails_documented": 5,
+  "interpretation": "Metric governance should track proxy validity, optimization pressure, gaming risk, guardrails, and review triggers.",
+  "mean_goodhart_risk_score": 0.558333,
+  "mean_proxy_gap": 0.371667,
+  "timestamp_utc": "2026-06-22T07:30:31.127901+00:00"
+}

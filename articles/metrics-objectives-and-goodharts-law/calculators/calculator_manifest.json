@@ -1,0 +1,29 @@
+{
+  "article": "metrics-objectives-and-goodharts-law",
+  "calculators": [
+    {
+      "name": "proxy_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/proxy_gap_calculator.py",
+      "purpose": "Compute 1 minus proxy-goal alignment."
+    },
+    {
+      "name": "goodhart_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/goodhart_risk_calculator.py",
+      "purpose": "Combine proxy gap, pressure, gaming risk, and guardrail weakness."
+    },
+    {
+      "name": "guardrail_sufficiency_calculator",
+      "language": "python",
+      "path": "calculators/python/guardrail_sufficiency_calculator.py",
+      "purpose": "Evaluate whether guardrails are sufficient."
+    },
+    {
+      "name": "metric_pressure_score",
+      "language": "r",
+      "path": "calculators/r/metric_pressure_score.R",
+      "purpose": "Combine optimization pressure and gaming risk."
+    }
+  ]
+}

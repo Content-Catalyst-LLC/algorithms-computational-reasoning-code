@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "metric_is_not_goal",
+    "title": "A Metric Is Not the Goal",
+    "prompt": "Write the real objective next to every metric before optimization begins."
+  },
+  {
+    "card_id": "pressure_changes_metric",
+    "title": "Pressure Changes Measurement",
+    "prompt": "Ask how people, models, and institutions will adapt when the metric becomes a target."
+  },
+  {
+    "card_id": "guardrails_and_sunset",
+    "title": "Metrics Need Guardrails",
+    "prompt": "Use counter-metrics, drift monitoring, qualitative review, and sunset policies."
+  }
+]

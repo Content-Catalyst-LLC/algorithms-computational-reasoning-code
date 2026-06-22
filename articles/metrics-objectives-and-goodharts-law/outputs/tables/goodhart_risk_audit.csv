@@ -1,0 +1,7 @@
+case_id,gaming_risk,goodhart_risk_score,guardrails,high_gaming,high_pressure,interpretation,metric,objective,optimization_pressure,proxy_alignment,proxy_gap,status,weak_guardrails,weak_proxy
+platform_engagement,0.72,0.495,2,1,1,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",watch_time,user_value,0.88,0.62,0.38,escalate,0,1
+model_benchmark,0.7,0.765,1,1,1,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",public_benchmark_score,deployment_reliability,0.91,0.55,0.45,escalate,1,1
+service_speed,0.48,0.395,2,0,1,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",turnaround_time,care_quality,0.76,0.66,0.34,review,0,1
+safety_reporting,0.65,0.725,1,1,1,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",reported_incidents,actual_safety,0.83,0.58,0.42,escalate,1,1
+calibrated_accuracy,0.25,0.2275,3,0,0,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",calibrated_error_rate,reliable_prediction,0.52,0.86,0.14,pass,0,0
+productivity_dashboard,0.67,0.7425,1,1,1,"Goodhart risk rises when proxy alignment is weak, optimization pressure is high, gaming risk is high, and guardrails are thin.",ticket_count,high_quality_work,0.8,0.5,0.5,escalate,1,1

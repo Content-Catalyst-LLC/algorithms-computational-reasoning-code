@@ -1,0 +1,7 @@
+item,review_question,status
+goal_statement,What real objective should the metric represent?,required
+proxy_validation,What evidence links the metric to the objective?,required
+optimization_pressure,How strongly are people or algorithms pushed to improve the metric?,required
+gaming_monitoring,How will strategic adaptation be detected?,required
+guardrail_metrics,What counter-metrics prevent harmful optimization?,required
+sunset_policy,When should the metric be revised or retired?,required

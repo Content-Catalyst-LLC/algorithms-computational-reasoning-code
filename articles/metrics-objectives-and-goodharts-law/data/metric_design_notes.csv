@@ -1,0 +1,8 @@
+item,description,review_question
+goal_statement,Plain-language statement of the real objective,What outcome actually matters?
+proxy_metric,Measurable substitute for the goal,How well does the proxy represent the objective?
+target_pressure,Strength of incentives or optimization pressure,How strongly are actors pushed to improve the metric?
+gaming_pathways,Ways actors could improve the metric without improving the goal,How can the metric be manipulated?
+guardrails,Counter-metrics that detect harmful optimization,What prevents proxy optimization from causing harm?
+drift_monitoring,Tracking proxy-goal relationship over time,Is the metric becoming less meaningful?
+sunset_policy,Conditions for revising or retiring the metric,When should the metric stop being used?

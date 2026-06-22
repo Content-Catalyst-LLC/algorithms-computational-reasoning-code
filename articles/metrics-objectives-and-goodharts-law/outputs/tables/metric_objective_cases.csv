@@ -1,0 +1,7 @@
+case_id,gaming_risk,guardrails,metric,objective,optimization_pressure,proxy_alignment
+platform_engagement,0.72,2,watch_time,user_value,0.88,0.62
+model_benchmark,0.7,1,public_benchmark_score,deployment_reliability,0.91,0.55
+service_speed,0.48,2,turnaround_time,care_quality,0.76,0.66
+safety_reporting,0.65,1,reported_incidents,actual_safety,0.83,0.58
+calibrated_accuracy,0.25,3,calibrated_error_rate,reliable_prediction,0.52,0.86
+productivity_dashboard,0.67,1,ticket_count,high_quality_work,0.8,0.5

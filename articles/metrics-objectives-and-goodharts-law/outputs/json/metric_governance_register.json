@@ -1,0 +1,32 @@
+[
+  {
+    "item": "goal_statement",
+    "review_question": "What real objective should the metric represent?",
+    "status": "required"
+  },
+  {
+    "item": "proxy_validation",
+    "review_question": "What evidence links the metric to the objective?",
+    "status": "required"
+  },
+  {
+    "item": "optimization_pressure",
+    "review_question": "How strongly are people or algorithms pushed to improve the metric?",
+    "status": "required"
+  },
+  {
+    "item": "gaming_monitoring",
+    "review_question": "How will strategic adaptation be detected?",
+    "status": "required"
+  },
+  {
+    "item": "guardrail_metrics",
+    "review_question": "What counter-metrics prevent harmful optimization?",
+    "status": "required"
+  },
+  {
+    "item": "sunset_policy",
+    "review_question": "When should the metric be revised or retired?",
+    "status": "required"
+  }
+]

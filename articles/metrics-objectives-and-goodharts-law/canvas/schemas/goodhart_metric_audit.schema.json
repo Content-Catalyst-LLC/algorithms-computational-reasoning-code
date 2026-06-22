@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GoodhartMetricAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "objective",
+    "metric",
+    "proxy_gap",
+    "optimization_pressure",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "objective": {
+      "type": "string"
+    },
+    "metric": {
+      "type": "string"
+    },
+    "proxy_alignment": {
+      "type": "number"
+    },
+    "proxy_gap": {
+      "type": "number"
+    },
+    "optimization_pressure": {
+      "type": "number"
+    },
+    "gaming_risk": {
+      "type": "number"
+    },
+    "guardrails": {
+      "type": "integer"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

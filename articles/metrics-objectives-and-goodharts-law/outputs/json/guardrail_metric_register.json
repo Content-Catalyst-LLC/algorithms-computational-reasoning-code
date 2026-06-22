@@ -1,0 +1,27 @@
+[
+  {
+    "guardrail": "quality_review",
+    "purpose": "Protect unmeasured quality from quantity optimization.",
+    "status": "recommended"
+  },
+  {
+    "guardrail": "equity_metric",
+    "purpose": "Detect uneven harms across groups or contexts.",
+    "status": "recommended"
+  },
+  {
+    "guardrail": "drift_monitor",
+    "purpose": "Track whether proxy-goal alignment changes over time.",
+    "status": "required"
+  },
+  {
+    "guardrail": "gaming_anomaly_check",
+    "purpose": "Detect strategic manipulation of the metric.",
+    "status": "required"
+  },
+  {
+    "guardrail": "qualitative_review",
+    "purpose": "Capture context that numbers omit.",
+    "status": "recommended"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "title": "Metrics, Objectives, and Goodhart's Law",
+  "slug": "metrics-objectives-and-goodharts-law",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "evaluation-benchmarks-and-the-limits-of-ai-measurement",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/metrics-objectives-and-goodharts-law",
+  "topics": [
+    "metrics",
+    "objectives",
+    "Goodhart's Law",
+    "Campbell's Law",
+    "proxy measures",
+    "reward hacking",
+    "benchmark gaming",
+    "guardrail metrics",
+    "algorithmic governance"
+  ]
+}

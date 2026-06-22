@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+pressure <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.80)
+gaming <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.65)
+score <- min(1, (pressure + gaming) / 2)
+cat(sprintf("optimization_pressure=%.6f\n", pressure))
+cat(sprintf("gaming_risk=%.6f\n", gaming))
+cat(sprintf("metric_pressure_score=%.6f\n", score))
