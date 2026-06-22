@@ -1,0 +1,35 @@
+{
+  "article": "algorithmic-harm-error-and-institutional-responsibility",
+  "calculators": [
+    {
+      "name": "harm_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/harm_risk_calculator.py",
+      "purpose": "Compute algorithmic harm risk from error, severity, exposure, and contestability."
+    },
+    {
+      "name": "responsibility_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/responsibility_capacity_calculator.py",
+      "purpose": "Compute institutional responsibility capacity."
+    },
+    {
+      "name": "remediation_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/remediation_gap_calculator.py",
+      "purpose": "Compute gap between severity and repair capacity."
+    },
+    {
+      "name": "harm_escalation_trigger",
+      "language": "python",
+      "path": "calculators/python/harm_escalation_trigger.py",
+      "purpose": "Flag high harm and low responsibility escalation."
+    },
+    {
+      "name": "harm_responsibility_score",
+      "language": "r",
+      "path": "calculators/r/harm_responsibility_score.R",
+      "purpose": "Compute harm risk and responsibility capacity."
+    }
+  ]
+}

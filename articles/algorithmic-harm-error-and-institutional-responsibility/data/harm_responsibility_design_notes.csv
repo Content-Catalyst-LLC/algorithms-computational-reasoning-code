@@ -1,0 +1,9 @@
+item,description,review_question
+harm_taxonomy,Classification of material opportunity representational procedural autonomy and systemic harms,What type of harm occurred or could occur?
+error_trace,Mapping of data model workflow interface and governance error sources,Where did the error enter the system?
+severity_assessment,Evaluation of consequence seriousness,How severe is the harm or near harm?
+exposure_assessment,Scope and population affected,How many people or decisions are exposed?
+contestability_review,Ability to challenge and correct the outcome,Can affected people obtain review and repair?
+responsibility_map,Named institutional ownership across lifecycle,Who owns prevention monitoring correction and remedy?
+incident_register,Record of harmful events and near misses,How are incidents documented and escalated?
+remediation_plan,Correction and repair procedure,How is harm repaired and recurrence prevented?

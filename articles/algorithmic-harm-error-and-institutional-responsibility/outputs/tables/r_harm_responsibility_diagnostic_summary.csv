@@ -1,0 +1,2 @@
+"cases_reviewed","cases_passed","cases_requiring_review","cases_escalated","mean_harm_risk_score","mean_responsibility_capacity","mean_remediation_gap","harm_taxonomy_entries","incident_fields_required","diagnostic_note"
+6,0,3,3,0.071648,0.506333,0.348333,6,7,"Algorithmic harm review should connect technical error to severity, exposure, contestability, institutional ownership, monitoring, appeal, repair, governance, and remediation."

@@ -1,0 +1,2 @@
+article,cases_escalated,cases_passed,cases_requiring_review,cases_reviewed,harm_taxonomy_entries,incident_fields_required,interpretation,mean_harm_risk_score,mean_remediation_gap,mean_responsibility_capacity,timestamp_utc
+algorithmic_harm_error_and_institutional_responsibility,3,0,3,6,6,7,"Institutional responsibility requires ownership, monitoring, appeal, repair, governance, incident reporting, and remediation capacity.",0.071648,0.348333,0.506333,2026-06-22T09:08:13.117269+00:00

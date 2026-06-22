@@ -1,0 +1,8 @@
+field,purpose,required
+system_identifier,"Link incident to model, tool, version, and workflow.",yes
+harm_type,"Classify allocative, representational, procedural, autonomy, or systemic harm.",yes
+severity,Prioritize response and escalation.,yes
+affected_context,"Document who, where, and how the issue appeared.",yes
+decision_trace,"Preserve data, output, human action, and review history.",yes
+remediation_status,"Track correction, remedy, recurrence, and closure.",yes
+recurrence_review,Determine whether source conditions have changed.,yes

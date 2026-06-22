@@ -1,0 +1,18 @@
+{
+  "article": "algorithmic-harm-error-and-institutional-responsibility",
+  "canvas_cards": [
+    "Harm Is Consequence, Not Intent",
+    "Responsibility Needs Owners",
+    "Repair Changes Conditions"
+  ],
+  "review_layers": [
+    "harm_taxonomy",
+    "error_trace",
+    "severity_assessment",
+    "exposure_assessment",
+    "contestability_review",
+    "responsibility_map",
+    "incident_register",
+    "remediation_plan"
+  ]
+}

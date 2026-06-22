@@ -1,0 +1,7 @@
+appeals,case_id,contestability,domain,error_likelihood,exposure,governance,monitoring,ownership,repair,severity
+0.4,public_benefits_denial,0.42,public_administration,0.34,0.78,0.5,0.45,0.48,0.35,0.92
+0.66,credit_score_proxy_error,0.64,finance,0.24,0.55,0.68,0.62,0.7,0.58,0.8
+0.48,content_moderation_false_positive,0.5,platform,0.3,0.72,0.54,0.55,0.52,0.36,0.58
+0.2,hiring_ranking_bias,0.3,employment,0.28,0.62,0.36,0.38,0.4,0.22,0.83
+0.72,health_decision_support_error,0.76,health,0.18,0.4,0.8,0.78,0.82,0.7,0.95
+0.32,generative_ai_summary_error,0.54,knowledge_work,0.38,0.65,0.42,0.34,0.46,0.4,0.62

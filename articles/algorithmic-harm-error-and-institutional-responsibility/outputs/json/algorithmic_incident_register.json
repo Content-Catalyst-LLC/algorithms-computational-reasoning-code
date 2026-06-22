@@ -1,0 +1,37 @@
+[
+  {
+    "field": "system_identifier",
+    "purpose": "Link incident to model, tool, version, and workflow.",
+    "required": "yes"
+  },
+  {
+    "field": "harm_type",
+    "purpose": "Classify allocative, representational, procedural, autonomy, or systemic harm.",
+    "required": "yes"
+  },
+  {
+    "field": "severity",
+    "purpose": "Prioritize response and escalation.",
+    "required": "yes"
+  },
+  {
+    "field": "affected_context",
+    "purpose": "Document who, where, and how the issue appeared.",
+    "required": "yes"
+  },
+  {
+    "field": "decision_trace",
+    "purpose": "Preserve data, output, human action, and review history.",
+    "required": "yes"
+  },
+  {
+    "field": "remediation_status",
+    "purpose": "Track correction, remedy, recurrence, and closure.",
+    "required": "yes"
+  },
+  {
+    "field": "recurrence_review",
+    "purpose": "Determine whether source conditions have changed.",
+    "required": "yes"
+  }
+]

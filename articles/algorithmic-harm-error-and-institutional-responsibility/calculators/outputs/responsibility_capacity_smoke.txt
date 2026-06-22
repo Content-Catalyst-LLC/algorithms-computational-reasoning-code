@@ -1,0 +1,1 @@
+responsibility_capacity=0.436000

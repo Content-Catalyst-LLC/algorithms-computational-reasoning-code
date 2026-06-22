@@ -1,0 +1,20 @@
+{
+  "title": "Algorithmic Harm, Error, and Institutional Responsibility",
+  "slug": "algorithmic-harm-error-and-institutional-responsibility",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "contestability-appeals-and-algorithmic-due-process",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/algorithmic-harm-error-and-institutional-responsibility",
+  "topics": [
+    "algorithmic harm",
+    "algorithmic error",
+    "institutional responsibility",
+    "accountability gaps",
+    "incident reporting",
+    "remediation",
+    "repair",
+    "procurement responsibility",
+    "vendor governance",
+    "algorithmic governance"
+  ]
+}

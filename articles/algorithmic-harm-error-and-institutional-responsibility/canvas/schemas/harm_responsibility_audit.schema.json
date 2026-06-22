@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HarmResponsibilityAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "harm_risk_score",
+    "responsibility_capacity",
+    "remediation_gap",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "domain": {
+      "type": "string"
+    },
+    "error_likelihood": {
+      "type": "number"
+    },
+    "severity": {
+      "type": "number"
+    },
+    "exposure": {
+      "type": "number"
+    },
+    "contestability": {
+      "type": "number"
+    },
+    "ownership": {
+      "type": "number"
+    },
+    "monitoring": {
+      "type": "number"
+    },
+    "appeals": {
+      "type": "number"
+    },
+    "repair": {
+      "type": "number"
+    },
+    "governance": {
+      "type": "number"
+    },
+    "harm_risk_score": {
+      "type": "number"
+    },
+    "responsibility_capacity": {
+      "type": "number"
+    },
+    "remediation_gap": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

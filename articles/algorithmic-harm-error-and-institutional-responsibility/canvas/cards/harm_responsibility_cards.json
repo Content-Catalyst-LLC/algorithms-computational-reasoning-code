@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "harm_is_consequence_not_intent",
+    "title": "Harm Is Consequence, Not Intent",
+    "prompt": "Evaluate algorithmic systems by downstream consequences, not only model intent or aggregate performance."
+  },
+  {
+    "card_id": "responsibility_needs_owners",
+    "title": "Responsibility Needs Owners",
+    "prompt": "Assign ownership for design, data, deployment, monitoring, appeals, repair, procurement, and retirement."
+  },
+  {
+    "card_id": "repair_changes_conditions",
+    "title": "Repair Changes Conditions",
+    "prompt": "Remediate individual harm and change the system conditions that allowed recurrence."
+  }
+]

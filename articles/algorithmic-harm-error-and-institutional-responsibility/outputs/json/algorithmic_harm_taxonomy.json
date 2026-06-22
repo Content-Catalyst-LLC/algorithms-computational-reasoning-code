@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Resources or opportunities are distributed unfairly.",
+    "harm_type": "allocative",
+    "review_focus": "outcomes and subgroup effects"
+  },
+  {
+    "description": "System performs worse for some people or contexts.",
+    "harm_type": "quality_of_service",
+    "review_focus": "disaggregated performance"
+  },
+  {
+    "description": "People are mislabeled, stereotyped, erased, or mischaracterized.",
+    "harm_type": "representational",
+    "review_focus": "labels and categories"
+  },
+  {
+    "description": "People cannot understand, contest, or correct decisions.",
+    "harm_type": "procedural",
+    "review_focus": "notice appeals and repair"
+  },
+  {
+    "description": "People are manipulated, constrained, surveilled, or nudged without adequate control.",
+    "harm_type": "autonomy",
+    "review_focus": "choice architecture and consent"
+  },
+  {
+    "description": "Cumulative harms reinforce institutional disadvantage.",
+    "harm_type": "systemic",
+    "review_focus": "long-term and collective impacts"
+  }
+]
