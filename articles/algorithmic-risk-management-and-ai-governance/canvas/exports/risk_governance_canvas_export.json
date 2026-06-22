@@ -1,0 +1,18 @@
+{
+  "article": "algorithmic-risk-management-and-ai-governance",
+  "canvas_cards": [
+    "A Risk Without an Owner Is a Governance Gap",
+    "Governance Must Change Decisions",
+    "Risk Is Sociotechnical"
+  ],
+  "review_layers": [
+    "use_case_approval",
+    "risk_register",
+    "impact_assessment",
+    "control_register",
+    "monitoring_plan",
+    "incident_response",
+    "pause_retirement_authority",
+    "vendor_governance"
+  ]
+}

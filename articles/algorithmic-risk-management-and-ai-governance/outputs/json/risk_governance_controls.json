@@ -1,0 +1,32 @@
+[
+  {
+    "control": "use_case_approval",
+    "review_question": "Should this system be built, bought, or deployed?",
+    "status": "required"
+  },
+  {
+    "control": "risk_register",
+    "review_question": "Are risks, controls, owners, and escalation triggers documented?",
+    "status": "required"
+  },
+  {
+    "control": "impact_assessment",
+    "review_question": "Who may be affected and what harms are possible?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_plan",
+    "review_question": "What signals indicate drift, failure, or harm?",
+    "status": "required"
+  },
+  {
+    "control": "incident_response",
+    "review_question": "How are failures preserved, investigated, and remediated?",
+    "status": "required"
+  },
+  {
+    "control": "pause_retirement_authority",
+    "review_question": "Who can pause, rollback, or retire the system?",
+    "status": "required"
+  }
+]

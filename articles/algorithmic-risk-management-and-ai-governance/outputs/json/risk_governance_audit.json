@@ -1,0 +1,50 @@
+[
+  {
+    "control_effectiveness": 0.48,
+    "detectability": 0.42,
+    "governance_readiness_score": 0.546667,
+    "inherent_risk_score": 0.234784,
+    "likelihood": 0.44,
+    "residual_risk_score": 0.122088,
+    "risk_id": "benefits_denial_error",
+    "severity": 0.92,
+    "status": "review",
+    "system": "benefits_eligibility_model"
+  },
+  {
+    "control_effectiveness": 0.72,
+    "detectability": 0.64,
+    "governance_readiness_score": 0.753333,
+    "inherent_risk_score": 0.10368,
+    "likelihood": 0.3,
+    "residual_risk_score": 0.02903,
+    "risk_id": "clinical_triage_miscalibration",
+    "severity": 0.96,
+    "status": "controlled",
+    "system": "clinical_triage_support"
+  },
+  {
+    "control_effectiveness": 0.42,
+    "detectability": 0.38,
+    "governance_readiness_score": 0.49,
+    "inherent_risk_score": 0.284456,
+    "likelihood": 0.62,
+    "residual_risk_score": 0.164984,
+    "risk_id": "content_visibility_feedback_loop",
+    "severity": 0.74,
+    "status": "review",
+    "system": "content_ranking_system"
+  },
+  {
+    "control_effectiveness": 0.64,
+    "detectability": 0.58,
+    "governance_readiness_score": 0.7,
+    "inherent_risk_score": 0.13776,
+    "likelihood": 0.4,
+    "residual_risk_score": 0.049594,
+    "risk_id": "fraud_false_positive",
+    "severity": 0.82,
+    "status": "controlled",
+    "system": "fraud_alert_model"
+  }
+]

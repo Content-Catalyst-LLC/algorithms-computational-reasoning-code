@@ -1,0 +1,2 @@
+"risks_reviewed","risks_controlled","risks_requiring_review","risks_escalated","mean_inherent_risk_score","mean_governance_readiness_score","mean_residual_risk_score","governance_controls","diagnostic_note"
+4,2,2,0,0.19017,0.6225,0.091424,6,"AI governance should connect risk severity, likelihood, detectability, controls, ownership, monitoring, contestability, remediation, and stop authority."

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "risk_without_owner_is_gap",
+    "title": "A Risk Without an Owner Is a Governance Gap",
+    "prompt": "Ask who owns each risk, what controls exist, what signals trigger escalation, and who can stop the system."
+  },
+  {
+    "card_id": "governance_must_change_decisions",
+    "title": "Governance Must Change Decisions",
+    "prompt": "Test whether impact assessment, monitoring, audits, and incidents can modify, pause, or retire a system."
+  },
+  {
+    "card_id": "risk_is_sociotechnical",
+    "title": "Risk Is Sociotechnical",
+    "prompt": "Review data, model, interface, workflow, incentives, affected people, vendors, and institutional context together."
+  }
+]

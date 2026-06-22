@@ -1,0 +1,20 @@
+{
+  "title": "Algorithmic Risk Management and AI Governance",
+  "slug": "algorithmic-risk-management-and-ai-governance",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "responsible-automation-and-decision-delegation",
+  "next": "documentation-model-cards-and-datasheets-for-algorithms",
+  "repo_folder": "articles/algorithmic-risk-management-and-ai-governance",
+  "topics": [
+    "algorithmic risk management",
+    "AI governance",
+    "risk mapping",
+    "impact assessment",
+    "risk registers",
+    "control registers",
+    "lifecycle governance",
+    "incident response",
+    "contestability",
+    "algorithmic accountability"
+  ]
+}

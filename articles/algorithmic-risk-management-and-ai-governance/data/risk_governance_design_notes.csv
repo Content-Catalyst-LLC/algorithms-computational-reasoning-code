@@ -1,0 +1,9 @@
+item,description,review_question
+use_case_approval,Review of purpose stakes affected people and alternatives,Should this system be built bought or deployed?
+risk_register,Structured list of risks severity likelihood controls owners and status,Are risks named owned and actionable?
+impact_assessment,Review of potential effects on people institutions rights and trust,Who may be affected and what harms are possible?
+control_register,Documented prevention detection mitigation and response controls,What reduces risk and who owns each control?
+monitoring_plan,Signals for performance drift fairness incidents appeals and misuse,How will governance know when risk changes?
+incident_response,Procedure for evidence preservation containment remediation and recurrence prevention,What happens when failure occurs?
+pause_retirement_authority,Authority to stop rollback or retire unsafe systems,Who can say stop?
+vendor_governance,Procurement audit rights documentation and update requirements,Can external tools be governed locally?

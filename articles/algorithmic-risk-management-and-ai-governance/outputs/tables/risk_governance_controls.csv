@@ -1,0 +1,7 @@
+control,review_question,status
+use_case_approval,"Should this system be built, bought, or deployed?",required
+risk_register,"Are risks, controls, owners, and escalation triggers documented?",required
+impact_assessment,Who may be affected and what harms are possible?,required
+monitoring_plan,"What signals indicate drift, failure, or harm?",required
+incident_response,"How are failures preserved, investigated, and remediated?",required
+pause_retirement_authority,"Who can pause, rollback, or retire the system?",required

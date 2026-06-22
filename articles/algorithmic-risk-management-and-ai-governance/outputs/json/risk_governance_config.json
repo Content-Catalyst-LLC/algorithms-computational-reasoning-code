@@ -1,0 +1,6 @@
+{
+  "article": "algorithmic_risk_management_and_ai_governance",
+  "high_inherent_risk_threshold": 0.5,
+  "high_residual_risk_threshold": 0.3,
+  "low_governance_readiness_threshold": 0.7
+}

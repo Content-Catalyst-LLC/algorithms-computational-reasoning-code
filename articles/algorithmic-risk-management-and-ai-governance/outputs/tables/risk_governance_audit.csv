@@ -1,0 +1,5 @@
+control_effectiveness,detectability,governance_readiness_score,inherent_risk_score,likelihood,residual_risk_score,risk_id,severity,status,system
+0.48,0.42,0.546667,0.234784,0.44,0.122088,benefits_denial_error,0.92,review,benefits_eligibility_model
+0.72,0.64,0.753333,0.10368,0.3,0.02903,clinical_triage_miscalibration,0.96,controlled,clinical_triage_support
+0.42,0.38,0.49,0.284456,0.62,0.164984,content_visibility_feedback_loop,0.74,review,content_ranking_system
+0.64,0.58,0.7,0.13776,0.4,0.049594,fraud_false_positive,0.82,controlled,fraud_alert_model

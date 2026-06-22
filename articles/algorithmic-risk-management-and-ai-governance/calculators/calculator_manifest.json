@@ -1,0 +1,35 @@
+{
+  "article": "algorithmic-risk-management-and-ai-governance",
+  "calculators": [
+    {
+      "name": "inherent_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/inherent_risk_calculator.py",
+      "purpose": "Compute inherent risk from severity, likelihood, and detectability."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute governance readiness."
+    },
+    {
+      "name": "residual_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/residual_risk_calculator.py",
+      "purpose": "Compute residual risk after controls."
+    },
+    {
+      "name": "control_effectiveness_calculator",
+      "language": "python",
+      "path": "calculators/python/control_effectiveness_calculator.py",
+      "purpose": "Compute control effectiveness."
+    },
+    {
+      "name": "risk_governance_score",
+      "language": "r",
+      "path": "calculators/r/risk_governance_score.R",
+      "purpose": "Compute algorithmic risk governance indicators."
+    }
+  ]
+}

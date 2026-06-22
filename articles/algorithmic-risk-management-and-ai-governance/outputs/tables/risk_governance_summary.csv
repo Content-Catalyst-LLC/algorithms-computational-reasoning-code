@@ -1,0 +1,2 @@
+article,governance_controls,interpretation,mean_governance_readiness_score,mean_inherent_risk_score,mean_residual_risk_score,risks_controlled,risks_escalated,risks_requiring_review,risks_reviewed,timestamp_utc
+algorithmic_risk_management_and_ai_governance,6,"Risk governance should connect severity, likelihood, detectability, control effectiveness, ownership, documentation, monitoring, contestability, remediation, and stop authority.",0.6225,0.19017,0.091424,2,0,2,4,2026-06-22T21:53:02.741806+00:00
