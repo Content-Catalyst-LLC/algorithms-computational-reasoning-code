@@ -1,0 +1,5 @@
+review_capacity_score=0.568000
+reliance_score=0.920000
+override_rate=0.018000
+judgment_capacity_score=0.557000
+review_risk_score=0.389840

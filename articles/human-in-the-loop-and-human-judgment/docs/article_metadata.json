@@ -1,0 +1,20 @@
+{
+  "title": "Human-in-the-Loop and Human Judgment",
+  "slug": "human-in-the-loop-and-human-judgment",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithmic-accountability-and-audit-trails",
+  "next": "responsible-automation-and-decision-delegation",
+  "repo_folder": "articles/human-in-the-loop-and-human-judgment",
+  "topics": [
+    "human-in-the-loop",
+    "human judgment",
+    "meaningful human review",
+    "automation bias",
+    "override authority",
+    "escalation",
+    "uncertainty communication",
+    "reviewer workload",
+    "contestability",
+    "algorithmic governance"
+  ]
+}

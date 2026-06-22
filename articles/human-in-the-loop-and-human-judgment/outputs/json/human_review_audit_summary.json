@@ -1,0 +1,15 @@
+{
+  "article": "human_in_the_loop_and_human_judgment",
+  "contexts_escalated": 2,
+  "contexts_passed": 1,
+  "contexts_requiring_review": 1,
+  "contexts_reviewed": 4,
+  "governance_items": 6,
+  "interpretation": "Human-in-the-loop review should connect time, information, authority, training, protection, reliance, overrides, escalation, contestability, and governance.",
+  "mean_judgment_capacity_score": 0.6205,
+  "mean_override_rate": 0.054,
+  "mean_reliance_score": 0.8325,
+  "mean_review_capacity_score": 0.622,
+  "mean_review_risk_score": 0.310785,
+  "timestamp_utc": "2026-06-22T21:32:01.212883+00:00"
+}

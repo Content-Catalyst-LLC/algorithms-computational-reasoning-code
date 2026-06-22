@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HumanReviewAudit",
+  "type": "object",
+  "required": [
+    "context_id",
+    "review_capacity_score",
+    "reliance_score",
+    "override_rate",
+    "judgment_capacity_score",
+    "review_risk_score",
+    "status"
+  ],
+  "properties": {
+    "context_id": {
+      "type": "string"
+    },
+    "review_capacity_score": {
+      "type": "number"
+    },
+    "reliance_score": {
+      "type": "number"
+    },
+    "override_rate": {
+      "type": "number"
+    },
+    "judgment_capacity_score": {
+      "type": "number"
+    },
+    "review_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

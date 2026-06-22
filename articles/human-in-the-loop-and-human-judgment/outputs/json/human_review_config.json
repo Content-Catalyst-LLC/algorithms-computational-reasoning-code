@@ -1,0 +1,7 @@
+{
+  "article": "human_in_the_loop_and_human_judgment",
+  "high_reliance_threshold": 0.9,
+  "high_review_risk_threshold": 0.3,
+  "low_override_floor": 0.02,
+  "low_review_capacity_threshold": 0.7
+}

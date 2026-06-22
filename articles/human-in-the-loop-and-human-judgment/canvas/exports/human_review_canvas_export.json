@@ -1,0 +1,18 @@
+{
+  "article": "human-in-the-loop-and-human-judgment",
+  "canvas_cards": [
+    "Human Presence Is Not Judgment",
+    "Override Authority Must Be Real",
+    "Judgment Needs Governance"
+  ],
+  "review_layers": [
+    "review_authority",
+    "evidence_access",
+    "workload_design",
+    "training",
+    "protection",
+    "override_logging",
+    "contestability",
+    "institutional_ownership"
+  ]
+}

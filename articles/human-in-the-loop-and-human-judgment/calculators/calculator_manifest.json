@@ -1,0 +1,35 @@
+{
+  "article": "human-in-the-loop-and-human-judgment",
+  "calculators": [
+    {
+      "name": "review_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/review_capacity_calculator.py",
+      "purpose": "Compute human review capacity."
+    },
+    {
+      "name": "reliance_calculator",
+      "language": "python",
+      "path": "calculators/python/reliance_calculator.py",
+      "purpose": "Compute automation reliance."
+    },
+    {
+      "name": "override_rate_calculator",
+      "language": "python",
+      "path": "calculators/python/override_rate_calculator.py",
+      "purpose": "Compute override rate."
+    },
+    {
+      "name": "review_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/review_risk_calculator.py",
+      "purpose": "Compute meaningful-review risk."
+    },
+    {
+      "name": "human_review_score",
+      "language": "r",
+      "path": "calculators/r/human_review_score.R",
+      "purpose": "Compute human review audit indicators."
+    }
+  ]
+}

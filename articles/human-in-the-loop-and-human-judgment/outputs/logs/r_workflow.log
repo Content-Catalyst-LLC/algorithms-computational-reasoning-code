@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  contexts_reviewed contexts_passed contexts_requiring_review
+1                 4               1                         1
+  contexts_escalated mean_review_capacity_score mean_reliance_score
+1                  2                      0.622              0.8325
+  mean_override_rate mean_judgment_capacity_score mean_review_risk_score
+1              0.054                       0.6205               0.310785
+  governance_items
+1                6
+                                                                                                                                   diagnostic_note
+1 Human review should connect time, information, authority, training, protection, reliance, overrides, escalation, contestability, and governance.

@@ -1,0 +1,7 @@
+item,review_question,status
+review_authority,"Can the human reviewer override, pause, or escalate the system?",required
+evidence_access,"Can the reviewer see inputs, reasons, uncertainty, and case context?",required
+workload_design,Does the reviewer have enough time for meaningful judgment?,required
+override_logging,"Are overrides documented, reviewed, and used for system learning?",required
+contestability,Can affected people challenge and correct outcomes?,required
+institutional_ownership,Who is responsible for review conditions and remediation?,required

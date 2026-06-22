@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "human_presence_is_not_judgment",
+    "title": "Human Presence Is Not Judgment",
+    "prompt": "Ask whether the human reviewer has time, evidence, authority, training, and protection to disagree with the system."
+  },
+  {
+    "card_id": "override_authority_must_be_real",
+    "title": "Override Authority Must Be Real",
+    "prompt": "Review whether overrides are technically available, easy enough to use, protected, documented, and acted upon."
+  },
+  {
+    "card_id": "judgment_needs_governance",
+    "title": "Judgment Needs Governance",
+    "prompt": "Connect human review to uncertainty, escalation, contestability, remediation, and institutional ownership."
+  }
+]

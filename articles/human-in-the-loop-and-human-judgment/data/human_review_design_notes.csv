@@ -1,0 +1,9 @@
+item,description,review_question
+review_authority,Reviewer ability to override pause or escalate,Can the human reviewer disagree in practice?
+evidence_access,Reviewer access to inputs reasons uncertainty and context,Can the reviewer evaluate the case rather than only a score?
+workload_design,Time staffing and case volume conditions,Is the workload compatible with judgment?
+training,Preparation on system limits failure modes uncertainty and bias,Does the reviewer know when not to rely on the system?
+protection,Institutional protection for justified disagreement,Can reviewers override without penalty?
+override_logging,Records of overrides reasons outcomes and learning,Does human disagreement improve the system?
+contestability,Ability for affected people to challenge and correct outcomes,Can external evidence change decisions?
+institutional_ownership,Named responsibility for review conditions and remediation,Who owns meaningful human review?
