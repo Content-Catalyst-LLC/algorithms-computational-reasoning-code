@@ -1,0 +1,9 @@
+const acceptance = 0.93;
+const quality = 0.71;
+const uncertainty = 0.29;
+const reviewDeficit = 0.65;
+const overrideFriction = 0.72;
+const weakContestability = 0.0;
+const overrelianceGap = Math.max(0, acceptance - quality);
+const score = (acceptance + overrelianceGap + uncertainty + reviewDeficit + overrideFriction + weakContestability) / 6.0;
+console.log(`automation_bias_risk_score=${score.toFixed(4)}`);

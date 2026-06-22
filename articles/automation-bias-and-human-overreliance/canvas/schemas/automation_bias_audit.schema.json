@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AutomationBiasAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "acceptance_rate",
+    "model_quality",
+    "automation_bias_risk_score",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "context": {
+      "type": "string"
+    },
+    "acceptance_rate": {
+      "type": "number"
+    },
+    "model_quality": {
+      "type": "number"
+    },
+    "uncertainty": {
+      "type": "number"
+    },
+    "review_time_minutes": {
+      "type": "number"
+    },
+    "override_friction": {
+      "type": "number"
+    },
+    "appeal_pathway": {
+      "type": "integer"
+    },
+    "calibration_gap": {
+      "type": "number"
+    },
+    "overreliance_gap": {
+      "type": "number"
+    },
+    "automation_bias_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

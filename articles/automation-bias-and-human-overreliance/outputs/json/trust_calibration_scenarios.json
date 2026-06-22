@@ -1,0 +1,30 @@
+[
+  {
+    "acceptance_rate": 0.65,
+    "calibration_error": 0.15,
+    "interpretation": "Trust is better calibrated when reliance behavior matches context-specific model quality.",
+    "model_quality": 0.8,
+    "overreliance_gap": 0.0
+  },
+  {
+    "acceptance_rate": 0.8,
+    "calibration_error": 0.02,
+    "interpretation": "Trust is better calibrated when reliance behavior matches context-specific model quality.",
+    "model_quality": 0.82,
+    "overreliance_gap": 0.0
+  },
+  {
+    "acceptance_rate": 0.9,
+    "calibration_error": 0.15,
+    "interpretation": "Trust is better calibrated when reliance behavior matches context-specific model quality.",
+    "model_quality": 0.75,
+    "overreliance_gap": 0.15
+  },
+  {
+    "acceptance_rate": 0.95,
+    "calibration_error": 0.25,
+    "interpretation": "Trust is better calibrated when reliance behavior matches context-specific model quality.",
+    "model_quality": 0.7,
+    "overreliance_gap": 0.25
+  }
+]

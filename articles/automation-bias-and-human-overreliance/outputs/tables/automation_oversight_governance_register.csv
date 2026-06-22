@@ -1,0 +1,8 @@
+item,review_question,status
+human_authority,Can the human meaningfully reject or modify the automated output?,required
+review_time,Does the workflow provide enough time for independent review?,required
+uncertainty_display,"Are uncertainty, limits, and scope shown to users?",required
+override_logging,"Are overrides, disagreements, and reasons recorded?",required
+appeal_pathway,Can affected people contest decisions influenced by automation?,required
+training,Do users understand system limits and failure modes?,required
+accountability,Who owns the final decision and correction process?,required

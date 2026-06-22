@@ -1,0 +1,19 @@
+{
+  "title": "Automation Bias and Human Overreliance",
+  "slug": "automation-bias-and-human-overreliance",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "distribution-shift-and-model-decay",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/automation-bias-and-human-overreliance",
+  "topics": [
+    "automation bias",
+    "human overreliance",
+    "trust calibration",
+    "human-in-the-loop",
+    "override friction",
+    "alert fatigue",
+    "contestability",
+    "human oversight",
+    "algorithmic governance"
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "item": "human_authority",
+    "review_question": "Can the human meaningfully reject or modify the automated output?",
+    "status": "required"
+  },
+  {
+    "item": "review_time",
+    "review_question": "Does the workflow provide enough time for independent review?",
+    "status": "required"
+  },
+  {
+    "item": "uncertainty_display",
+    "review_question": "Are uncertainty, limits, and scope shown to users?",
+    "status": "required"
+  },
+  {
+    "item": "override_logging",
+    "review_question": "Are overrides, disagreements, and reasons recorded?",
+    "status": "required"
+  },
+  {
+    "item": "appeal_pathway",
+    "review_question": "Can affected people contest decisions influenced by automation?",
+    "status": "required"
+  },
+  {
+    "item": "training",
+    "review_question": "Do users understand system limits and failure modes?",
+    "status": "required"
+  },
+  {
+    "item": "accountability",
+    "review_question": "Who owns the final decision and correction process?",
+    "status": "required"
+  }
+]

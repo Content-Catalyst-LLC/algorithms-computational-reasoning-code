@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "human_in_loop_not_enough",
+    "title": "Human-in-the-Loop Is Not Enough",
+    "prompt": "Ask what the human can see, change, reject, appeal, and document."
+  },
+  {
+    "card_id": "trust_must_be_calibrated",
+    "title": "Trust Must Be Calibrated",
+    "prompt": "Compare reliance behavior with context-specific model reliability."
+  },
+  {
+    "card_id": "override_friction_matters",
+    "title": "Override Friction Matters",
+    "prompt": "Measure whether disagreement is practical, supported, and recorded."
+  }
+]

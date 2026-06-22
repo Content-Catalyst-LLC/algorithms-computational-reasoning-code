@@ -1,0 +1,2 @@
+article,cases_escalated,cases_passed,cases_requiring_review,cases_reviewed,governance_items,interpretation,mean_acceptance_rate,mean_automation_bias_risk_score,mean_overreliance_gap,reliance_scenarios,timestamp_utc
+automation_bias_and_human_overreliance,3,2,1,6,7,"Human oversight should be monitored through acceptance, model quality, uncertainty, review time, override friction, contestability, and appeal pathways.",0.856667,0.3925,0.116667,4,2026-06-22T08:45:43.673740+00:00

@@ -1,0 +1,17 @@
+{
+  "article": "automation-bias-and-human-overreliance",
+  "canvas_cards": [
+    "Human-in-the-Loop Is Not Enough",
+    "Trust Must Be Calibrated",
+    "Override Friction Matters"
+  ],
+  "review_layers": [
+    "human_authority",
+    "review_time",
+    "uncertainty_display",
+    "override_logging",
+    "appeal_pathway",
+    "training",
+    "accountability"
+  ]
+}

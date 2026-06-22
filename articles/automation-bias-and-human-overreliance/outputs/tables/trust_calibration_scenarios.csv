@@ -1,0 +1,5 @@
+acceptance_rate,calibration_error,interpretation,model_quality,overreliance_gap
+0.65,0.15,Trust is better calibrated when reliance behavior matches context-specific model quality.,0.8,0.0
+0.8,0.02,Trust is better calibrated when reliance behavior matches context-specific model quality.,0.82,0.0
+0.9,0.15,Trust is better calibrated when reliance behavior matches context-specific model quality.,0.75,0.15
+0.95,0.25,Trust is better calibrated when reliance behavior matches context-specific model quality.,0.7,0.25

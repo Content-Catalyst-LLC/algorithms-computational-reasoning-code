@@ -1,0 +1,8 @@
+{
+  "article": "automation_bias_and_human_overreliance",
+  "calibration_gap_threshold": 0.15,
+  "high_acceptance_threshold": 0.85,
+  "low_quality_threshold": 0.75,
+  "minimum_review_time": 2.0,
+  "override_friction_threshold": 0.6
+}

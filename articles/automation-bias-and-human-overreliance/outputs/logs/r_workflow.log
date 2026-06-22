@@ -1,0 +1,12 @@
+null device 
+          1 
+null device 
+          1 
+  cases_reviewed cases_passed cases_requiring_review cases_escalated
+1              6            2                      1               3
+  mean_acceptance_rate mean_overreliance_gap mean_automation_bias_risk_score
+1             0.856667              0.116667                          0.3925
+  reliance_scenarios governance_items
+1                  4                7
+                                                                                                                                          diagnostic_note
+1 Human oversight should be monitored through reliance behavior, model quality, uncertainty, review time, override friction, contestability, and appeals.

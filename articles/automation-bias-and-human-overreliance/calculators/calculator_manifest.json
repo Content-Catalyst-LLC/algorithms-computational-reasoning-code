@@ -1,0 +1,29 @@
+{
+  "article": "automation-bias-and-human-overreliance",
+  "calculators": [
+    {
+      "name": "overreliance_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/overreliance_gap_calculator.py",
+      "purpose": "Compute positive acceptance-minus-quality gap."
+    },
+    {
+      "name": "trust_calibration_calculator",
+      "language": "python",
+      "path": "calculators/python/trust_calibration_calculator.py",
+      "purpose": "Compute absolute gap between reliance and model quality."
+    },
+    {
+      "name": "oversight_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/oversight_risk_calculator.py",
+      "purpose": "Combine oversight risk indicators."
+    },
+    {
+      "name": "reliance_quality_gap",
+      "language": "r",
+      "path": "calculators/r/reliance_quality_gap.R",
+      "purpose": "Compute reliance-quality and overreliance gaps."
+    }
+  ]
+}

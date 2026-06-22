@@ -1,0 +1,8 @@
+item,description,review_question
+human_authority,Practical ability to reject or modify automated output,Can reviewers meaningfully disagree?
+review_time,Time available for case review,Is review time sufficient for independent judgment?
+uncertainty_display,Visibility of limits confidence and scope,Can users see when the model is uncertain?
+override_logging,Records of disagreement and override reasons,Are human corrections captured and reviewed?
+appeal_pathway,Contestability for affected parties,Can errors be challenged and corrected?
+training,User preparation for system limits,Do reviewers understand failure modes?
+accountability,Named ownership for decisions and system governance,Who is responsible for outcomes?
