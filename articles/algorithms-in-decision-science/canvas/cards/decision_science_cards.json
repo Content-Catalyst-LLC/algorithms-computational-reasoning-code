@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "prediction_is_not_decision",
+    "title": "Prediction Is Not Decision",
+    "prompt": "Ask what action follows from the forecast, who chose the threshold, and who remains responsible."
+  },
+  {
+    "card_id": "thresholds_are_policy_choices",
+    "title": "Thresholds Are Policy Choices",
+    "prompt": "Review false positives, false negatives, review burden, equity, appeal, and threshold revision history."
+  },
+  {
+    "card_id": "decision_support_requires_governance",
+    "title": "Decision Support Requires Governance",
+    "prompt": "Check calibration, uncertainty communication, human review, contestability, monitoring, and stop authority."
+  }
+]

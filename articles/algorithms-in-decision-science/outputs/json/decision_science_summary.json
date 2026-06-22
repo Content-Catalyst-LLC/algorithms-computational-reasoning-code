@@ -1,0 +1,13 @@
+{
+  "article": "algorithms_in_decision_science",
+  "decisions_escalated": 1,
+  "decisions_not_automated": 1,
+  "decisions_reviewed": 4,
+  "decisions_supporting_action": 1,
+  "governance_controls": 6,
+  "interpretation": "Algorithmic decision support should connect forecasts, thresholds, uncertainty, review, contestability, monitoring, and stop authority.",
+  "mean_decision_support_readiness_score": 0.652,
+  "mean_expected_loss_if_no_action": 0.416,
+  "mean_expected_value_of_action": 0.0963,
+  "timestamp_utc": "2026-06-22T22:32:24.491732+00:00"
+}

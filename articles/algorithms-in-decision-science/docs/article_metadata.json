@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Decision Science",
+  "slug": "algorithms-in-decision-science",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "when-algorithms-should-not-be-used",
+  "next": "algorithms-in-systems-modeling",
+  "repo_folder": "articles/algorithms-in-decision-science",
+  "topics": [
+    "decision science",
+    "forecasting",
+    "thresholds",
+    "prioritization",
+    "expected value",
+    "expected loss",
+    "uncertainty",
+    "calibration",
+    "multi-criteria decision analysis",
+    "decision governance"
+  ]
+}

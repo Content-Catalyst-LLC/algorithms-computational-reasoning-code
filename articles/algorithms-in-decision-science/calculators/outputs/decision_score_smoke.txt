@@ -1,0 +1,4 @@
+expected_value_of_action=0.421600
+expected_loss_if_no_action=0.754400
+decision_support_readiness_score=0.760000
+threshold_action=true

@@ -1,0 +1,32 @@
+[
+  {
+    "control": "forecast_documentation",
+    "review_question": "Is the forecast calibrated, contextualized, and uncertainty-aware?",
+    "status": "required"
+  },
+  {
+    "control": "threshold_rationale",
+    "review_question": "Is the action threshold justified by costs, harms, benefits, and rights?",
+    "status": "required"
+  },
+  {
+    "control": "human_review_protocol",
+    "review_question": "Can reviewers understand, challenge, override, and document decisions?",
+    "status": "required"
+  },
+  {
+    "control": "contestability_pathway",
+    "review_question": "Can affected people understand, challenge, and correct outcomes?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_and_feedback",
+    "review_question": "Are outcomes, reliance, drift, and feedback effects monitored?",
+    "status": "required"
+  },
+  {
+    "control": "stop_rule",
+    "review_question": "Can the institution pause, rollback, or retire the decision system?",
+    "status": "required"
+  }
+]

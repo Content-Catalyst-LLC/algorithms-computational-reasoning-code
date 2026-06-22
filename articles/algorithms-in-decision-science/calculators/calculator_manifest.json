@@ -1,0 +1,41 @@
+{
+  "article": "algorithms-in-decision-science",
+  "calculators": [
+    {
+      "name": "expected_value_calculator",
+      "language": "python",
+      "path": "calculators/python/expected_value_calculator.py",
+      "purpose": "Compute expected value of action."
+    },
+    {
+      "name": "expected_loss_calculator",
+      "language": "python",
+      "path": "calculators/python/expected_loss_calculator.py",
+      "purpose": "Compute expected loss if no action."
+    },
+    {
+      "name": "threshold_action_calculator",
+      "language": "python",
+      "path": "calculators/python/threshold_action_calculator.py",
+      "purpose": "Classify score threshold action."
+    },
+    {
+      "name": "decision_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/decision_readiness_calculator.py",
+      "purpose": "Compute decision-support readiness."
+    },
+    {
+      "name": "multi_criteria_score_calculator",
+      "language": "python",
+      "path": "calculators/python/multi_criteria_score_calculator.py",
+      "purpose": "Compute weighted multi-criteria decision score."
+    },
+    {
+      "name": "decision_score",
+      "language": "r",
+      "path": "calculators/r/decision_score.R",
+      "purpose": "Compute decision-science indicators."
+    }
+  ]
+}

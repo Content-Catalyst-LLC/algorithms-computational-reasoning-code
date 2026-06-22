@@ -1,0 +1,6 @@
+{
+  "action_threshold": 0.7,
+  "article": "algorithms_in_decision_science",
+  "high_stakes_threshold": 0.8,
+  "low_governance_threshold": 0.65
+}

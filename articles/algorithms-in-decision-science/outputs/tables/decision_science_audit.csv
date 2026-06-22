@@ -1,0 +1,5 @@
+decision_id,decision_support_readiness_score,expected_loss_if_no_action,expected_value_of_action,predicted_probability,recommendation,stakes,threshold_action
+clinical_triage_review,0.76,0.7544,0.4216,0.82,escalate_to_human_review,0.94,True
+routine_document_routing,0.708,0.1672,0.318,0.76,support_action_with_review,0.28,True
+automated_benefits_denial,0.416,0.144,-0.572,0.72,do_not_automate_action,0.96,True
+infrastructure_inspection_priority,0.724,0.5984,0.2176,0.68,review_despite_below_threshold,0.82,False

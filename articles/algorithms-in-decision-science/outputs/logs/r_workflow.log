@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  decisions_reviewed decisions_supporting_action decisions_escalated
+1                  4                           1                   1
+  decisions_not_automated mean_decision_support_readiness_score
+1                       1                                 0.652
+  mean_expected_value_of_action mean_expected_loss_if_no_action
+1                        0.0963                           0.416
+  governance_controls
+1                   6
+                                                                                                              diagnostic_note
+1 Decision support should connect forecasts, thresholds, uncertainty, review, contestability, monitoring, and stop authority.

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DecisionScienceAudit",
+  "type": "object",
+  "required": [
+    "decision_id",
+    "predicted_probability",
+    "expected_value_of_action",
+    "expected_loss_if_no_action",
+    "threshold_action",
+    "decision_support_readiness_score",
+    "recommendation"
+  ],
+  "properties": {
+    "decision_id": {
+      "type": "string"
+    },
+    "predicted_probability": {
+      "type": "number"
+    },
+    "expected_value_of_action": {
+      "type": "number"
+    },
+    "expected_loss_if_no_action": {
+      "type": "number"
+    },
+    "threshold_action": {
+      "type": "boolean"
+    },
+    "decision_support_readiness_score": {
+      "type": "number"
+    },
+    "stakes": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

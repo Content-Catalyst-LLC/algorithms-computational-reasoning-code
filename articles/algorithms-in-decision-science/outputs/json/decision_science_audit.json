@@ -1,0 +1,42 @@
+[
+  {
+    "decision_id": "clinical_triage_review",
+    "decision_support_readiness_score": 0.76,
+    "expected_loss_if_no_action": 0.7544,
+    "expected_value_of_action": 0.4216,
+    "predicted_probability": 0.82,
+    "recommendation": "escalate_to_human_review",
+    "stakes": 0.94,
+    "threshold_action": true
+  },
+  {
+    "decision_id": "routine_document_routing",
+    "decision_support_readiness_score": 0.708,
+    "expected_loss_if_no_action": 0.1672,
+    "expected_value_of_action": 0.318,
+    "predicted_probability": 0.76,
+    "recommendation": "support_action_with_review",
+    "stakes": 0.28,
+    "threshold_action": true
+  },
+  {
+    "decision_id": "automated_benefits_denial",
+    "decision_support_readiness_score": 0.416,
+    "expected_loss_if_no_action": 0.144,
+    "expected_value_of_action": -0.572,
+    "predicted_probability": 0.72,
+    "recommendation": "do_not_automate_action",
+    "stakes": 0.96,
+    "threshold_action": true
+  },
+  {
+    "decision_id": "infrastructure_inspection_priority",
+    "decision_support_readiness_score": 0.724,
+    "expected_loss_if_no_action": 0.5984,
+    "expected_value_of_action": 0.2176,
+    "predicted_probability": 0.68,
+    "recommendation": "review_despite_below_threshold",
+    "stakes": 0.82,
+    "threshold_action": false
+  }
+]

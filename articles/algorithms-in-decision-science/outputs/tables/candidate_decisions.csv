@@ -1,0 +1,5 @@
+benefit_if_act,calibration,contestability,cost_if_act,decision_id,governance,human_review,loss_if_miss,predicted_probability,stakes,uncertainty_communication
+0.88,0.78,0.7,0.3,clinical_triage_review,0.76,0.82,0.92,0.82,0.94,0.74
+0.55,0.86,0.64,0.1,routine_document_routing,0.7,0.62,0.22,0.76,0.28,0.72
+0.4,0.52,0.36,0.86,automated_benefits_denial,0.42,0.4,0.2,0.72,0.96,0.38
+0.82,0.8,0.58,0.34,infrastructure_inspection_priority,0.74,0.72,0.88,0.68,0.82,0.78

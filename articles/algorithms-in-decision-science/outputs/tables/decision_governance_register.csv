@@ -1,0 +1,7 @@
+control,review_question,status
+forecast_documentation,"Is the forecast calibrated, contextualized, and uncertainty-aware?",required
+threshold_rationale,"Is the action threshold justified by costs, harms, benefits, and rights?",required
+human_review_protocol,"Can reviewers understand, challenge, override, and document decisions?",required
+contestability_pathway,"Can affected people understand, challenge, and correct outcomes?",required
+monitoring_and_feedback,"Are outcomes, reliance, drift, and feedback effects monitored?",required
+stop_rule,"Can the institution pause, rollback, or retire the decision system?",required

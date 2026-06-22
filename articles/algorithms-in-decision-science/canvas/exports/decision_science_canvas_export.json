@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-decision-science",
+  "canvas_cards": [
+    "Prediction Is Not Decision",
+    "Thresholds Are Policy Choices",
+    "Decision Support Requires Governance"
+  ],
+  "decision_layers": [
+    "forecast_documentation",
+    "threshold_rationale",
+    "expected_value",
+    "expected_loss",
+    "multi_criteria_review",
+    "human_review_protocol",
+    "contestability_pathway",
+    "stop_rule"
+  ]
+}

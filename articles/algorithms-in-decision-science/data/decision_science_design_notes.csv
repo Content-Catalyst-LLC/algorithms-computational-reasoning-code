@@ -1,0 +1,9 @@
+item,description,review_question
+forecast_documentation,Forecast is calibrated contextualized and uncertainty-aware,Can decision-makers understand what the prediction does and does not support?
+threshold_rationale,Score-to-action boundary is justified and documented,Who chose the threshold and what consequences follow?
+expected_value,Probability-weighted benefit or utility,Does the expected value hide distributional harm or uncertainty?
+expected_loss,Probability-weighted cost harm or loss,Are false positives and false negatives treated appropriately?
+multi_criteria_review,Decision includes effectiveness equity cost feasibility reversibility and legitimacy,Are tradeoffs visible?
+human_review_protocol,Reviewers can understand challenge override and document decisions,Is human judgment meaningful?
+contestability_pathway,Affected people can understand challenge and correct outcomes,Can decisions be appealed?
+stop_rule,System can be paused rolled back or retired,Who can stop unsafe decision support?
