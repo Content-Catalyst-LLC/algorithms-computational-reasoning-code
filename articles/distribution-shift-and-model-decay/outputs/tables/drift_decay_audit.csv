@@ -1,0 +1,7 @@
+accuracy,calibration_gap,decay_risk_score,high_calibration_drift,high_input_drift,high_label_drift,high_override_rate,high_performance_decay,high_subgroup_gap,input_drift,interpretation,label_drift,override_rate,performance_decay,period,status,subgroup_gap
+0.86,0.05,0.026667,0,0,0,0,0,0,0.0,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.0,0.04,0.0,baseline,pass,0.07
+0.84,0.06,0.061667,0,0,0,0,0,0,0.12,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.04,0.05,0.02,month_1,pass,0.08
+0.81,0.09,0.108333,0,0,0,0,0,0,0.23,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.1,0.07,0.05,month_2,pass,0.11
+0.76,0.14,0.161667,1,1,1,0,1,1,0.31,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.16,0.11,0.1,month_3,escalate,0.15
+0.73,0.18,0.203333,1,1,1,1,1,1,0.38,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.19,0.16,0.13,month_4,escalate,0.18
+0.7,0.21,0.238333,1,1,1,1,1,1,0.42,"Model decay risk rises when data drift, label drift, performance loss, calibration drift, subgroup gaps, or override rates increase.",0.23,0.19,0.16,month_5,escalate,0.22

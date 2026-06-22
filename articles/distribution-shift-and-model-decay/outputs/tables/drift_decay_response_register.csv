@@ -1,0 +1,7 @@
+response,risk,when_useful
+recalibrate,May hide deeper concept drift.,Confidence is unreliable but ranking still has value.
+adjust_threshold,May shift harms across groups.,Base rates or decision costs changed.
+retrain,May learn feedback-shaped or contaminated patterns.,Representative and validated new data are available.
+rollback,Old model may also be unsafe.,A new model or update causes incidents.
+suspend,Requires fallback workflow and accountability.,Risk exceeds acceptable bounds.
+retire,Requires replacement or process redesign.,Use case no longer matches model assumptions.

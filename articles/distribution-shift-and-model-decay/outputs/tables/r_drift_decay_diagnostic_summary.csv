@@ -1,0 +1,2 @@
+"snapshots_reviewed","snapshots_passed","snapshots_requiring_review","snapshots_escalated","latest_status","latest_accuracy","latest_performance_decay","mean_decay_risk_score","response_options","governance_items","diagnostic_note"
+6,3,0,3,"escalate",0.7,0.16,0.133333,6,7,"Model decay should be monitored through data drift, label drift, performance loss, calibration drift, subgroup gaps, override rates, and rollback triggers."

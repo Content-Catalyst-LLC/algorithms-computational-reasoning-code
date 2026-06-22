@@ -1,0 +1,7 @@
+accuracy,calibration_gap,input_drift,label_drift,override_rate,period,subgroup_gap
+0.86,0.05,0.0,0.0,0.04,baseline,0.07
+0.84,0.06,0.12,0.04,0.05,month_1,0.08
+0.81,0.09,0.23,0.1,0.07,month_2,0.11
+0.76,0.14,0.31,0.16,0.11,month_3,0.15
+0.73,0.18,0.38,0.19,0.16,month_4,0.18
+0.7,0.21,0.42,0.23,0.19,month_5,0.22

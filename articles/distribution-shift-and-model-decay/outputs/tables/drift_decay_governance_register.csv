@@ -1,0 +1,8 @@
+item,review_question,status
+deployment_scope,Where is this model approved for use?,required
+input_monitoring,How are input distributions tracked?,required
+label_monitoring,How are outcome frequencies and definitions tracked?,required
+performance_monitoring,How are accuracy and error patterns monitored over time?,required
+calibration_monitoring,How is confidence reliability monitored?,required
+subgroup_monitoring,How is decay tracked by group and context?,required
+rollback_plan,"When can the model be paused, rolled back, or retired?",required

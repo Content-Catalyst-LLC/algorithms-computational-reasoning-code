@@ -1,0 +1,19 @@
+{
+  "title": "Distribution Shift and Model Decay",
+  "slug": "distribution-shift-and-model-decay",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "feedback-loops-in-algorithmic-systems",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/distribution-shift-and-model-decay",
+  "topics": [
+    "distribution shift",
+    "model decay",
+    "covariate shift",
+    "label shift",
+    "concept drift",
+    "calibration drift",
+    "monitoring",
+    "rollback",
+    "model governance"
+  ]
+}

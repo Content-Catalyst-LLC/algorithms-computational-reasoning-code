@@ -1,0 +1,18 @@
+{
+  "article": "distribution-shift-and-model-decay",
+  "canvas_cards": [
+    "Deployment Is Not Final",
+    "Old Scores Are Not Current Evidence",
+    "Rollback Is Governance"
+  ],
+  "review_layers": [
+    "deployment_scope",
+    "baseline_record",
+    "input_monitoring",
+    "label_monitoring",
+    "calibration_monitoring",
+    "subgroup_monitoring",
+    "override_monitoring",
+    "rollback_plan"
+  ]
+}

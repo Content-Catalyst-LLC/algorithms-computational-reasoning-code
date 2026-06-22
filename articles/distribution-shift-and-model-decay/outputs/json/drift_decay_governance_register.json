@@ -1,0 +1,37 @@
+[
+  {
+    "item": "deployment_scope",
+    "review_question": "Where is this model approved for use?",
+    "status": "required"
+  },
+  {
+    "item": "input_monitoring",
+    "review_question": "How are input distributions tracked?",
+    "status": "required"
+  },
+  {
+    "item": "label_monitoring",
+    "review_question": "How are outcome frequencies and definitions tracked?",
+    "status": "required"
+  },
+  {
+    "item": "performance_monitoring",
+    "review_question": "How are accuracy and error patterns monitored over time?",
+    "status": "required"
+  },
+  {
+    "item": "calibration_monitoring",
+    "review_question": "How is confidence reliability monitored?",
+    "status": "required"
+  },
+  {
+    "item": "subgroup_monitoring",
+    "review_question": "How is decay tracked by group and context?",
+    "status": "required"
+  },
+  {
+    "item": "rollback_plan",
+    "review_question": "When can the model be paused, rolled back, or retired?",
+    "status": "required"
+  }
+]

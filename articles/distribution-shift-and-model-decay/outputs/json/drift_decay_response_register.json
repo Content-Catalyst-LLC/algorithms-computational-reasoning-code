@@ -1,0 +1,32 @@
+[
+  {
+    "response": "recalibrate",
+    "risk": "May hide deeper concept drift.",
+    "when_useful": "Confidence is unreliable but ranking still has value."
+  },
+  {
+    "response": "adjust_threshold",
+    "risk": "May shift harms across groups.",
+    "when_useful": "Base rates or decision costs changed."
+  },
+  {
+    "response": "retrain",
+    "risk": "May learn feedback-shaped or contaminated patterns.",
+    "when_useful": "Representative and validated new data are available."
+  },
+  {
+    "response": "rollback",
+    "risk": "Old model may also be unsafe.",
+    "when_useful": "A new model or update causes incidents."
+  },
+  {
+    "response": "suspend",
+    "risk": "Requires fallback workflow and accountability.",
+    "when_useful": "Risk exceeds acceptable bounds."
+  },
+  {
+    "response": "retire",
+    "risk": "Requires replacement or process redesign.",
+    "when_useful": "Use case no longer matches model assumptions."
+  }
+]

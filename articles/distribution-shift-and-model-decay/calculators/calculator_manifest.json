@@ -1,0 +1,29 @@
+{
+  "article": "distribution-shift-and-model-decay",
+  "calculators": [
+    {
+      "name": "performance_decay_calculator",
+      "language": "python",
+      "path": "calculators/python/performance_decay_calculator.py",
+      "purpose": "Compute performance loss from baseline."
+    },
+    {
+      "name": "drift_trigger_calculator",
+      "language": "python",
+      "path": "calculators/python/drift_trigger_calculator.py",
+      "purpose": "Flag whether drift exceeds a review threshold."
+    },
+    {
+      "name": "calibration_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/calibration_gap_calculator.py",
+      "purpose": "Compute absolute gap between accuracy and confidence."
+    },
+    {
+      "name": "decay_risk_score",
+      "language": "r",
+      "path": "calculators/r/decay_risk_score.R",
+      "purpose": "Combine drift and decay signals."
+    }
+  ]
+}

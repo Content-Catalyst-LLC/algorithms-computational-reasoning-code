@@ -1,0 +1,9 @@
+{
+  "article": "distribution_shift_and_model_decay",
+  "calibration_drift_threshold": 0.1,
+  "input_drift_threshold": 0.25,
+  "label_drift_threshold": 0.15,
+  "override_rate_threshold": 0.12,
+  "performance_decay_threshold": 0.08,
+  "subgroup_gap_threshold": 0.12
+}

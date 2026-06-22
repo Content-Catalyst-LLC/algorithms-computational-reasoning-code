@@ -1,0 +1,2 @@
+article,governance_items,interpretation,latest_accuracy,latest_performance_decay,latest_status,mean_decay_risk_score,response_options,snapshots_escalated,snapshots_passed,snapshots_requiring_review,snapshots_reviewed,timestamp_utc
+distribution_shift_and_model_decay,7,"Model deployment should be monitored through input drift, label drift, performance decay, calibration drift, subgroup gaps, override rates, and rollback triggers.",0.7,0.16,escalate,0.133333,6,3,3,0,6,2026-06-22T08:29:28.869081+00:00

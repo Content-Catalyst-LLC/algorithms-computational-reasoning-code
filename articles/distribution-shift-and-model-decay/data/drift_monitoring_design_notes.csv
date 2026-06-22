@@ -1,0 +1,8 @@
+item,description,review_question
+deployment_scope,Approved use context and population,Where is the model allowed to operate?
+baseline_record,Initial reference distribution and performance,What baseline will future data be compared against?
+input_monitoring,Feature distribution tracking,Are inputs changing over time?
+label_monitoring,Outcome rate and label-definition tracking,Are labels or base rates changing?
+calibration_monitoring,Confidence reliability review,Does predicted confidence match outcomes?
+subgroup_monitoring,Performance by group and context,Where is decay uneven?
+rollback_plan,Procedure for pausing reverting or retiring the model,Who can stop or roll back the system?

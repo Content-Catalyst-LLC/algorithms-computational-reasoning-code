@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DriftDecayAudit",
+  "type": "object",
+  "required": [
+    "period",
+    "input_drift",
+    "accuracy",
+    "performance_decay",
+    "decay_risk_score",
+    "status"
+  ],
+  "properties": {
+    "period": {
+      "type": "string"
+    },
+    "input_drift": {
+      "type": "number"
+    },
+    "label_drift": {
+      "type": "number"
+    },
+    "accuracy": {
+      "type": "number"
+    },
+    "performance_decay": {
+      "type": "number"
+    },
+    "calibration_gap": {
+      "type": "number"
+    },
+    "subgroup_gap": {
+      "type": "number"
+    },
+    "override_rate": {
+      "type": "number"
+    },
+    "decay_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

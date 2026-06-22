@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "deployment_is_not_final",
+    "title": "Deployment Is Not Final",
+    "prompt": "Treat deployment as the beginning of monitoring, not the end of evaluation."
+  },
+  {
+    "card_id": "old_scores_are_not_current_evidence",
+    "title": "Old Scores Are Not Current Evidence",
+    "prompt": "Attach dates, domains, and monitoring windows to every performance claim."
+  },
+  {
+    "card_id": "rollback_is_governance",
+    "title": "Rollback Is Governance",
+    "prompt": "Define who can pause, roll back, recalibrate, retrain, or retire the system."
+  }
+]
