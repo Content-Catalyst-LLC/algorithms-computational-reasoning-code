@@ -1,0 +1,20 @@
+{
+  "title": "Algorithmic Accountability and Audit Trails",
+  "slug": "algorithmic-accountability-and-audit-trails",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "transparency-explainability-and-interpretability",
+  "next": "human-in-the-loop-and-human-judgment",
+  "repo_folder": "articles/algorithmic-accountability-and-audit-trails",
+  "topics": [
+    "algorithmic accountability",
+    "audit trails",
+    "documentation",
+    "provenance",
+    "decision logs",
+    "model versioning",
+    "testing records",
+    "appeal pathways",
+    "incident response",
+    "algorithmic governance"
+  ]
+}

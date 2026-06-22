@@ -1,0 +1,2 @@
+"systems_reviewed","systems_passed","systems_requiring_review","systems_escalated","mean_audit_completeness_score","mean_accountability_capacity_score","mean_reconstruction_risk_score","governance_items","diagnostic_note"
+4,2,2,0,0.791667,0.684583,0.175417,6,"Accountability review should connect audit completeness, documentation, provenance, decision logs, contestability, remediation, ownership, and reconstruction risk."

@@ -1,0 +1,12 @@
+null device 
+          1 
+null device 
+          1 
+  systems_reviewed systems_passed systems_requiring_review systems_escalated
+1                4              2                        2                 0
+  mean_audit_completeness_score mean_accountability_capacity_score
+1                      0.791667                           0.684583
+  mean_reconstruction_risk_score governance_items
+1                       0.175417                6
+                                                                                                                                                      diagnostic_note
+1 Accountability review should connect audit completeness, documentation, provenance, decision logs, contestability, remediation, ownership, and reconstruction risk.

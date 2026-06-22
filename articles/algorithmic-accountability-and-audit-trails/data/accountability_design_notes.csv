@@ -1,0 +1,9 @@
+item,description,review_question
+data_provenance,Source lineage transformations versions and data ownership,Can data sources and changes be reconstructed?
+model_versioning,Model thresholds prompts configurations and deployment records,Which system version shaped the decision?
+decision_logs,Inputs outputs scores reason codes reviewers and actions,Can case-level decisions be reconstructed?
+testing_records,Validation calibration subgroup robustness and failure-mode evidence,Was the system evaluated for the decision context?
+human_review,Reviewer notes overrides escalations and authority,Was oversight meaningful or symbolic?
+appeal_records,Challenges corrections reversals remedies and recurrence signals,Can affected people contest and repair outcomes?
+incident_response,Failure reports impact assessment escalation and remediation,Can the institution learn from harm and prevent recurrence?
+ownership,Named accountable owners for approval pause modification and retirement,Who can say stop?

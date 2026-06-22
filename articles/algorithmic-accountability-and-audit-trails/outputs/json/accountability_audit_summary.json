@@ -1,0 +1,13 @@
+{
+  "article": "algorithmic_accountability_and_audit_trails",
+  "governance_items": 6,
+  "interpretation": "Accountability review should connect audit completeness, provenance, decision logs, contestability, remediation, ownership, and reconstruction risk.",
+  "mean_accountability_capacity_score": 0.684583,
+  "mean_audit_completeness_score": 0.791667,
+  "mean_reconstruction_risk_score": 0.175417,
+  "systems_escalated": 0,
+  "systems_passed": 2,
+  "systems_requiring_review": 2,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-22T21:01:04.416398+00:00"
+}

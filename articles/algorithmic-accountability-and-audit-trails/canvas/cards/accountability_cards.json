@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "records_create_accountability",
+    "title": "Records Create Accountability",
+    "prompt": "Ask whether the decision can be reconstructed from data, model, threshold, reviewer, appeal, and remediation records."
+  },
+  {
+    "card_id": "responsibility_survives_delegation",
+    "title": "Responsibility Survives Delegation",
+    "prompt": "Map who owns approval, monitoring, review, escalation, remediation, and retirement after automation is introduced."
+  },
+  {
+    "card_id": "repair_completes_the_audit",
+    "title": "Repair Completes the Audit",
+    "prompt": "Connect incidents and appeals to correction, remedy, root-cause review, and recurrence prevention."
+  }
+]

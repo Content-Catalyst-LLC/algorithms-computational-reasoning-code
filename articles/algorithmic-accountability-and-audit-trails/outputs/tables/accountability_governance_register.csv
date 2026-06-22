@@ -1,0 +1,7 @@
+item,review_question,status
+data_provenance,"Can data sources, transformations, and versions be traced?",required
+model_versioning,Can the active model and threshold be reconstructed for each decision?,required
+decision_logs,"Are inputs, outputs, reasons, reviewers, and actions recorded?",required
+appeal_records,Can affected people challenge outcomes and obtain correction?,required
+incident_response,"Are failures preserved, investigated, escalated, and remediated?",required
+ownership,"Who has authority to pause, modify, or retire the system?",required

@@ -1,0 +1,18 @@
+{
+  "article": "algorithmic-accountability-and-audit-trails",
+  "canvas_cards": [
+    "Records Create Accountability",
+    "Responsibility Survives Delegation",
+    "Repair Completes the Audit"
+  ],
+  "review_layers": [
+    "data_provenance",
+    "model_versioning",
+    "decision_logs",
+    "testing_records",
+    "human_review",
+    "appeal_records",
+    "incident_response",
+    "ownership"
+  ]
+}

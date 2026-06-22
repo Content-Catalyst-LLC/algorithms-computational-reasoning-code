@@ -1,0 +1,5 @@
+available_records,contestability,documentation,governance,provenance,remediation,required_records,reviewability,stakes,system_id
+9,0.58,0.72,0.66,0.68,0.52,12,0.64,0.9,benefits_eligibility_model
+11,0.72,0.86,0.8,0.82,0.7,12,0.78,0.84,credit_risk_score
+8,0.48,0.64,0.55,0.6,0.5,12,0.58,0.74,content_moderation_classifier
+10,0.7,0.82,0.78,0.76,0.74,12,0.8,0.96,clinical_triage_support

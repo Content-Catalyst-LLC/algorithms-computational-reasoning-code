@@ -1,0 +1,6 @@
+{
+  "article": "algorithmic_accountability_and_audit_trails",
+  "high_reconstruction_risk_threshold": 0.3,
+  "low_accountability_capacity_threshold": 0.7,
+  "low_audit_completeness_threshold": 0.75
+}

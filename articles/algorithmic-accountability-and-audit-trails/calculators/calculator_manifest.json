@@ -1,0 +1,35 @@
+{
+  "article": "algorithmic-accountability-and-audit-trails",
+  "calculators": [
+    {
+      "name": "audit_completeness_calculator",
+      "language": "python",
+      "path": "calculators/python/audit_completeness_calculator.py",
+      "purpose": "Compute audit completeness."
+    },
+    {
+      "name": "accountability_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/accountability_capacity_calculator.py",
+      "purpose": "Compute accountability capacity."
+    },
+    {
+      "name": "reconstruction_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/reconstruction_risk_calculator.py",
+      "purpose": "Compute decision reconstruction risk."
+    },
+    {
+      "name": "incident_recurrence_calculator",
+      "language": "python",
+      "path": "calculators/python/incident_recurrence_calculator.py",
+      "purpose": "Compute incident recurrence ratio."
+    },
+    {
+      "name": "accountability_score",
+      "language": "r",
+      "path": "calculators/r/accountability_score.R",
+      "purpose": "Compute accountability audit indicators."
+    }
+  ]
+}

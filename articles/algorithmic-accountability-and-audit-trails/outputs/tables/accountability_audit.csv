@@ -1,0 +1,5 @@
+accountability_capacity_score,audit_completeness_score,available_records,contestability,documentation,governance,provenance,reconstruction_risk_score,remediation,required_records,reviewability,stakes,status,system_id
+0.633333,0.75,9,0.58,0.72,0.66,0.68,0.225,0.52,12,0.64,0.9,review,benefits_eligibility_model
+0.78,0.916667,11,0.72,0.86,0.8,0.82,0.07,0.7,12,0.78,0.84,pass,credit_risk_score
+0.558333,0.666667,8,0.48,0.64,0.55,0.6,0.246667,0.5,12,0.58,0.74,review,content_moderation_classifier
+0.766667,0.833333,10,0.7,0.82,0.78,0.76,0.16,0.74,12,0.8,0.96,pass,clinical_triage_support

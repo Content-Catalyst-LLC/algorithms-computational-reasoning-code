@@ -1,0 +1,3 @@
+audit_completeness_score=0.750000
+accountability_capacity_score=0.633333
+reconstruction_risk_score=0.225000

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AccountabilityAudit",
+  "type": "object",
+  "required": [
+    "system_id",
+    "audit_completeness_score",
+    "accountability_capacity_score",
+    "reconstruction_risk_score",
+    "status"
+  ],
+  "properties": {
+    "system_id": {
+      "type": "string"
+    },
+    "audit_completeness_score": {
+      "type": "number"
+    },
+    "accountability_capacity_score": {
+      "type": "number"
+    },
+    "reconstruction_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}
