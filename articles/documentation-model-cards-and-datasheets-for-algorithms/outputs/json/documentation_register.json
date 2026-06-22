@@ -1,0 +1,32 @@
+[
+  {
+    "artifact": "model_card",
+    "review_question": "Does the model card state purpose, intended use, evaluation, limits, and governance?",
+    "status": "required"
+  },
+  {
+    "artifact": "datasheet",
+    "review_question": "Does the datasheet record dataset motivation, composition, collection, processing, uses, and maintenance?",
+    "status": "required"
+  },
+  {
+    "artifact": "risk_register",
+    "review_question": "Are risks, controls, owners, and escalation triggers documented?",
+    "status": "required"
+  },
+  {
+    "artifact": "change_log",
+    "review_question": "Can system, data, model, threshold, and governance changes be reconstructed?",
+    "status": "required"
+  },
+  {
+    "artifact": "appeal_documentation",
+    "review_question": "Can affected people understand, challenge, and correct outcomes?",
+    "status": "required"
+  },
+  {
+    "artifact": "maintenance_plan",
+    "review_question": "Is documentation reviewed and updated after changes or incidents?",
+    "status": "required"
+  }
+]

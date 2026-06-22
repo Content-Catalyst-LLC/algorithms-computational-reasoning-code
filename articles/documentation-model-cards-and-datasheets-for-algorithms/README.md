@@ -1,37 +1,31 @@
-# Documentation, Model Cards, and Datasheets for Algorithms (planned)
+# Documentation, Model Cards, and Datasheets for Algorithms
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Fairness, Governance, Accountability, and Responsible Automation  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Documentation, Model Cards, and Datasheets for Algorithms**.
 
-## Purpose
+It provides reproducible, teaching-oriented workflows for algorithmic documentation, model cards, datasheets, system cards, data provenance, evaluation reporting, intended use, prohibited use, limitations, risk records, change logs, contestability documentation, audit trails, governance files, maintenance records, and responsible algorithmic documentation practice.
 
-This folder will hold computational companion materials for the planned article:
-**Documentation, Model Cards, and Datasheets for Algorithms**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `algorithmic-risk-management-and-ai-governance`
+- Current: `documentation-model-cards-and-datasheets-for-algorithms`
+- Next: `when-algorithms-should-not-be-used`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## What this folder demonstrates
 
-## Notes
+- how documentation completeness can be checked across required fields;
+- how documentation quality can combine accuracy, completeness, specificity, timeliness, accessibility, and actionability;
+- how model-card, datasheet, risk-register, change-log, and appeal-documentation coverage can be scored;
+- how documentation risk rises when stakes are high and documentation quality is weak;
+- how governance artifacts, calculators, tests, SQL queries, Canvas cards, and multilingual examples can support accountable algorithmic documentation.
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+## Repository structure
+
+- `python/` — reference documentation completeness and quality audit workflow and tests
+- `r/` — diagnostic summaries and figures
+- `sql/` — schema and queries for documentation, model cards, datasheets, artifact coverage, quality, and risk
+- `calculators/` — self-contained completeness, quality, freshness, and documentation-risk calculators
+- `canvas/` — Canvas-ready cards, schemas, and exports
+- `docs/` — method notes, data dictionary, model-card notes, datasheet notes, documentation governance, and use boundaries
+- language folders — compact examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
+
+All datasets and examples are synthetic and educational. They are not legal, compliance, audit certification, civil-rights, medical, credit, employment, public-benefits, or operational advice.

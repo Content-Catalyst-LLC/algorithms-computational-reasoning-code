@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DocumentationAudit",
+  "type": "object",
+  "required": [
+    "system_id",
+    "documentation_completeness_score",
+    "artifact_coverage_score",
+    "documentation_quality_score",
+    "documentation_risk_score",
+    "status"
+  ],
+  "properties": {
+    "system_id": {
+      "type": "string"
+    },
+    "documentation_completeness_score": {
+      "type": "number"
+    },
+    "artifact_coverage_score": {
+      "type": "number"
+    },
+    "documentation_quality_score": {
+      "type": "number"
+    },
+    "documentation_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

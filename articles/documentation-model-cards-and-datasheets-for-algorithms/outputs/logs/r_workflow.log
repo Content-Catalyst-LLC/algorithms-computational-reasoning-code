@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  systems_reviewed systems_passed systems_requiring_review systems_escalated
+1                4              2                        1                 1
+  mean_documentation_completeness_score mean_documentation_quality_score
+1                               0.78125                         0.676875
+  mean_artifact_coverage_score mean_documentation_risk_score
+1                          0.8                       0.24976
+  documentation_artifacts
+1                       6
+                                                                                                                                                                       diagnostic_note
+1 Documentation review should connect model cards, datasheets, risk registers, change logs, appeal documentation, accuracy, specificity, timeliness, accessibility, and actionability.

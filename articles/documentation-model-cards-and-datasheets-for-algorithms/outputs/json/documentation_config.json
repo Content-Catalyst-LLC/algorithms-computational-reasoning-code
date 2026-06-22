@@ -1,0 +1,6 @@
+{
+  "article": "documentation_model_cards_and_datasheets_for_algorithms",
+  "high_documentation_risk_threshold": 0.3,
+  "low_completeness_threshold": 0.8,
+  "low_quality_threshold": 0.7
+}

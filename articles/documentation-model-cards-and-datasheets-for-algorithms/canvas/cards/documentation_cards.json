@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "documentation_is_governance_memory",
+    "title": "Documentation Is Governance Memory",
+    "prompt": "Ask whether the system's purpose, data, evaluation, limits, risks, owners, changes, and remedies can be reconstructed."
+  },
+  {
+    "card_id": "model_cards_should_include_limits",
+    "title": "Model Cards Should Include Limits",
+    "prompt": "Check whether the model card explains intended use, prohibited use, failure modes, subgroup performance, and monitoring."
+  },
+  {
+    "card_id": "datasheets_make_data_history_visible",
+    "title": "Datasheets Make Data History Visible",
+    "prompt": "Review collection, composition, labels, preprocessing, missingness, recommended uses, and maintenance."
+  }
+]

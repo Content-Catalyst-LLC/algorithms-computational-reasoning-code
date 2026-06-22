@@ -1,0 +1,18 @@
+{
+  "article": "documentation-model-cards-and-datasheets-for-algorithms",
+  "canvas_cards": [
+    "Documentation Is Governance Memory",
+    "Model Cards Should Include Limits",
+    "Datasheets Make Data History Visible"
+  ],
+  "documentation_layers": [
+    "model_card",
+    "datasheet",
+    "system_card",
+    "risk_register",
+    "change_log",
+    "appeal_documentation",
+    "maintenance_plan",
+    "prohibited_use"
+  ]
+}

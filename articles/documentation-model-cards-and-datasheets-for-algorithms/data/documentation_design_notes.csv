@@ -1,0 +1,9 @@
+item,description,review_question
+model_card,Model purpose intended use evaluation limitations and governance,Does the model card help readers know when not to use the model?
+datasheet,Dataset motivation composition collection processing limits and maintenance,Can the dataset history be inspected and questioned?
+system_card,System-level behavior safeguards deployment risks and constraints,Can deployers understand the system as used in context?
+risk_register,Risks controls owners escalation triggers and status,Are risks connected to responsibility and action?
+change_log,Data model threshold prompt interface and governance changes,Can system behavior be reconstructed over time?
+appeal_documentation,Notice reasons evidence access appeal correction and remedy,Can affected people understand and challenge outcomes?
+maintenance_plan,Review cadence updates ownership and retirement conditions,Will documentation remain current after change?
+prohibited_use,Unsupported and prohibited contexts for use,Does documentation prevent mission creep?

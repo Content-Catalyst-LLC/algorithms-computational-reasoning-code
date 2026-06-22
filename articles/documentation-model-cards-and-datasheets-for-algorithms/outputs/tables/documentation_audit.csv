@@ -1,0 +1,5 @@
+accessibility,accuracy,actionability,artifact_coverage_score,completed_fields,documentation_completeness_score,documentation_quality_score,documentation_risk_score,required_fields,specificity,stakes,status,system_id,timeliness
+0.56,0.62,0.52,0.8,11,0.6875,0.577917,0.388317,16,0.58,0.92,review,benefits_eligibility_model,0.5
+0.72,0.82,0.76,1.0,14,0.875,0.785833,0.2056,16,0.78,0.96,pass,clinical_triage_support,0.76
+0.46,0.58,0.42,0.4,10,0.625,0.504167,0.357,16,0.5,0.72,escalate,content_ranking_system,0.44
+0.78,0.86,0.8,1.0,15,0.9375,0.839583,0.048125,16,0.84,0.3,pass,document_routing_tool,0.82

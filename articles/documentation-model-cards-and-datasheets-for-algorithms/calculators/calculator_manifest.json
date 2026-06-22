@@ -1,0 +1,35 @@
+{
+  "article": "documentation-model-cards-and-datasheets-for-algorithms",
+  "calculators": [
+    {
+      "name": "documentation_completeness_calculator",
+      "language": "python",
+      "path": "calculators/python/documentation_completeness_calculator.py",
+      "purpose": "Compute documentation completeness."
+    },
+    {
+      "name": "documentation_quality_calculator",
+      "language": "python",
+      "path": "calculators/python/documentation_quality_calculator.py",
+      "purpose": "Compute documentation quality."
+    },
+    {
+      "name": "documentation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/documentation_risk_calculator.py",
+      "purpose": "Compute documentation risk."
+    },
+    {
+      "name": "freshness_calculator",
+      "language": "python",
+      "path": "calculators/python/freshness_calculator.py",
+      "purpose": "Compute documentation freshness."
+    },
+    {
+      "name": "documentation_score",
+      "language": "r",
+      "path": "calculators/r/documentation_score.R",
+      "purpose": "Compute documentation audit indicators."
+    }
+  ]
+}

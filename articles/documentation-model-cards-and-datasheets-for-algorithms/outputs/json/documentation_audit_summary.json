@@ -1,0 +1,14 @@
+{
+  "article": "documentation_model_cards_and_datasheets_for_algorithms",
+  "documentation_artifacts": 6,
+  "interpretation": "Documentation review should connect model cards, datasheets, risk registers, change logs, appeal documentation, accuracy, specificity, timeliness, accessibility, and actionability.",
+  "mean_artifact_coverage_score": 0.8,
+  "mean_documentation_completeness_score": 0.78125,
+  "mean_documentation_quality_score": 0.676875,
+  "mean_documentation_risk_score": 0.24976,
+  "systems_escalated": 1,
+  "systems_passed": 2,
+  "systems_requiring_review": 1,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-22T22:02:10.995702+00:00"
+}

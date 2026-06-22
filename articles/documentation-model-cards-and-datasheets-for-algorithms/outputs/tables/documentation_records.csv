@@ -1,0 +1,5 @@
+accessibility,accuracy,actionability,appeal_documentation,change_log,completed_fields,datasheet,model_card,required_fields,risk_register,specificity,stakes,system_id,timeliness
+0.56,0.62,0.52,1,0,11,1,1,16,1,0.58,0.92,benefits_eligibility_model,0.5
+0.72,0.82,0.76,1,1,14,1,1,16,1,0.78,0.96,clinical_triage_support,0.76
+0.46,0.58,0.42,0,1,10,1,0,16,0,0.5,0.72,content_ranking_system,0.44
+0.78,0.86,0.8,1,1,15,1,1,16,1,0.84,0.3,document_routing_tool,0.82

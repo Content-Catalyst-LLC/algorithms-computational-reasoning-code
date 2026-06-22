@@ -1,0 +1,20 @@
+{
+  "title": "Documentation, Model Cards, and Datasheets for Algorithms",
+  "slug": "documentation-model-cards-and-datasheets-for-algorithms",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithmic-risk-management-and-ai-governance",
+  "next": "when-algorithms-should-not-be-used",
+  "repo_folder": "articles/documentation-model-cards-and-datasheets-for-algorithms",
+  "topics": [
+    "algorithmic documentation",
+    "model cards",
+    "datasheets",
+    "system cards",
+    "data provenance",
+    "evaluation reporting",
+    "risk registers",
+    "change logs",
+    "contestability documentation",
+    "algorithmic accountability"
+  ]
+}

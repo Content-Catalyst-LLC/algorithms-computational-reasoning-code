@@ -1,0 +1,4 @@
+documentation_completeness_score=0.687500
+documentation_quality_score=0.577917
+artifact_coverage_score=0.800000
+documentation_risk_score=0.388317

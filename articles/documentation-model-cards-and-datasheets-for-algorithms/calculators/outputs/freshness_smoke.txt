@@ -1,0 +1,1 @@
+freshness_score=0.500000
