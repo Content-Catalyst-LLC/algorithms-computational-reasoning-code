@@ -1,0 +1,2 @@
+"groups_reviewed","status","selection_gap","false_positive_gap","false_negative_gap","max_calibration_gap","mean_justice_capacity_score","governance_items","diagnostic_note"
+3,"escalate",0.11,0.094253,0.15,0.12,0.613868,6,"Fairness review should connect selection, error rates, calibration, measurement validity, contestability, remediation, and governance."

@@ -1,0 +1,20 @@
+{
+  "title": "Algorithmic Fairness and Computational Justice",
+  "slug": "algorithmic-fairness-and-computational-justice",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "failure-modes-in-algorithmic-systems",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/algorithmic-fairness-and-computational-justice",
+  "topics": [
+    "algorithmic fairness",
+    "computational justice",
+    "group fairness",
+    "individual fairness",
+    "calibration",
+    "equalized odds",
+    "measurement justice",
+    "contestability",
+    "remediation",
+    "algorithmic governance"
+  ]
+}

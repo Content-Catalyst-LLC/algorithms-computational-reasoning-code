@@ -1,0 +1,32 @@
+[
+  {
+    "item": "metric_choice",
+    "review_question": "Which fairness definitions are used and why?",
+    "status": "required"
+  },
+  {
+    "item": "measurement_validity",
+    "review_question": "Do labels and proxies validly represent the construct?",
+    "status": "required"
+  },
+  {
+    "item": "subgroup_analysis",
+    "review_question": "Are outcomes and errors reviewed across relevant groups?",
+    "status": "required"
+  },
+  {
+    "item": "contestability",
+    "review_question": "Can affected people understand and challenge outcomes?",
+    "status": "required"
+  },
+  {
+    "item": "remediation",
+    "review_question": "Can errors and harms be corrected and repaired?",
+    "status": "required"
+  },
+  {
+    "item": "accountability",
+    "review_question": "Who owns fairness monitoring and system change?",
+    "status": "required"
+  }
+]

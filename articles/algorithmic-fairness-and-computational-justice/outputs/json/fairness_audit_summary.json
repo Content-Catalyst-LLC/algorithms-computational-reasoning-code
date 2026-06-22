@@ -1,0 +1,14 @@
+{
+  "article": "algorithmic_fairness_and_computational_justice",
+  "false_negative_gap": 0.15,
+  "false_positive_gap": 0.094253,
+  "governance_items": 6,
+  "groups_reviewed": 3,
+  "interpretation": "Fairness review should compare selection, error, calibration, measurement validity, contestability, remediation, and governance together.",
+  "max_calibration_gap": 0.12,
+  "mean_justice_capacity_score": 0.613868,
+  "selection_gap": 0.11,
+  "status": "escalate",
+  "timestamp_utc": "2026-06-22T19:29:13.219460+00:00",
+  "true_positive_gap": 0.15
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "fairness_is_plural",
+    "title": "Fairness Is Plural",
+    "prompt": "Ask which fairness definition is being used, why it fits the decision context, and what it fails to capture."
+  },
+  {
+    "card_id": "measurement_matters",
+    "title": "Measurement Matters",
+    "prompt": "Review labels, proxies, categories, missingness, and construct validity before trusting fairness metrics."
+  },
+  {
+    "card_id": "justice_requires_repair",
+    "title": "Justice Requires Repair",
+    "prompt": "Connect fairness findings to contestability, correction, remediation, monitoring, and accountable governance."
+  }
+]

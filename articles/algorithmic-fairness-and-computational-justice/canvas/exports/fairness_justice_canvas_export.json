@@ -1,0 +1,18 @@
+{
+  "article": "algorithmic-fairness-and-computational-justice",
+  "canvas_cards": [
+    "Fairness Is Plural",
+    "Measurement Matters",
+    "Justice Requires Repair"
+  ],
+  "review_layers": [
+    "metric_choice",
+    "group_fairness",
+    "individual_fairness",
+    "calibration",
+    "measurement_validity",
+    "contestability",
+    "remediation",
+    "governance"
+  ]
+}

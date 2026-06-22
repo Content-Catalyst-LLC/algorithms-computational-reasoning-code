@@ -1,37 +1,31 @@
-# Algorithmic Fairness and Computational Justice (planned)
+# Algorithmic Fairness and Computational Justice
 
-**Series:** Algorithms & Computational Reasoning  
-**Section:** Fairness, Governance, Accountability, and Responsible Automation  
-**Status:** planned
+This companion folder supports the Sustainable Catalyst article **Algorithmic Fairness and Computational Justice**.
 
-## Purpose
+It provides reproducible, teaching-oriented workflows for algorithmic fairness, computational justice, group fairness, individual fairness, calibration, equalized odds, equality of opportunity, demographic parity, measurement validity, contestability, remediation, representation risk, and responsible algorithmic governance.
 
-This folder will hold computational companion materials for the planned article:
-**Algorithmic Fairness and Computational Justice**.
+## Article sequence
 
-## Standard Folder Layout
+- Previous: `failure-modes-in-algorithmic-systems`
+- Current: `algorithmic-fairness-and-computational-justice`
+- Next: `metrics-feedback-and-algorithmic-failure`
 
-- `python/`
-- `r/`
-- `julia/`
-- `sql/`
-- `haskell/`
-- `rust/`
-- `go/`
-- `c/`
-- `cpp/`
-- `fortran/`
-- `java/`
-- `typescript/`
-- `prolog/`
-- `racket/`
-- `docs/`
-- `data/`
-- `outputs/`
-- `notebooks/`
-- `tests/`
-- `canvas/`
+## What this folder demonstrates
 
-## Notes
+- how fairness metrics differ and why they can conflict;
+- how group fairness, individual fairness, calibration, and error-rate fairness answer different questions;
+- how measurement validity, contestability, and remediation shape computational justice;
+- how fairness review must connect statistical evaluation with institutional responsibility;
+- how fairness audits can generate reproducible tables, JSON outputs, diagnostics, calculators, and governance artifacts.
 
-Use synthetic data by default. Document assumptions, limitations, and governance implications.
+## Repository structure
+
+- `python/` — reference fairness and computational justice audit workflow and tests
+- `r/` — diagnostic summaries and figures
+- `sql/` — schema and governance queries for fairness metrics and justice capacity
+- `calculators/` — self-contained fairness gap, calibration gap, justice capacity, and escalation calculators
+- `canvas/` — Canvas-ready cards, schemas, and exports
+- `docs/` — method notes, data dictionary, governance review, measurement justice notes, and use boundaries
+- language folders — compact examples across Python, R, Julia, SQL, Haskell, Rust, Go, C, C++, Fortran, Java, TypeScript, Prolog, and Racket
+
+All datasets and examples are synthetic and educational. They are not legal, compliance, civil-rights, employment, credit, public-benefits, medical, or operational advice.

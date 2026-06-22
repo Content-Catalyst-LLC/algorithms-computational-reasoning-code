@@ -1,0 +1,35 @@
+{
+  "article": "algorithmic-fairness-and-computational-justice",
+  "calculators": [
+    {
+      "name": "selection_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/selection_gap_calculator.py",
+      "purpose": "Compute max-min selection rate gap."
+    },
+    {
+      "name": "error_rate_calculator",
+      "language": "python",
+      "path": "calculators/python/error_rate_calculator.py",
+      "purpose": "Compute false-positive, false-negative, and true-positive rates."
+    },
+    {
+      "name": "calibration_gap_calculator",
+      "language": "python",
+      "path": "calculators/python/calibration_gap_calculator.py",
+      "purpose": "Compute absolute calibration gap."
+    },
+    {
+      "name": "justice_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/justice_capacity_calculator.py",
+      "purpose": "Compute simplified computational justice capacity."
+    },
+    {
+      "name": "fairness_justice_score",
+      "language": "r",
+      "path": "calculators/r/fairness_justice_score.R",
+      "purpose": "Compute fairness and justice indicators."
+    }
+  ]
+}

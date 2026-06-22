@@ -1,0 +1,9 @@
+item,description,review_question
+metric_choice,Selection of fairness definitions such as demographic parity equalized odds calibration or equality of opportunity,Which fairness definition fits the decision context and why?
+group_fairness,Review of outcomes and errors across relevant groups,Who receives benefits and burdens?
+individual_fairness,Review of similar cases and case-level treatment,Are similar people treated similarly under a defensible metric?
+calibration,Review of score meaning across groups,Does a score mean the same thing across groups?
+measurement_validity,Review of labels features proxies and constructs,Are the measured variables valid for the claimed purpose?
+contestability,Ability to understand challenge and correct outcomes,Can affected people obtain review and repair?
+remediation,Ability to correct harm and prevent recurrence,What happens when unfairness is found?
+governance,Ownership monitoring documentation and escalation,Who is responsible for fairness over time?

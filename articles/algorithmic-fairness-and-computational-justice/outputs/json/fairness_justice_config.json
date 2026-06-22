@@ -1,0 +1,7 @@
+{
+  "article": "algorithmic_fairness_and_computational_justice",
+  "calibration_gap_threshold": 0.08,
+  "error_gap_threshold": 0.1,
+  "low_justice_capacity_threshold": 0.65,
+  "selection_gap_threshold": 0.1
+}

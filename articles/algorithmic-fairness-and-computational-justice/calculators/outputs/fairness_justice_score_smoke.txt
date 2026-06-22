@@ -1,0 +1,6 @@
+selection_rate=0.420000
+false_positive_rate=0.266667
+false_negative_rate=0.350000
+true_positive_rate=0.650000
+calibration_gap=0.040000
+justice_capacity_score=0.690278

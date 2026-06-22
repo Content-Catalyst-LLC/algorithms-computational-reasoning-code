@@ -1,0 +1,3 @@
+false_positive_rate=0.266667
+false_negative_rate=0.350000
+true_positive_rate=0.650000

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FairnessJusticeAudit",
+  "type": "object",
+  "required": [
+    "groups_reviewed",
+    "selection_gap",
+    "false_positive_gap",
+    "false_negative_gap",
+    "max_calibration_gap",
+    "mean_justice_capacity_score",
+    "status"
+  ],
+  "properties": {
+    "groups_reviewed": {
+      "type": "integer"
+    },
+    "selection_gap": {
+      "type": "number"
+    },
+    "false_positive_gap": {
+      "type": "number"
+    },
+    "false_negative_gap": {
+      "type": "number"
+    },
+    "true_positive_gap": {
+      "type": "number"
+    },
+    "max_calibration_gap": {
+      "type": "number"
+    },
+    "mean_justice_capacity_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

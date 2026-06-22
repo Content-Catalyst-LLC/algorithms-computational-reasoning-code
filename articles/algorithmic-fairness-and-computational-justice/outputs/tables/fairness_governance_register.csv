@@ -1,0 +1,7 @@
+item,review_question,status
+metric_choice,Which fairness definitions are used and why?,required
+measurement_validity,Do labels and proxies validly represent the construct?,required
+subgroup_analysis,Are outcomes and errors reviewed across relevant groups?,required
+contestability,Can affected people understand and challenge outcomes?,required
+remediation,Can errors and harms be corrected and repaired?,required
+accountability,Who owns fairness monitoring and system change?,required
