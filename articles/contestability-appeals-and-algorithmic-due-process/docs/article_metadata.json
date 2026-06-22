@@ -1,0 +1,20 @@
+{
+  "title": "Contestability, Appeals, and Algorithmic Due Process",
+  "slug": "contestability-appeals-and-algorithmic-due-process",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "automation-bias-and-human-overreliance",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/contestability-appeals-and-algorithmic-due-process",
+  "topics": [
+    "contestability",
+    "appeals",
+    "algorithmic due process",
+    "notice",
+    "explanation",
+    "evidence access",
+    "human review",
+    "correction",
+    "remediation",
+    "algorithmic governance"
+  ]
+}

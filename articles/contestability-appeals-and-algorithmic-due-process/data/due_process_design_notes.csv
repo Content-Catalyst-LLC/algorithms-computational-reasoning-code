@@ -1,0 +1,9 @@
+item,description,review_question
+notice,Disclosure that automation influenced a decision,Do affected people know what happened and why?
+reasons,Decision-specific reason statements,Are reasons understandable and actionable?
+evidence_access,Access to relevant records and inputs,Can people identify and correct wrong data?
+appeal_channel,Pathway to challenge the outcome,Is the appeal channel accessible and timely?
+human_review,Meaningful review by an authority,Can the reviewer change the outcome?
+correction_capacity,Ability to fix data decisions and systems,Are errors repaired beyond the individual case?
+remedy_capacity,Ability to repair consequences of error,Does reversal address harm already caused?
+audit_trail,Record of decision model data and review,Can the decision pathway be reconstructed?

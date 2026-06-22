@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "contestability_is_actionable_transparency",
+    "title": "Contestability Is Actionable Transparency",
+    "prompt": "Ask whether notice, reasons, evidence access, appeal, review, correction, and remedy lead to real repair."
+  },
+  {
+    "card_id": "appeals_must_change_outcomes",
+    "title": "Appeals Must Change Outcomes",
+    "prompt": "Evaluate appeal systems by reversal, correction, remedy, burden, and timeliness."
+  },
+  {
+    "card_id": "due_process_matches_stakes",
+    "title": "Due Process Matches Stakes",
+    "prompt": "Increase procedural safeguards when consequences, uncertainty, and institutional power are high."
+  }
+]

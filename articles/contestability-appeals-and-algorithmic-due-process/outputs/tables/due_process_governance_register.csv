@@ -1,0 +1,9 @@
+item,review_question,status
+notice,Do affected people know automation influenced the decision?,required
+reasons,Are decision-specific reasons understandable and actionable?,required
+evidence_access,Can affected people see or correct relevant records?,required
+appeal_channel,Is there an accessible pathway to challenge the decision?,required
+human_review,Can a reviewer meaningfully change the outcome?,required
+correction_and_remedy,Are errors corrected in both decision and underlying records?,required
+audit_trail,"Are decision, model, data, and review histories preserved?",required
+equity_monitoring,"Are appeal access, burden, and outcomes monitored across groups?",required

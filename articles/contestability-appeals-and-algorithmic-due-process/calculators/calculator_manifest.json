@@ -1,0 +1,35 @@
+{
+  "article": "contestability-appeals-and-algorithmic-due-process",
+  "calculators": [
+    {
+      "name": "contestability_score_calculator",
+      "language": "python",
+      "path": "calculators/python/contestability_score_calculator.py",
+      "purpose": "Compute average contestability safeguard score."
+    },
+    {
+      "name": "procedural_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/procedural_risk_calculator.py",
+      "purpose": "Compute stakes multiplied by weak contestability."
+    },
+    {
+      "name": "appeal_burden_calculator",
+      "language": "python",
+      "path": "calculators/python/appeal_burden_calculator.py",
+      "purpose": "Compute simplified appeal burden."
+    },
+    {
+      "name": "due_process_review_trigger",
+      "language": "python",
+      "path": "calculators/python/due_process_review_trigger.py",
+      "purpose": "Flag high-stakes low-contestability review."
+    },
+    {
+      "name": "contestability_summary_score",
+      "language": "r",
+      "path": "calculators/r/contestability_summary_score.R",
+      "purpose": "Compute contestability and procedural-risk scores."
+    }
+  ]
+}

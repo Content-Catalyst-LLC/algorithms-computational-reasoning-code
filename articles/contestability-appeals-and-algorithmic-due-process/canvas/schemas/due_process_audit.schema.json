@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmicDueProcessAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "stakes",
+    "contestability_score",
+    "procedural_risk_score",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "domain": {
+      "type": "string"
+    },
+    "stakes": {
+      "type": "number"
+    },
+    "notice": {
+      "type": "number"
+    },
+    "reasons": {
+      "type": "number"
+    },
+    "evidence_access": {
+      "type": "number"
+    },
+    "human_review": {
+      "type": "number"
+    },
+    "correction_capacity": {
+      "type": "number"
+    },
+    "remedy_capacity": {
+      "type": "number"
+    },
+    "appeal_burden": {
+      "type": "number"
+    },
+    "resolution_days": {
+      "type": "integer"
+    },
+    "contestability_score": {
+      "type": "number"
+    },
+    "procedural_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

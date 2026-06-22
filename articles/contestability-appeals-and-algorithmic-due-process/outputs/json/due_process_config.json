@@ -1,0 +1,7 @@
+{
+  "article": "contestability_appeals_and_algorithmic_due_process",
+  "high_burden_threshold": 0.6,
+  "high_stakes_threshold": 0.75,
+  "maximum_resolution_days": 14,
+  "minimum_contestability": 0.7
+}

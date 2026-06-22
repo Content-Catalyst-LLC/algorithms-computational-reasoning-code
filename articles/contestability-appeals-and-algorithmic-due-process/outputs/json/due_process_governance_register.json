@@ -1,0 +1,42 @@
+[
+  {
+    "item": "notice",
+    "review_question": "Do affected people know automation influenced the decision?",
+    "status": "required"
+  },
+  {
+    "item": "reasons",
+    "review_question": "Are decision-specific reasons understandable and actionable?",
+    "status": "required"
+  },
+  {
+    "item": "evidence_access",
+    "review_question": "Can affected people see or correct relevant records?",
+    "status": "required"
+  },
+  {
+    "item": "appeal_channel",
+    "review_question": "Is there an accessible pathway to challenge the decision?",
+    "status": "required"
+  },
+  {
+    "item": "human_review",
+    "review_question": "Can a reviewer meaningfully change the outcome?",
+    "status": "required"
+  },
+  {
+    "item": "correction_and_remedy",
+    "review_question": "Are errors corrected in both decision and underlying records?",
+    "status": "required"
+  },
+  {
+    "item": "audit_trail",
+    "review_question": "Are decision, model, data, and review histories preserved?",
+    "status": "required"
+  },
+  {
+    "item": "equity_monitoring",
+    "review_question": "Are appeal access, burden, and outcomes monitored across groups?",
+    "status": "required"
+  }
+]

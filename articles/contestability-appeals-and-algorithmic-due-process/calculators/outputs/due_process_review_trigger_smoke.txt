@@ -1,0 +1,3 @@
+stakes=0.940000
+contestability=0.551667
+review_trigger=1

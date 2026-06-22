@@ -1,0 +1,5 @@
+appeal_rate,interpretation,reversal_rate,scenario
+0.02,"May indicate few errors, but also may indicate weak notice or inaccessible appeals.",0.01,low_appeal_low_reversal
+0.22,May indicate systemic decision errors or poor initial review.,0.48,high_appeal_high_reversal
+0.25,"May indicate legitimate disagreement, unclear reasons, or ineffective appeal review.",0.04,high_appeal_low_reversal
+0.1,Requires review of correction quality and subgroup patterns.,0.18,moderate_appeal_moderate_reversal

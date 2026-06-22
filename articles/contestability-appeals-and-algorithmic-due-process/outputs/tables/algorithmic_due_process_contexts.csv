@@ -1,0 +1,7 @@
+appeal_burden,case_id,correction_capacity,domain,evidence_access,human_review,notice,reasons,remedy_capacity,resolution_days,stakes
+0.72,public_benefits_eligibility,0.52,public_administration,0.48,0.55,0.7,0.62,0.44,21,0.94
+0.54,content_moderation_account_restriction,0.62,platform,0.42,0.5,0.74,0.58,0.45,8,0.66
+0.46,credit_application_review,0.72,finance,0.7,0.68,0.8,0.75,0.61,12,0.82
+0.68,hiring_screening_rank,0.35,employment,0.3,0.42,0.4,0.35,0.2,30,0.78
+0.38,health_risk_decision_support,0.78,health,0.74,0.86,0.76,0.72,0.7,6,0.9
+0.59,platform_visibility_rank,0.48,creator_platform,0.35,0.44,0.46,0.4,0.28,18,0.58

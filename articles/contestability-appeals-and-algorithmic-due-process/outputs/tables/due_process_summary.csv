@@ -1,0 +1,2 @@
+appeal_outcome_scenarios,article,cases_escalated,cases_passed,cases_requiring_review,cases_reviewed,governance_items,interpretation,mean_appeal_burden,mean_appeal_effectiveness_score,mean_contestability_score,mean_procedural_risk_score,timestamp_utc
+4,contestability_appeals_and_algorithmic_due_process,2,2,2,6,8,"Algorithmic due process should be monitored through notice, reasons, evidence access, appeal burden, human review, correction, remedy, timeliness, and audit trails.",0.561667,0.541905,0.551945,0.339261,2026-06-22T08:56:58.629976+00:00
