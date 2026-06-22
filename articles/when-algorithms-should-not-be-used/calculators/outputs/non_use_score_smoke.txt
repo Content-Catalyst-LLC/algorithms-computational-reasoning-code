@@ -1,0 +1,3 @@
+responsible_use_readiness_score=0.430000
+non_use_pressure_score=0.745000
+non_use_decision=refuse

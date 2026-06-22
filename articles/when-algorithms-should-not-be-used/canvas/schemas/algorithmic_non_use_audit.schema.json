@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmicNonUseAudit",
+  "type": "object",
+  "required": [
+    "use_case",
+    "responsible_use_readiness_score",
+    "non_use_pressure_score",
+    "recommendation",
+    "status"
+  ],
+  "properties": {
+    "use_case": {
+      "type": "string"
+    },
+    "responsible_use_readiness_score": {
+      "type": "number"
+    },
+    "non_use_pressure_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

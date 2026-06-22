@@ -1,0 +1,1 @@
+responsible_use_readiness_score=0.430000

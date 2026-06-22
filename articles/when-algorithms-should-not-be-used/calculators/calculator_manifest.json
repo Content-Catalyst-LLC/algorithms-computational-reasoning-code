@@ -1,0 +1,35 @@
+{
+  "article": "when-algorithms-should-not-be-used",
+  "calculators": [
+    {
+      "name": "non_use_pressure_calculator",
+      "language": "python",
+      "path": "calculators/python/non_use_pressure_calculator.py",
+      "purpose": "Compute algorithmic non-use pressure."
+    },
+    {
+      "name": "responsible_use_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/responsible_use_readiness_calculator.py",
+      "purpose": "Compute responsible-use readiness."
+    },
+    {
+      "name": "repairability_calculator",
+      "language": "python",
+      "path": "calculators/python/repairability_calculator.py",
+      "purpose": "Compute repairability."
+    },
+    {
+      "name": "refusal_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/refusal_threshold_calculator.py",
+      "purpose": "Classify refusal based on thresholds."
+    },
+    {
+      "name": "non_use_score",
+      "language": "r",
+      "path": "calculators/r/non_use_score.R",
+      "purpose": "Compute algorithmic non-use indicators."
+    }
+  ]
+}

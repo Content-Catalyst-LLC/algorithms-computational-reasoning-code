@@ -1,0 +1,32 @@
+[
+  {
+    "criterion": "inappropriate_target",
+    "review_question": "Is the thing being predicted or optimized legitimate?",
+    "status": "required"
+  },
+  {
+    "criterion": "illegitimate_proxy",
+    "review_question": "Do available variables substitute for something they cannot responsibly measure?",
+    "status": "required"
+  },
+  {
+    "criterion": "high_irreparable_stakes",
+    "review_question": "Could errors cause serious harm that cannot be repaired?",
+    "status": "required"
+  },
+  {
+    "criterion": "weak_contestability",
+    "review_question": "Can affected people understand, challenge, and correct outcomes?",
+    "status": "required"
+  },
+  {
+    "criterion": "governance_gap",
+    "review_question": "Can the institution monitor, audit, pause, rollback, and retire the system?",
+    "status": "required"
+  },
+  {
+    "criterion": "human_judgment_required",
+    "review_question": "Does the decision require context, care, dialogue, or democratic legitimacy?",
+    "status": "required"
+  }
+]

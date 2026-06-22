@@ -1,0 +1,18 @@
+{
+  "article": "when-algorithms-should-not-be-used",
+  "canvas_cards": [
+    "Technical Feasibility Is Not Justification",
+    "Non-Use Is Governance",
+    "Some Problems Need Non-Algorithmic Alternatives"
+  ],
+  "non_use_layers": [
+    "inappropriate_target",
+    "illegitimate_proxy",
+    "high_irreparable_stakes",
+    "weak_contestability",
+    "governance_gap",
+    "human_judgment_required",
+    "non_algorithmic_alternative",
+    "refusal_record"
+  ]
+}

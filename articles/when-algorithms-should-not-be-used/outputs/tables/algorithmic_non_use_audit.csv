@@ -1,0 +1,5 @@
+contestability,data_legitimacy,governance_capacity,human_judgment,irreversibility,non_use_pressure_score,proxy_illegitimacy,recommendation,repairability,responsible_use_readiness_score,stakes,status,target_legitimacy,use_case
+0.4,0.48,0.44,0.46,0.78,0.745,0.7,do_not_use_algorithm,0.38,0.43,0.94,refuse,0.42,automated_benefits_denial
+0.78,0.82,0.76,0.72,0.1,0.175,0.12,limited_algorithmic_support_acceptable,0.9,0.806667,0.24,pass,0.86,routine_document_routing
+0.42,0.44,0.46,0.48,0.72,0.735,0.82,do_not_use_algorithm,0.36,0.41,0.86,refuse,0.3,student_potential_score
+0.7,0.72,0.78,0.84,0.56,0.51,0.3,support_only_with_strong_review,0.74,0.756667,0.96,review,0.76,clinical_triage_support

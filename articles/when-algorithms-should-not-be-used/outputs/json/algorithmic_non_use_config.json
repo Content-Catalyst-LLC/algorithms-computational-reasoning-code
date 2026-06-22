@@ -1,0 +1,6 @@
+{
+  "article": "when_algorithms_should_not_be_used",
+  "critical_stakes_threshold": 0.85,
+  "high_non_use_pressure_threshold": 0.7,
+  "low_responsible_readiness_threshold": 0.65
+}

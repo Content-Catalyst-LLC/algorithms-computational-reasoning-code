@@ -1,0 +1,9 @@
+item,description,review_question
+inappropriate_target,Target should not be predicted scored ranked or optimized,Is the proposed target legitimate?
+illegitimate_proxy,Available variable substitutes for something it cannot responsibly measure,Does the proxy distort or launder a contested concept?
+high_irreparable_stakes,Error may seriously affect rights safety livelihood dignity or opportunity,Could harms be severe and difficult to repair?
+weak_contestability,Affected people cannot understand challenge correct or appeal,Can people meaningfully contest outcomes?
+governance_gap,Institution cannot monitor audit pause rollback or retire the system,Can the institution govern what it deploys?
+human_judgment_required,Decision requires context care dialogue discretion or democratic legitimacy,Should human judgment remain primary?
+non_algorithmic_alternative,A better non-automated or human-led alternative exists,Is prediction solving the right problem?
+refusal_record,Documented decision to reject delay limit pause rollback or retire,Can non-use be reconstructed and defended?

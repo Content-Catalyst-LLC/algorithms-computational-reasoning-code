@@ -1,0 +1,2 @@
+"use_cases_reviewed","use_cases_passed","use_cases_requiring_review","use_cases_refused","mean_responsible_use_readiness_score","mean_non_use_pressure_score","non_use_criteria","diagnostic_note"
+4,1,1,2,0.600834,0.54125,6,"Algorithmic non-use review should connect target legitimacy, data legitimacy, contestability, human judgment, governance capacity, repairability, stakes, irreversibility, and proxy legitimacy."

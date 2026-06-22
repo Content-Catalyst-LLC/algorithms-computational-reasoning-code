@@ -1,0 +1,21 @@
+{
+  "title": "When Algorithms Should Not Be Used",
+  "slug": "when-algorithms-should-not-be-used",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "documentation-model-cards-and-datasheets-for-algorithms",
+  "next": null,
+  "series_status": "final_article",
+  "repo_folder": "articles/when-algorithms-should-not-be-used",
+  "topics": [
+    "algorithmic non-use",
+    "algorithmic refusal",
+    "responsible automation boundaries",
+    "inappropriate targets",
+    "illegitimate proxies",
+    "irreversible harm",
+    "contestability",
+    "human judgment",
+    "governance capacity",
+    "algorithmic restraint"
+  ]
+}

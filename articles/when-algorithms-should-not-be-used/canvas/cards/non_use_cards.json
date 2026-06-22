@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "technical_feasibility_is_not_justification",
+    "title": "Technical Feasibility Is Not Justification",
+    "prompt": "Ask whether the proposed target is legitimate, the data are appropriate, and the decision should be automated at all."
+  },
+  {
+    "card_id": "non_use_is_governance",
+    "title": "Non-Use Is Governance",
+    "prompt": "Document rejection, delay, limitation, pause, rollback, or retirement as an accountable decision."
+  },
+  {
+    "card_id": "some_problems_need_non_algorithmic_alternatives",
+    "title": "Some Problems Need Non-Algorithmic Alternatives",
+    "prompt": "Compare automation with policy redesign, staffing, participatory review, appeal infrastructure, and service improvements."
+  }
+]

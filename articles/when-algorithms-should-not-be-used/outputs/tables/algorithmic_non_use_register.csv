@@ -1,0 +1,7 @@
+criterion,review_question,status
+inappropriate_target,Is the thing being predicted or optimized legitimate?,required
+illegitimate_proxy,Do available variables substitute for something they cannot responsibly measure?,required
+high_irreparable_stakes,Could errors cause serious harm that cannot be repaired?,required
+weak_contestability,"Can affected people understand, challenge, and correct outcomes?",required
+governance_gap,"Can the institution monitor, audit, pause, rollback, and retire the system?",required
+human_judgment_required,"Does the decision require context, care, dialogue, or democratic legitimacy?",required
