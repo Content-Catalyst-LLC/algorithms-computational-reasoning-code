@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "feedback_maps",
+    "title": "Map the Loop",
+    "prompt": "Trace how outputs influence future inputs, records, interventions, and model updates."
+  },
+  {
+    "card_id": "exposure_is_not_preference",
+    "title": "Exposure Is Not Preference",
+    "prompt": "Track what was shown before interpreting clicks, purchases, or engagement."
+  },
+  {
+    "card_id": "recursive_data_needs_labels",
+    "title": "Label Recursive Data",
+    "prompt": "Identify model-mediated, synthetic, or feedback-shaped records before retraining."
+  }
+]

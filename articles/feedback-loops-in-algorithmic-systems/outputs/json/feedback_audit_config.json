@@ -1,0 +1,7 @@
+{
+  "amplification_threshold": 0.7,
+  "article": "feedback_loops_in_algorithmic_systems",
+  "drift_threshold": 0.25,
+  "exposure_concentration_threshold": 0.65,
+  "recursive_data_threshold": 0.3
+}

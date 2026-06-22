@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly = TRUE)
+amplification <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.82)
+concentration <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.76)
+score <- min(1, (amplification + concentration) / 2)
+cat(sprintf("amplification=%.6f\n", amplification))
+cat(sprintf("exposure_concentration=%.6f\n", concentration))
+cat(sprintf("feedback_pressure_score=%.6f\n", score))

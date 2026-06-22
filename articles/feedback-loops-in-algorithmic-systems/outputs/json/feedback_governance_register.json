@@ -1,0 +1,37 @@
+[
+  {
+    "item": "feedback_map",
+    "review_question": "How do outputs influence future inputs and records?",
+    "status": "required"
+  },
+  {
+    "item": "exposure_logging",
+    "review_question": "Who or what was shown, ranked, recommended, or hidden?",
+    "status": "required"
+  },
+  {
+    "item": "intervention_tracking",
+    "review_question": "What actions followed the prediction or score?",
+    "status": "required"
+  },
+  {
+    "item": "drift_monitoring",
+    "review_question": "How are data distributions changing after deployment?",
+    "status": "required"
+  },
+  {
+    "item": "recursive_data_labeling",
+    "review_question": "Are model-mediated or synthetic data labeled and bounded?",
+    "status": "required"
+  },
+  {
+    "item": "correction_pathway",
+    "review_question": "How are feedback harms appealed, corrected, and prevented?",
+    "status": "required"
+  },
+  {
+    "item": "update_boundary",
+    "review_question": "When should feedback-shaped data be excluded from retraining?",
+    "status": "required"
+  }
+]

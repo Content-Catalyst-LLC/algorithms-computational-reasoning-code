@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FeedbackLoopAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "system",
+    "feedback_path",
+    "feedback_risk_score",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "system": {
+      "type": "string"
+    },
+    "feedback_path": {
+      "type": "string"
+    },
+    "amplification": {
+      "type": "number"
+    },
+    "exposure_concentration": {
+      "type": "number"
+    },
+    "intervention_influence": {
+      "type": "number"
+    },
+    "drift": {
+      "type": "number"
+    },
+    "recursive_data": {
+      "type": "number"
+    },
+    "feedback_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

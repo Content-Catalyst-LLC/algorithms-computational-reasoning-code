@@ -1,0 +1,10 @@
+null device 
+          1 
+null device 
+          1 
+  feedback_cases_reviewed cases_passed cases_requiring_review cases_escalated
+1                       6            0                      3               3
+  mean_feedback_risk_score mean_drift drift_scenarios governance_items
+1                    0.482   0.316667               5                7
+                                                                                                                                              diagnostic_note
+1 Feedback-loop governance should review exposure, amplification, intervention effects, drift, recursive data, correction, monitoring, and update boundaries.

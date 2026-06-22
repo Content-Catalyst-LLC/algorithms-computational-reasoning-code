@@ -1,0 +1,27 @@
+[
+  {
+    "distribution_distance": 0.05,
+    "interpretation": "Distribution shift should trigger review when it exceeds the operational drift threshold.",
+    "review_trigger": 0
+  },
+  {
+    "distribution_distance": 0.15,
+    "interpretation": "Distribution shift should trigger review when it exceeds the operational drift threshold.",
+    "review_trigger": 0
+  },
+  {
+    "distribution_distance": 0.25,
+    "interpretation": "Distribution shift should trigger review when it exceeds the operational drift threshold.",
+    "review_trigger": 0
+  },
+  {
+    "distribution_distance": 0.35,
+    "interpretation": "Distribution shift should trigger review when it exceeds the operational drift threshold.",
+    "review_trigger": 1
+  },
+  {
+    "distribution_distance": 0.5,
+    "interpretation": "Distribution shift should trigger review when it exceeds the operational drift threshold.",
+    "review_trigger": 1
+  }
+]

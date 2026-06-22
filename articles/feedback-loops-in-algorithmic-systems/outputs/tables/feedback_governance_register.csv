@@ -1,0 +1,8 @@
+item,review_question,status
+feedback_map,How do outputs influence future inputs and records?,required
+exposure_logging,"Who or what was shown, ranked, recommended, or hidden?",required
+intervention_tracking,What actions followed the prediction or score?,required
+drift_monitoring,How are data distributions changing after deployment?,required
+recursive_data_labeling,Are model-mediated or synthetic data labeled and bounded?,required
+correction_pathway,"How are feedback harms appealed, corrected, and prevented?",required
+update_boundary,When should feedback-shaped data be excluded from retraining?,required

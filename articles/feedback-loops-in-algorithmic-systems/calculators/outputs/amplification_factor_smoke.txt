@@ -1,0 +1,2 @@
+feedback_factor=1.180000
+classification=amplifying

@@ -1,0 +1,2 @@
+"feedback_cases_reviewed","cases_passed","cases_requiring_review","cases_escalated","mean_feedback_risk_score","mean_drift","drift_scenarios","governance_items","diagnostic_note"
+6,0,3,3,0.482,0.316667,5,7,"Feedback-loop governance should review exposure, amplification, intervention effects, drift, recursive data, correction, monitoring, and update boundaries."

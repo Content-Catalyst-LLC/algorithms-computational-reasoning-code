@@ -1,0 +1,29 @@
+{
+  "article": "feedback-loops-in-algorithmic-systems",
+  "calculators": [
+    {
+      "name": "feedback_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/feedback_risk_calculator.py",
+      "purpose": "Compute a simple feedback-loop risk score."
+    },
+    {
+      "name": "drift_trigger_calculator",
+      "language": "python",
+      "path": "calculators/python/drift_trigger_calculator.py",
+      "purpose": "Flag distribution-shift review triggers."
+    },
+    {
+      "name": "amplification_factor_calculator",
+      "language": "python",
+      "path": "calculators/python/amplification_factor_calculator.py",
+      "purpose": "Classify feedback as dampening, stable, or amplifying."
+    },
+    {
+      "name": "feedback_pressure_score",
+      "language": "r",
+      "path": "calculators/r/feedback_pressure_score.R",
+      "purpose": "Combine amplification and exposure concentration."
+    }
+  ]
+}

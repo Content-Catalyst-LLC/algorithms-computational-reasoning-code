@@ -1,0 +1,13 @@
+{
+  "article": "feedback_loops_in_algorithmic_systems",
+  "cases_escalated": 3,
+  "cases_passed": 0,
+  "cases_requiring_review": 3,
+  "drift_scenarios": 5,
+  "feedback_cases_reviewed": 6,
+  "governance_items": 7,
+  "interpretation": "Feedback loops should be reviewed through exposure, amplification, intervention influence, drift, recursive data, correction pathways, and update boundaries.",
+  "mean_drift": 0.316667,
+  "mean_feedback_risk_score": 0.482,
+  "timestamp_utc": "2026-06-22T07:51:20.799892+00:00"
+}

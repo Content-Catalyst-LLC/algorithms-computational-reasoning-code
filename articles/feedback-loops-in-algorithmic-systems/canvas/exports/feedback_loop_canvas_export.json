@@ -1,0 +1,17 @@
+{
+  "article": "feedback-loops-in-algorithmic-systems",
+  "canvas_cards": [
+    "Map the Loop",
+    "Exposure Is Not Preference",
+    "Label Recursive Data"
+  ],
+  "review_layers": [
+    "feedback_map",
+    "exposure_logging",
+    "intervention_tracking",
+    "drift_monitoring",
+    "recursive_data_labeling",
+    "correction_pathway",
+    "update_boundary"
+  ]
+}

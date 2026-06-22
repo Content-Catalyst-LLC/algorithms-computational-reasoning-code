@@ -1,0 +1,7 @@
+amplification,case_id,drift,exposure_concentration,feedback_path,intervention_influence,recursive_data,system
+0.82,recommendation_feed,0.28,0.76,exposure_to_clicks_to_future_exposure,0.44,0.31,content_recommendation
+0.74,search_ranking,0.2,0.71,rank_to_clicks_to_rank,0.35,0.18,search
+0.66,risk_scoring,0.32,0.4,score_to_intervention_to_recorded_outcome,0.81,0.22,institutional_decision_support
+0.58,fraud_detection,0.46,0.3,detection_to_evasion_to_new_patterns,0.7,0.12,adversarial_detection
+0.69,generative_ai_data_loop,0.34,0.55,model_output_to_public_data_to_future_training,0.42,0.62,generative_model
+0.72,workplace_dashboard,0.3,0.58,metric_to_behavior_to_future_metric,0.62,0.26,institutional_metrics

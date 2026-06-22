@@ -1,0 +1,19 @@
+{
+  "title": "Feedback Loops in Algorithmic Systems",
+  "slug": "feedback-loops-in-algorithmic-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "proxy-variables-and-measurement-error",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/feedback-loops-in-algorithmic-systems",
+  "topics": [
+    "feedback loops",
+    "algorithmic systems",
+    "exposure bias",
+    "popularity bias",
+    "self-fulfilling prediction",
+    "performative prediction",
+    "recursive data",
+    "drift monitoring",
+    "algorithmic governance"
+  ]
+}

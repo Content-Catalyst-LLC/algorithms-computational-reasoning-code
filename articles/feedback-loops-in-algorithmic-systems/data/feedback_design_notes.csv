@@ -1,0 +1,8 @@
+item,description,review_question
+feedback_map,Diagram of how outputs affect future inputs,How do model outputs change future records?
+exposure_logging,Record of who or what received visibility,What was shown ranked recommended or hidden?
+intervention_tracking,Record of actions following predictions,What decisions followed model output?
+drift_monitoring,Checks for changing data distributions,How is the environment changing after deployment?
+recursive_data_labeling,Labeling of model-mediated or synthetic data,Are generated or model-shaped records identified?
+correction_pathway,Appeal override and remediation process,How are feedback harms corrected?
+update_boundary,Rules for retraining from feedback-shaped data,When should feedback data be excluded?
