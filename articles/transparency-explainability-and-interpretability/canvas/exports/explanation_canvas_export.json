@@ -1,0 +1,19 @@
+{
+  "article": "transparency-explainability-and-interpretability",
+  "canvas_cards": [
+    "Explanation Has an Audience",
+    "Explanations Must Be Faithful",
+    "Understanding Must Lead to Action"
+  ],
+  "review_layers": [
+    "audience_definition",
+    "faithfulness",
+    "stability",
+    "understandability",
+    "actionability",
+    "uncertainty_communication",
+    "documentation_completeness",
+    "contestability",
+    "governance_readiness"
+  ]
+}

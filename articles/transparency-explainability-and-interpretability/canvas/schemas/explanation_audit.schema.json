@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ExplanationAudit",
+  "type": "object",
+  "required": [
+    "case_id",
+    "audience",
+    "explanation_quality_score",
+    "transparency_capacity_score",
+    "accountability_capacity_score",
+    "explanation_risk_score",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "audience": {
+      "type": "string"
+    },
+    "explanation_quality_score": {
+      "type": "number"
+    },
+    "transparency_capacity_score": {
+      "type": "number"
+    },
+    "accountability_capacity_score": {
+      "type": "number"
+    },
+    "explanation_risk_score": {
+      "type": "number"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

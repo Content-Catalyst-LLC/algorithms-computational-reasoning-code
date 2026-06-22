@@ -1,0 +1,5 @@
+actionability,audience,case_id,contestability,documentation_completeness,faithfulness,governance_readiness,stability,stakes,uncertainty_communication,understandability
+0.58,affected_person,benefits_eligibility_notice,0.55,0.68,0.7,0.6,0.74,0.88,0.46,0.62
+0.8,developer,model_debugging_report,0.7,0.84,0.82,0.76,0.78,0.62,0.72,0.76
+0.5,public,public_model_card,0.48,0.72,0.64,0.58,0.66,0.74,0.54,0.82
+0.64,frontline_reviewer,clinical_decision_support,0.66,0.78,0.76,0.72,0.7,0.92,0.62,0.68

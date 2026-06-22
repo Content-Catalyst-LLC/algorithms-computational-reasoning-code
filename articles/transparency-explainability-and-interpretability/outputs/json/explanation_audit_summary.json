@@ -1,0 +1,14 @@
+{
+  "article": "transparency_explainability_and_interpretability",
+  "cases_escalated": 0,
+  "cases_passed": 2,
+  "cases_requiring_review": 2,
+  "cases_reviewed": 4,
+  "governance_items": 6,
+  "interpretation": "Explanation review should connect faithfulness, stability, understandability, actionability, uncertainty, documentation, contestability, and governance.",
+  "mean_accountability_capacity_score": 0.651958,
+  "mean_explanation_quality_score": 0.677,
+  "mean_explanation_risk_score": 0.278433,
+  "mean_transparency_capacity_score": 0.668333,
+  "timestamp_utc": "2026-06-22T20:36:43.261199+00:00"
+}

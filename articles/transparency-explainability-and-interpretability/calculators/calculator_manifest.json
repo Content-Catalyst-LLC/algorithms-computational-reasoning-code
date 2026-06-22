@@ -1,0 +1,35 @@
+{
+  "article": "transparency-explainability-and-interpretability",
+  "calculators": [
+    {
+      "name": "explanation_quality_calculator",
+      "language": "python",
+      "path": "calculators/python/explanation_quality_calculator.py",
+      "purpose": "Compute explanation quality from faithfulness, stability, understandability, actionability, and uncertainty communication."
+    },
+    {
+      "name": "transparency_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/transparency_capacity_calculator.py",
+      "purpose": "Compute transparency capacity."
+    },
+    {
+      "name": "accountability_capacity_calculator",
+      "language": "python",
+      "path": "calculators/python/accountability_capacity_calculator.py",
+      "purpose": "Compute accountability capacity."
+    },
+    {
+      "name": "explanation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/explanation_risk_calculator.py",
+      "purpose": "Compute explanation risk score."
+    },
+    {
+      "name": "explanation_audit_score",
+      "language": "r",
+      "path": "calculators/r/explanation_audit_score.R",
+      "purpose": "Compute explanation audit indicators."
+    }
+  ]
+}

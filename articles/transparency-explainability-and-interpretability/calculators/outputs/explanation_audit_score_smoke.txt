@@ -1,0 +1,4 @@
+explanation_quality_score=0.620000
+transparency_capacity_score=0.580000
+accountability_capacity_score=0.587500
+explanation_risk_score=0.363000

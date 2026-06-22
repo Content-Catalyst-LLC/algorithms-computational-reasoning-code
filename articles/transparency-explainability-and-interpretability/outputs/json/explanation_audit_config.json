@@ -1,0 +1,7 @@
+{
+  "article": "transparency_explainability_and_interpretability",
+  "high_risk_threshold": 0.4,
+  "low_contestability_threshold": 0.65,
+  "low_explanation_quality_threshold": 0.65,
+  "low_transparency_threshold": 0.7
+}

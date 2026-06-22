@@ -1,0 +1,7 @@
+item,review_question,status
+audience_definition,Who needs the explanation and what action must it support?,required
+faithfulness_testing,Does the explanation accurately reflect system behavior?,required
+uncertainty_communication,"Does the explanation communicate confidence, limits, and unsupported use?",required
+documentation,"Are data, model, evaluation, limits, versions, and governance documented?",required
+contestability,"Can affected people challenge, correct, and appeal outcomes?",required
+remediation,"Do explanations connect to correction, remedy, and recurrence prevention?",required

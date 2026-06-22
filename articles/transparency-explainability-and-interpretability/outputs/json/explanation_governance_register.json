@@ -1,0 +1,32 @@
+[
+  {
+    "item": "audience_definition",
+    "review_question": "Who needs the explanation and what action must it support?",
+    "status": "required"
+  },
+  {
+    "item": "faithfulness_testing",
+    "review_question": "Does the explanation accurately reflect system behavior?",
+    "status": "required"
+  },
+  {
+    "item": "uncertainty_communication",
+    "review_question": "Does the explanation communicate confidence, limits, and unsupported use?",
+    "status": "required"
+  },
+  {
+    "item": "documentation",
+    "review_question": "Are data, model, evaluation, limits, versions, and governance documented?",
+    "status": "required"
+  },
+  {
+    "item": "contestability",
+    "review_question": "Can affected people challenge, correct, and appeal outcomes?",
+    "status": "required"
+  },
+  {
+    "item": "remediation",
+    "review_question": "Do explanations connect to correction, remedy, and recurrence prevention?",
+    "status": "required"
+  }
+]

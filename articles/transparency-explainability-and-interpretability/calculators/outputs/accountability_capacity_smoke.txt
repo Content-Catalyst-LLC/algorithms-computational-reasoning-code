@@ -1,0 +1,1 @@
+accountability_capacity_score=0.587500

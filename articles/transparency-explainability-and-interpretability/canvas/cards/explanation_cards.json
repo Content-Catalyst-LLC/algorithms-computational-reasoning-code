@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "explanation_has_an_audience",
+    "title": "Explanation Has an Audience",
+    "prompt": "Ask who needs the explanation, what action it must support, and what evidence the audience needs."
+  },
+  {
+    "card_id": "explanations_must_be_faithful",
+    "title": "Explanations Must Be Faithful",
+    "prompt": "Review whether the explanation reflects actual system behavior or merely sounds plausible."
+  },
+  {
+    "card_id": "understanding_must_lead_to_action",
+    "title": "Understanding Must Lead to Action",
+    "prompt": "Connect reasons, documentation, and uncertainty to contestability, correction, appeal, and repair."
+  }
+]

@@ -1,0 +1,10 @@
+item,description,review_question
+audience_definition,Identification of who needs the explanation and why,Who needs this explanation and what action must it support?
+faithfulness,Whether explanation reflects actual system behavior,Does the explanation describe the model or only sound plausible?
+stability,Whether similar cases receive similar explanations,Do explanations change unpredictably across nearby cases?
+understandability,Whether the intended audience can understand the explanation,Is the explanation usable by its audience?
+actionability,Whether explanation supports correction review or recourse,Can someone act on the explanation?
+uncertainty_communication,Whether confidence limits and unsupported uses are disclosed,Does the explanation prevent false certainty?
+documentation_completeness,Whether data model evaluation limits and versions are documented,Can reviewers reconstruct the system?
+contestability,Whether people can challenge correct and appeal outcomes,Does understanding lead to a path for action?
+governance_readiness,Whether ownership monitoring escalation and remediation are defined,Who is responsible when explanation reveals a problem?

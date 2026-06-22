@@ -1,0 +1,20 @@
+{
+  "title": "Transparency, Explainability, and Interpretability",
+  "slug": "transparency-explainability-and-interpretability",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithmic-bias-data-and-institutional-history",
+  "next": "metrics-feedback-and-algorithmic-failure",
+  "repo_folder": "articles/transparency-explainability-and-interpretability",
+  "topics": [
+    "transparency",
+    "explainability",
+    "interpretability",
+    "model documentation",
+    "feature attribution",
+    "counterfactual explanation",
+    "uncertainty communication",
+    "contestability",
+    "auditability",
+    "algorithmic governance"
+  ]
+}
