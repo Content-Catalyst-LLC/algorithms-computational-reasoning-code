@@ -1,0 +1,20 @@
+{
+  "title": "Geography, Coordinates, and Computational Mapping in the Islamic World",
+  "slug": "geography-coordinates-and-computational-mapping-in-the-islamic-world",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "astronomical-tables-calendars-and-algorithmic-prediction",
+  "next": "al-kindi-cryptanalysis-and-statistical-reasoning",
+  "repo_folder": "articles/geography-coordinates-and-computational-mapping-in-the-islamic-world",
+  "topics": [
+    "geography",
+    "coordinates",
+    "computational mapping",
+    "Islamic-world cartography",
+    "al-Khw\u0101rizm\u012b geography",
+    "al-Idr\u012bs\u012b cartography",
+    "route networks",
+    "qibla calculation",
+    "spatial data",
+    "algorithmic reasoning"
+  ]
+}

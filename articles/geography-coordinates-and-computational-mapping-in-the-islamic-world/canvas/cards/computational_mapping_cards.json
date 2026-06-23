@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "map_is_constructed",
+    "title": "Map Is Constructed",
+    "prompt": "Identify projection, scale, orientation, selection, omission, and purpose."
+  },
+  {
+    "card_id": "place_becomes_data",
+    "title": "Place Becomes Data",
+    "prompt": "Track how a place name becomes a coordinate record, route node, or regional category."
+  },
+  {
+    "card_id": "routes_are_networks",
+    "title": "Routes Are Networks",
+    "prompt": "Read routes as ordered paths through nodes, edges, distances, and constraints."
+  }
+]

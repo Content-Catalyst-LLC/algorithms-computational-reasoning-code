@@ -1,0 +1,2 @@
+segments=3
+total_distance=39.500000

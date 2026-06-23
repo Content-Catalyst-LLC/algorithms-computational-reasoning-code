@@ -1,0 +1,11 @@
+args <- commandArgs(trailingOnly = TRUE)
+spatial_representation <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.98)
+coordinate_structure <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.98)
+procedural_clarity <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.88)
+institutional_use <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.86)
+correction_awareness <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.90)
+transmission_importance <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.90)
+modern_resonance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.96)
+
+score <- mean(c(spatial_representation, coordinate_structure, procedural_clarity, institutional_use, correction_awareness, transmission_importance, modern_resonance))
+cat(sprintf("mapping_score=%.6f\n", score))

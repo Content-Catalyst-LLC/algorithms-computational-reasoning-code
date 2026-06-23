@@ -1,0 +1,86 @@
+[
+  {
+    "coordinate_structure": 0.98,
+    "correction_awareness": 0.9,
+    "institutional_use": 0.86,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.922857,
+    "modern_resonance": 0.96,
+    "procedural_clarity": 0.88,
+    "spatial_representation": 0.98,
+    "theme_id": "coordinates_as_spatial_data",
+    "transmission_importance": 0.9
+  },
+  {
+    "coordinate_structure": 0.96,
+    "correction_awareness": 0.92,
+    "institutional_use": 0.84,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.917143,
+    "modern_resonance": 0.94,
+    "procedural_clarity": 0.88,
+    "spatial_representation": 0.94,
+    "theme_id": "al_khwarizmi_geographical_tables",
+    "transmission_importance": 0.94
+  },
+  {
+    "coordinate_structure": 0.78,
+    "correction_awareness": 0.82,
+    "institutional_use": 0.94,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.882857,
+    "modern_resonance": 0.94,
+    "procedural_clarity": 0.92,
+    "spatial_representation": 0.9,
+    "theme_id": "routes_as_network_reasoning",
+    "transmission_importance": 0.88
+  },
+  {
+    "coordinate_structure": 0.84,
+    "correction_awareness": 0.82,
+    "institutional_use": 0.88,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.865714,
+    "modern_resonance": 0.9,
+    "procedural_clarity": 0.86,
+    "spatial_representation": 0.88,
+    "theme_id": "climates_and_regional_classification",
+    "transmission_importance": 0.88
+  },
+  {
+    "coordinate_structure": 0.84,
+    "correction_awareness": 0.88,
+    "institutional_use": 0.9,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.902857,
+    "modern_resonance": 0.92,
+    "procedural_clarity": 0.88,
+    "spatial_representation": 0.96,
+    "theme_id": "al_idrisi_cartographic_synthesis",
+    "transmission_importance": 0.94
+  },
+  {
+    "coordinate_structure": 0.88,
+    "correction_awareness": 0.86,
+    "institutional_use": 0.96,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.908571,
+    "modern_resonance": 0.94,
+    "procedural_clarity": 0.94,
+    "spatial_representation": 0.9,
+    "theme_id": "qibla_and_directional_calculation",
+    "transmission_importance": 0.88
+  },
+  {
+    "coordinate_structure": 0.9,
+    "correction_awareness": 0.9,
+    "institutional_use": 0.86,
+    "interpretive_status": "core_computational_mapping_thread",
+    "mapping_score": 0.894286,
+    "modern_resonance": 0.96,
+    "procedural_clarity": 0.86,
+    "spatial_representation": 0.94,
+    "theme_id": "projection_scale_and_map_choice",
+    "transmission_importance": 0.84
+  }
+]

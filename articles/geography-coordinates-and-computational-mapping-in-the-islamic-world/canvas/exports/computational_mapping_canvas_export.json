@@ -1,0 +1,19 @@
+{
+  "article": "geography-coordinates-and-computational-mapping-in-the-islamic-world",
+  "canvas_cards": [
+    "Map Is Constructed",
+    "Place Becomes Data",
+    "Routes Are Networks"
+  ],
+  "interpretive_layers": [
+    "coordinates_as_spatial_data",
+    "al_khwarizmi_geographical_tables",
+    "routes_as_network_reasoning",
+    "climates_and_regional_classification",
+    "al_idrisi_cartographic_synthesis",
+    "qibla_and_directional_calculation",
+    "projection_scale_and_map_choice",
+    "map_transmission_and_correction",
+    "origin_story_caution"
+  ]
+}

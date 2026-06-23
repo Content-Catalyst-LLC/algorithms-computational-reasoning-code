@@ -1,0 +1,10 @@
+item,description,review_question
+coordinates_as_spatial_data,Place names and latitude-longitude pairs as structured spatial records,How does place become data?
+al_khwarizmi_geographical_tables,Geographic coordinates inherited corrected and organized into tabular form,How do coordinate lists support mapping?
+routes_as_network_reasoning,Routes stages distances and hazards as network structures,How does travel become a graph?
+climates_and_regional_classification,Climate zones regions and spatial categories as classification layers,How is space grouped and indexed?
+al_idrisi_cartographic_synthesis,Textual reports maps routes and learned geography synthesized into mapmaking,How does cartography reconcile many sources?
+qibla_and_directional_calculation,Local position transformed into orientation toward a reference place,How does location become direction?
+projection_scale_and_map_choice,Mapmaking decisions about scale projection orientation and omission,How does representation transform the earth?
+map_transmission_and_correction,Copying redrawing translating and correcting geographic records,How is spatial data maintained over time?
+origin_story_caution,Avoid treating maps as mirrors or modern GIS,How can computational mapping be interpreted carefully?

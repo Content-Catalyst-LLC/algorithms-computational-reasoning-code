@@ -1,0 +1,53 @@
+{
+  "article": "geography-coordinates-and-computational-mapping-in-the-islamic-world",
+  "calculators": [
+    {
+      "name": "coordinate_record_calculator",
+      "language": "python",
+      "path": "calculators/python/coordinate_record_calculator.py",
+      "purpose": "Create a structured synthetic coordinate record."
+    },
+    {
+      "name": "approx_coordinate_distance_calculator",
+      "language": "python",
+      "path": "calculators/python/approx_coordinate_distance_calculator.py",
+      "purpose": "Approximate distance between nearby coordinates."
+    },
+    {
+      "name": "route_distance_calculator",
+      "language": "python",
+      "path": "calculators/python/route_distance_calculator.py",
+      "purpose": "Sum route segment distances."
+    },
+    {
+      "name": "bearing_calculator",
+      "language": "python",
+      "path": "calculators/python/bearing_calculator.py",
+      "purpose": "Compute approximate bearing."
+    },
+    {
+      "name": "climate_band_classifier",
+      "language": "python",
+      "path": "calculators/python/climate_band_classifier.py",
+      "purpose": "Classify a synthetic climate band from latitude."
+    },
+    {
+      "name": "projection_scale_calculator",
+      "language": "python",
+      "path": "calculators/python/projection_scale_calculator.py",
+      "purpose": "Convert real distance to map distance by scale."
+    },
+    {
+      "name": "mapping_score_calculator",
+      "language": "python",
+      "path": "calculators/python/mapping_score_calculator.py",
+      "purpose": "Compute mapping score."
+    },
+    {
+      "name": "mapping_score",
+      "language": "r",
+      "path": "calculators/r/mapping_score.R",
+      "purpose": "Compute mapping score in R."
+    }
+  ]
+}

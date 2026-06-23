@@ -1,0 +1,1 @@
+climate_band=subtropical_mid_latitude
