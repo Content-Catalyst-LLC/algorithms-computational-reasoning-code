@@ -1,0 +1,21 @@
+{
+  "article": "john-von-neumann-and-the-architecture-of-modern-computing",
+  "canvas_cards": [
+    "Stored Program",
+    "Program as Data",
+    "Fetch-Execute Cycle",
+    "von Neumann Bottleneck",
+    "Credit Context"
+  ],
+  "interpretive_layers": [
+    "stored_program_concept",
+    "edvac_architectural_vocabulary",
+    "memory_instructions_data",
+    "control_arithmetic_io",
+    "program_as_data",
+    "von_neumann_bottleneck",
+    "software_layer_legacy",
+    "credit_and_collaboration",
+    "ai_and_scientific_infrastructure"
+  ]
+}

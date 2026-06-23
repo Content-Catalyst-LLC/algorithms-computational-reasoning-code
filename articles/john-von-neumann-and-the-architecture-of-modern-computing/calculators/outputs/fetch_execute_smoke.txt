@@ -1,0 +1,2 @@
+accumulator=5
+trace=fetch pc=0 instruction=LOAD 2 | fetch pc=1 instruction=ADD 3 | fetch pc=2 instruction=STORE 0 | store address=0 value=5 | fetch pc=3 instruction=HALT | halt

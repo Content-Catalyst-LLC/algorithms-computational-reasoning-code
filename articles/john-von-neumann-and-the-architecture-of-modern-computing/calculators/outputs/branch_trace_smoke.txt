@@ -1,0 +1,2 @@
+steps=n=3: branch loop | n=2: branch loop | n=1: branch loop | n=0: exit
+loop_iterations=3

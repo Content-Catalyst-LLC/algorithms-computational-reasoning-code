@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "stored_program",
+    "title": "Stored Program",
+    "prompt": "Explain how stored instructions make software possible."
+  },
+  {
+    "card_id": "program_as_data",
+    "title": "Program as Data",
+    "prompt": "Map benefits and risks of treating instructions as stored symbolic objects."
+  },
+  {
+    "card_id": "fetch_execute",
+    "title": "Fetch-Execute Cycle",
+    "prompt": "Trace memory, control, arithmetic, and state update."
+  },
+  {
+    "card_id": "bottleneck",
+    "title": "von Neumann Bottleneck",
+    "prompt": "Identify how memory movement constrains computation."
+  },
+  {
+    "card_id": "credit_context",
+    "title": "Credit Context",
+    "prompt": "Frame von Neumann architecture as synthesis and dissemination within collaborative computing history."
+  }
+]

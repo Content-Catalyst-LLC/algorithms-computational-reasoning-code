@@ -1,0 +1,10 @@
+ai_infrastructure,architecture_score,bottleneck_awareness,collaboration_context,control_structure,governance_caution,implementation_influence,interpretive_status,memory_organization,program_as_data,software_relevance,stored_program,theme_id
+0.9,0.926,0.82,0.86,0.94,0.88,0.96,core_von_neumann_architecture_thread,0.96,0.98,0.98,0.98,stored_program_concept
+0.84,0.91,0.8,0.92,0.94,0.88,0.96,core_von_neumann_architecture_thread,0.94,0.94,0.92,0.96,edvac_architectural_vocabulary
+0.94,0.934,0.92,0.82,0.88,0.92,0.94,core_von_neumann_architecture_thread,0.98,0.98,0.98,0.98,memory_instructions_data
+0.9,0.902,0.86,0.82,0.98,0.86,0.96,core_von_neumann_architecture_thread,0.9,0.88,0.94,0.92,control_arithmetic_io
+0.92,0.924,0.84,0.8,0.9,0.96,0.94,core_von_neumann_architecture_thread,0.96,0.98,0.98,0.96,program_as_data
+0.98,0.904,0.98,0.76,0.88,0.88,0.94,core_von_neumann_architecture_thread,0.98,0.84,0.94,0.86,von_neumann_bottleneck
+0.92,0.918,0.84,0.8,0.94,0.92,0.94,core_von_neumann_architecture_thread,0.92,0.98,0.98,0.94,software_layer_legacy
+0.8,0.854,0.76,0.98,0.8,0.96,0.9,core_von_neumann_architecture_thread,0.82,0.82,0.84,0.86,credit_and_collaboration
+0.98,0.926,0.96,0.82,0.9,0.96,0.94,core_von_neumann_architecture_thread,0.94,0.92,0.96,0.88,ai_and_scientific_infrastructure

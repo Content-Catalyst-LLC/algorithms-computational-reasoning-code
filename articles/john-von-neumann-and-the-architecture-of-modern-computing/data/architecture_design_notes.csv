@@ -1,0 +1,10 @@
+item,description,review_question
+stored_program_concept,Instructions are stored internally and fetched for execution,How does stored instruction make software possible?
+edvac_architectural_vocabulary,The EDVAC draft organized memory arithmetic control input and output,How did architecture become transferable vocabulary?
+memory_instructions_data,Instructions and data share symbolic storage,How does memory become the medium of procedure?
+control_arithmetic_io,Control sequences operations while arithmetic performs transformations,What component does what?
+program_as_data,Programs can be copied interpreted compiled generated and attacked,What are the benefits and risks?
+von_neumann_bottleneck,Data and instruction movement constrain performance,Where does architecture limit computation?
+software_layer_legacy,Compilers operating systems and virtual machines depend on stored programs,How do software layers sit on architecture?
+credit_and_collaboration,Stored-program history is collaborative and institutionally distributed,How should credit be framed?
+ai_and_scientific_infrastructure,Simulation and AI depend on memory control compute and data movement,How does infrastructure shape knowledge?

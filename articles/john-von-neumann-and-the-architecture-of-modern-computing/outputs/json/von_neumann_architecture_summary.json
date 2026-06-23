@@ -1,0 +1,11 @@
+{
+  "article": "john_von_neumann_and_the_architecture_of_modern_computing",
+  "cautions": 5,
+  "core_threads": 9,
+  "interpretation": "von Neumann should be studied as an architectural synthesizer of stored-program computing, shared memory, control, software layers, bottlenecks, and institutional computing.",
+  "major_threads": 0,
+  "mean_architecture_score": 0.910889,
+  "supporting_threads": 0,
+  "themes_reviewed": 9,
+  "timestamp_utc": "2026-06-23T09:50:07.305961+00:00"
+}

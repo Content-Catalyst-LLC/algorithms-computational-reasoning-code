@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VonNeumannArchitectureTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "architecture_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "stored_program": {
+      "type": "number"
+    },
+    "memory_organization": {
+      "type": "number"
+    },
+    "control_structure": {
+      "type": "number"
+    },
+    "program_as_data": {
+      "type": "number"
+    },
+    "implementation_influence": {
+      "type": "number"
+    },
+    "bottleneck_awareness": {
+      "type": "number"
+    },
+    "collaboration_context": {
+      "type": "number"
+    },
+    "software_relevance": {
+      "type": "number"
+    },
+    "ai_infrastructure": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "architecture_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "article": "john-von-neumann-and-the-architecture-of-modern-computing",
+  "safety_scope": "Educational architecture calculators only; not hardware benchmarking tools.",
+  "calculators": [
+    {
+      "name": "architecture_score_calculator",
+      "language": "python",
+      "path": "calculators/python/architecture_score_calculator.py",
+      "purpose": "Compute architecture score."
+    },
+    {
+      "name": "fetch_execute_cycle",
+      "language": "python",
+      "path": "calculators/python/fetch_execute_cycle.py",
+      "purpose": "Simulate a tiny fetch-execute trace."
+    },
+    {
+      "name": "memory_bandwidth_calculator",
+      "language": "python",
+      "path": "calculators/python/memory_bandwidth_calculator.py",
+      "purpose": "Estimate data movement time."
+    },
+    {
+      "name": "bottleneck_calculator",
+      "language": "python",
+      "path": "calculators/python/bottleneck_calculator.py",
+      "purpose": "Compare compute and memory constraints."
+    },
+    {
+      "name": "program_as_data_classifier",
+      "language": "python",
+      "path": "calculators/python/program_as_data_classifier.py",
+      "purpose": "Classify program-as-data benefits and risks."
+    },
+    {
+      "name": "branch_trace_calculator",
+      "language": "python",
+      "path": "calculators/python/branch_trace_calculator.py",
+      "purpose": "Trace simple branching and loops."
+    },
+    {
+      "name": "locality_score_calculator",
+      "language": "python",
+      "path": "calculators/python/locality_score_calculator.py",
+      "purpose": "Estimate locality from repeated addresses."
+    },
+    {
+      "name": "architecture_governance_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/architecture_governance_caution_calculator.py",
+      "purpose": "Flag architecture governance risks."
+    },
+    {
+      "name": "architecture_score",
+      "language": "r",
+      "path": "calculators/r/architecture_score.R",
+      "purpose": "Compute architecture score in R."
+    }
+  ]
+}

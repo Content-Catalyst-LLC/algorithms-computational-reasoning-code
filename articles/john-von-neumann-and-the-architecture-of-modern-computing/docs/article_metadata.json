@@ -1,0 +1,27 @@
+{
+  "title": "John von Neumann and the Architecture of Modern Computing",
+  "slug": "john-von-neumann-and-the-architecture-of-modern-computing",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "alonzo-church-lambda-calculus-and-formal-computation",
+  "next": "claude-shannon-information-theory-and-digital-communication",
+  "repo_folder": "articles/john-von-neumann-and-the-architecture-of-modern-computing",
+  "topics": [
+    "John von Neumann",
+    "stored-program architecture",
+    "modern computing",
+    "EDVAC",
+    "ENIAC",
+    "IAS machine",
+    "memory",
+    "instructions",
+    "data",
+    "control unit",
+    "arithmetic unit",
+    "input output",
+    "program as data",
+    "von Neumann bottleneck",
+    "computer architecture",
+    "AI infrastructure"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scoring models are not hardware performance proofs."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_tell_a_lone_inventor_story",
+    "meaning": "Stored-program computing emerged through collaborative work and institutional networks."
+  },
+  {
+    "caution": "do_not_confuse_architecture_with_implementation",
+    "meaning": "Architecture describes organization; implementation realizes it materially."
+  },
+  {
+    "caution": "do_not_ignore_the_bottleneck",
+    "meaning": "Data movement and memory bandwidth shape performance."
+  },
+  {
+    "caution": "do_not_treat_program_as_data_as_only_a_benefit",
+    "meaning": "Program-as-data enables software power and security risk."
+  },
+  {
+    "caution": "do_not_reduce_modern_computing_to_one_architecture",
+    "meaning": "Modern systems extend, modify, and work around the von Neumann model."
+  }
+]
