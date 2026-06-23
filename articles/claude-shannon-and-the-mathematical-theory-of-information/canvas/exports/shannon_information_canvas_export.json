@@ -1,0 +1,21 @@
+{
+  "article": "claude-shannon-and-the-mathematical-theory-of-information",
+  "canvas_cards": [
+    "Information as Uncertainty",
+    "Entropy",
+    "Coding",
+    "Channel Capacity",
+    "Semantic Boundary"
+  ],
+  "interpretive_layers": [
+    "information_as_uncertainty",
+    "entropy_and_source_modeling",
+    "source_coding_and_compression",
+    "noisy_channel_capacity",
+    "error_correction_reliability",
+    "cryptography_and_secrecy",
+    "digital_logic_and_bits",
+    "ai_data_systems_and_governance",
+    "semantic_boundary"
+  ]
+}

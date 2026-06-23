@@ -1,0 +1,28 @@
+{
+  "title": "Claude Shannon and the Mathematical Theory of Information",
+  "slug": "claude-shannon-and-the-mathematical-theory-of-information",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "john-von-neumann-and-the-architecture-of-modern-computing",
+  "next": "norbert-wiener-cybernetics-and-feedback-systems",
+  "repo_folder": "articles/claude-shannon-and-the-mathematical-theory-of-information",
+  "topics": [
+    "Claude Shannon",
+    "information theory",
+    "mathematical theory of communication",
+    "entropy",
+    "uncertainty",
+    "bits",
+    "source coding",
+    "channel coding",
+    "channel capacity",
+    "noise",
+    "redundancy",
+    "compression",
+    "error correction",
+    "cryptography",
+    "digital circuits",
+    "AI infrastructure",
+    "information governance"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scores are not communication-system proofs or engineering specifications."
+}

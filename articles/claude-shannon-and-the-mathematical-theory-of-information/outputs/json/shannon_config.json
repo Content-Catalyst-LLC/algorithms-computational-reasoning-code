@@ -1,0 +1,5 @@
+{
+  "article": "claude_shannon_and_the_mathematical_theory_of_information",
+  "core_threshold": 0.8,
+  "high_entropy_threshold": 0.86
+}

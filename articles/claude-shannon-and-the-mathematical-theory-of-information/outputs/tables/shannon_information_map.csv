@@ -1,0 +1,9 @@
+ai_relevance,channel_capacity,coding_relevance,computation_relevance,cryptography_relevance,entropy_centrality,governance_caution,information_score,interpretive_status,noise_awareness,redundancy_design,semantic_boundary,theme_id
+0.92,0.84,0.88,0.96,0.86,0.98,0.94,0.912,core_shannon_information_thread,0.86,0.9,0.98,information_as_uncertainty
+0.96,0.82,0.96,0.96,0.82,0.98,0.9,0.912,core_shannon_information_thread,0.84,0.96,0.92,entropy_and_source_modeling
+0.9,0.8,0.98,0.98,0.78,0.94,0.88,0.89,core_shannon_information_thread,0.78,0.98,0.88,source_coding_and_compression
+0.88,0.98,0.98,0.96,0.82,0.92,0.92,0.926,core_shannon_information_thread,0.98,0.96,0.86,noisy_channel_capacity
+0.88,0.94,0.98,0.96,0.8,0.86,0.92,0.912,core_shannon_information_thread,0.98,0.98,0.82,error_correction_reliability
+0.84,0.76,0.84,0.92,0.98,0.88,0.96,0.878,core_shannon_information_thread,0.82,0.9,0.88,cryptography_and_secrecy
+0.86,0.76,0.9,0.98,0.82,0.88,0.86,0.852,core_shannon_information_thread,0.78,0.82,0.86,digital_logic_and_bits
+0.98,0.84,0.92,0.98,0.88,0.9,0.98,0.932,core_shannon_information_thread,0.94,0.92,0.98,ai_data_systems_and_governance

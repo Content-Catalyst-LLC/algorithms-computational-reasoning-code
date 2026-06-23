@@ -1,0 +1,2 @@
+redundancy_overhead_bits=250.000000
+code_rate=0.800000000

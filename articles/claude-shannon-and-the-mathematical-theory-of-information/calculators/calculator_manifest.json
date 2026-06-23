@@ -1,0 +1,60 @@
+{
+  "article": "claude-shannon-and-the-mathematical-theory-of-information",
+  "safety_scope": "Educational information-theory calculators only; not engineering guarantees.",
+  "calculators": [
+    {
+      "name": "entropy_calculator",
+      "language": "python",
+      "path": "calculators/python/entropy_calculator.py",
+      "purpose": "Compute entropy from probabilities."
+    },
+    {
+      "name": "information_content_calculator",
+      "language": "python",
+      "path": "calculators/python/information_content_calculator.py",
+      "purpose": "Compute self-information."
+    },
+    {
+      "name": "mutual_information_2x2_calculator",
+      "language": "python",
+      "path": "calculators/python/mutual_information_2x2_calculator.py",
+      "purpose": "Compute mutual information for 2x2 joint distribution."
+    },
+    {
+      "name": "channel_capacity_awgn_calculator",
+      "language": "python",
+      "path": "calculators/python/channel_capacity_awgn_calculator.py",
+      "purpose": "Compute idealized Gaussian channel capacity."
+    },
+    {
+      "name": "compression_bound_calculator",
+      "language": "python",
+      "path": "calculators/python/compression_bound_calculator.py",
+      "purpose": "Estimate entropy lower bound for compression."
+    },
+    {
+      "name": "redundancy_calculator",
+      "language": "python",
+      "path": "calculators/python/redundancy_calculator.py",
+      "purpose": "Compare max entropy and observed entropy."
+    },
+    {
+      "name": "error_correction_overhead_calculator",
+      "language": "python",
+      "path": "calculators/python/error_correction_overhead_calculator.py",
+      "purpose": "Estimate redundancy overhead."
+    },
+    {
+      "name": "semantic_boundary_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/semantic_boundary_caution_calculator.py",
+      "purpose": "Flag Shannon information overclaims."
+    },
+    {
+      "name": "entropy_calculator",
+      "language": "r",
+      "path": "calculators/r/entropy_calculator.R",
+      "purpose": "Compute entropy in R."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+entropy_bits_per_symbol=1.500000000
+lower_bound_bits_for_sequence=1500.000000

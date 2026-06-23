@@ -1,0 +1,10 @@
+item,description,review_question
+information_as_uncertainty,Information is measured through probability surprise and uncertainty reduction,How does probability make information measurable?
+entropy_and_source_modeling,Entropy gives expected information from a source,What is the source distribution?
+source_coding_and_compression,Redundancy can be removed for efficient representation,What is the compression limit?
+noisy_channel_capacity,Noisy channels have maximum reliable communication rates,What assumptions define the channel?
+error_correction_reliability,Structured redundancy detects and corrects errors,What redundancy supports reliability?
+cryptography_and_secrecy,Secrecy can be analyzed through uncertainty and information leakage,What does ciphertext reveal?
+digital_logic_and_bits,Binary switching and bits connect logic circuits and information,How do distinctions become computation?
+ai_data_systems_and_governance,AI systems depend on encoding uncertainty transmission and interpretation,What information is collected transmitted transformed and acted on?
+semantic_boundary,Shannon information is not meaning truth or wisdom,Where must human judgment enter?

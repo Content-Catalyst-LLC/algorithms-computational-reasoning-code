@@ -1,0 +1,11 @@
+{
+  "article": "claude_shannon_and_the_mathematical_theory_of_information",
+  "cautions": 5,
+  "core_threads": 8,
+  "interpretation": "Shannon should be studied as the architect of mathematical information theory: entropy, coding, capacity, noise, redundancy, reliability, and semantic boundaries.",
+  "major_threads": 0,
+  "mean_information_score": 0.90175,
+  "supporting_threads": 0,
+  "themes_reviewed": 8,
+  "timestamp_utc": "2026-06-23T10:02:39.036879+00:00"
+}

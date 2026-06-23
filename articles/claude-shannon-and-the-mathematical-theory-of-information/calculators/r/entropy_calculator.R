@@ -1,0 +1,6 @@
+args <- commandArgs(trailingOnly = TRUE)
+prob_string <- ifelse(length(args) >= 1, args[1], "0.5,0.5")
+probabilities <- as.numeric(strsplit(prob_string, ",")[[1]])
+probabilities <- probabilities / sum(probabilities)
+entropy <- -sum(ifelse(probabilities > 0, probabilities * log2(probabilities), 0))
+cat(sprintf("entropy_bits=%.9f\n", entropy))

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_confuse_information_with_meaning",
+    "meaning": "Shannon information measures uncertainty, not semantic truth or importance."
+  },
+  {
+    "caution": "do_not_treat_entropy_as_wisdom",
+    "meaning": "High entropy can describe randomness as well as useful surprise."
+  },
+  {
+    "caution": "do_not_ignore_channel_assumptions",
+    "meaning": "Capacity depends on the channel model and noise assumptions."
+  },
+  {
+    "caution": "do_not_treat_redundancy_as_only_waste",
+    "meaning": "Redundancy can support reliability and error correction."
+  },
+  {
+    "caution": "do_not_apply_information_theory_as_total_governance",
+    "meaning": "Information-theoretic measures must be paired with ethics, context, and accountability."
+  }
+]

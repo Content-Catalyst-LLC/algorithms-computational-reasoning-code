@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ShannonInformationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "information_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "entropy_centrality": {
+      "type": "number"
+    },
+    "coding_relevance": {
+      "type": "number"
+    },
+    "channel_capacity": {
+      "type": "number"
+    },
+    "noise_awareness": {
+      "type": "number"
+    },
+    "redundancy_design": {
+      "type": "number"
+    },
+    "computation_relevance": {
+      "type": "number"
+    },
+    "cryptography_relevance": {
+      "type": "number"
+    },
+    "ai_relevance": {
+      "type": "number"
+    },
+    "semantic_boundary": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "information_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

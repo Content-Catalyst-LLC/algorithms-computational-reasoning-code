@@ -1,0 +1,1 @@
+capacity_bits_per_second=3459431.618637

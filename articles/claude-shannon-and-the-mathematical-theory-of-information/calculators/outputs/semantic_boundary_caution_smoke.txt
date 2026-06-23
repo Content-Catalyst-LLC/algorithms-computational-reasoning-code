@@ -1,0 +1,2 @@
+semantic_boundary_risk=true
+matched_terms=entropy proves meaning,high information means wisdom

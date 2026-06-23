@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "information_uncertainty",
+    "title": "Information as Uncertainty",
+    "prompt": "Explain Shannon information as uncertainty reduction, not ordinary meaning."
+  },
+  {
+    "card_id": "entropy",
+    "title": "Entropy",
+    "prompt": "Compute expected information for a simple source distribution."
+  },
+  {
+    "card_id": "coding",
+    "title": "Coding",
+    "prompt": "Distinguish source coding, compression, channel coding, and error correction."
+  },
+  {
+    "card_id": "capacity",
+    "title": "Channel Capacity",
+    "prompt": "Identify how noise and bandwidth constrain reliable transmission."
+  },
+  {
+    "card_id": "semantic_boundary",
+    "title": "Semantic Boundary",
+    "prompt": "Separate information-theoretic measures from truth, meaning, ethics, and responsible action."
+  }
+]

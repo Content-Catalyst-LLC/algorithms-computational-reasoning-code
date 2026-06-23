@@ -1,0 +1,1 @@
+mutual_information_bits=0.278071905

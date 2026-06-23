@@ -1,0 +1,3 @@
+max_entropy_bits=2.000000000
+redundancy_bits=0.500000000
+relative_redundancy=0.250000000
