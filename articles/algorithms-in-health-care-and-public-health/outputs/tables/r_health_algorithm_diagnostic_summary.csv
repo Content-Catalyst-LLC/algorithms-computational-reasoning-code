@@ -1,0 +1,2 @@
+"systems_reviewed","systems_requiring_redesign","systems_requiring_clinical_safety_review","systems_requiring_public_health_review","systems_requiring_equity_review","mean_health_algorithm_risk_score","mean_governance_readiness_score","mean_impact_score","governance_controls","diagnostic_note"
+4,0,2,1,1,0.44491,0.657857,0.7125,7,"Health algorithm governance should connect patient impact, population impact, clinical validation, equity readiness, privacy readiness, human review, workflow integration, monitoring, audit trails, and stop authority."

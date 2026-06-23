@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HealthAlgorithmAudit",
+  "type": "object",
+  "required": [
+    "system_id",
+    "impact_score",
+    "governance_readiness_score",
+    "health_algorithm_risk_score",
+    "recommendation"
+  ],
+  "properties": {
+    "system_id": {
+      "type": "string"
+    },
+    "impact_score": {
+      "type": "number"
+    },
+    "governance_readiness_score": {
+      "type": "number"
+    },
+    "health_algorithm_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

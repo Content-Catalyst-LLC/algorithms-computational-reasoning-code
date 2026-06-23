@@ -1,0 +1,5 @@
+clinical_validation,equity_readiness,governance,human_review,monitoring,patient_impact,population_impact,privacy_readiness,system_id,workflow_integration
+0.7,0.58,0.6,0.66,0.64,0.92,0.54,0.72,sepsis_alert_model,0.62
+0.78,0.62,0.68,0.74,0.7,0.88,0.42,0.76,radiology_triage_classifier,0.68
+0.66,0.64,0.7,0.72,0.82,0.48,0.92,0.56,public_health_outbreak_detector,0.74
+0.62,0.5,0.56,0.6,0.54,0.78,0.76,0.7,care_management_risk_list,0.58

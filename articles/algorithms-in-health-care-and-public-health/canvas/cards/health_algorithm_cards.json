@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "prediction_is_not_care",
+    "title": "Prediction Is Not Care",
+    "prompt": "Ask what action follows the output, who performs it, and whether it improves patient or population outcomes."
+  },
+  {
+    "card_id": "the_record_is_not_the_patient",
+    "title": "The Record Is Not the Patient",
+    "prompt": "Review missingness, access barriers, documentation bias, and proxy labels before treating data as health reality."
+  },
+  {
+    "card_id": "health_algorithms_need_stop_rules",
+    "title": "Health Algorithms Need Stop Rules",
+    "prompt": "Check whether unsafe, inequitable, or clinically unhelpful systems can be paused, limited, rolled back, or retired."
+  }
+]

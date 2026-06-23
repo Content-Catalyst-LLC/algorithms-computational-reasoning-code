@@ -1,0 +1,3 @@
+impact_score=0.730000
+governance_readiness_score=0.645714
+health_algorithm_risk_score=0.451071

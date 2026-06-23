@@ -1,0 +1,5 @@
+clinical_validation,equity_readiness,governance,governance_readiness_score,health_algorithm_risk_score,human_review,impact_score,monitoring,patient_impact,population_impact,privacy_readiness,recommendation,system_id,workflow_integration
+0.7,0.58,0.6,0.645714,0.451071,0.66,0.73,0.64,0.92,0.54,0.72,clinical_safety_review_required,sepsis_alert_model,0.62
+0.78,0.62,0.68,0.708571,0.385357,0.74,0.65,0.7,0.88,0.42,0.76,clinical_safety_review_required,radiology_triage_classifier,0.68
+0.66,0.64,0.7,0.691429,0.427143,0.72,0.7,0.82,0.48,0.92,0.56,public_health_governance_review_required,public_health_outbreak_detector,0.74
+0.62,0.5,0.56,0.585714,0.516071,0.6,0.77,0.54,0.78,0.76,0.7,health_equity_review_required,care_management_risk_list,0.58

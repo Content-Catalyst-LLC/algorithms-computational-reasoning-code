@@ -1,0 +1,7 @@
+{
+  "article": "algorithms_in_health_care_and_public_health",
+  "high_health_risk_threshold": 0.7,
+  "high_patient_impact_threshold": 0.8,
+  "high_population_impact_threshold": 0.8,
+  "low_governance_threshold": 0.65
+}

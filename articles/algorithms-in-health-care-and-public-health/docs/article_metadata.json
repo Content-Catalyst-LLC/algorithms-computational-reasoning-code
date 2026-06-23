@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Health Care and Public Health",
+  "slug": "algorithms-in-health-care-and-public-health",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-finance-markets-and-risk",
+  "next": "algorithms-in-climate-energy-and-infrastructure",
+  "repo_folder": "articles/algorithms-in-health-care-and-public-health",
+  "topics": [
+    "health algorithms",
+    "clinical decision support",
+    "diagnostic models",
+    "triage algorithms",
+    "public health surveillance",
+    "health equity",
+    "clinical validation",
+    "privacy safeguards",
+    "health algorithm governance",
+    "patient safety"
+  ]
+}

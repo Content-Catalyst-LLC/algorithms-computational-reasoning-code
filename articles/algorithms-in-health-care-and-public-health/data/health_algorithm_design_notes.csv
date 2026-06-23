@@ -1,0 +1,9 @@
+item,description,review_question
+algorithm_inventory,Model owner purpose data setting workflow and decision role,Can the health system identify and govern the algorithm?
+clinical_validation,Performance calibration subgroup error external validation and clinical usefulness,Does the model safely support care in the intended setting?
+equity_review,Missingness proxy labels subgroup error access barriers and unequal burden,Does the system improve or worsen health equity?
+privacy_and_security_review,Data minimization access control security secondary use and reidentification risk,Are sensitive health data protected?
+human_review_protocol,Clinician review override escalation explanation and accountability,Can humans meaningfully govern the output?
+monitoring_and_drift_review,Outcomes drift alert fatigue overrides errors and harm,Is the system watched after deployment?
+stop_rule,Pause rollback limitation or retirement condition,Who can stop unsafe or inequitable use?
+workflow_review,Timing burden usability and actionability,Does the system fit care delivery?

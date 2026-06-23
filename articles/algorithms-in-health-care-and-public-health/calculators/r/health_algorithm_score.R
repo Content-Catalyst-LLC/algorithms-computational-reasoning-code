@@ -1,0 +1,18 @@
+args <- commandArgs(trailingOnly = TRUE)
+patient_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.92)
+population_impact <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.54)
+clinical_validation <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.70)
+equity_readiness <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.58)
+privacy_readiness <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.72)
+human_review <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.66)
+workflow_integration <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.62)
+monitoring <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.64)
+governance <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.60)
+
+impact <- mean(c(patient_impact, population_impact))
+governance_readiness <- mean(c(clinical_validation, equity_readiness, privacy_readiness, human_review, workflow_integration, monitoring, governance))
+health_algorithm_risk <- mean(c(impact, 1 - clinical_validation, 1 - equity_readiness, 1 - governance_readiness))
+
+cat(sprintf("impact_score=%.6f\n", impact))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("health_algorithm_risk_score=%.6f\n", health_algorithm_risk))

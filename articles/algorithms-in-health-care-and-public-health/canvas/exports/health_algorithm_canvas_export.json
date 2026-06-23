@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-health-care-and-public-health",
+  "canvas_cards": [
+    "Prediction Is Not Care",
+    "The Record Is Not the Patient",
+    "Health Algorithms Need Stop Rules"
+  ],
+  "governance_layers": [
+    "algorithm_inventory",
+    "clinical_validation",
+    "equity_review",
+    "privacy_and_security_review",
+    "human_review_protocol",
+    "monitoring_and_drift_review",
+    "stop_rule",
+    "workflow_review"
+  ]
+}

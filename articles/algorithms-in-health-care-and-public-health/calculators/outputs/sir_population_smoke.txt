@@ -1,0 +1,2 @@
+population=100000.000000
+infected_share=0.015000

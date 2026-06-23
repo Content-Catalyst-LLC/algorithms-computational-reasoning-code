@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-health-care-and-public-health",
+  "calculators": [
+    {
+      "name": "sensitivity_calculator",
+      "language": "python",
+      "path": "calculators/python/sensitivity_calculator.py",
+      "purpose": "Compute sensitivity."
+    },
+    {
+      "name": "specificity_calculator",
+      "language": "python",
+      "path": "calculators/python/specificity_calculator.py",
+      "purpose": "Compute specificity."
+    },
+    {
+      "name": "risk_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/risk_threshold_calculator.py",
+      "purpose": "Classify action from health risk threshold."
+    },
+    {
+      "name": "sir_population_calculator",
+      "language": "python",
+      "path": "calculators/python/sir_population_calculator.py",
+      "purpose": "Compute simple SIR population accounting."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute health algorithm governance readiness."
+    },
+    {
+      "name": "health_algorithm_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/health_algorithm_risk_calculator.py",
+      "purpose": "Compute health algorithm risk."
+    },
+    {
+      "name": "health_algorithm_score",
+      "language": "r",
+      "path": "calculators/r/health_algorithm_score.R",
+      "purpose": "Compute health algorithm indicators."
+    }
+  ]
+}

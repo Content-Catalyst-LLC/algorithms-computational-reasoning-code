@@ -1,0 +1,8 @@
+control,review_question,status
+algorithm_inventory,"Is the health algorithm recorded with owner, purpose, data, setting, and decision role?",required
+clinical_validation,"Has performance been validated for the intended population, setting, workflow, and use?",required
+equity_review,"Are subgroup performance, missingness, access barriers, and proxy labels reviewed?",required
+privacy_and_security_review,"Are data minimization, access controls, security, and secondary-use limits documented?",required
+human_review_protocol,"Are clinician review, override authority, escalation, and accountability defined?",required
+monitoring_and_drift_review,"Are outcomes, errors, alert fatigue, drift, overrides, and harms monitored?",required
+stop_rule,"Can the system be paused, limited, rolled back, or retired when unsafe?",required

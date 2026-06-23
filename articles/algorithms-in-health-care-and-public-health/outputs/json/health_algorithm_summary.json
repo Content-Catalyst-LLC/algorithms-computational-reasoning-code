@@ -1,0 +1,14 @@
+{
+  "article": "algorithms_in_health_care_and_public_health",
+  "governance_controls": 7,
+  "interpretation": "Health algorithm governance should connect patient impact, population impact, clinical validation, equity readiness, privacy readiness, human review, workflow integration, monitoring, audit trails, and stop authority.",
+  "mean_governance_readiness_score": 0.657857,
+  "mean_health_algorithm_risk_score": 0.44491,
+  "mean_impact_score": 0.7125,
+  "systems_requiring_clinical_safety_review": 2,
+  "systems_requiring_equity_review": 1,
+  "systems_requiring_public_health_review": 1,
+  "systems_requiring_redesign": 0,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-23T00:45:57.202420+00:00"
+}
