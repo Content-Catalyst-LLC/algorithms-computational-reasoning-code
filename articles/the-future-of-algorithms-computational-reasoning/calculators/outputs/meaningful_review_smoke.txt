@@ -1,0 +1,2 @@
+meaningful_review_score=0.760000
+symbolic_review_risk=0.240000

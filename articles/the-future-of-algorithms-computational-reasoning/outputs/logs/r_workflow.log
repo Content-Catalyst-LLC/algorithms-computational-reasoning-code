@@ -1,0 +1,12 @@
+null device 
+          1 
+null device 
+          1 
+  domains_reviewed high_risk_governance_gaps high_risk_requires_governance
+1               10                         5                             3
+  cautious_deployment_possible further_review_needed mean_risk_score
+1                            2                     0        0.870286
+  mean_readiness_score cautions
+1                0.712        5
+                                                                                                                                                       diagnostic_note
+1 Future algorithmic systems require technical capability, governance maturity, contestability, evidence discipline, human judgment, and institutional responsibility.

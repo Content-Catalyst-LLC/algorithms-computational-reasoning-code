@@ -1,0 +1,14 @@
+{
+  "article": "the_future_of_algorithms_computational_reasoning",
+  "cautions": 5,
+  "cautious_deployment_possible": 2,
+  "domains_reviewed": 10,
+  "further_review_needed": 0,
+  "high_risk_governance_gaps": 5,
+  "high_risk_requires_governance": 3,
+  "interpretation": "The future of algorithms depends on matching technical capability with governance maturity, contestability, evidence discipline, human judgment, and institutional responsibility.",
+  "mean_readiness_score": 0.712,
+  "mean_risk_score": 0.870286,
+  "no_go_cases": 3,
+  "timestamp_utc": "2026-06-23T22:20:10.760190+00:00"
+}

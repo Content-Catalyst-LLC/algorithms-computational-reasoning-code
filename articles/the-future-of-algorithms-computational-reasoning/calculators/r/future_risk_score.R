@@ -1,0 +1,11 @@
+args <- commandArgs(trailingOnly = TRUE)
+institutional_consequence <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.94)
+uncertainty <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.86)
+automation_level <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.94)
+opacity <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.88)
+contestability_need <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.94)
+human_judgment_requirement <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.98)
+failure_severity <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.92)
+
+score <- mean(c(institutional_consequence, uncertainty, automation_level, opacity, contestability_need, human_judgment_requirement, failure_severity))
+cat(sprintf("future_risk_score=%.6f\n", score))

@@ -1,0 +1,23 @@
+{
+  "article": "the-future-of-algorithms-computational-reasoning",
+  "series_status": "capstone",
+  "canvas_cards": [
+    "Capability vs Readiness",
+    "AI Agent Boundaries",
+    "Human Judgment",
+    "Contestability",
+    "No-Go Criteria"
+  ],
+  "future_domains": [
+    "ai_agents_and_tool_use",
+    "scientific_computing_and_simulation",
+    "public_policy_algorithmic_governance",
+    "platform_attention_systems",
+    "health_decision_support",
+    "climate_energy_infrastructure",
+    "education_learning_systems",
+    "labor_management_systems",
+    "ai_generated_code_and_software",
+    "knowledge_architecture_and_retrieval"
+  ]
+}

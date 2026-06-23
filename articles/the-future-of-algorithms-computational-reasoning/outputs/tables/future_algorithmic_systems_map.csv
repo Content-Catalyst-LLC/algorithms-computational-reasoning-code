@@ -1,0 +1,11 @@
+automation_level,contestability_need,deployment_readiness,domain_id,failure_severity,future_status,governance_maturity,human_judgment_requirement,institutional_consequence,opacity,readiness_score,risk_score,technical_capability,uncertainty
+0.94,0.94,0.56,ai_agents_and_tool_use,0.92,high_risk_governance_gap,0.58,0.98,0.94,0.88,0.686667,0.922857,0.92,0.86
+0.62,0.76,0.76,scientific_computing_and_simulation,0.82,cautious_deployment_possible,0.76,0.92,0.84,0.64,0.806667,0.782857,0.9,0.88
+0.78,0.98,0.5,public_policy_algorithmic_governance,0.98,high_risk_governance_gap,0.62,0.98,0.98,0.82,0.633333,0.917143,0.78,0.9
+0.96,0.92,0.52,platform_attention_systems,0.92,high_risk_governance_gap,0.54,0.9,0.96,0.9,0.666667,0.908571,0.94,0.8
+0.7,0.96,0.66,health_decision_support,0.99,high_risk_requires_strong_governance,0.72,0.99,0.98,0.76,0.746667,0.894286,0.86,0.88
+0.74,0.86,0.68,climate_energy_infrastructure,0.96,high_risk_requires_strong_governance,0.7,0.96,0.96,0.7,0.753333,0.874286,0.88,0.94
+0.78,0.9,0.58,education_learning_systems,0.86,high_risk_governance_gap,0.6,0.94,0.9,0.78,0.666667,0.854286,0.82,0.82
+0.88,0.96,0.52,labor_management_systems,0.94,high_risk_governance_gap,0.56,0.96,0.96,0.86,0.64,0.914286,0.84,0.84
+0.84,0.78,0.7,ai_generated_code_and_software,0.84,high_risk_requires_strong_governance,0.66,0.94,0.86,0.78,0.753333,0.834286,0.9,0.8
+0.76,0.82,0.72,knowledge_architecture_and_retrieval,0.78,cautious_deployment_possible,0.7,0.9,0.84,0.72,0.766667,0.8,0.88,0.78

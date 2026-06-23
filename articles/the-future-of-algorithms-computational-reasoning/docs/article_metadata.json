@@ -1,0 +1,33 @@
+{
+  "title": "The Future of Algorithms & Computational Reasoning",
+  "slug": "the-future-of-algorithms-computational-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "the-philosophy-of-algorithms",
+  "next": "series-complete",
+  "repo_folder": "articles/the-future-of-algorithms-computational-reasoning",
+  "series_status": "capstone",
+  "topics": [
+    "future of algorithms",
+    "computational reasoning",
+    "AI systems",
+    "AI agents",
+    "hybrid reasoning",
+    "scientific computing",
+    "simulation",
+    "optimization",
+    "uncertainty",
+    "algorithmic governance",
+    "contestability",
+    "audit trails",
+    "human judgment",
+    "public policy",
+    "platform governance",
+    "health algorithms",
+    "climate algorithms",
+    "education algorithms",
+    "labor algorithms",
+    "AI generated code",
+    "computational literacy"
+  ],
+  "use_note": "Educational conceptual and governance-oriented interpretation only; not legal advice, certification, compliance determination, or safety approval."
+}

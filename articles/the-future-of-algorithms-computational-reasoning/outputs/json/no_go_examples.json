@@ -1,0 +1,38 @@
+[
+  {
+    "case_id": "clean_low_stakes_tool",
+    "high_opacity": false,
+    "invalid_data": false,
+    "no_appeal": false,
+    "no_go": false,
+    "no_governance": false,
+    "poor_fit": false
+  },
+  {
+    "case_id": "opaque_high_stakes_decision",
+    "high_opacity": true,
+    "invalid_data": false,
+    "no_appeal": true,
+    "no_go": true,
+    "no_governance": true,
+    "poor_fit": false
+  },
+  {
+    "case_id": "invalid_data_prediction",
+    "high_opacity": false,
+    "invalid_data": true,
+    "no_appeal": false,
+    "no_go": true,
+    "no_governance": false,
+    "poor_fit": false
+  },
+  {
+    "case_id": "poorly_defined_target",
+    "high_opacity": false,
+    "invalid_data": false,
+    "no_appeal": false,
+    "no_go": true,
+    "no_governance": false,
+    "poor_fit": true
+  }
+]

@@ -1,0 +1,11 @@
+domain,description,review_question
+ai_agents_and_tool_use,Tool-using systems that plan and act across workflows,What permissions boundaries logs and rollback controls govern action?
+scientific_computing_and_simulation,Algorithms as instruments for modeling and evidence,What uncertainty validation and reproducibility practices are required?
+public_policy_algorithmic_governance,Algorithmic systems in public decision contexts,Can affected people understand contest and appeal outcomes?
+platform_attention_systems,Ranking recommendation moderation and engagement systems,What social behavior is shaped by metrics and feeds?
+health_decision_support,Clinical and public health algorithmic support,How are uncertainty safety and clinician judgment preserved?
+climate_energy_infrastructure,Simulation optimization and infrastructure planning,How are resilience uncertainty and equity represented?
+education_learning_systems,Tutoring analytics assessment and personalization,Does personalization support learning or narrow opportunity?
+labor_management_systems,Hiring scheduling performance and workplace analytics,Can workers contest automated assessments and measurements?
+ai_generated_code_and_software,AI-assisted code generation testing and refactoring,Who reviews tests documents and owns generated code?
+knowledge_architecture_and_retrieval,Information organization retrieval provenance and evidence systems,Can users trace sources assumptions and evidence?

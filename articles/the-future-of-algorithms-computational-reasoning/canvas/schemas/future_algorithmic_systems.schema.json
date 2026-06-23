@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FutureAlgorithmicSystemDomain",
+  "type": "object",
+  "required": [
+    "domain_id",
+    "risk_score",
+    "readiness_score",
+    "future_status"
+  ],
+  "properties": {
+    "domain_id": {
+      "type": "string"
+    },
+    "technical_capability": {
+      "type": "number"
+    },
+    "institutional_consequence": {
+      "type": "number"
+    },
+    "uncertainty": {
+      "type": "number"
+    },
+    "automation_level": {
+      "type": "number"
+    },
+    "opacity": {
+      "type": "number"
+    },
+    "contestability_need": {
+      "type": "number"
+    },
+    "governance_maturity": {
+      "type": "number"
+    },
+    "human_judgment_requirement": {
+      "type": "number"
+    },
+    "failure_severity": {
+      "type": "number"
+    },
+    "deployment_readiness": {
+      "type": "number"
+    },
+    "risk_score": {
+      "type": "number"
+    },
+    "readiness_score": {
+      "type": "number"
+    },
+    "future_status": {
+      "type": "string"
+    }
+  }
+}

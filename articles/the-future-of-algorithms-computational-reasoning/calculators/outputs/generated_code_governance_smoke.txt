@@ -1,0 +1,2 @@
+generated_code_governance_risk=true
+matched_terms=no tests needed,ship generated code directly,no security review

@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "capability_vs_readiness",
+    "title": "Capability vs Readiness",
+    "prompt": "Explain why a technically capable system may not be ready for responsible deployment."
+  },
+  {
+    "card_id": "ai_agents_boundaries",
+    "title": "AI Agent Boundaries",
+    "prompt": "Define permissions, confirmations, logs, rollback, and prohibited actions."
+  },
+  {
+    "card_id": "human_judgment",
+    "title": "Human Judgment",
+    "prompt": "Design meaningful human review with authority, time, evidence, training, and override power."
+  },
+  {
+    "card_id": "contestability",
+    "title": "Contestability",
+    "prompt": "Create notice, reason, appeal, and correction pathways for affected people."
+  },
+  {
+    "card_id": "no_go_criteria",
+    "title": "No-Go Criteria",
+    "prompt": "Identify when an algorithmic system should be delayed, redesigned, limited, or refused."
+  }
+]

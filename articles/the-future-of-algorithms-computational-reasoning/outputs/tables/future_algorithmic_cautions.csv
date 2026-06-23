@@ -1,0 +1,6 @@
+caution,meaning
+do_not_confuse_capability_with_readiness,A system can be technically capable before it is institutionally ready.
+do_not_confuse_ai_assistance_with_authority,AI can assist judgment without replacing accountable decision-making.
+do_not_optimize_without_value_review,Objectives and metrics must be examined for Goodhart effects and excluded values.
+do_not_deploy_without_contestability,"Affected people need notice, reasons, appeal, and correction pathways."
+do_not_automate_when_governance_is_absent,"High-stakes systems should not be deployed without monitoring, audit, and repair capacity."

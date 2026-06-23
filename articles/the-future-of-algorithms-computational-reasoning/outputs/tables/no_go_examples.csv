@@ -1,0 +1,5 @@
+case_id,high_opacity,invalid_data,no_appeal,no_go,no_governance,poor_fit
+clean_low_stakes_tool,False,False,False,False,False,False
+opaque_high_stakes_decision,True,False,True,True,True,False
+invalid_data_prediction,False,True,False,True,False,False
+poorly_defined_target,False,False,False,True,False,True

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_confuse_capability_with_readiness",
+    "meaning": "A system can be technically capable before it is institutionally ready."
+  },
+  {
+    "caution": "do_not_confuse_ai_assistance_with_authority",
+    "meaning": "AI can assist judgment without replacing accountable decision-making."
+  },
+  {
+    "caution": "do_not_optimize_without_value_review",
+    "meaning": "Objectives and metrics must be examined for Goodhart effects and excluded values."
+  },
+  {
+    "caution": "do_not_deploy_without_contestability",
+    "meaning": "Affected people need notice, reasons, appeal, and correction pathways."
+  },
+  {
+    "caution": "do_not_automate_when_governance_is_absent",
+    "meaning": "High-stakes systems should not be deployed without monitoring, audit, and repair capacity."
+  }
+]

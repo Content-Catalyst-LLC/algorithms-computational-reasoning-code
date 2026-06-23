@@ -1,0 +1,60 @@
+{
+  "article": "the-future-of-algorithms-computational-reasoning",
+  "safety_scope": "Educational future-algorithm calculators only; not legal advice, compliance determination, certification, or safety approval.",
+  "calculators": [
+    {
+      "name": "future_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/future_risk_calculator.py",
+      "purpose": "Estimate future algorithmic risk."
+    },
+    {
+      "name": "readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/readiness_calculator.py",
+      "purpose": "Estimate readiness."
+    },
+    {
+      "name": "automation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/automation_risk_calculator.py",
+      "purpose": "Estimate automation risk."
+    },
+    {
+      "name": "meaningful_review_calculator",
+      "language": "python",
+      "path": "calculators/python/meaningful_review_calculator.py",
+      "purpose": "Estimate meaningful human review."
+    },
+    {
+      "name": "no_go_calculator",
+      "language": "python",
+      "path": "calculators/python/no_go_calculator.py",
+      "purpose": "Evaluate no-go criteria."
+    },
+    {
+      "name": "computational_literacy_calculator",
+      "language": "python",
+      "path": "calculators/python/computational_literacy_calculator.py",
+      "purpose": "Estimate computational literacy coverage."
+    },
+    {
+      "name": "ai_agent_boundary_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_agent_boundary_calculator.py",
+      "purpose": "Flag weak agent boundaries."
+    },
+    {
+      "name": "generated_code_governance_calculator",
+      "language": "python",
+      "path": "calculators/python/generated_code_governance_calculator.py",
+      "purpose": "Flag generated-code governance gaps."
+    },
+    {
+      "name": "future_risk_score",
+      "language": "r",
+      "path": "calculators/r/future_risk_score.R",
+      "purpose": "Compute future risk score in R."
+    }
+  ]
+}
