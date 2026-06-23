@@ -1,0 +1,60 @@
+{
+  "article": "the-history-of-data-structures-and-algorithm-analysis",
+  "safety_scope": "Educational data-structure and algorithm-analysis calculators only; not production benchmarks or safety audits.",
+  "calculators": [
+    {
+      "name": "history_score_calculator",
+      "language": "python",
+      "path": "calculators/python/history_score_calculator.py",
+      "purpose": "Compute data-structure/analysis history score."
+    },
+    {
+      "name": "growth_rate_calculator",
+      "language": "python",
+      "path": "calculators/python/growth_rate_calculator.py",
+      "purpose": "Compare common growth rates."
+    },
+    {
+      "name": "binary_search_steps_calculator",
+      "language": "python",
+      "path": "calculators/python/binary_search_steps_calculator.py",
+      "purpose": "Estimate binary-search steps."
+    },
+    {
+      "name": "graph_memory_calculator",
+      "language": "python",
+      "path": "calculators/python/graph_memory_calculator.py",
+      "purpose": "Compare graph representation memory."
+    },
+    {
+      "name": "hash_table_load_calculator",
+      "language": "python",
+      "path": "calculators/python/hash_table_load_calculator.py",
+      "purpose": "Estimate hash-table load factor."
+    },
+    {
+      "name": "amortized_array_append_calculator",
+      "language": "python",
+      "path": "calculators/python/amortized_array_append_calculator.py",
+      "purpose": "Estimate dynamic-array amortized cost."
+    },
+    {
+      "name": "priority_queue_operation_calculator",
+      "language": "python",
+      "path": "calculators/python/priority_queue_operation_calculator.py",
+      "purpose": "Estimate heap operation cost."
+    },
+    {
+      "name": "ai_structure_audit_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_structure_audit_calculator.py",
+      "purpose": "Flag AI-infrastructure data-structure audit gaps."
+    },
+    {
+      "name": "history_score",
+      "language": "r",
+      "path": "calculators/r/history_score.R",
+      "purpose": "Compute history score in R."
+    }
+  ]
+}

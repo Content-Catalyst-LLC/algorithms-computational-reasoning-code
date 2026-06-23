@@ -1,0 +1,5 @@
+adjacency_list_units,adjacency_matrix_cells,edges,nodes
+30,100,20,10
+400,10000,300,100
+5000,1000000,4000,1000
+60000,100000000,50000,10000

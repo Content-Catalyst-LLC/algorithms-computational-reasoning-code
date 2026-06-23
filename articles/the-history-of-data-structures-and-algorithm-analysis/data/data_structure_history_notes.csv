@@ -1,0 +1,13 @@
+tradition,description,review_question
+arrays_records_contiguous_memory,Indexed and field-based representation tied to memory layout,What operations benefit from contiguous layout?
+linked_structures_pointers,Dynamic reference-based structures with flexibility and risk,What memory and safety assumptions are involved?
+stacks_queues_access_discipline,LIFO FIFO and controlled access structures,What access rule governs operation order?
+trees_hierarchical_search,Hierarchical and ordered structures for search parsing and indexing,How does shape affect operation cost?
+heaps_priority_queues,Priority access for scheduling search and events,What priority relation controls extraction?
+hash_tables_expected_access,Key-value mapping through hash functions and collision handling,What assumptions support expected access?
+graphs_relational_structure,Nodes and edges for relation dependency path and network reasoning,Which representation matches the graph density?
+files_indexes_databases,Persistent structures for institutional data and query performance,What storage and update costs are introduced?
+abstract_data_types,Behavior-first definitions of structures and operations,What interface hides implementation detail?
+asymptotic_algorithm_analysis,Growth-rate reasoning for time space and scale,How does cost change as n grows?
+amortized_average_worst_case_analysis,Different lenses for operation cost and risk,What scenario does the analysis describe?
+ai_infrastructure_structures,Tensors embeddings indexes queues logs and provenance,Which structure supports accountability and scale?

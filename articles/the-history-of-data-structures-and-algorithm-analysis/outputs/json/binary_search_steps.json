@@ -1,0 +1,38 @@
+[
+  {
+    "binary_search_steps": 1,
+    "n": 1
+  },
+  {
+    "binary_search_steps": 2,
+    "n": 2
+  },
+  {
+    "binary_search_steps": 3,
+    "n": 4
+  },
+  {
+    "binary_search_steps": 4,
+    "n": 8
+  },
+  {
+    "binary_search_steps": 5,
+    "n": 16
+  },
+  {
+    "binary_search_steps": 6,
+    "n": 32
+  },
+  {
+    "binary_search_steps": 7,
+    "n": 64
+  },
+  {
+    "binary_search_steps": 7,
+    "n": 100
+  },
+  {
+    "binary_search_steps": 10,
+    "n": 1000
+  }
+]

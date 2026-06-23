@@ -1,0 +1,24 @@
+{
+  "article": "the-history-of-data-structures-and-algorithm-analysis",
+  "canvas_cards": [
+    "Representation and Cost",
+    "Growth Rates",
+    "Graph Representations",
+    "Amortized Analysis",
+    "AI Structure Audit"
+  ],
+  "interpretive_layers": [
+    "arrays_records_contiguous_memory",
+    "linked_structures_pointers",
+    "stacks_queues_access_discipline",
+    "trees_hierarchical_search",
+    "heaps_priority_queues",
+    "hash_tables_expected_access",
+    "graphs_relational_structure",
+    "files_indexes_databases",
+    "abstract_data_types",
+    "asymptotic_algorithm_analysis",
+    "amortized_average_worst_case_analysis",
+    "ai_infrastructure_structures"
+  ]
+}

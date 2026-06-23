@@ -1,0 +1,2 @@
+ai_structure_audit_risk=true
+matched_terms=no provenance needed,embeddings are neutral

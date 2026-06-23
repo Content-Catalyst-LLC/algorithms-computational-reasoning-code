@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "representation_and_cost",
+    "title": "Representation and Cost",
+    "prompt": "Explain why algorithmic cost depends on data representation."
+  },
+  {
+    "card_id": "growth_rates",
+    "title": "Growth Rates",
+    "prompt": "Compare constant, logarithmic, linear, n log n, quadratic, and exponential growth."
+  },
+  {
+    "card_id": "graph_representations",
+    "title": "Graph Representations",
+    "prompt": "Compare adjacency matrices, adjacency lists, and edge lists."
+  },
+  {
+    "card_id": "amortized_analysis",
+    "title": "Amortized Analysis",
+    "prompt": "Explain why occasional expensive operations can still yield efficient long-run behavior."
+  },
+  {
+    "card_id": "ai_structure_audit",
+    "title": "AI Structure Audit",
+    "prompt": "Identify AI infrastructure structures that require provenance, monitoring, and governance."
+  }
+]

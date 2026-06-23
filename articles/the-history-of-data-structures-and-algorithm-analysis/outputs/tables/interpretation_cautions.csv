@@ -1,0 +1,6 @@
+caution,meaning
+do_not_separate_algorithm_from_representation,Algorithmic cost depends on how data are structured.
+do_not_treat_big_o_as_the_only_truth,"Asymptotic analysis must be complemented by constants, memory, locality, I/O, and measurement."
+do_not_ignore_space_cost,Memory and storage can dominate runtime and feasibility.
+do_not_assume_average_case_without_assumptions,"Expected cost depends on distributions, hash behavior, and adversarial inputs."
+do_not_build_ai_systems_without_data_structure_audits,"AI infrastructure depends on indexes, tensors, queues, embeddings, logs, and provenance structures."

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_separate_algorithm_from_representation",
+    "meaning": "Algorithmic cost depends on how data are structured."
+  },
+  {
+    "caution": "do_not_treat_big_o_as_the_only_truth",
+    "meaning": "Asymptotic analysis must be complemented by constants, memory, locality, I/O, and measurement."
+  },
+  {
+    "caution": "do_not_ignore_space_cost",
+    "meaning": "Memory and storage can dominate runtime and feasibility."
+  },
+  {
+    "caution": "do_not_assume_average_case_without_assumptions",
+    "meaning": "Expected cost depends on distributions, hash behavior, and adversarial inputs."
+  },
+  {
+    "caution": "do_not_build_ai_systems_without_data_structure_audits",
+    "meaning": "AI infrastructure depends on indexes, tensors, queues, embeddings, logs, and provenance structures."
+  }
+]

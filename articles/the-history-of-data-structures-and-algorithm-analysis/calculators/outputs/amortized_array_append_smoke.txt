@@ -1,0 +1,5 @@
+appends=100
+copy_cost=127
+total_cost=227
+amortized_cost=2.270000
+final_capacity=128

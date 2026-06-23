@@ -1,0 +1,13 @@
+abstraction_maturity,governance_caution,historical_influence,memory_awareness,operation_clarity,representation_centrality,scale_sensitivity,space_analysis,systems_relevance,time_analysis,tradition_id
+0.82,0.86,0.98,0.98,0.92,0.96,0.9,0.96,0.96,0.88,arrays_records_contiguous_memory
+0.8,0.96,0.94,0.98,0.88,0.96,0.88,0.92,0.96,0.86,linked_structures_pointers
+0.92,0.86,0.94,0.82,0.98,0.9,0.84,0.84,0.94,0.92,stacks_queues_access_discipline
+0.92,0.9,0.98,0.9,0.92,0.98,0.96,0.88,0.96,0.96,trees_hierarchical_search
+0.9,0.88,0.92,0.86,0.94,0.92,0.92,0.84,0.94,0.96,heaps_priority_queues
+0.92,0.94,0.96,0.88,0.88,0.96,0.94,0.88,0.98,0.94,hash_tables_expected_access
+0.9,0.96,0.98,0.92,0.9,0.98,0.98,0.94,0.98,0.98,graphs_relational_structure
+0.92,0.98,0.96,0.96,0.88,0.94,0.98,0.96,0.98,0.94,files_indexes_databases
+0.98,0.9,0.96,0.82,0.98,0.92,0.88,0.84,0.92,0.9,abstract_data_types
+0.96,0.94,0.98,0.88,0.94,0.86,0.98,0.94,0.92,0.98,asymptotic_algorithm_analysis
+0.96,0.94,0.94,0.86,0.92,0.86,0.96,0.88,0.9,0.98,amortized_average_worst_case_analysis
+0.88,0.98,0.88,0.96,0.82,0.98,0.98,0.98,0.98,0.94,ai_infrastructure_structures

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DataStructureAlgorithmAnalysisTradition",
+  "type": "object",
+  "required": [
+    "tradition_id",
+    "history_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "tradition_id": {
+      "type": "string"
+    },
+    "representation_centrality": {
+      "type": "number"
+    },
+    "operation_clarity": {
+      "type": "number"
+    },
+    "memory_awareness": {
+      "type": "number"
+    },
+    "time_analysis": {
+      "type": "number"
+    },
+    "space_analysis": {
+      "type": "number"
+    },
+    "scale_sensitivity": {
+      "type": "number"
+    },
+    "abstraction_maturity": {
+      "type": "number"
+    },
+    "systems_relevance": {
+      "type": "number"
+    },
+    "historical_influence": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "history_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

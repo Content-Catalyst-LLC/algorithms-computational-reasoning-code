@@ -1,0 +1,34 @@
+[
+  {
+    "constant": 1,
+    "linear": 10,
+    "log2_n": 3.321928,
+    "n": 10,
+    "n_log2_n": 33.219281,
+    "quadratic": 100
+  },
+  {
+    "constant": 1,
+    "linear": 100,
+    "log2_n": 6.643856,
+    "n": 100,
+    "n_log2_n": 664.385619,
+    "quadratic": 10000
+  },
+  {
+    "constant": 1,
+    "linear": 1000,
+    "log2_n": 9.965784,
+    "n": 1000,
+    "n_log2_n": 9965.784285,
+    "quadratic": 1000000
+  },
+  {
+    "constant": 1,
+    "linear": 10000,
+    "log2_n": 13.287712,
+    "n": 10000,
+    "n_log2_n": 132877.123795,
+    "quadratic": 100000000
+  }
+]

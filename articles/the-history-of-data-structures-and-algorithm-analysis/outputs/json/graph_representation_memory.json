@@ -1,0 +1,26 @@
+[
+  {
+    "adjacency_list_units": 30,
+    "adjacency_matrix_cells": 100,
+    "edges": 20,
+    "nodes": 10
+  },
+  {
+    "adjacency_list_units": 400,
+    "adjacency_matrix_cells": 10000,
+    "edges": 300,
+    "nodes": 100
+  },
+  {
+    "adjacency_list_units": 5000,
+    "adjacency_matrix_cells": 1000000,
+    "edges": 4000,
+    "nodes": 1000
+  },
+  {
+    "adjacency_list_units": 60000,
+    "adjacency_matrix_cells": 100000000,
+    "edges": 50000,
+    "nodes": 10000
+  }
+]
