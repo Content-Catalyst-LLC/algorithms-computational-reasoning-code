@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "procedure_has_a_body",
+    "title": "Procedure Has a Body",
+    "prompt": "Identify where procedure is stored: chamber, channel, valve, float, pressure, or timing."
+  },
+  {
+    "card_id": "thresholds_create_action",
+    "title": "Thresholds Create Action",
+    "prompt": "Find the level, pressure, or position that triggers the next state."
+  },
+  {
+    "card_id": "hidden_state_controls_visible_output",
+    "title": "Hidden State Controls Output",
+    "prompt": "Trace the concealed internal condition behind the visible effect."
+  },
+  {
+    "card_id": "avoid_robot_origin_myth",
+    "title": "Avoid Robot-Origin Myth",
+    "prompt": "Use mechanical procedure and automaton language rather than projecting modern robotics backward."
+  }
+]

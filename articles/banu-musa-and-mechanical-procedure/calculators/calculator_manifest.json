@@ -1,0 +1,54 @@
+{
+  "article": "banu-musa-and-mechanical-procedure",
+  "safety_scope": "Educational conceptual calculators only; not engineering, safety, construction, or operational guidance.",
+  "calculators": [
+    {
+      "name": "threshold_action_calculator",
+      "language": "python",
+      "path": "calculators/python/threshold_action_calculator.py",
+      "purpose": "Toy threshold action."
+    },
+    {
+      "name": "flow_time_calculator",
+      "language": "python",
+      "path": "calculators/python/flow_time_calculator.py",
+      "purpose": "Estimate conceptual flow time from volume and flow rate."
+    },
+    {
+      "name": "valve_gate_calculator",
+      "language": "python",
+      "path": "calculators/python/valve_gate_calculator.py",
+      "purpose": "Toy open/closed gate."
+    },
+    {
+      "name": "reservoir_volume_calculator",
+      "language": "python",
+      "path": "calculators/python/reservoir_volume_calculator.py",
+      "purpose": "Simple rectangular reservoir volume."
+    },
+    {
+      "name": "pressure_difference_calculator",
+      "language": "python",
+      "path": "calculators/python/pressure_difference_calculator.py",
+      "purpose": "Basic hydrostatic pressure difference concept."
+    },
+    {
+      "name": "state_transition_calculator",
+      "language": "python",
+      "path": "calculators/python/state_transition_calculator.py",
+      "purpose": "Toy state transition from input and constraint."
+    },
+    {
+      "name": "mechanical_score_calculator",
+      "language": "python",
+      "path": "calculators/python/mechanical_score_calculator.py",
+      "purpose": "Compute mechanical procedure score."
+    },
+    {
+      "name": "mechanical_score",
+      "language": "r",
+      "path": "calculators/r/mechanical_score.R",
+      "purpose": "Compute mechanical procedure score in R."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+args <- commandArgs(trailingOnly = TRUE)
+mechanical_structure <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.96)
+procedural_sequence <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.90)
+conditional_control <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.88)
+hidden_state <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.90)
+feedback_potential <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.84)
+historical_significance <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.94)
+ethical_caution <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.82)
+modern_resonance <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.94)
+
+score <- mean(c(mechanical_structure, procedural_sequence, conditional_control, hidden_state, feedback_potential, historical_significance, ethical_caution, modern_resonance))
+cat(sprintf("mechanical_score=%.6f\n", score))

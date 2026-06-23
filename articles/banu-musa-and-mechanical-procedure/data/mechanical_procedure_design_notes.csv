@@ -1,0 +1,10 @@
+item,description,review_question
+hydraulic_material_logic,Liquid levels channels reservoirs and flow create rule-governed behavior,How does fluid become procedure?
+pneumatic_pressure_control,Air pressure and sealed chambers produce hidden control effects,How does pressure act as internal state?
+valves_floats_thresholds,Valves and floats create conditional mechanical behavior,Where does the mechanism make a decision?
+sequencing_and_timing,Flow rate volume and thresholds create ordered behavior over time,How does the device move through states?
+trick_vessels_interface_mechanism,Visible surprise depends on hidden channels and internal procedure,How does interface differ from mechanism?
+fountains_and_alternating_behavior,Outlets and pressure patterns create alternating visible outputs,How does a device generate a sequence?
+diagrams_and_reproducibility,Technical diagrams and descriptions transmit mechanical procedure,How does a device become reproducible knowledge?
+feedback_and_self_regulation,Device state can affect later device behavior,How does output or state regulate future action?
+origin_story_caution,Avoid calling the devices modern robots or computers,How can mechanical automation be interpreted carefully?

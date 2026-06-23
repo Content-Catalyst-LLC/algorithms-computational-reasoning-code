@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MechanicalProcedureTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "mechanical_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "mechanical_structure": {
+      "type": "number"
+    },
+    "procedural_sequence": {
+      "type": "number"
+    },
+    "conditional_control": {
+      "type": "number"
+    },
+    "hidden_state": {
+      "type": "number"
+    },
+    "feedback_potential": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "mechanical_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
