@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "procedure_must_survive",
+    "title": "Procedure Must Survive",
+    "prompt": "Ask whether the translated method can still be performed."
+  },
+  {
+    "card_id": "terms_are_infrastructure",
+    "title": "Terms Are Infrastructure",
+    "prompt": "Identify technical vocabulary that stabilizes reasoning."
+  },
+  {
+    "card_id": "tables_and_diagrams_carry_knowledge",
+    "title": "Tables and Diagrams Carry Knowledge",
+    "prompt": "Audit nonverbal knowledge, not only prose."
+  },
+  {
+    "card_id": "avoid_single_origin_myth",
+    "title": "Avoid Single-Origin Myth",
+    "prompt": "Map multilingual relays instead of reducing transfer to one source or institution."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_reduce_translation_to_preservation",
+    "meaning": "Translation preserved texts but also transformed, corrected, adapted, and extended them."
+  },
+  {
+    "caution": "do_not_center_everything_on_one_institution",
+    "meaning": "Bayt al-\u1e24ikma matters, but the movement was broader than a single building or legend."
+  },
+  {
+    "caution": "do_not_ignore_non_greek_streams",
+    "meaning": "Syriac, Persian, Sanskrit, Hebrew, Arabic, and Latin channels all matter."
+  },
+  {
+    "caution": "do_not_treat_translation_as_word_substitution",
+    "meaning": "Technical translation must preserve diagrams, tables, examples, instruments, and procedures."
+  },
+  {
+    "caution": "do_not_create_single_origin_myths",
+    "meaning": "Computational knowledge emerged through layered multilingual transmission and recomposition."
+  }
+]

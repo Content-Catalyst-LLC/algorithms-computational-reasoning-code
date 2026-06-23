@@ -1,0 +1,13 @@
+args <- commandArgs(trailingOnly = TRUE)
+procedural_fidelity <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.98)
+vocabulary_mapping <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.90)
+diagram_table_preservation <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.94)
+institutional_support <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.88)
+error_control <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.94)
+adaptation <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.90)
+historical_significance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.96)
+ethical_caution <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.84)
+modern_resonance <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.96)
+
+score <- mean(c(procedural_fidelity, vocabulary_mapping, diagram_table_preservation, institutional_support, error_control, adaptation, historical_significance, ethical_caution, modern_resonance))
+cat(sprintf("transfer_score=%.6f\n", score))

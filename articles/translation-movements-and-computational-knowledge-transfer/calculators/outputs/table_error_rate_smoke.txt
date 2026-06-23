@@ -1,0 +1,2 @@
+table_error_rate=0.020000
+table_accuracy=0.980000

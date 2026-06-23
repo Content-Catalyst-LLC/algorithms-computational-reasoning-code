@@ -1,0 +1,1 @@
+knowledge_object_completeness=1.000000

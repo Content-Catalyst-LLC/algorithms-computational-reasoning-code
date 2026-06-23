@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ComputationalKnowledgeTransferTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "transfer_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedural_fidelity": {
+      "type": "number"
+    },
+    "vocabulary_mapping": {
+      "type": "number"
+    },
+    "diagram_table_preservation": {
+      "type": "number"
+    },
+    "institutional_support": {
+      "type": "number"
+    },
+    "error_control": {
+      "type": "number"
+    },
+    "adaptation": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "transfer_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "article": "translation-movements-and-computational-knowledge-transfer",
+  "safety_scope": "Educational conceptual calculators only; not specialist philological, codicological, or manuscript authority.",
+  "calculators": [
+    {
+      "name": "procedural_fidelity_calculator",
+      "language": "python",
+      "path": "calculators/python/procedural_fidelity_calculator.py",
+      "purpose": "Score preservation of usable procedure components."
+    },
+    {
+      "name": "vocabulary_mapping_calculator",
+      "language": "python",
+      "path": "calculators/python/vocabulary_mapping_calculator.py",
+      "purpose": "Score technical vocabulary mapping coverage."
+    },
+    {
+      "name": "table_error_rate_calculator",
+      "language": "python",
+      "path": "calculators/python/table_error_rate_calculator.py",
+      "purpose": "Calculate simple table mismatch rate."
+    },
+    {
+      "name": "relay_depth_calculator",
+      "language": "python",
+      "path": "calculators/python/relay_depth_calculator.py",
+      "purpose": "Count transfer stages in a language path."
+    },
+    {
+      "name": "knowledge_object_completeness_calculator",
+      "language": "python",
+      "path": "calculators/python/knowledge_object_completeness_calculator.py",
+      "purpose": "Score completeness of procedural knowledge object."
+    },
+    {
+      "name": "transfer_score_calculator",
+      "language": "python",
+      "path": "calculators/python/transfer_score_calculator.py",
+      "purpose": "Compute computational knowledge transfer score."
+    },
+    {
+      "name": "origin_story_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/origin_story_risk_calculator.py",
+      "purpose": "Flag oversimplified origin-story language."
+    },
+    {
+      "name": "transfer_score",
+      "language": "r",
+      "path": "calculators/r/transfer_score.R",
+      "purpose": "Compute transfer score in R."
+    }
+  ]
+}
