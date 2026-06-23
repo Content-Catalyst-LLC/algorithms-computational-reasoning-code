@@ -1,0 +1,25 @@
+{
+  "title": "Alan Turing, Computation, and the Machine Model of Reasoning",
+  "slug": "alan-turing-computation-and-the-machine-model-of-reasoning",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "ada-lovelace-programming-and-the-imagination-of-computation",
+  "next": "alonzo-church-lambda-calculus-and-effective-computation",
+  "repo_folder": "articles/alan-turing-computation-and-the-machine-model-of-reasoning",
+  "topics": [
+    "Alan Turing",
+    "computation",
+    "Turing machine",
+    "machine model of reasoning",
+    "effective procedure",
+    "computable numbers",
+    "universal machine",
+    "decidability",
+    "undecidability",
+    "halting problem",
+    "Church-Turing thesis",
+    "machine intelligence",
+    "imitation game",
+    "AI caution"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scoring models are not formal proofs."
+}

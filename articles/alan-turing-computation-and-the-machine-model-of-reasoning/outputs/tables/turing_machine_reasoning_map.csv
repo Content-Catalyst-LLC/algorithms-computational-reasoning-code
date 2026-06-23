@@ -1,0 +1,10 @@
+ai_relevance,decidability,formalization,governance_caution,interpretive_status,limit_awareness,machine_abstraction,modern_resonance,reasoning_relevance,reasoning_score,symbolic_representation,theme_id,universality
+0.78,0.86,0.98,0.86,core_turing_machine_reasoning_thread,0.92,0.92,0.98,0.98,0.896,0.92,effective_procedure,0.76
+0.82,0.9,0.98,0.86,core_turing_machine_reasoning_thread,0.92,0.98,0.98,0.96,0.922,0.96,turing_machine_model,0.86
+0.8,0.82,0.92,0.84,core_turing_machine_reasoning_thread,0.88,0.96,0.94,0.96,0.882,0.92,human_computer_abstraction,0.78
+0.86,0.88,0.96,0.86,core_turing_machine_reasoning_thread,0.9,0.98,0.98,0.94,0.93,0.96,universal_machine,0.98
+0.86,0.98,0.98,0.96,core_turing_machine_reasoning_thread,0.98,0.92,0.98,0.96,0.938,0.9,undecidability_and_limits,0.86
+0.84,0.98,0.98,0.96,core_turing_machine_reasoning_thread,0.98,0.94,0.98,0.96,0.944,0.92,halting_problem,0.9
+0.82,0.9,0.96,0.86,core_turing_machine_reasoning_thread,0.92,0.9,0.98,0.96,0.916,0.94,church_turing_thesis,0.92
+0.98,0.74,0.82,0.94,major_turing_machine_reasoning_thread,0.88,0.84,0.98,0.9,0.872,0.88,imitation_game_machine_intelligence,0.76
+0.98,0.88,0.86,0.98,core_turing_machine_reasoning_thread,0.98,0.88,0.98,0.94,0.922,0.88,ai_caution_after_turing,0.86

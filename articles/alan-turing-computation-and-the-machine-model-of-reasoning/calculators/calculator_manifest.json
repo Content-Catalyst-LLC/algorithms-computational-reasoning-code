@@ -1,0 +1,60 @@
+{
+  "article": "alan-turing-computation-and-the-machine-model-of-reasoning",
+  "safety_scope": "Educational computability calculators only; not formal proof tools.",
+  "calculators": [
+    {
+      "name": "reasoning_score_calculator",
+      "language": "python",
+      "path": "calculators/python/reasoning_score_calculator.py",
+      "purpose": "Compute Turing machine reasoning score."
+    },
+    {
+      "name": "turing_transition_simulator",
+      "language": "python",
+      "path": "calculators/python/turing_transition_simulator.py",
+      "purpose": "Run a tiny transition system over a tape."
+    },
+    {
+      "name": "unary_increment_machine",
+      "language": "python",
+      "path": "calculators/python/unary_increment_machine.py",
+      "purpose": "Demonstrate simple unary increment."
+    },
+    {
+      "name": "halting_trace_calculator",
+      "language": "python",
+      "path": "calculators/python/halting_trace_calculator.py",
+      "purpose": "Trace bounded execution."
+    },
+    {
+      "name": "decidability_scope_helper",
+      "language": "python",
+      "path": "calculators/python/decidability_scope_helper.py",
+      "purpose": "Classify example problem families."
+    },
+    {
+      "name": "universal_description_calculator",
+      "language": "python",
+      "path": "calculators/python/universal_description_calculator.py",
+      "purpose": "Represent toy machine description as data."
+    },
+    {
+      "name": "imitation_game_evaluator",
+      "language": "python",
+      "path": "calculators/python/imitation_game_evaluator.py",
+      "purpose": "Score behavioral-test framing."
+    },
+    {
+      "name": "ai_overclaim_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_overclaim_caution_calculator.py",
+      "purpose": "Flag overclaims about machine reasoning."
+    },
+    {
+      "name": "turing_reasoning_score",
+      "language": "r",
+      "path": "calculators/r/turing_reasoning_score.R",
+      "purpose": "Compute reasoning score in R."
+    }
+  ]
+}

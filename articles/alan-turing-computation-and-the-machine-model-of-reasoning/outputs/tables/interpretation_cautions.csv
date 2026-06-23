@@ -1,0 +1,6 @@
+caution,meaning
+do_not_treat_turing_machine_as_physical_laptop,"A Turing machine is an abstract model, not an engineering design."
+do_not_claim_all_reasoning_is_computation,"Turing formalizes effective procedure, not every form of human judgment."
+do_not_ignore_undecidability,Turing's legacy includes limits of automation.
+do_not_reduce_turing_to_ai_slogan,The imitation game is important but not a complete theory of intelligence.
+do_not_confuse_computability_with_feasibility,"A computable task may still be impractical because of time, memory, or context."

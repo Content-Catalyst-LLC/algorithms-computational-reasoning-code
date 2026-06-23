@@ -1,0 +1,15 @@
+{
+  "alphabet": [
+    "1",
+    "_"
+  ],
+  "blank": "_",
+  "description_note": "A machine description can be stored as symbolic data and interpreted by another machine.",
+  "machine": "unary_increment",
+  "start_state": "scan",
+  "states": [
+    "scan",
+    "write",
+    "halt"
+  ]
+}

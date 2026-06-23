@@ -1,0 +1,10 @@
+item,description,review_question
+effective_procedure,Definite rule-governed method carried out by finite means,What makes the method mechanical?
+turing_machine_model,Tape symbols head states and transition rules formalize computation,How does the model reduce reasoning to symbolic action?
+human_computer_abstraction,Human calculation is abstracted into a machine procedure,What limits of attention and memory are modeled?
+universal_machine,One machine simulates another from its description,How does program-as-data become possible?
+undecidability_and_limits,Some formal problems have no general decision procedure,Where does automation fail in principle?
+halting_problem,No universal algorithm decides halting for all programs and inputs,How does self-reference expose limits?
+church_turing_thesis,Multiple formalisms converge on effective computability,What makes the concept robust?
+imitation_game_machine_intelligence,Turing reframes machine intelligence behaviorally,What does behavior show and not show?
+ai_caution_after_turing,Turing supports powerful automation and formal caution,How should AI claims be scoped?

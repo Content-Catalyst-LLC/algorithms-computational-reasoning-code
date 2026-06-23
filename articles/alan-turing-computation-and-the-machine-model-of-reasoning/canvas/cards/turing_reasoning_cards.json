@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "effective_procedure",
+    "title": "Effective Procedure",
+    "prompt": "Define the method as finite, definite, symbolic, and mechanically executable."
+  },
+  {
+    "card_id": "machine_model",
+    "title": "Machine Model",
+    "prompt": "Map tape, symbols, head, states, and transition rules."
+  },
+  {
+    "card_id": "universal_machine",
+    "title": "Universal Machine",
+    "prompt": "Explain how one machine simulates another from a symbolic description."
+  },
+  {
+    "card_id": "limits_of_automation",
+    "title": "Limits of Automation",
+    "prompt": "Use undecidability and the halting problem to bound automation claims."
+  },
+  {
+    "card_id": "ai_caution",
+    "title": "AI Caution",
+    "prompt": "Read the imitation game as behavioral framing, not a total theory of mind."
+  }
+]

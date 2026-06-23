@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TuringMachineReasoningTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "reasoning_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "formalization": {
+      "type": "number"
+    },
+    "machine_abstraction": {
+      "type": "number"
+    },
+    "symbolic_representation": {
+      "type": "number"
+    },
+    "universality": {
+      "type": "number"
+    },
+    "decidability": {
+      "type": "number"
+    },
+    "limit_awareness": {
+      "type": "number"
+    },
+    "reasoning_relevance": {
+      "type": "number"
+    },
+    "ai_relevance": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "reasoning_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

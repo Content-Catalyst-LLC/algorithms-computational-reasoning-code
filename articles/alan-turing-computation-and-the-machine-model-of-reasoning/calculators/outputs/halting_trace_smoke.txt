@@ -1,0 +1,4 @@
+halted_within_bound=true
+steps=5
+final_value=0
+note=bounded traces illustrate behavior but do not solve the general halting problem

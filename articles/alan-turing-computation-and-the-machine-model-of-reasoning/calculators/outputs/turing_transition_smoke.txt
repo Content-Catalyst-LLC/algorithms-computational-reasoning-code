@@ -1,0 +1,4 @@
+state=halt
+steps=4
+head=3
+tape=111_

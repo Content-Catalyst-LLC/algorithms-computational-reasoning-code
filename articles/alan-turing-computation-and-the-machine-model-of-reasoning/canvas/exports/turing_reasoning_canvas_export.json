@@ -1,0 +1,21 @@
+{
+  "article": "alan-turing-computation-and-the-machine-model-of-reasoning",
+  "canvas_cards": [
+    "Effective Procedure",
+    "Machine Model",
+    "Universal Machine",
+    "Limits of Automation",
+    "AI Caution"
+  ],
+  "interpretive_layers": [
+    "effective_procedure",
+    "turing_machine_model",
+    "human_computer_abstraction",
+    "universal_machine",
+    "undecidability_and_limits",
+    "halting_problem",
+    "church_turing_thesis",
+    "imitation_game_machine_intelligence",
+    "ai_caution_after_turing"
+  ]
+}
