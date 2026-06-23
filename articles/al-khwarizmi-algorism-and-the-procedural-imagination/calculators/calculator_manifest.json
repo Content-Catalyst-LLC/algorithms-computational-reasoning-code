@@ -1,0 +1,47 @@
+{
+  "article": "al-khwarizmi-algorism-and-the-procedural-imagination",
+  "calculators": [
+    {
+      "name": "place_value_calculator",
+      "language": "python",
+      "path": "calculators/python/place_value_calculator.py",
+      "purpose": "Compute positional digit contribution."
+    },
+    {
+      "name": "algebra_balance_calculator",
+      "language": "python",
+      "path": "calculators/python/algebra_balance_calculator.py",
+      "purpose": "Apply the same addition to both sides of an equation."
+    },
+    {
+      "name": "equation_type_classifier",
+      "language": "python",
+      "path": "calculators/python/equation_type_classifier.py",
+      "purpose": "Classify a toy equation by degree."
+    },
+    {
+      "name": "table_interpolation_calculator",
+      "language": "python",
+      "path": "calculators/python/table_interpolation_calculator.py",
+      "purpose": "Compute a linear interpolation."
+    },
+    {
+      "name": "procedural_legacy_score_calculator",
+      "language": "python",
+      "path": "calculators/python/procedural_legacy_score_calculator.py",
+      "purpose": "Compute procedural legacy score."
+    },
+    {
+      "name": "transmission_weight_calculator",
+      "language": "python",
+      "path": "calculators/python/transmission_weight_calculator.py",
+      "purpose": "Compute a simple transmission-weight score."
+    },
+    {
+      "name": "procedural_legacy_score",
+      "language": "r",
+      "path": "calculators/r/procedural_legacy_score.R",
+      "purpose": "Compute procedural legacy score in R."
+    }
+  ]
+}

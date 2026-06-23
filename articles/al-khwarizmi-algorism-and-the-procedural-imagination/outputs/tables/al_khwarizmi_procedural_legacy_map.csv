@@ -1,0 +1,9 @@
+application,interpretive_status,legacy_score,modern_resonance,procedure,representation,theme_id,transmission
+0.84,core_procedural_legacy,0.896,0.98,0.88,0.82,name_to_algorithm,0.96
+0.9,core_procedural_legacy,0.932,0.94,0.94,0.96,algorism_written_arithmetic,0.92
+0.92,core_procedural_legacy,0.928,0.94,0.9,0.98,hindu_arabic_place_value,0.9
+0.84,core_procedural_legacy,0.888,0.92,0.92,0.86,algebraic_restoration_balancing,0.9
+0.82,core_procedural_legacy,0.84,0.88,0.9,0.78,problem_classification,0.82
+0.78,core_procedural_legacy,0.824,0.86,0.86,0.8,verbal_procedure_before_symbols,0.82
+0.88,major_procedural_legacy,0.84,0.82,0.84,0.88,astronomical_table_computation,0.78
+0.86,core_procedural_legacy,0.88,0.9,0.84,0.86,latin_algorism_reception,0.94

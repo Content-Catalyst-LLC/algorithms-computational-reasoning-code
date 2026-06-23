@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlKhwarizmiProceduralLegacyTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "legacy_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedure": {
+      "type": "number"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "application": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "legacy_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

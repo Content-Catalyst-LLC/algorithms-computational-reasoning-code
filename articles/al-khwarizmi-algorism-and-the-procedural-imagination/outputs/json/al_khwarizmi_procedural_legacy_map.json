@@ -1,0 +1,82 @@
+[
+  {
+    "application": 0.84,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.896,
+    "modern_resonance": 0.98,
+    "procedure": 0.88,
+    "representation": 0.82,
+    "theme_id": "name_to_algorithm",
+    "transmission": 0.96
+  },
+  {
+    "application": 0.9,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.932,
+    "modern_resonance": 0.94,
+    "procedure": 0.94,
+    "representation": 0.96,
+    "theme_id": "algorism_written_arithmetic",
+    "transmission": 0.92
+  },
+  {
+    "application": 0.92,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.928,
+    "modern_resonance": 0.94,
+    "procedure": 0.9,
+    "representation": 0.98,
+    "theme_id": "hindu_arabic_place_value",
+    "transmission": 0.9
+  },
+  {
+    "application": 0.84,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.888,
+    "modern_resonance": 0.92,
+    "procedure": 0.92,
+    "representation": 0.86,
+    "theme_id": "algebraic_restoration_balancing",
+    "transmission": 0.9
+  },
+  {
+    "application": 0.82,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.84,
+    "modern_resonance": 0.88,
+    "procedure": 0.9,
+    "representation": 0.78,
+    "theme_id": "problem_classification",
+    "transmission": 0.82
+  },
+  {
+    "application": 0.78,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.824,
+    "modern_resonance": 0.86,
+    "procedure": 0.86,
+    "representation": 0.8,
+    "theme_id": "verbal_procedure_before_symbols",
+    "transmission": 0.82
+  },
+  {
+    "application": 0.88,
+    "interpretive_status": "major_procedural_legacy",
+    "legacy_score": 0.84,
+    "modern_resonance": 0.82,
+    "procedure": 0.84,
+    "representation": 0.88,
+    "theme_id": "astronomical_table_computation",
+    "transmission": 0.78
+  },
+  {
+    "application": 0.86,
+    "interpretive_status": "core_procedural_legacy",
+    "legacy_score": 0.88,
+    "modern_resonance": 0.9,
+    "procedure": 0.84,
+    "representation": 0.86,
+    "theme_id": "latin_algorism_reception",
+    "transmission": 0.94
+  }
+]

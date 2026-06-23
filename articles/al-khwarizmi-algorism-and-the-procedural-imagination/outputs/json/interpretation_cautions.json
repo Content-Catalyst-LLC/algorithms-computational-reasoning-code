@@ -1,0 +1,26 @@
+[
+  {
+    "caution": "do_not_claim_single_invention",
+    "meaning": "Al-Khw\u0101rizm\u012b is central to algorithmic naming and transmission, not the sole origin of algorithms."
+  },
+  {
+    "caution": "do_not_confuse_algorism_with_all_algorithms",
+    "meaning": "Algorism is historically tied to written arithmetic with Hindu-Arabic numerals; algorithm later generalizes."
+  },
+  {
+    "caution": "do_not_project_modern_code_backwards",
+    "meaning": "Verbal and tabular procedures are algorithmic without being computer programs."
+  },
+  {
+    "caution": "do_not_ignore_representation",
+    "meaning": "Numerals, tables, prose, and classifications shape what procedures can do."
+  },
+  {
+    "caution": "do_not_separate_method_from_transmission",
+    "meaning": "Translation, teaching, and reception are part of procedural history."
+  },
+  {
+    "caution": "do_not_reduce_to_etymology",
+    "meaning": "The word history matters, but the procedural content matters too."
+  }
+]

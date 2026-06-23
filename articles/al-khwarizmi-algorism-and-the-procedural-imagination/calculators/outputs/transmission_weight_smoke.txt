@@ -1,0 +1,1 @@
+transmission_weight_score=0.882500

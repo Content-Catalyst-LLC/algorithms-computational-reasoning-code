@@ -1,0 +1,4 @@
+left_after=8.000000
+right_after=12.000000
+difference_before=-4.000000
+difference_after=-4.000000

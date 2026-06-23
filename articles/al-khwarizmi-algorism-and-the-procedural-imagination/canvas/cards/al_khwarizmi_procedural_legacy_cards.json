@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "name_is_transmission",
+    "title": "Name Is Transmission",
+    "prompt": "Use al-Khw\u0101rizm\u012b's name as evidence of reception history without reducing algorithms to a single origin."
+  },
+  {
+    "card_id": "notation_changes_procedure",
+    "title": "Notation Changes Procedure",
+    "prompt": "Track how Hindu-Arabic numerals and place value make written arithmetic teachable and scalable."
+  },
+  {
+    "card_id": "procedure_before_code",
+    "title": "Procedure Before Code",
+    "prompt": "Identify the input, classification, operations, invariant, stopping condition, and verification before comparing with modern algorithms."
+  }
+]
