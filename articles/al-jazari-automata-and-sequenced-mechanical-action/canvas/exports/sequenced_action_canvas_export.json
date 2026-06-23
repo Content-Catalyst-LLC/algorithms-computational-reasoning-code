@@ -1,0 +1,20 @@
+{
+  "article": "al-jazari-automata-and-sequenced-mechanical-action",
+  "canvas_cards": [
+    "Time Becomes State",
+    "Sequence Is Material",
+    "Trigger Then Output",
+    "Avoid Robot Myth"
+  ],
+  "interpretive_layers": [
+    "clocks_as_timed_state_change",
+    "elephant_clock_layered_sequence",
+    "cams_levers_control",
+    "water_raising_repeated_work",
+    "floats_vessels_thresholds",
+    "musical_automata_patterned_performance",
+    "diagrams_reproducibility_debugging",
+    "implementation_material_constraint",
+    "origin_story_caution"
+  ]
+}

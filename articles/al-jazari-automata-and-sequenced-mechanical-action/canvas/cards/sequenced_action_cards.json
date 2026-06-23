@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "time_becomes_state",
+    "title": "Time Becomes State",
+    "prompt": "Trace how a clock converts gradual material change into visible events."
+  },
+  {
+    "card_id": "sequence_is_material",
+    "title": "Sequence Is Material",
+    "prompt": "Identify the parts that order action: float, cam, lever, gear, latch, or reservoir."
+  },
+  {
+    "card_id": "trigger_then_output",
+    "title": "Trigger Then Output",
+    "prompt": "Find the threshold or contact point that activates the next event."
+  },
+  {
+    "card_id": "avoid_robot_myth",
+    "title": "Avoid Robot Myth",
+    "prompt": "Use automata and sequenced mechanical action rather than projecting modern robotics backward."
+  }
+]

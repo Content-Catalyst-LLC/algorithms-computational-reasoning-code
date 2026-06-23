@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SequencedActionTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "sequenced_action_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "sequence_structure": {
+      "type": "number"
+    },
+    "timing_control": {
+      "type": "number"
+    },
+    "mechanical_embodiment": {
+      "type": "number"
+    },
+    "conditional_action": {
+      "type": "number"
+    },
+    "repeatability": {
+      "type": "number"
+    },
+    "documentation_quality": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "sequenced_action_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

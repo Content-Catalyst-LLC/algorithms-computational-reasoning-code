@@ -1,0 +1,2 @@
+stage_count=3
+cycle_time=9.500000

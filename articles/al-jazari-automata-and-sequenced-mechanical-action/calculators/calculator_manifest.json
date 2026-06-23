@@ -1,0 +1,54 @@
+{
+  "article": "al-jazari-automata-and-sequenced-mechanical-action",
+  "safety_scope": "Educational conceptual calculators only; not engineering, safety, construction, clockwork, or operational guidance.",
+  "calculators": [
+    {
+      "name": "event_trigger_calculator",
+      "language": "python",
+      "path": "calculators/python/event_trigger_calculator.py",
+      "purpose": "Toy event trigger."
+    },
+    {
+      "name": "cycle_time_calculator",
+      "language": "python",
+      "path": "calculators/python/cycle_time_calculator.py",
+      "purpose": "Estimate conceptual cycle time from stage durations."
+    },
+    {
+      "name": "cam_schedule_calculator",
+      "language": "python",
+      "path": "calculators/python/cam_schedule_calculator.py",
+      "purpose": "Toy cam activation angle check."
+    },
+    {
+      "name": "repeat_cycle_calculator",
+      "language": "python",
+      "path": "calculators/python/repeat_cycle_calculator.py",
+      "purpose": "Compute repeated-cycle output count."
+    },
+    {
+      "name": "water_flow_time_calculator",
+      "language": "python",
+      "path": "calculators/python/water_flow_time_calculator.py",
+      "purpose": "Estimate conceptual water-flow time."
+    },
+    {
+      "name": "reset_state_calculator",
+      "language": "python",
+      "path": "calculators/python/reset_state_calculator.py",
+      "purpose": "Reset a toy state."
+    },
+    {
+      "name": "sequenced_action_score_calculator",
+      "language": "python",
+      "path": "calculators/python/sequenced_action_score_calculator.py",
+      "purpose": "Compute sequenced action score."
+    },
+    {
+      "name": "sequenced_action_score",
+      "language": "r",
+      "path": "calculators/r/sequenced_action_score.R",
+      "purpose": "Compute sequenced action score in R."
+    }
+  ]
+}

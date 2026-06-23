@@ -1,0 +1,8 @@
+conditional_action,documentation_quality,ethical_caution,historical_significance,mechanical_embodiment,modern_resonance,repeatability,sequence_structure,theme_id,timing_control
+0.9,0.92,0.82,0.96,0.94,0.96,0.94,0.98,clocks_as_timed_state_change,0.98
+0.92,0.92,0.84,0.96,0.96,0.94,0.9,0.96,elephant_clock_layered_sequence,0.94
+0.92,0.88,0.82,0.94,0.98,0.96,0.94,0.94,cams_levers_control,0.92
+0.84,0.9,0.84,0.94,0.96,0.94,0.98,0.92,water_raising_repeated_work,0.86
+0.98,0.88,0.82,0.92,0.94,0.96,0.9,0.92,floats_vessels_thresholds,0.92
+0.88,0.88,0.84,0.92,0.94,0.96,0.94,0.96,musical_automata_patterned_performance,0.96
+0.86,0.98,0.86,0.96,0.9,0.94,0.9,0.88,diagrams_reproducibility_debugging,0.84

@@ -1,0 +1,11 @@
+{
+  "article": "al_jazari_automata_and_sequenced_mechanical_action",
+  "cautions": 5,
+  "core_threads": 7,
+  "interpretation": "Al-Jazar\u012b\u2019s automata should be studied as sequenced mechanical action: timed state change, conditional triggers, repeatable cycles, mechanical embodiment, and documented reproducibility.",
+  "major_threads": 0,
+  "mean_sequenced_action_score": 0.918413,
+  "supporting_threads": 0,
+  "themes_reviewed": 7,
+  "timestamp_utc": "2026-06-23T04:56:57.182030+00:00"
+}

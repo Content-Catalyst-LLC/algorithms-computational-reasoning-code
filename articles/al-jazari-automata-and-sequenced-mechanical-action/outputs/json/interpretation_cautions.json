@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_call_al_jazari_devices_modern_robots",
+    "meaning": "The devices are automata and mechanical sequences, not modern robotics or AI."
+  },
+  {
+    "caution": "do_not_call_the_book_source_code",
+    "meaning": "Diagrams and instructions are technical specifications, not software code."
+  },
+  {
+    "caution": "do_not_ignore_courtly_display",
+    "meaning": "Spectacle and entertainment can coexist with serious engineering."
+  },
+  {
+    "caution": "do_not_project_general_purpose_programming_backward",
+    "meaning": "Adjustable or sequenced behavior is not the same as modern programmability."
+  },
+  {
+    "caution": "do_not_ignore_material_constraints",
+    "meaning": "Flow, weight, leakage, timing, wear, and calibration shape actual operation."
+  }
+]

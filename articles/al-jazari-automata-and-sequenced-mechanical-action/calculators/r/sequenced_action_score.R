@@ -1,0 +1,13 @@
+args <- commandArgs(trailingOnly = TRUE)
+sequence_structure <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.98)
+timing_control <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.98)
+mechanical_embodiment <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.94)
+conditional_action <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.90)
+repeatability <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.94)
+documentation_quality <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.92)
+historical_significance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.96)
+ethical_caution <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.82)
+modern_resonance <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.96)
+
+score <- mean(c(sequence_structure, timing_control, mechanical_embodiment, conditional_action, repeatability, documentation_quality, historical_significance, ethical_caution, modern_resonance))
+cat(sprintf("sequenced_action_score=%.6f\n", score))

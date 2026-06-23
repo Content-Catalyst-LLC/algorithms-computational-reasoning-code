@@ -1,0 +1,2 @@
+cam_active=true
+angle_distance=1.000000
