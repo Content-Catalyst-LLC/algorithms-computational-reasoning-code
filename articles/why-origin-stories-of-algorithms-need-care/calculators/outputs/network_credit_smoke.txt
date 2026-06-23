@@ -1,0 +1,1 @@
+network_credit_score=1.000000

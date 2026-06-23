@@ -1,0 +1,54 @@
+{
+  "article": "why-origin-stories-of-algorithms-need-care",
+  "safety_scope": "Educational historiographic calculators only; not specialist historical authority.",
+  "calculators": [
+    {
+      "name": "origin_care_score_calculator",
+      "language": "python",
+      "path": "calculators/python/origin_care_score_calculator.py",
+      "purpose": "Compute origin-story care score."
+    },
+    {
+      "name": "layer_confusion_calculator",
+      "language": "python",
+      "path": "calculators/python/layer_confusion_calculator.py",
+      "purpose": "Flag collapsed historical layers."
+    },
+    {
+      "name": "etymology_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/etymology_risk_calculator.py",
+      "purpose": "Flag etymology-as-invention risk."
+    },
+    {
+      "name": "anachronism_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/anachronism_risk_calculator.py",
+      "purpose": "Flag modern computing projected backward."
+    },
+    {
+      "name": "network_credit_calculator",
+      "language": "python",
+      "path": "calculators/python/network_credit_calculator.py",
+      "purpose": "Score network-credit inclusion."
+    },
+    {
+      "name": "evidence_scope_calculator",
+      "language": "python",
+      "path": "calculators/python/evidence_scope_calculator.py",
+      "purpose": "Score evidence and scope in an origin claim."
+    },
+    {
+      "name": "origin_story_rewrite_helper",
+      "language": "python",
+      "path": "calculators/python/origin_story_rewrite_helper.py",
+      "purpose": "Return safer phrasing for common origin-story claims."
+    },
+    {
+      "name": "origin_care_score",
+      "language": "r",
+      "path": "calculators/r/origin_care_score.R",
+      "purpose": "Compute origin-care score in R."
+    }
+  ]
+}

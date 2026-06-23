@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "separate_layers",
+    "title": "Separate Layers",
+    "prompt": "Distinguish word origin, concept origin, practice origin, institutional reception, and modern formalization."
+  },
+  {
+    "card_id": "honor_without_myth",
+    "title": "Honor Without Myth",
+    "prompt": "Credit al-Khw\u0101rizm\u012b precisely without claiming he invented every algorithm."
+  },
+  {
+    "card_id": "analogy_not_identity",
+    "title": "Analogy, Not Identity",
+    "prompt": "Use modern comparisons only when differences remain visible."
+  },
+  {
+    "card_id": "networks_make_memory",
+    "title": "Networks Make Memory",
+    "prompt": "Include translators, scribes, teachers, users, institutions, and tools."
+  }
+]

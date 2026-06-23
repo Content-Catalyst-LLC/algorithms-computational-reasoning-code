@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmOriginStoryCareTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "origin_care_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "evidence_grounding": {
+      "type": "number"
+    },
+    "scope_clarity": {
+      "type": "number"
+    },
+    "anachronism_control": {
+      "type": "number"
+    },
+    "network_awareness": {
+      "type": "number"
+    },
+    "etymology_caution": {
+      "type": "number"
+    },
+    "transmission_depth": {
+      "type": "number"
+    },
+    "credit_distribution": {
+      "type": "number"
+    },
+    "public_usefulness": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "origin_care_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
