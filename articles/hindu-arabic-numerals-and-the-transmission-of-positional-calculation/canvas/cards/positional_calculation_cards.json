@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "representation_changes_computation",
+    "title": "Representation Changes Computation",
+    "prompt": "Ask how place value, zero, and digit position change which arithmetic procedures are easy, teachable, and scalable."
+  },
+  {
+    "card_id": "zero_is_structure",
+    "title": "Zero Is Structure",
+    "prompt": "Track whether zero is acting as placeholder, arithmetic object, boundary case, or conceptual bridge."
+  },
+  {
+    "card_id": "transmission_is_work",
+    "title": "Transmission Is Work",
+    "prompt": "Identify invention, adaptation, teaching, practical use, reception, and standardization separately."
+  }
+]

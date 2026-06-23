@@ -1,0 +1,53 @@
+{
+  "article": "hindu-arabic-numerals-and-the-transmission-of-positional-calculation",
+  "calculators": [
+    {
+      "name": "place_value_calculator",
+      "language": "python",
+      "path": "calculators/python/place_value_calculator.py",
+      "purpose": "Compute positional digit contribution."
+    },
+    {
+      "name": "positional_expansion_calculator",
+      "language": "python",
+      "path": "calculators/python/positional_expansion_calculator.py",
+      "purpose": "Expand a base-10 number into place-value terms."
+    },
+    {
+      "name": "carry_step_calculator",
+      "language": "python",
+      "path": "calculators/python/carry_step_calculator.py",
+      "purpose": "Compute digit and carry from a local sum."
+    },
+    {
+      "name": "borrow_step_calculator",
+      "language": "python",
+      "path": "calculators/python/borrow_step_calculator.py",
+      "purpose": "Compute a simple borrow transformation."
+    },
+    {
+      "name": "base_conversion_calculator",
+      "language": "python",
+      "path": "calculators/python/base_conversion_calculator.py",
+      "purpose": "Convert a nonnegative integer to another base."
+    },
+    {
+      "name": "zero_role_classifier",
+      "language": "python",
+      "path": "calculators/python/zero_role_classifier.py",
+      "purpose": "Classify zero's procedural role."
+    },
+    {
+      "name": "positional_score_calculator",
+      "language": "python",
+      "path": "calculators/python/positional_score_calculator.py",
+      "purpose": "Compute positional calculation score."
+    },
+    {
+      "name": "positional_score",
+      "language": "r",
+      "path": "calculators/r/positional_score.R",
+      "purpose": "Compute positional score in R."
+    }
+  ]
+}

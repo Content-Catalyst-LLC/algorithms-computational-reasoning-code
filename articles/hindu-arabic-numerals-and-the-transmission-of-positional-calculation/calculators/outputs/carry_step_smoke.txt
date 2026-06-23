@@ -1,0 +1,2 @@
+digit=7
+carry=1

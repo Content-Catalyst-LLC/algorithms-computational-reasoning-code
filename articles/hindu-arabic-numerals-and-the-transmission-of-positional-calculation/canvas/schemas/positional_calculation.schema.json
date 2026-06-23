@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PositionalCalculationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "positional_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "procedure": {
+      "type": "number"
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "practical_use": {
+      "type": "number"
+    },
+    "pedagogy": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "positional_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

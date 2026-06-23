@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_erase_indian_origins",
+    "meaning": "The decimal positional system developed in Indian mathematical contexts."
+  },
+  {
+    "caution": "do_not_erase_arabic_transmission",
+    "meaning": "Arabic and Islamic-world scholarship adapted, taught, and transmitted the numerals and procedures."
+  },
+  {
+    "caution": "do_not_reduce_to_digit_shapes",
+    "meaning": "Glyph forms matter, but place-value structure and procedures matter too."
+  },
+  {
+    "caution": "do_not_treat_zero_as_trivial",
+    "meaning": "Zero is both a placeholder and a conceptual arithmetic object."
+  },
+  {
+    "caution": "do_not_make_transmission_passive",
+    "meaning": "Translation, pedagogy, practical use, and reception are active historical work."
+  }
+]

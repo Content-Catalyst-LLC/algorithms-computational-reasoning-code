@@ -1,0 +1,10 @@
+args <- commandArgs(trailingOnly = TRUE)
+representation <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.98)
+procedure <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.94)
+transmission <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.88)
+practical_use <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.92)
+pedagogy <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.92)
+modern_resonance <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.96)
+
+score <- mean(c(representation, procedure, transmission, practical_use, pedagogy, modern_resonance))
+cat(sprintf("positional_score=%.6f\n", score))

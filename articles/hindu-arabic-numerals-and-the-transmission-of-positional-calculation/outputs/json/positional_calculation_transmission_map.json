@@ -1,0 +1,90 @@
+[
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.96,
+    "pedagogy": 0.92,
+    "positional_score": 0.933333,
+    "practical_use": 0.92,
+    "procedure": 0.94,
+    "representation": 0.98,
+    "theme_id": "decimal_place_value",
+    "transmission": 0.88
+  },
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.96,
+    "pedagogy": 0.88,
+    "positional_score": 0.906667,
+    "practical_use": 0.9,
+    "procedure": 0.88,
+    "representation": 0.96,
+    "theme_id": "zero_placeholder",
+    "transmission": 0.86
+  },
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.92,
+    "pedagogy": 0.96,
+    "positional_score": 0.933333,
+    "practical_use": 0.92,
+    "procedure": 0.96,
+    "representation": 0.9,
+    "theme_id": "written_algorism",
+    "transmission": 0.94
+  },
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.9,
+    "pedagogy": 0.92,
+    "positional_score": 0.906667,
+    "practical_use": 0.94,
+    "procedure": 0.96,
+    "representation": 0.88,
+    "theme_id": "carrying_and_borrowing",
+    "transmission": 0.84
+  },
+  {
+    "interpretive_status": "major_positional_calculation_thread",
+    "modern_resonance": 0.86,
+    "pedagogy": 0.88,
+    "positional_score": 0.886667,
+    "practical_use": 0.98,
+    "procedure": 0.9,
+    "representation": 0.84,
+    "theme_id": "commercial_reckoning",
+    "transmission": 0.86
+  },
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.86,
+    "pedagogy": 0.82,
+    "positional_score": 0.86,
+    "practical_use": 0.9,
+    "procedure": 0.88,
+    "representation": 0.86,
+    "theme_id": "astronomical_tables",
+    "transmission": 0.84
+  },
+  {
+    "interpretive_status": "major_positional_calculation_thread",
+    "modern_resonance": 0.88,
+    "pedagogy": 0.94,
+    "positional_score": 0.89,
+    "practical_use": 0.9,
+    "procedure": 0.84,
+    "representation": 0.82,
+    "theme_id": "latin_reception",
+    "transmission": 0.96
+  },
+  {
+    "interpretive_status": "core_positional_calculation_thread",
+    "modern_resonance": 0.8,
+    "pedagogy": 0.82,
+    "positional_score": 0.826667,
+    "practical_use": 0.78,
+    "procedure": 0.76,
+    "representation": 0.88,
+    "theme_id": "numeral_form_variation",
+    "transmission": 0.92
+  }
+]
