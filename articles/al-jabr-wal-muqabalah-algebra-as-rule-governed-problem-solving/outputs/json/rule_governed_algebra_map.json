@@ -1,0 +1,86 @@
+[
+  {
+    "classification": 0.82,
+    "demonstration": 0.78,
+    "interpretive_status": "core_rule_governed_algebra_thread",
+    "modern_resonance": 0.92,
+    "practical_use": 0.84,
+    "procedure_score": 0.862857,
+    "representation": 0.84,
+    "theme_id": "restoration_al_jabr",
+    "transformation": 0.94,
+    "transmission": 0.9
+  },
+  {
+    "classification": 0.84,
+    "demonstration": 0.8,
+    "interpretive_status": "core_rule_governed_algebra_thread",
+    "modern_resonance": 0.92,
+    "practical_use": 0.82,
+    "procedure_score": 0.86,
+    "representation": 0.84,
+    "theme_id": "balancing_al_muqabalah",
+    "transformation": 0.92,
+    "transmission": 0.88
+  },
+  {
+    "classification": 0.96,
+    "demonstration": 0.78,
+    "interpretive_status": "core_rule_governed_algebra_thread",
+    "modern_resonance": 0.9,
+    "practical_use": 0.84,
+    "procedure_score": 0.86,
+    "representation": 0.82,
+    "theme_id": "equation_type_classification",
+    "transformation": 0.86,
+    "transmission": 0.86
+  },
+  {
+    "classification": 0.84,
+    "demonstration": 0.78,
+    "interpretive_status": "core_rule_governed_algebra_thread",
+    "modern_resonance": 0.94,
+    "practical_use": 0.82,
+    "procedure_score": 0.86,
+    "representation": 0.92,
+    "theme_id": "unknown_quantity",
+    "transformation": 0.86,
+    "transmission": 0.86
+  },
+  {
+    "classification": 0.86,
+    "demonstration": 0.92,
+    "interpretive_status": "core_rule_governed_algebra_thread",
+    "modern_resonance": 0.92,
+    "practical_use": 0.78,
+    "procedure_score": 0.882857,
+    "representation": 0.9,
+    "theme_id": "completing_the_square",
+    "transformation": 0.96,
+    "transmission": 0.84
+  },
+  {
+    "classification": 0.8,
+    "demonstration": 0.76,
+    "interpretive_status": "major_rule_governed_algebra_thread",
+    "modern_resonance": 0.84,
+    "practical_use": 0.82,
+    "procedure_score": 0.828571,
+    "representation": 0.88,
+    "theme_id": "verbal_algebra",
+    "transformation": 0.84,
+    "transmission": 0.86
+  },
+  {
+    "classification": 0.82,
+    "demonstration": 0.74,
+    "interpretive_status": "major_rule_governed_algebra_thread",
+    "modern_resonance": 0.84,
+    "practical_use": 0.94,
+    "procedure_score": 0.825714,
+    "representation": 0.8,
+    "theme_id": "practical_word_problems",
+    "transformation": 0.82,
+    "transmission": 0.82
+  }
+]

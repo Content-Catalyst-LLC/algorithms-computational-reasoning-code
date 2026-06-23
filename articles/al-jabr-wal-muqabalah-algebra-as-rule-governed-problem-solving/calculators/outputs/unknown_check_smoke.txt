@@ -1,0 +1,4 @@
+lhs=17.000000
+rhs=17.000000
+residual=0.000000
+satisfies=true

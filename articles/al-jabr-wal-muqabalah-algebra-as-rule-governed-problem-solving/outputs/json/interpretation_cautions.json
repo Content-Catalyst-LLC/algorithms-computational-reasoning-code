@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_project_symbolic_notation_backward",
+    "meaning": "Early algebra often used verbal procedure rather than modern symbolic notation."
+  },
+  {
+    "caution": "do_not_reduce_algebra_to_word_origin",
+    "meaning": "Al-jabr matters as procedure, not only as etymology."
+  },
+  {
+    "caution": "do_not_claim_single_origin",
+    "meaning": "Algebraic reasoning has multiple ancient and medieval roots."
+  },
+  {
+    "caution": "do_not_separate_procedure_from_proof",
+    "meaning": "Geometric demonstration and correctness reasoning matter."
+  },
+  {
+    "caution": "do_not_ignore_practical_context",
+    "meaning": "Inheritance, commerce, surveying, and education shaped algebraic use."
+  }
+]

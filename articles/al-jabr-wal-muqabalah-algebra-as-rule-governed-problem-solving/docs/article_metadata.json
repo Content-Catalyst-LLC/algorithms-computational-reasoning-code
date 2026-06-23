@@ -1,0 +1,20 @@
+{
+  "title": "Al-Jabr wa'l-Muqabalah: Algebra as Rule-Governed Problem Solving",
+  "slug": "al-jabr-wal-muqabalah-algebra-as-rule-governed-problem-solving",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "al-khwarizmi-algorism-and-the-procedural-imagination",
+  "next": "hindu-arabic-numerals-and-the-transmission-of-positional-calculation",
+  "repo_folder": "articles/al-jabr-wal-muqabalah-algebra-as-rule-governed-problem-solving",
+  "topics": [
+    "al-jabr",
+    "al-muqabalah",
+    "algebra history",
+    "rule-governed problem solving",
+    "restoration",
+    "balancing",
+    "equation classification",
+    "unknown quantities",
+    "completing the square",
+    "algorithmic reasoning"
+  ]
+}

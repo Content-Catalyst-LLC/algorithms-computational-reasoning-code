@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "algebra_as_transformation",
+    "title": "Algebra as Transformation",
+    "prompt": "Track how each operation changes the problem while preserving equality or relation."
+  },
+  {
+    "card_id": "classification_selects_method",
+    "title": "Classification Selects Method",
+    "prompt": "Identify the problem type before choosing the algebraic procedure."
+  },
+  {
+    "card_id": "procedure_needs_correctness",
+    "title": "Procedure Needs Correctness",
+    "prompt": "Ask how the method is justified, demonstrated, checked, or verified."
+  }
+]

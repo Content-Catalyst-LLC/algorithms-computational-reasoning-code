@@ -1,0 +1,1 @@
+equation_type=quadratic_problem_type

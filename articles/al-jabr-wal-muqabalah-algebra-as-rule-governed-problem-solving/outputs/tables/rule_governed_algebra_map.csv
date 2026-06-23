@@ -1,0 +1,8 @@
+classification,demonstration,interpretive_status,modern_resonance,practical_use,procedure_score,representation,theme_id,transformation,transmission
+0.82,0.78,core_rule_governed_algebra_thread,0.92,0.84,0.862857,0.84,restoration_al_jabr,0.94,0.9
+0.84,0.8,core_rule_governed_algebra_thread,0.92,0.82,0.86,0.84,balancing_al_muqabalah,0.92,0.88
+0.96,0.78,core_rule_governed_algebra_thread,0.9,0.84,0.86,0.82,equation_type_classification,0.86,0.86
+0.84,0.78,core_rule_governed_algebra_thread,0.94,0.82,0.86,0.92,unknown_quantity,0.86,0.86
+0.86,0.92,core_rule_governed_algebra_thread,0.92,0.78,0.882857,0.9,completing_the_square,0.96,0.84
+0.8,0.76,major_rule_governed_algebra_thread,0.84,0.82,0.828571,0.88,verbal_algebra,0.84,0.86
+0.82,0.74,major_rule_governed_algebra_thread,0.84,0.94,0.825714,0.8,practical_word_problems,0.82,0.82

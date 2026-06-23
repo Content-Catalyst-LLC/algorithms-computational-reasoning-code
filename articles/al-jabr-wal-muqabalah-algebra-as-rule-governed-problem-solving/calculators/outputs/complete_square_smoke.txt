@@ -1,0 +1,2 @@
+completing_term=9.000000
+square_form=(x + 3.000000)^2

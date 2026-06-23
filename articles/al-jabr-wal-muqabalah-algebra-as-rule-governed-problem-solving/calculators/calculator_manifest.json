@@ -1,0 +1,47 @@
+{
+  "article": "al-jabr-wal-muqabalah-algebra-as-rule-governed-problem-solving",
+  "calculators": [
+    {
+      "name": "balance_equation_calculator",
+      "language": "python",
+      "path": "calculators/python/balance_equation_calculator.py",
+      "purpose": "Apply the same addition to both sides of an equation."
+    },
+    {
+      "name": "cancel_common_term_calculator",
+      "language": "python",
+      "path": "calculators/python/cancel_common_term_calculator.py",
+      "purpose": "Cancel a common term from both sides."
+    },
+    {
+      "name": "equation_type_classifier",
+      "language": "python",
+      "path": "calculators/python/equation_type_classifier.py",
+      "purpose": "Classify a toy equation by degree."
+    },
+    {
+      "name": "complete_square_calculator",
+      "language": "python",
+      "path": "calculators/python/complete_square_calculator.py",
+      "purpose": "Compute the completing-square term."
+    },
+    {
+      "name": "unknown_check_calculator",
+      "language": "python",
+      "path": "calculators/python/unknown_check_calculator.py",
+      "purpose": "Check a candidate unknown in a linear equation."
+    },
+    {
+      "name": "algebraic_procedure_score_calculator",
+      "language": "python",
+      "path": "calculators/python/algebraic_procedure_score_calculator.py",
+      "purpose": "Compute algebraic procedure score."
+    },
+    {
+      "name": "algebraic_procedure_score",
+      "language": "r",
+      "path": "calculators/r/algebraic_procedure_score.R",
+      "purpose": "Compute algebraic procedure score in R."
+    }
+  ]
+}

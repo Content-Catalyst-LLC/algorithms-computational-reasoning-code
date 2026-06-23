@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RuleGovernedAlgebraTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "procedure_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "classification": {
+      "type": "number"
+    },
+    "transformation": {
+      "type": "number"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "demonstration": {
+      "type": "number"
+    },
+    "practical_use": {
+      "type": "number"
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "procedure_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

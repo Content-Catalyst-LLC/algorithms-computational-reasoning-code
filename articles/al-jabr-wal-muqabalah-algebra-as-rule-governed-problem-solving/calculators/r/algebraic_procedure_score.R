@@ -1,0 +1,11 @@
+args <- commandArgs(trailingOnly = TRUE)
+classification <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.82)
+transformation <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.94)
+representation <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.84)
+demonstration <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.78)
+practical_use <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.84)
+transmission <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.90)
+modern_resonance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.92)
+
+score <- mean(c(classification, transformation, representation, demonstration, practical_use, transmission, modern_resonance))
+cat(sprintf("algebraic_procedure_score=%.6f\n", score))
