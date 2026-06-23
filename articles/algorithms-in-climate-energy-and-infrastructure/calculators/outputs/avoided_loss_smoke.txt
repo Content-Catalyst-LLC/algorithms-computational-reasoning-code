@@ -1,0 +1,1 @@
+avoided_expected_loss=7700000.000000

@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Climate, Energy, and Infrastructure",
+  "slug": "algorithms-in-climate-energy-and-infrastructure",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-health-care-and-public-health",
+  "next": "algorithms-in-education-and-learning-systems",
+  "repo_folder": "articles/algorithms-in-climate-energy-and-infrastructure",
+  "topics": [
+    "climate algorithms",
+    "energy forecasting",
+    "grid dispatch",
+    "infrastructure resilience",
+    "predictive maintenance",
+    "digital twins",
+    "climate risk",
+    "environmental justice",
+    "critical infrastructure",
+    "resilience governance"
+  ]
+}

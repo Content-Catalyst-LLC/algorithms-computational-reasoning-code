@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-climate-energy-and-infrastructure",
+  "calculators": [
+    {
+      "name": "infrastructure_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/infrastructure_risk_calculator.py",
+      "purpose": "Compute infrastructure risk from hazard, exposure, and vulnerability."
+    },
+    {
+      "name": "grid_balance_calculator",
+      "language": "python",
+      "path": "calculators/python/grid_balance_calculator.py",
+      "purpose": "Compute grid balance margin."
+    },
+    {
+      "name": "maintenance_priority_calculator",
+      "language": "python",
+      "path": "calculators/python/maintenance_priority_calculator.py",
+      "purpose": "Compute maintenance priority score."
+    },
+    {
+      "name": "avoided_loss_calculator",
+      "language": "python",
+      "path": "calculators/python/avoided_loss_calculator.py",
+      "purpose": "Compute avoided expected loss."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute infrastructure governance readiness."
+    },
+    {
+      "name": "resilience_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/resilience_risk_calculator.py",
+      "purpose": "Compute resilience risk."
+    },
+    {
+      "name": "infrastructure_algorithm_score",
+      "language": "r",
+      "path": "calculators/r/infrastructure_algorithm_score.R",
+      "purpose": "Compute infrastructure algorithm indicators."
+    }
+  ]
+}

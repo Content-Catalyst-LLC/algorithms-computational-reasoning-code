@@ -1,0 +1,17 @@
+args <- commandArgs(trailingOnly = TRUE)
+public_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.82)
+climate_exposure <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.72)
+reliability_impact <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.92)
+equity_readiness <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.62)
+validation_readiness <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.74)
+monitoring_readiness <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.78)
+governance_readiness <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.66)
+maintenance_readiness <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.70)
+
+impact <- mean(c(public_impact, climate_exposure, reliability_impact))
+governance_score <- mean(c(equity_readiness, validation_readiness, monitoring_readiness, governance_readiness, maintenance_readiness))
+resilience_risk <- mean(c(impact, 1 - equity_readiness, 1 - validation_readiness, 1 - governance_score))
+
+cat(sprintf("impact_score=%.6f\n", impact))
+cat(sprintf("governance_score=%.6f\n", governance_score))
+cat(sprintf("resilience_risk_score=%.6f\n", resilience_risk))

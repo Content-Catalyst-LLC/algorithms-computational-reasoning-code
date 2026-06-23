@@ -1,0 +1,9 @@
+item,description,review_question
+system_inventory,Model owner purpose physical system data sources decision role and public impact,Can the public system identify and govern the algorithm?
+uncertainty_and_scenario_review,Scenarios time horizons spatial scale assumptions exclusions and uncertainty,Are climate and infrastructure uncertainties visible?
+equity_and_public_value_review,Affected communities vulnerability service quality and distributional burdens,Who benefits and who remains exposed?
+validation_and_stress_testing,Historical tests stress scenarios sensitivity and physical plausibility,Does the model work under adverse conditions?
+monitoring_and_maintenance,Sensor coverage data quality drift incident learning and maintenance,Is the system kept current over time?
+human_override_and_emergency_protocol,Operator authority emergency procedures escalation and override logs,Can humans act when conditions are unsafe?
+stop_rule,Pause rollback limitation or retirement condition,Who can stop unsafe or misleading use?
+sensor_coverage_review,Monitoring geography asset coverage gaps and missing data,What places or assets are invisible to the model?

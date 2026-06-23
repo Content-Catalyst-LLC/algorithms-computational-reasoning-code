@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "InfrastructureAlgorithmAudit",
+  "type": "object",
+  "required": [
+    "system_id",
+    "impact_score",
+    "governance_score",
+    "resilience_risk_score",
+    "recommendation"
+  ],
+  "properties": {
+    "system_id": {
+      "type": "string"
+    },
+    "impact_score": {
+      "type": "number"
+    },
+    "governance_score": {
+      "type": "number"
+    },
+    "resilience_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+"systems_reviewed","systems_requiring_governance_redesign","systems_requiring_public_value_review","systems_requiring_reliability_review","systems_requiring_climate_equity_review","mean_resilience_risk_score","mean_governance_score","mean_impact_score","governance_controls","diagnostic_note"
+4,0,0,2,1,0.415083,0.683,0.703333,7,"Infrastructure algorithm governance should connect climate exposure, public impact, reliability impact, equity readiness, validation, monitoring, maintenance, uncertainty, human override, audit trails, and stop authority."

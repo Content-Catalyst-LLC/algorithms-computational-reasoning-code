@@ -1,0 +1,37 @@
+[
+  {
+    "control": "system_inventory",
+    "review_question": "Is the model recorded with owner, purpose, physical system, data sources, decision role, and public impact?",
+    "status": "required"
+  },
+  {
+    "control": "uncertainty_and_scenario_review",
+    "review_question": "Are uncertainty, scenarios, time horizon, spatial scale, and assumptions documented?",
+    "status": "required"
+  },
+  {
+    "control": "equity_and_public_value_review",
+    "review_question": "Are affected communities, service access, vulnerability, and distributional burdens reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "validation_and_stress_testing",
+    "review_question": "Are historical tests, stress scenarios, sensitivity, and physical plausibility reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_and_maintenance",
+    "review_question": "Are data quality, sensor coverage, drift, maintenance, and incident learning monitored?",
+    "status": "required"
+  },
+  {
+    "control": "human_override_and_emergency_protocol",
+    "review_question": "Can operators override outputs during unsafe, uncertain, or emergency conditions?",
+    "status": "required"
+  },
+  {
+    "control": "stop_rule",
+    "review_question": "Can the system be paused, limited, rolled back, or retired when unsafe or misleading?",
+    "status": "required"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "climate_exposure": 0.72,
+    "equity_readiness": 0.62,
+    "governance_readiness": 0.66,
+    "governance_score": 0.7,
+    "impact_score": 0.82,
+    "maintenance_readiness": 0.7,
+    "monitoring_readiness": 0.78,
+    "public_impact": 0.82,
+    "recommendation": "reliability_and_safety_review_required",
+    "reliability_impact": 0.92,
+    "resilience_risk_score": 0.44,
+    "system_id": "grid_demand_forecast_dispatch",
+    "validation_readiness": 0.74
+  },
+  {
+    "climate_exposure": 0.94,
+    "equity_readiness": 0.54,
+    "governance_readiness": 0.58,
+    "governance_score": 0.592,
+    "impact_score": 0.813333,
+    "maintenance_readiness": 0.56,
+    "monitoring_readiness": 0.6,
+    "public_impact": 0.88,
+    "recommendation": "climate_equity_review_required",
+    "reliability_impact": 0.62,
+    "resilience_risk_score": 0.500333,
+    "system_id": "flood_risk_resilience_map",
+    "validation_readiness": 0.68
+  },
+  {
+    "climate_exposure": 0.58,
+    "equity_readiness": 0.66,
+    "governance_readiness": 0.64,
+    "governance_score": 0.7,
+    "impact_score": 0.726667,
+    "maintenance_readiness": 0.78,
+    "monitoring_readiness": 0.7,
+    "public_impact": 0.76,
+    "recommendation": "reliability_and_safety_review_required",
+    "reliability_impact": 0.84,
+    "resilience_risk_score": 0.411667,
+    "system_id": "bridge_predictive_maintenance",
+    "validation_readiness": 0.72
+  },
+  {
+    "climate_exposure": 0.42,
+    "equity_readiness": 0.7,
+    "governance_readiness": 0.76,
+    "governance_score": 0.74,
+    "impact_score": 0.453333,
+    "maintenance_readiness": 0.72,
+    "monitoring_readiness": 0.74,
+    "public_impact": 0.48,
+    "recommendation": "governed_use_with_monitoring",
+    "reliability_impact": 0.46,
+    "resilience_risk_score": 0.308333,
+    "system_id": "building_energy_optimization",
+    "validation_readiness": 0.78
+  }
+]

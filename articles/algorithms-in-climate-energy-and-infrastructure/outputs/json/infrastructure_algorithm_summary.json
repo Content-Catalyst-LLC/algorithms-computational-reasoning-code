@@ -1,0 +1,14 @@
+{
+  "article": "algorithms_in_climate_energy_and_infrastructure",
+  "governance_controls": 7,
+  "interpretation": "Infrastructure algorithm governance should connect climate exposure, public impact, reliability impact, equity readiness, validation, monitoring, maintenance, uncertainty, human override, audit trails, and stop authority.",
+  "mean_governance_score": 0.683,
+  "mean_impact_score": 0.703333,
+  "mean_resilience_risk_score": 0.415083,
+  "systems_requiring_climate_equity_review": 1,
+  "systems_requiring_governance_redesign": 0,
+  "systems_requiring_public_value_review": 0,
+  "systems_requiring_reliability_review": 2,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-23T01:02:33.514549+00:00"
+}

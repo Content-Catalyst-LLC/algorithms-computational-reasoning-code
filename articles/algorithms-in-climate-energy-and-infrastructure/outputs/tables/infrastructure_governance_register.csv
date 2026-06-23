@@ -1,0 +1,8 @@
+control,review_question,status
+system_inventory,"Is the model recorded with owner, purpose, physical system, data sources, decision role, and public impact?",required
+uncertainty_and_scenario_review,"Are uncertainty, scenarios, time horizon, spatial scale, and assumptions documented?",required
+equity_and_public_value_review,"Are affected communities, service access, vulnerability, and distributional burdens reviewed?",required
+validation_and_stress_testing,"Are historical tests, stress scenarios, sensitivity, and physical plausibility reviewed?",required
+monitoring_and_maintenance,"Are data quality, sensor coverage, drift, maintenance, and incident learning monitored?",required
+human_override_and_emergency_protocol,"Can operators override outputs during unsafe, uncertain, or emergency conditions?",required
+stop_rule,"Can the system be paused, limited, rolled back, or retired when unsafe or misleading?",required

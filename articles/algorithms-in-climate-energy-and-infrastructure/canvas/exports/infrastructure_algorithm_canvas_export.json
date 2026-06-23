@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-climate-energy-and-infrastructure",
+  "canvas_cards": [
+    "Uncertainty Is a Design Input",
+    "Sensor Coverage Is Not Reality",
+    "Resilience Is Public Governance"
+  ],
+  "governance_layers": [
+    "system_inventory",
+    "uncertainty_and_scenario_review",
+    "equity_and_public_value_review",
+    "validation_and_stress_testing",
+    "monitoring_and_maintenance",
+    "human_override_and_emergency_protocol",
+    "stop_rule",
+    "sensor_coverage_review"
+  ]
+}

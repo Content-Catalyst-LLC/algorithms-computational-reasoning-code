@@ -1,0 +1,5 @@
+climate_exposure,equity_readiness,governance_readiness,governance_score,impact_score,maintenance_readiness,monitoring_readiness,public_impact,recommendation,reliability_impact,resilience_risk_score,system_id,validation_readiness
+0.72,0.62,0.66,0.7,0.82,0.7,0.78,0.82,reliability_and_safety_review_required,0.92,0.44,grid_demand_forecast_dispatch,0.74
+0.94,0.54,0.58,0.592,0.813333,0.56,0.6,0.88,climate_equity_review_required,0.62,0.500333,flood_risk_resilience_map,0.68
+0.58,0.66,0.64,0.7,0.726667,0.78,0.7,0.76,reliability_and_safety_review_required,0.84,0.411667,bridge_predictive_maintenance,0.72
+0.42,0.7,0.76,0.74,0.453333,0.72,0.74,0.48,governed_use_with_monitoring,0.46,0.308333,building_energy_optimization,0.78

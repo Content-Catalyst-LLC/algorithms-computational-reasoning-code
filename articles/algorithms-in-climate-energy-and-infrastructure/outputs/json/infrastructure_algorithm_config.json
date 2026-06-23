@@ -1,0 +1,7 @@
+{
+  "article": "algorithms_in_climate_energy_and_infrastructure",
+  "high_public_impact_threshold": 0.8,
+  "high_reliability_impact_threshold": 0.8,
+  "high_resilience_risk_threshold": 0.7,
+  "low_governance_threshold": 0.65
+}

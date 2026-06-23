@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "uncertainty_is_design_input",
+    "title": "Uncertainty Is a Design Input",
+    "prompt": "Ask what assumptions, scenarios, time horizons, spatial scales, and uncertainty bands shape the result."
+  },
+  {
+    "card_id": "sensor_coverage_is_not_reality",
+    "title": "Sensor Coverage Is Not Reality",
+    "prompt": "Review which places, assets, communities, hazards, and failures are invisible or undermeasured."
+  },
+  {
+    "card_id": "resilience_is_public_governance",
+    "title": "Resilience Is Public Governance",
+    "prompt": "Check whether the model supports safety, equity, public value, human override, emergency action, and stop authority."
+  }
+]

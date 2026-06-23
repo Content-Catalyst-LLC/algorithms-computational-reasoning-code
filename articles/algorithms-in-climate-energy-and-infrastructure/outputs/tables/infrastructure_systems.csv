@@ -1,0 +1,5 @@
+climate_exposure,equity_readiness,governance_readiness,maintenance_readiness,monitoring_readiness,public_impact,reliability_impact,system_id,validation_readiness
+0.72,0.62,0.66,0.7,0.78,0.82,0.92,grid_demand_forecast_dispatch,0.74
+0.94,0.54,0.58,0.56,0.6,0.88,0.62,flood_risk_resilience_map,0.68
+0.58,0.66,0.64,0.78,0.7,0.76,0.84,bridge_predictive_maintenance,0.72
+0.42,0.7,0.76,0.72,0.74,0.48,0.46,building_energy_optimization,0.78
