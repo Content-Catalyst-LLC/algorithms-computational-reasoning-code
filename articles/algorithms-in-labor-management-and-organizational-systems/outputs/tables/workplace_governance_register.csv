@@ -1,0 +1,8 @@
+control,review_question,status
+algorithm_inventory,"Is the workplace algorithm recorded with owner, purpose, data, vendor, decision role, worker impact, and status?",required
+labor_impact_assessment,"Are effects on hiring, scheduling, pay, discipline, workload, safety, autonomy, and opportunity reviewed?",required
+fairness_and_opportunity_review,"Are subgroup outcomes, error rates, rating bias, access, promotion, and workload distribution reviewed?",required
+privacy_and_surveillance_review,"Are monitoring scope, data minimization, purpose limits, retention, and vendor access documented?",required
+contestability_and_appeal,"Can workers understand, correct, challenge, and appeal consequential outputs?",required
+human_review_and_worker_voice,"Are manager review, worker feedback, override authority, and collective governance channels defined?",required
+monitoring_and_stop_rule,"Are harms, bias, privacy incidents, safety problems, and metric distortion monitored with stop authority?",required

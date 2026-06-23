@@ -1,0 +1,2 @@
+coverage_margin=30.000000
+coverage_ratio=1.076923

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "activity_is_not_productivity",
+    "title": "Activity Is Not Productivity",
+    "prompt": "Ask whether clicks, time, speed, or output count actually represent meaningful work quality."
+  },
+  {
+    "card_id": "automation_does_not_remove_management",
+    "title": "Automation Does Not Remove Management",
+    "prompt": "Identify who owns the decision, who can override it, and how workers can challenge it."
+  },
+  {
+    "card_id": "worker_voice_is_governance",
+    "title": "Worker Voice Is Governance",
+    "prompt": "Check whether workers can explain hidden constraints, appeal errors, and shape monitoring practices."
+  }
+]

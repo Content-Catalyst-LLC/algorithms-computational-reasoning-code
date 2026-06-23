@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-labor-management-and-organizational-systems",
+  "canvas_cards": [
+    "Activity Is Not Productivity",
+    "Automation Does Not Remove Management",
+    "Worker Voice Is Governance"
+  ],
+  "governance_layers": [
+    "algorithm_inventory",
+    "labor_impact_assessment",
+    "fairness_and_opportunity_review",
+    "privacy_and_surveillance_review",
+    "contestability_and_appeal",
+    "human_review_and_worker_voice",
+    "monitoring_and_stop_rule",
+    "safety_review"
+  ]
+}

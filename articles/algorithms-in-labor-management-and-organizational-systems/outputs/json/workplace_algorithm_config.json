@@ -1,0 +1,7 @@
+{
+  "article": "algorithms_in_labor_management_and_organizational_systems",
+  "high_worker_impact_threshold": 0.8,
+  "high_workplace_risk_threshold": 0.7,
+  "low_contestability_threshold": 0.6,
+  "low_governance_threshold": 0.65
+}

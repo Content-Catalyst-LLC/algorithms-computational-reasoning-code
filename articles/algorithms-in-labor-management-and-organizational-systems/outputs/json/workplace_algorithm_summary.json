@@ -1,0 +1,15 @@
+{
+  "article": "algorithms_in_labor_management_and_organizational_systems",
+  "governance_controls": 7,
+  "interpretation": "Workplace algorithm governance should connect worker impact, managerial impact, fairness, privacy, contestability, safety, human review, worker voice, monitoring, audit trails, and stop authority.",
+  "mean_governance_readiness_score": 0.646286,
+  "mean_impact_score": 0.782,
+  "mean_workplace_algorithm_risk_score": 0.444743,
+  "systems_requiring_contestability_review": 1,
+  "systems_requiring_equity_review": 1,
+  "systems_requiring_privacy_review": 1,
+  "systems_requiring_redesign": 0,
+  "systems_requiring_worker_impact_review": 1,
+  "systems_reviewed": 5,
+  "timestamp_utc": "2026-06-23T02:25:41.999069+00:00"
+}

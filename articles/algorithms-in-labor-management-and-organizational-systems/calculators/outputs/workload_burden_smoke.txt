@@ -1,0 +1,1 @@
+workload_burden_score=0.760000

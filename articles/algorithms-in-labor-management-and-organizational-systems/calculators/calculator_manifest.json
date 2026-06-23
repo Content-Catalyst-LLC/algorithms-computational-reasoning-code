@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-labor-management-and-organizational-systems",
+  "calculators": [
+    {
+      "name": "hiring_score_calculator",
+      "language": "python",
+      "path": "calculators/python/hiring_score_calculator.py",
+      "purpose": "Compute a toy hiring score."
+    },
+    {
+      "name": "scheduling_coverage_calculator",
+      "language": "python",
+      "path": "calculators/python/scheduling_coverage_calculator.py",
+      "purpose": "Compute staffing coverage margin."
+    },
+    {
+      "name": "productivity_metric_calculator",
+      "language": "python",
+      "path": "calculators/python/productivity_metric_calculator.py",
+      "purpose": "Compute a context-adjusted productivity metric."
+    },
+    {
+      "name": "workload_burden_calculator",
+      "language": "python",
+      "path": "calculators/python/workload_burden_calculator.py",
+      "purpose": "Compute a workload burden score."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute workplace governance readiness."
+    },
+    {
+      "name": "workplace_algorithm_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/workplace_algorithm_risk_calculator.py",
+      "purpose": "Compute workplace algorithm risk."
+    },
+    {
+      "name": "workplace_algorithm_score",
+      "language": "r",
+      "path": "calculators/r/workplace_algorithm_score.R",
+      "purpose": "Compute workplace algorithm indicators."
+    }
+  ]
+}

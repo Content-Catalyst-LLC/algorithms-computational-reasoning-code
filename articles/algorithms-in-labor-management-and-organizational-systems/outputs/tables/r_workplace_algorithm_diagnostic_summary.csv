@@ -1,0 +1,2 @@
+"systems_reviewed","systems_requiring_redesign","systems_requiring_contestability_review","systems_requiring_worker_impact_review","systems_requiring_privacy_review","systems_requiring_equity_review","mean_workplace_algorithm_risk_score","mean_governance_readiness_score","mean_impact_score","governance_controls","diagnostic_note"
+5,0,1,1,1,1,0.444743,0.646286,0.782,7,"Workplace algorithm governance should connect worker impact, managerial impact, fairness, privacy, contestability, safety, human review, worker voice, monitoring, audit trails, and stop authority."

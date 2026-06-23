@@ -1,0 +1,18 @@
+args <- commandArgs(trailingOnly = TRUE)
+worker_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.88)
+managerial_impact <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.72)
+fairness_readiness <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.58)
+privacy_readiness <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.66)
+contestability <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.52)
+safety_readiness <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.70)
+human_review <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.60)
+monitoring <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.58)
+governance <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.56)
+
+impact <- mean(c(worker_impact, managerial_impact))
+governance_readiness <- mean(c(fairness_readiness, privacy_readiness, contestability, safety_readiness, human_review, monitoring, governance))
+workplace_algorithm_risk <- mean(c(impact, 1 - fairness_readiness, 1 - privacy_readiness, 1 - contestability, 1 - governance_readiness))
+
+cat(sprintf("impact_score=%.6f\n", impact))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("workplace_algorithm_risk_score=%.6f\n", workplace_algorithm_risk))

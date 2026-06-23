@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Labor, Management, and Organizational Systems",
+  "slug": "algorithms-in-labor-management-and-organizational-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-education-and-learning-systems",
+  "next": "islamic-world-roots-of-algorithmic-reasoning",
+  "repo_folder": "articles/algorithms-in-labor-management-and-organizational-systems",
+  "topics": [
+    "workplace algorithms",
+    "algorithmic management",
+    "hiring algorithms",
+    "workforce analytics",
+    "scheduling optimization",
+    "productivity monitoring",
+    "platform work",
+    "workplace privacy",
+    "contestability",
+    "organizational governance"
+  ]
+}
