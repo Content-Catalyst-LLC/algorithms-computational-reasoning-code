@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_reduce_fortran_to_old_syntax",
+    "meaning": "Fortran matters because it made high-level scientific programming practical and performant."
+  },
+  {
+    "caution": "do_not_tell_a_lone_inventor_story",
+    "meaning": "Backus led a team; FORTRAN was a collaborative language and compiler achievement."
+  },
+  {
+    "caution": "do_not_ignore_optimization",
+    "meaning": "FORTRAN succeeded because the compiler made abstraction credible through performance."
+  },
+  {
+    "caution": "do_not_confuse_high_level_with_low_rigor",
+    "meaning": "High-level scientific programming still requires numerical analysis, tests, and performance review."
+  },
+  {
+    "caution": "do_not_trust_generated_code_without_translation_review",
+    "meaning": "AI-generated code must be checked for correctness, performance, assumptions, and maintainability."
+  }
+]

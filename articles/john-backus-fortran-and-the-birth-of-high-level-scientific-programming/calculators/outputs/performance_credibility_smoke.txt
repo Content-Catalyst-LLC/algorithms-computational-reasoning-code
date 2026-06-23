@@ -1,0 +1,2 @@
+runtime_ratio_generated_to_handcoded=1.120000
+status=high_performance_credibility

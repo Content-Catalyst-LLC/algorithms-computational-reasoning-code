@@ -1,0 +1,6 @@
+caution,meaning
+do_not_reduce_fortran_to_old_syntax,Fortran matters because it made high-level scientific programming practical and performant.
+do_not_tell_a_lone_inventor_story,Backus led a team; FORTRAN was a collaborative language and compiler achievement.
+do_not_ignore_optimization,FORTRAN succeeded because the compiler made abstraction credible through performance.
+do_not_confuse_high_level_with_low_rigor,"High-level scientific programming still requires numerical analysis, tests, and performance review."
+do_not_trust_generated_code_without_translation_review,"AI-generated code must be checked for correctness, performance, assumptions, and maintainability."

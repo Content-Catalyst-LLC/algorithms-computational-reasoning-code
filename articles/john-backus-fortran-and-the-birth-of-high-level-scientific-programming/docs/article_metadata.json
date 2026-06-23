@@ -1,0 +1,28 @@
+{
+  "title": "John Backus, Fortran, and the Birth of High-Level Scientific Programming",
+  "slug": "john-backus-fortran-and-the-birth-of-high-level-scientific-programming",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "donald-knuth-and-the-art-of-computer-programming",
+  "next": "the-history-of-programming-languages",
+  "repo_folder": "articles/john-backus-fortran-and-the-birth-of-high-level-scientific-programming",
+  "topics": [
+    "John Backus",
+    "Fortran",
+    "FORTRAN",
+    "formula translation",
+    "IBM 704",
+    "high-level scientific programming",
+    "compiler optimization",
+    "numerical computing",
+    "arrays",
+    "loops",
+    "subroutines",
+    "machine independence",
+    "portability",
+    "Backus-Naur Form",
+    "functional programming",
+    "high-performance computing",
+    "AI code review"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scores are not compiler validation, numerical certification, benchmark results, or software safety guarantees."
+}

@@ -1,0 +1,60 @@
+{
+  "article": "john-backus-fortran-and-the-birth-of-high-level-scientific-programming",
+  "safety_scope": "Educational Backus/FORTRAN calculators only; not compiler validation, benchmark certification, or numerical safety guarantees.",
+  "calculators": [
+    {
+      "name": "birth_score_calculator",
+      "language": "python",
+      "path": "calculators/python/birth_score_calculator.py",
+      "purpose": "Compute high-level scientific programming birth score."
+    },
+    {
+      "name": "formula_translation_calculator",
+      "language": "python",
+      "path": "calculators/python/formula_translation_calculator.py",
+      "purpose": "Evaluate a quadratic formula."
+    },
+    {
+      "name": "vector_loop_calculator",
+      "language": "python",
+      "path": "calculators/python/vector_loop_calculator.py",
+      "purpose": "Apply a vectorized scientific formula."
+    },
+    {
+      "name": "portability_score_calculator",
+      "language": "python",
+      "path": "calculators/python/portability_score_calculator.py",
+      "purpose": "Estimate source portability."
+    },
+    {
+      "name": "performance_credibility_calculator",
+      "language": "python",
+      "path": "calculators/python/performance_credibility_calculator.py",
+      "purpose": "Compare generated-code runtime with baseline."
+    },
+    {
+      "name": "translation_trust_calculator",
+      "language": "python",
+      "path": "calculators/python/translation_trust_calculator.py",
+      "purpose": "Estimate trust in high-level translation."
+    },
+    {
+      "name": "bnf_rule_helper",
+      "language": "python",
+      "path": "calculators/python/bnf_rule_helper.py",
+      "purpose": "Generate simple BNF-style production."
+    },
+    {
+      "name": "ai_scientific_code_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_scientific_code_caution_calculator.py",
+      "purpose": "Flag generated scientific code overclaims."
+    },
+    {
+      "name": "birth_score",
+      "language": "r",
+      "path": "calculators/r/birth_score.R",
+      "purpose": "Compute birth score in R."
+    }
+  ]
+}

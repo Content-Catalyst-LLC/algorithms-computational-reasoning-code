@@ -1,0 +1,10 @@
+item,description,review_question
+formula_translation,Mathematical formulas become high-level source expressions,How does source code reflect scientific notation?
+ibm_704_fortran_compiler,FORTRAN had to work on real hardware with performance constraints,What machine assumptions shape translation?
+compiler_optimization,Generated code had to be efficient enough to earn trust,How does abstraction preserve performance?
+scientists_engineers_domain_expression,Domain experts could express numerical work closer to their concepts,Whose work becomes programmable?
+arrays_loops_numerical_work,Arrays loops and subroutines support scientific computation,What numerical pattern is being expressed?
+machine_independence_portability,Source programs can persist beyond a single machine,What does portability require?
+backus_naur_form,Language syntax becomes formally describable,How is valid source defined?
+functional_programming_later_backus,Backus later questioned von Neumann-style programming,How do languages shape thought?
+ai_code_generation_fortran_lesson,Generated scientific code must earn trust,What must be checked before deployment?

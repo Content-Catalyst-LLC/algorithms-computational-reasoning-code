@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "formula_translation",
+    "title": "Formula Translation",
+    "prompt": "Explain how mathematical formulas become executable source programs."
+  },
+  {
+    "card_id": "compiler_optimization",
+    "title": "Compiler Optimization",
+    "prompt": "Explain why performance credibility was essential to FORTRAN adoption."
+  },
+  {
+    "card_id": "arrays_loops",
+    "title": "Arrays and Loops",
+    "prompt": "Show how scientific computation depends on indexed data and repeated procedures."
+  },
+  {
+    "card_id": "backus_naur_form",
+    "title": "Backus-Naur Form",
+    "prompt": "Explain how programming-language syntax can be specified formally."
+  },
+  {
+    "card_id": "ai_scientific_review",
+    "title": "AI Scientific Code Review",
+    "prompt": "Apply Fortran's translation-trust lesson to generated scientific code."
+  }
+]

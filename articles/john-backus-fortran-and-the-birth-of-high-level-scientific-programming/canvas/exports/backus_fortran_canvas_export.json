@@ -1,0 +1,21 @@
+{
+  "article": "john-backus-fortran-and-the-birth-of-high-level-scientific-programming",
+  "canvas_cards": [
+    "Formula Translation",
+    "Compiler Optimization",
+    "Arrays and Loops",
+    "Backus-Naur Form",
+    "AI Scientific Code Review"
+  ],
+  "interpretive_layers": [
+    "formula_translation",
+    "ibm_704_fortran_compiler",
+    "scientists_engineers_domain_expression",
+    "arrays_loops_numerical_work",
+    "machine_independence_portability",
+    "fortran_scientific_computing_hpc",
+    "backus_naur_form",
+    "functional_programming_later_backus",
+    "ai_code_generation_fortran_lesson"
+  ]
+}

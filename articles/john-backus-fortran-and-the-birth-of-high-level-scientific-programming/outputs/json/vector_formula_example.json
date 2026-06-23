@@ -1,0 +1,27 @@
+[
+  {
+    "index": 1,
+    "sin_x_plus_x_squared": 0.0,
+    "x": 0.0
+  },
+  {
+    "index": 2,
+    "sin_x_plus_x_squared": 0.729426,
+    "x": 0.5
+  },
+  {
+    "index": 3,
+    "sin_x_plus_x_squared": 1.841471,
+    "x": 1.0
+  },
+  {
+    "index": 4,
+    "sin_x_plus_x_squared": 3.247495,
+    "x": 1.5
+  },
+  {
+    "index": 5,
+    "sin_x_plus_x_squared": 4.909297,
+    "x": 2.0
+  }
+]

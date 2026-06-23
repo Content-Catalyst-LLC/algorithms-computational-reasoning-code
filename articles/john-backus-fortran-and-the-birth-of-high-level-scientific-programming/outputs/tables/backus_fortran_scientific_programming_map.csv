@@ -1,0 +1,10 @@
+birth_score,compiler_optimization,formal_specification,governance_caution,high_level_language,interpretive_status,language_history,maintainability,numerical_relevance,performance_credibility,portability,scientific_expression,theme_id
+0.928,0.94,0.84,0.88,0.98,core_backus_fortran_scientific_programming_thread,0.94,0.9,0.96,0.96,0.9,0.98,formula_translation
+0.92,0.98,0.82,0.88,0.96,core_backus_fortran_scientific_programming_thread,0.96,0.88,0.94,0.98,0.86,0.94,ibm_704_fortran_compiler
+0.91,0.88,0.8,0.88,0.96,core_backus_fortran_scientific_programming_thread,0.9,0.92,0.98,0.92,0.88,0.98,scientists_engineers_domain_expression
+0.91,0.92,0.82,0.88,0.94,core_backus_fortran_scientific_programming_thread,0.88,0.9,0.98,0.94,0.88,0.96,arrays_loops_numerical_work
+0.922,0.9,0.86,0.92,0.94,core_backus_fortran_scientific_programming_thread,0.94,0.96,0.92,0.9,0.98,0.9,machine_independence_portability
+0.944,0.96,0.86,0.92,0.92,core_backus_fortran_scientific_programming_thread,0.94,0.96,0.98,0.98,0.94,0.98,fortran_scientific_computing_hpc
+0.856,0.8,0.98,0.9,0.88,core_backus_fortran_scientific_programming_thread,0.98,0.88,0.74,0.76,0.86,0.78,backus_naur_form
+0.862,0.82,0.94,0.92,0.88,core_backus_fortran_scientific_programming_thread,0.96,0.88,0.78,0.78,0.84,0.82,functional_programming_later_backus
+0.914,0.9,0.88,0.98,0.9,core_backus_fortran_scientific_programming_thread,0.88,0.96,0.9,0.94,0.88,0.92,ai_code_generation_fortran_lesson

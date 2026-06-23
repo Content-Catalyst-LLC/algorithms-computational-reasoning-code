@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BackusFortranScientificProgrammingTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "birth_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "high_level_language": {
+      "type": "number"
+    },
+    "scientific_expression": {
+      "type": "number"
+    },
+    "compiler_optimization": {
+      "type": "number"
+    },
+    "numerical_relevance": {
+      "type": "number"
+    },
+    "portability": {
+      "type": "number"
+    },
+    "performance_credibility": {
+      "type": "number"
+    },
+    "language_history": {
+      "type": "number"
+    },
+    "formal_specification": {
+      "type": "number"
+    },
+    "maintainability": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "birth_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
