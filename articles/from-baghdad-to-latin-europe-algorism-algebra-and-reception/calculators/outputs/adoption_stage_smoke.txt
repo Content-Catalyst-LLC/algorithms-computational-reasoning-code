@@ -1,0 +1,2 @@
+adoption_score=0.862500
+adoption_stage=normalized

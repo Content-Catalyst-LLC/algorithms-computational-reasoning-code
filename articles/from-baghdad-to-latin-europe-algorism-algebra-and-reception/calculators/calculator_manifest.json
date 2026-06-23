@@ -1,0 +1,54 @@
+{
+  "article": "from-baghdad-to-latin-europe-algorism-algebra-and-reception",
+  "safety_scope": "Educational conceptual calculators only; not specialist manuscript, philological, or historical authority.",
+  "calculators": [
+    {
+      "name": "place_value_calculator",
+      "language": "python",
+      "path": "calculators/python/place_value_calculator.py",
+      "purpose": "Compute value from place-value digits."
+    },
+    {
+      "name": "carrying_calculator",
+      "language": "python",
+      "path": "calculators/python/carrying_calculator.py",
+      "purpose": "Demonstrate carry in addition."
+    },
+    {
+      "name": "borrowing_calculator",
+      "language": "python",
+      "path": "calculators/python/borrowing_calculator.py",
+      "purpose": "Demonstrate borrowing in subtraction."
+    },
+    {
+      "name": "algebra_case_calculator",
+      "language": "python",
+      "path": "calculators/python/algebra_case_calculator.py",
+      "purpose": "Classify a simple algebraic equation case."
+    },
+    {
+      "name": "reception_score_calculator",
+      "language": "python",
+      "path": "calculators/python/reception_score_calculator.py",
+      "purpose": "Compute algorism/algebra reception score."
+    },
+    {
+      "name": "trust_verification_calculator",
+      "language": "python",
+      "path": "calculators/python/trust_verification_calculator.py",
+      "purpose": "Score trust and verification conditions."
+    },
+    {
+      "name": "adoption_stage_calculator",
+      "language": "python",
+      "path": "calculators/python/adoption_stage_calculator.py",
+      "purpose": "Classify adoption stage."
+    },
+    {
+      "name": "reception_score",
+      "language": "r",
+      "path": "calculators/r/reception_score.R",
+      "purpose": "Compute reception score in R."
+    }
+  ]
+}

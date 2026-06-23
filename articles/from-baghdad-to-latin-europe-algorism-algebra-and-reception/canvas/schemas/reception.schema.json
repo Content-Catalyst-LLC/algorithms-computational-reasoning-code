@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorismAlgebraReceptionTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "reception_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedural_portability": {
+      "type": "number"
+    },
+    "notation_change": {
+      "type": "number"
+    },
+    "translation_pathway": {
+      "type": "number"
+    },
+    "teaching_value": {
+      "type": "number"
+    },
+    "practical_utility": {
+      "type": "number"
+    },
+    "institutional_adoption": {
+      "type": "number"
+    },
+    "trust_verification": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "reception_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

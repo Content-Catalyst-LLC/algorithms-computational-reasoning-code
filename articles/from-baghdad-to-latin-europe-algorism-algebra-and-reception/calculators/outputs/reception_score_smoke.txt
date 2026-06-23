@@ -1,0 +1,1 @@
+reception_score=0.942000
