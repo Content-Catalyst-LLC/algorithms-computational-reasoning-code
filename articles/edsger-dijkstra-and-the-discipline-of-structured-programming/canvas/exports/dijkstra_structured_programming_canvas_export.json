@@ -1,0 +1,21 @@
+{
+  "article": "edsger-dijkstra-and-the-discipline-of-structured-programming",
+  "canvas_cards": [
+    "Structured Control",
+    "Loop Invariants",
+    "Weakest Preconditions",
+    "Dijkstra's Algorithm",
+    "AI Code Review"
+  ],
+  "interpretive_layers": [
+    "structured_control_flow",
+    "goto_considered_harmful",
+    "program_correctness",
+    "loop_invariants",
+    "weakest_preconditions",
+    "guarded_commands",
+    "dijkstra_shortest_path_algorithm",
+    "layered_systems_and_concurrency",
+    "ai_generated_code_review"
+  ]
+}

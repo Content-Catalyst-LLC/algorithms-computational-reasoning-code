@@ -1,0 +1,27 @@
+{
+  "title": "Edsger Dijkstra and the Discipline of Structured Programming",
+  "slug": "edsger-dijkstra-and-the-discipline-of-structured-programming",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "grace-hopper-compilers-and-the-humanization-of-programming",
+  "next": "donald-knuth-algorithmic-analysis-and-the-art-of-computer-programming",
+  "repo_folder": "articles/edsger-dijkstra-and-the-discipline-of-structured-programming",
+  "topics": [
+    "Edsger Dijkstra",
+    "structured programming",
+    "go to statement",
+    "control flow",
+    "program correctness",
+    "invariants",
+    "weakest preconditions",
+    "guarded commands",
+    "predicate transformers",
+    "stepwise refinement",
+    "Dijkstra algorithm",
+    "layered operating systems",
+    "semaphores",
+    "formal methods",
+    "software engineering",
+    "AI code review"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scores are not formal verification or software certification."
+}

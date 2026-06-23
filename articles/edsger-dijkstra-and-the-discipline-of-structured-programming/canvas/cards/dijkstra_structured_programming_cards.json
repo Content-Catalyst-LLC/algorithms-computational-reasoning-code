@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "structured_control",
+    "title": "Structured Control",
+    "prompt": "Explain how sequence, selection, and iteration support program reasoning."
+  },
+  {
+    "card_id": "invariants",
+    "title": "Loop Invariants",
+    "prompt": "State initialization, preservation, progress, and exit obligations."
+  },
+  {
+    "card_id": "weakest_preconditions",
+    "title": "Weakest Preconditions",
+    "prompt": "Work backward from a postcondition to a required precondition."
+  },
+  {
+    "card_id": "dijkstra_algorithm",
+    "title": "Dijkstra's Algorithm",
+    "prompt": "Explain settled nodes, nonnegative weights, and shortest-path invariants."
+  },
+  {
+    "card_id": "ai_code_review",
+    "title": "AI Code Review",
+    "prompt": "Review generated code using specifications, invariants, tests, and accountability."
+  }
+]

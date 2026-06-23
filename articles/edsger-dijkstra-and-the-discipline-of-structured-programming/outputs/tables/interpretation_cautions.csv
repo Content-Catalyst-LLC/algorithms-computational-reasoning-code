@@ -1,0 +1,6 @@
+caution,meaning
+do_not_reduce_dijkstra_to_goto,The go to debate was part of a broader discipline of structured reasoning and correctness.
+do_not_confuse_testing_with_proof,Testing is essential but does not usually prove absence of errors.
+do_not_treat_structure_as_style_only,Program structure affects the ability to reason about correctness.
+do_not_ignore_assumptions,Algorithms and proofs depend on preconditions such as nonnegative edge weights.
+do_not_accept_ai_generated_code_without_reasoning,"Generated code still requires specification, review, tests, invariants, and accountability."

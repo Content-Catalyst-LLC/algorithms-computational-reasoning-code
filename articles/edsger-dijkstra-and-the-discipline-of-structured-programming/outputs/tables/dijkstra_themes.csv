@@ -1,0 +1,10 @@
+algorithmic_relevance,correctness,formal_methods,governance_caution,invariants,maintainability,proof_relevance,readability,structured_control,system_design,theme_id
+0.9,0.94,0.88,0.92,0.9,0.96,0.92,0.98,0.98,0.88,structured_control_flow
+0.84,0.9,0.84,0.9,0.82,0.98,0.88,0.98,0.98,0.82,goto_considered_harmful
+0.9,0.98,0.98,0.96,0.94,0.94,0.98,0.9,0.92,0.88,program_correctness
+0.94,0.98,0.94,0.92,0.98,0.92,0.96,0.88,0.94,0.84,loop_invariants
+0.9,0.98,0.98,0.94,0.92,0.88,0.98,0.84,0.9,0.86,weakest_preconditions
+0.88,0.96,0.98,0.92,0.92,0.88,0.98,0.86,0.94,0.84,guarded_commands
+0.98,0.96,0.9,0.88,0.96,0.86,0.94,0.86,0.86,0.88,dijkstra_shortest_path_algorithm
+0.88,0.94,0.94,0.96,0.92,0.96,0.92,0.88,0.88,0.98,layered_systems_and_concurrency
+0.9,0.98,0.9,0.98,0.9,0.96,0.94,0.94,0.92,0.92,ai_generated_code_review

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_reduce_dijkstra_to_goto",
+    "meaning": "The go to debate was part of a broader discipline of structured reasoning and correctness."
+  },
+  {
+    "caution": "do_not_confuse_testing_with_proof",
+    "meaning": "Testing is essential but does not usually prove absence of errors."
+  },
+  {
+    "caution": "do_not_treat_structure_as_style_only",
+    "meaning": "Program structure affects the ability to reason about correctness."
+  },
+  {
+    "caution": "do_not_ignore_assumptions",
+    "meaning": "Algorithms and proofs depend on preconditions such as nonnegative edge weights."
+  },
+  {
+    "caution": "do_not_accept_ai_generated_code_without_reasoning",
+    "meaning": "Generated code still requires specification, review, tests, invariants, and accountability."
+  }
+]

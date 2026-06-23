@@ -1,0 +1,4 @@
+sum_loop:initialization: invariant holds before loop
+sum_loop:preservation: body preserves invariant when guard is true
+sum_loop:progress: variant decreases or moves toward termination
+sum_loop:exit: invariant and false guard imply postcondition

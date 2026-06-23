@@ -1,0 +1,10 @@
+item,description,review_question
+structured_control_flow,Disciplined control structures support readable reasoning,Can execution be understood from the source structure?
+goto_considered_harmful,Arbitrary jumps obscure program reasoning,Does control flow preserve human comprehension?
+program_correctness,Programs should satisfy explicit specifications,What must be true before and after execution?
+loop_invariants,Loops require stable properties across iterations,What remains true at every iteration?
+weakest_preconditions,Reason backward from postconditions to required preconditions,What must be true for the desired result?
+guarded_commands,Guards make cases and repetitions formally explicit,What command is eligible and why?
+dijkstra_shortest_path_algorithm,Shortest path reasoning depends on invariants and assumptions,Are edge weights nonnegative and distances settled correctly?
+layered_systems_and_concurrency,Systems and processes require abstraction boundaries and synchronization,What state is shared and controlled?
+ai_generated_code_review,Generated code still needs structured reasoning,What proof obligations and tests remain?

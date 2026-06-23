@@ -1,0 +1,27 @@
+[
+  {
+    "distance": 0.0,
+    "node": "A",
+    "source": "A"
+  },
+  {
+    "distance": 3.0,
+    "node": "B",
+    "source": "A"
+  },
+  {
+    "distance": 2.0,
+    "node": "C",
+    "source": "A"
+  },
+  {
+    "distance": 8.0,
+    "node": "D",
+    "source": "A"
+  },
+  {
+    "distance": 10.0,
+    "node": "E",
+    "source": "A"
+  }
+]

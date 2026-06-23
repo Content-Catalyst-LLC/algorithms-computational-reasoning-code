@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DijkstraStructuredProgrammingTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "discipline_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "structured_control": {
+      "type": "number"
+    },
+    "correctness": {
+      "type": "number"
+    },
+    "invariants": {
+      "type": "number"
+    },
+    "proof_relevance": {
+      "type": "number"
+    },
+    "formal_methods": {
+      "type": "number"
+    },
+    "readability": {
+      "type": "number"
+    },
+    "maintainability": {
+      "type": "number"
+    },
+    "algorithmic_relevance": {
+      "type": "number"
+    },
+    "system_design": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "discipline_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

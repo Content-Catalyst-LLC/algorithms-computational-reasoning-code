@@ -1,0 +1,60 @@
+{
+  "article": "edsger-dijkstra-and-the-discipline-of-structured-programming",
+  "safety_scope": "Educational structured-programming calculators only; not formal verification or software certification.",
+  "calculators": [
+    {
+      "name": "discipline_score_calculator",
+      "language": "python",
+      "path": "calculators/python/discipline_score_calculator.py",
+      "purpose": "Compute structured-programming discipline score."
+    },
+    {
+      "name": "invariant_check_helper",
+      "language": "python",
+      "path": "calculators/python/invariant_check_helper.py",
+      "purpose": "Check simple invariant across numeric trace."
+    },
+    {
+      "name": "weakest_precondition_assignment",
+      "language": "python",
+      "path": "calculators/python/weakest_precondition_assignment.py",
+      "purpose": "Demonstrate assignment substitution."
+    },
+    {
+      "name": "dijkstra_shortest_path_calculator",
+      "language": "python",
+      "path": "calculators/python/dijkstra_shortest_path_calculator.py",
+      "purpose": "Run Dijkstra shortest path on a small graph."
+    },
+    {
+      "name": "control_flow_complexity_calculator",
+      "language": "python",
+      "path": "calculators/python/control_flow_complexity_calculator.py",
+      "purpose": "Estimate simplified control-flow complexity."
+    },
+    {
+      "name": "loop_termination_helper",
+      "language": "python",
+      "path": "calculators/python/loop_termination_helper.py",
+      "purpose": "Assess simple decreasing variant."
+    },
+    {
+      "name": "proof_obligation_helper",
+      "language": "python",
+      "path": "calculators/python/proof_obligation_helper.py",
+      "purpose": "List loop proof obligations."
+    },
+    {
+      "name": "ai_generated_code_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_generated_code_caution_calculator.py",
+      "purpose": "Flag AI-generated-code overclaims."
+    },
+    {
+      "name": "discipline_score",
+      "language": "r",
+      "path": "calculators/r/discipline_score.R",
+      "purpose": "Compute discipline score in R."
+    }
+  ]
+}

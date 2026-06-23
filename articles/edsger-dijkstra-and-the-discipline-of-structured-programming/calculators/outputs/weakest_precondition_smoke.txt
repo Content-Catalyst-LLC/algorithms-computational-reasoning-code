@@ -1,0 +1,4 @@
+assignment=x := y+1
+postcondition=x > 0
+substitution_precondition=(y+1) > 0
+note=syntactic teaching helper only

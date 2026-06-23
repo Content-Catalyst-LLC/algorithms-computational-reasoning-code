@@ -1,0 +1,11 @@
+{
+  "article": "edsger_dijkstra_and_the_discipline_of_structured_programming",
+  "cautions": 5,
+  "core_threads": 9,
+  "interpretation": "Dijkstra should be studied as a theorist of structured programming, correctness, invariants, weakest preconditions, guarded commands, and disciplined software reasoning.",
+  "major_threads": 0,
+  "mean_discipline_score": 0.921111,
+  "supporting_threads": 0,
+  "themes_reviewed": 9,
+  "timestamp_utc": "2026-06-23T11:29:14.379931+00:00"
+}
