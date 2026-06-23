@@ -1,0 +1,92 @@
+[
+  {
+    "interpretive_status": "core_algorithmic_reasoning_thread",
+    "modern_resonance": 0.96,
+    "practical_application": 0.88,
+    "procedural_explicitness": 0.92,
+    "representation_importance": 0.94,
+    "significance_score": 0.932,
+    "theme_id": "al_khwarizmi_algorism",
+    "transmission_importance": 0.96
+  },
+  {
+    "interpretive_status": "core_algorithmic_reasoning_thread",
+    "modern_resonance": 0.92,
+    "practical_application": 0.82,
+    "procedural_explicitness": 0.9,
+    "representation_importance": 0.88,
+    "significance_score": 0.888,
+    "theme_id": "algebraic_transformation",
+    "transmission_importance": 0.92
+  },
+  {
+    "interpretive_status": "core_algorithmic_reasoning_thread",
+    "modern_resonance": 0.94,
+    "practical_application": 0.92,
+    "procedural_explicitness": 0.88,
+    "representation_importance": 0.96,
+    "significance_score": 0.928,
+    "theme_id": "hindu_arabic_positional_calculation",
+    "transmission_importance": 0.94
+  },
+  {
+    "interpretive_status": "core_algorithmic_reasoning_thread",
+    "modern_resonance": 0.84,
+    "practical_application": 0.9,
+    "procedural_explicitness": 0.86,
+    "representation_importance": 0.86,
+    "significance_score": 0.86,
+    "theme_id": "astronomical_tables",
+    "transmission_importance": 0.84
+  },
+  {
+    "interpretive_status": "major_algorithmic_reasoning_thread",
+    "modern_resonance": 0.9,
+    "practical_application": 0.78,
+    "procedural_explicitness": 0.84,
+    "representation_importance": 0.86,
+    "significance_score": 0.82,
+    "theme_id": "cryptanalytic_frequency_analysis",
+    "transmission_importance": 0.72
+  },
+  {
+    "interpretive_status": "major_algorithmic_reasoning_thread",
+    "modern_resonance": 0.82,
+    "practical_application": 0.96,
+    "procedural_explicitness": 0.88,
+    "representation_importance": 0.78,
+    "significance_score": 0.84,
+    "theme_id": "practical_inheritance_and_commerce",
+    "transmission_importance": 0.76
+  },
+  {
+    "interpretive_status": "major_algorithmic_reasoning_thread",
+    "modern_resonance": 0.84,
+    "practical_application": 0.84,
+    "procedural_explicitness": 0.8,
+    "representation_importance": 0.88,
+    "significance_score": 0.824,
+    "theme_id": "geography_coordinates_mapping",
+    "transmission_importance": 0.76
+  },
+  {
+    "interpretive_status": "supporting_algorithmic_reasoning_thread",
+    "modern_resonance": 0.8,
+    "practical_application": 0.76,
+    "procedural_explicitness": 0.78,
+    "representation_importance": 0.74,
+    "significance_score": 0.756,
+    "theme_id": "mechanical_automata",
+    "transmission_importance": 0.7
+  },
+  {
+    "interpretive_status": "core_algorithmic_reasoning_thread",
+    "modern_resonance": 0.86,
+    "practical_application": 0.82,
+    "procedural_explicitness": 0.74,
+    "representation_importance": 0.88,
+    "significance_score": 0.856,
+    "theme_id": "translation_movements",
+    "transmission_importance": 0.98
+  }
+]

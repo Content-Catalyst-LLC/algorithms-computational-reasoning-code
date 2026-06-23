@@ -1,0 +1,26 @@
+[
+  {
+    "caution": "avoid_single_origin_story",
+    "meaning": "Algorithms have multiple ancient and medieval lineages."
+  },
+  {
+    "caution": "separate_etymology_from_total_origin",
+    "meaning": "The word algorithm is tied to al-Khwarizmi, but procedural reasoning is broader."
+  },
+  {
+    "caution": "avoid_preservation_only_framing",
+    "meaning": "Islamic-world scholarship translated, extended, systematized, taught, and transmitted knowledge."
+  },
+  {
+    "caution": "avoid_modern_projection",
+    "meaning": "Pre-modern procedures should not be described as modern computer programs."
+  },
+  {
+    "caution": "recognize_translation_as_creation",
+    "meaning": "Translation, commentary, pedagogy, and adaptation are forms of intellectual work."
+  },
+  {
+    "caution": "include_practical_domains",
+    "meaning": "Commerce, inheritance, surveying, astronomy, geography, cryptanalysis, and devices matter to algorithmic history."
+  }
+]

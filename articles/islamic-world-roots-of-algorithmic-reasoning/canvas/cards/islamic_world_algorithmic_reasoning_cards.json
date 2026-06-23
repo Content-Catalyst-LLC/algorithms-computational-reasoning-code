@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "procedure_before_code",
+    "title": "Procedure Before Code",
+    "prompt": "Identify the stepwise method, representation, input, transformation, and output before asking whether it resembles modern programming."
+  },
+  {
+    "card_id": "etymology_is_not_total_origin",
+    "title": "Etymology Is Not Total Origin",
+    "prompt": "Use the al-Khw\u0101rizm\u012b connection carefully: it is central to the word algorithm, but algorithms have multiple lineages."
+  },
+  {
+    "card_id": "translation_is_creation",
+    "title": "Translation Is Creation",
+    "prompt": "Track how translation, commentary, teaching, and adaptation transform procedural knowledge across contexts."
+  }
+]

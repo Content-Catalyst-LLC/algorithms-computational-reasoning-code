@@ -1,0 +1,47 @@
+{
+  "article": "islamic-world-roots-of-algorithmic-reasoning",
+  "calculators": [
+    {
+      "name": "place_value_calculator",
+      "language": "python",
+      "path": "calculators/python/place_value_calculator.py",
+      "purpose": "Compute a positional digit contribution."
+    },
+    {
+      "name": "algebra_balance_calculator",
+      "language": "python",
+      "path": "calculators/python/algebra_balance_calculator.py",
+      "purpose": "Apply the same addition to both sides of an equation."
+    },
+    {
+      "name": "table_interpolation_calculator",
+      "language": "python",
+      "path": "calculators/python/table_interpolation_calculator.py",
+      "purpose": "Compute a linear interpolation."
+    },
+    {
+      "name": "frequency_distance_calculator",
+      "language": "python",
+      "path": "calculators/python/frequency_distance_calculator.py",
+      "purpose": "Compute frequency-distribution distance."
+    },
+    {
+      "name": "inheritance_share_normalizer",
+      "language": "python",
+      "path": "calculators/python/inheritance_share_normalizer.py",
+      "purpose": "Normalize fractional shares."
+    },
+    {
+      "name": "historical_significance_calculator",
+      "language": "python",
+      "path": "calculators/python/historical_significance_calculator.py",
+      "purpose": "Compute historical significance score."
+    },
+    {
+      "name": "historical_significance_score",
+      "language": "r",
+      "path": "calculators/r/historical_significance_score.R",
+      "purpose": "Compute historical significance score in R."
+    }
+  ]
+}

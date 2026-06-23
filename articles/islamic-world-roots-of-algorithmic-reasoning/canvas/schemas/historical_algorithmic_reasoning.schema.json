@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HistoricalAlgorithmicReasoningTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "significance_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedural_explicitness": {
+      "type": "number"
+    },
+    "transmission_importance": {
+      "type": "number"
+    },
+    "practical_application": {
+      "type": "number"
+    },
+    "representation_importance": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "significance_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
