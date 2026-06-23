@@ -1,0 +1,1 @@
+log2_factorial_lower_bound=44.250140

@@ -1,0 +1,1 @@
+technical_presentation_clarity=0.900000

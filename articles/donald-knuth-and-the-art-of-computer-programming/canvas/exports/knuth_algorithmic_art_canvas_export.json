@@ -1,0 +1,20 @@
+{
+  "article": "donald-knuth-and-the-art-of-computer-programming",
+  "canvas_cards": [
+    "Algorithmic Analysis",
+    "Asymptotic Thinking",
+    "MIX and MMIX",
+    "Literate Programming",
+    "AI Code Review"
+  ],
+  "interpretive_layers": [
+    "art_of_computer_programming",
+    "analysis_of_algorithms",
+    "asymptotic_thinking",
+    "sorting_searching_data_structures",
+    "mix_mmix_machine_models",
+    "tex_metafont_typography",
+    "literate_programming_web_cweb",
+    "ai_code_generation_review"
+  ]
+}

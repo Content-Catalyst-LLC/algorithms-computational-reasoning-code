@@ -1,0 +1,26 @@
+[
+  {
+    "comparison_sort_lower_bound_log2_factorial": 1.0,
+    "n": 2
+  },
+  {
+    "comparison_sort_lower_bound_log2_factorial": 2.584963,
+    "n": 3
+  },
+  {
+    "comparison_sort_lower_bound_log2_factorial": 4.584963,
+    "n": 4
+  },
+  {
+    "comparison_sort_lower_bound_log2_factorial": 15.299208,
+    "n": 8
+  },
+  {
+    "comparison_sort_lower_bound_log2_factorial": 44.25014,
+    "n": 16
+  },
+  {
+    "comparison_sort_lower_bound_log2_factorial": 117.663264,
+    "n": 32
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "article": "donald-knuth-and-the-art-of-computer-programming",
+  "safety_scope": "Educational algorithmic-art calculators only; not formal algorithm proofs or production benchmarks.",
+  "calculators": [
+    {
+      "name": "art_score_calculator",
+      "language": "python",
+      "path": "calculators/python/art_score_calculator.py",
+      "purpose": "Compute Knuth algorithmic-art score."
+    },
+    {
+      "name": "growth_rate_calculator",
+      "language": "python",
+      "path": "calculators/python/growth_rate_calculator.py",
+      "purpose": "Compare growth rates."
+    },
+    {
+      "name": "comparison_sort_lower_bound",
+      "language": "python",
+      "path": "calculators/python/comparison_sort_lower_bound.py",
+      "purpose": "Compute log2(n!) lower-bound intuition."
+    },
+    {
+      "name": "runtime_comparison_helper",
+      "language": "python",
+      "path": "calculators/python/runtime_comparison_helper.py",
+      "purpose": "Compare cost formulas."
+    },
+    {
+      "name": "literate_programming_split_helper",
+      "language": "python",
+      "path": "calculators/python/literate_programming_split_helper.py",
+      "purpose": "Sketch weave/tangle split."
+    },
+    {
+      "name": "tex_clarity_helper",
+      "language": "python",
+      "path": "calculators/python/tex_clarity_helper.py",
+      "purpose": "Score technical-presentation clarity."
+    },
+    {
+      "name": "documentation_score_calculator",
+      "language": "python",
+      "path": "calculators/python/documentation_score_calculator.py",
+      "purpose": "Estimate explanation quality."
+    },
+    {
+      "name": "ai_code_review_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_code_review_caution_calculator.py",
+      "purpose": "Flag generated-code overclaims."
+    },
+    {
+      "name": "art_score",
+      "language": "r",
+      "path": "calculators/r/art_score.R",
+      "purpose": "Compute art score in R."
+    }
+  ]
+}

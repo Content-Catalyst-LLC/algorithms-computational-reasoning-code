@@ -1,0 +1,5 @@
+log2_n=9.965784
+n=1000
+n_log2_n=9965.784285
+n_squared=1000000
+two_to_n=too_large_for_teaching_output

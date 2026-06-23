@@ -1,0 +1,9 @@
+item,description,review_question
+art_of_computer_programming,Algorithms become rigorous readable technical literature,How are proof style history and implementation combined?
+analysis_of_algorithms,Procedures are measured compared and justified,What cost model is being used?
+asymptotic_thinking,Growth rates matter more than small examples,How does the algorithm scale?
+sorting_searching_data_structures,Data representation and procedure shape each other,What structure makes the operation efficient?
+mix_mmix_machine_models,Machine models connect algorithms to execution,What operations are counted?
+tex_metafont_typography,Technical clarity depends on computational typography,How does presentation support understanding?
+literate_programming_web_cweb,Programs are written for humans and machines together,How does explanation organize code?
+ai_code_generation_review,Generated code requires analysis tests and explanation,What remains unproven or undocumented?

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_art_as_anti_rigor",
+    "meaning": "Knuth's art combines beauty, style, mathematical proof, implementation detail, and analysis."
+  },
+  {
+    "caution": "do_not_reduce_knuth_to_taocp_only",
+    "meaning": "TAOCP is central, but TeX, METAFONT, literate programming, and digital typography are also part of the legacy."
+  },
+  {
+    "caution": "do_not_confuse_code_generation_with_understanding",
+    "meaning": "Generated code still needs explanation, analysis, tests, and review."
+  },
+  {
+    "caution": "do_not_ignore_machine_models",
+    "meaning": "Algorithm analysis depends on assumptions about operations and representation."
+  },
+  {
+    "caution": "do_not_skip_exposition",
+    "meaning": "Readable explanation is part of computational responsibility."
+  }
+]

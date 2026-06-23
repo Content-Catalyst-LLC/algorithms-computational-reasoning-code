@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "algorithmic_analysis",
+    "title": "Algorithmic Analysis",
+    "prompt": "Compare procedures by assumptions, time, space, and growth."
+  },
+  {
+    "card_id": "asymptotic_thinking",
+    "title": "Asymptotic Thinking",
+    "prompt": "Explain how cost changes as n grows."
+  },
+  {
+    "card_id": "mix_mmix",
+    "title": "MIX and MMIX",
+    "prompt": "Use machine models to clarify execution assumptions."
+  },
+  {
+    "card_id": "literate_programming",
+    "title": "Literate Programming",
+    "prompt": "Explain how code can serve both readers and machines."
+  },
+  {
+    "card_id": "ai_review",
+    "title": "AI Code Review",
+    "prompt": "Apply Knuthian explanation, analysis, and test standards to generated code."
+  }
+]

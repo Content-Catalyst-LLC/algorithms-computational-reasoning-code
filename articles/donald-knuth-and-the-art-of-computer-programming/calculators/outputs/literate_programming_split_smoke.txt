@@ -1,0 +1,4 @@
+literate_source=search_algorithm.w
+weave_output=search_algorithm.pdf_or_html
+tangle_output=search_algorithm.source_code
+principle=one source supports human explanation and machine execution

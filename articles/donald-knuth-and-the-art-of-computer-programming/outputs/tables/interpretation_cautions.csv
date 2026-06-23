@@ -1,0 +1,6 @@
+caution,meaning
+do_not_treat_art_as_anti_rigor,"Knuth's art combines beauty, style, mathematical proof, implementation detail, and analysis."
+do_not_reduce_knuth_to_taocp_only,"TAOCP is central, but TeX, METAFONT, literate programming, and digital typography are also part of the legacy."
+do_not_confuse_code_generation_with_understanding,"Generated code still needs explanation, analysis, tests, and review."
+do_not_ignore_machine_models,Algorithm analysis depends on assumptions about operations and representation.
+do_not_skip_exposition,Readable explanation is part of computational responsibility.

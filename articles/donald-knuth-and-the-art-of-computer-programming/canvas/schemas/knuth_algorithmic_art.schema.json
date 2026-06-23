@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KnuthAlgorithmicArtTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "art_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "algorithm_analysis": {
+      "type": "number"
+    },
+    "exposition": {
+      "type": "number"
+    },
+    "mathematical_rigor": {
+      "type": "number"
+    },
+    "historical_depth": {
+      "type": "number"
+    },
+    "implementation_relevance": {
+      "type": "number"
+    },
+    "typography_relevance": {
+      "type": "number"
+    },
+    "literate_programming": {
+      "type": "number"
+    },
+    "pedagogy": {
+      "type": "number"
+    },
+    "maintainability": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "art_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
