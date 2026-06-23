@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "calculation_has_context",
+    "title": "Calculation Has Context",
+    "prompt": "Identify what social, legal, commercial, or spatial problem the calculation is solving."
+  },
+  {
+    "card_id": "verification_builds_trust",
+    "title": "Verification Builds Trust",
+    "prompt": "Ask how the result can be recomputed, checked, recorded, or contested."
+  },
+  {
+    "card_id": "practical_is_not_lesser",
+    "title": "Practical Is Not Lesser",
+    "prompt": "Treat trade, inheritance, surveying, and accounting as sophisticated procedural mathematics."
+  }
+]

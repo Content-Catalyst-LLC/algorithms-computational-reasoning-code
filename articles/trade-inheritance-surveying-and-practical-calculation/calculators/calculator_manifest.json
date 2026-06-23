@@ -1,0 +1,59 @@
+{
+  "article": "trade-inheritance-surveying-and-practical-calculation",
+  "calculators": [
+    {
+      "name": "trade_price_calculator",
+      "language": "python",
+      "path": "calculators/python/trade_price_calculator.py",
+      "purpose": "Compute quantity times unit price."
+    },
+    {
+      "name": "currency_exchange_calculator",
+      "language": "python",
+      "path": "calculators/python/currency_exchange_calculator.py",
+      "purpose": "Convert an amount by an exchange rate."
+    },
+    {
+      "name": "inheritance_share_calculator",
+      "language": "python",
+      "path": "calculators/python/inheritance_share_calculator.py",
+      "purpose": "Distribute a total by relative weights."
+    },
+    {
+      "name": "survey_rectangle_area_calculator",
+      "language": "python",
+      "path": "calculators/python/survey_rectangle_area_calculator.py",
+      "purpose": "Compute rectangle area."
+    },
+    {
+      "name": "survey_trapezoid_area_calculator",
+      "language": "python",
+      "path": "calculators/python/survey_trapezoid_area_calculator.py",
+      "purpose": "Compute trapezoid area."
+    },
+    {
+      "name": "unit_conversion_calculator",
+      "language": "python",
+      "path": "calculators/python/unit_conversion_calculator.py",
+      "purpose": "Convert quantity by factor."
+    },
+    {
+      "name": "ledger_balance_checker",
+      "language": "python",
+      "path": "calculators/python/ledger_balance_checker.py",
+      "purpose": "Check whether debits and credits balance."
+    },
+    {
+      "name": "practical_score_calculator",
+      "language": "python",
+      "path": "calculators/python/practical_score_calculator.py",
+      "purpose": "Compute practical calculation score."
+    },
+    {
+      "name": "practical_score",
+      "language": "r",
+      "path": "calculators/r/practical_score.R",
+      "purpose": "Compute practical score in R."
+    }
+  ]
+}

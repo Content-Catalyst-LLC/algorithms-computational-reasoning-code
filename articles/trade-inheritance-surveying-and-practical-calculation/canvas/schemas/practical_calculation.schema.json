@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PracticalCalculationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "practical_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedure": {
+      "type": "number"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "institutional_importance": {
+      "type": "number"
+    },
+    "verification": {
+      "type": "number"
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "practical_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

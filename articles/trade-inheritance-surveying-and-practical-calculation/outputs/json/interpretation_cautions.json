@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_practical_math_as_lesser",
+    "meaning": "Practical calculation is a major form of procedural reasoning."
+  },
+  {
+    "caution": "do_not_assume_calculation_is_neutral",
+    "meaning": "Allocation, measurement, and accounting have social consequences."
+  },
+  {
+    "caution": "do_not_separate_method_from_institution",
+    "meaning": "Trade, inheritance, surveying, and administration shape procedure."
+  },
+  {
+    "caution": "do_not_ignore_verification",
+    "meaning": "Practical calculation requires checks, records, and dispute resolution."
+  },
+  {
+    "caution": "do_not_project_modern_systems_backward",
+    "meaning": "Historical practical procedures are not identical to modern software systems."
+  }
+]
