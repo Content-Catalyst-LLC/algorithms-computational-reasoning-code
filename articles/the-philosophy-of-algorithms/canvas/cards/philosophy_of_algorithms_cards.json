@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "procedure_formalization",
+    "title": "Procedure and Formalization",
+    "prompt": "Explain what is gained and lost when a task is turned into a formal procedure."
+  },
+  {
+    "card_id": "representation_reality",
+    "title": "Representation and Reality",
+    "prompt": "Distinguish algorithmic representations from the world they represent."
+  },
+  {
+    "card_id": "delegation_agency",
+    "title": "Delegation and Agency",
+    "prompt": "Identify what authority has been delegated to an algorithmic system."
+  },
+  {
+    "card_id": "explanation_contestability",
+    "title": "Explanation and Contestability",
+    "prompt": "Design explanation and appeal pathways for affected people."
+  },
+  {
+    "card_id": "ai_governance",
+    "title": "AI Governance",
+    "prompt": "Explain why AI outputs require review, sourcing, testing, and institutional responsibility."
+  }
+]

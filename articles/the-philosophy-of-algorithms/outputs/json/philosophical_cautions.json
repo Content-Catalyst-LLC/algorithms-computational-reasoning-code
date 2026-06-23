@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_confuse_formalization_with_reality",
+    "meaning": "Algorithms operate on representations, not the full world."
+  },
+  {
+    "caution": "do_not_confuse_consistency_with_neutrality",
+    "meaning": "A consistent procedure can still encode biased categories, data, objectives, or thresholds."
+  },
+  {
+    "caution": "do_not_confuse_prediction_with_justification",
+    "meaning": "A predicted outcome does not automatically justify an institutional action."
+  },
+  {
+    "caution": "do_not_confuse_explanation_with_legitimacy",
+    "meaning": "Explaining a system does not by itself make the system fair, lawful, or appropriate."
+  },
+  {
+    "caution": "do_not_confuse_ai_output_with_accountable_reasoning",
+    "meaning": "Generated output must be reviewed, sourced, tested, and governed before use."
+  }
+]

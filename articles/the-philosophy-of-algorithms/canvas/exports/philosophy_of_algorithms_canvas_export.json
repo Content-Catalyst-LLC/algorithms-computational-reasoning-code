@@ -1,0 +1,20 @@
+{
+  "article": "the-philosophy-of-algorithms",
+  "canvas_cards": [
+    "Procedure and Formalization",
+    "Representation and Reality",
+    "Delegation and Agency",
+    "Explanation and Contestability",
+    "AI Governance"
+  ],
+  "interpretive_domains": [
+    "search_and_retrieval",
+    "classification_and_scoring",
+    "ranking_and_recommendation",
+    "optimization_and_allocation",
+    "scientific_modeling",
+    "automated_decision_systems",
+    "ai_generated_outputs",
+    "agentic_tool_use"
+  ]
+}

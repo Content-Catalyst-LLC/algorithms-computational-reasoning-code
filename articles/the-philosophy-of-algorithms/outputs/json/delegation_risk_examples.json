@@ -1,0 +1,30 @@
+[
+  {
+    "automation_level": 0.6,
+    "case_id": "low_risk_calculation",
+    "decision_severity": 0.2,
+    "delegation_risk": 0.024,
+    "opacity": 0.2
+  },
+  {
+    "automation_level": 0.6,
+    "case_id": "decision_support_score",
+    "decision_severity": 0.7,
+    "delegation_risk": 0.21,
+    "opacity": 0.5
+  },
+  {
+    "automation_level": 0.95,
+    "case_id": "automated_eligibility_decision",
+    "decision_severity": 0.95,
+    "delegation_risk": 0.722,
+    "opacity": 0.8
+  },
+  {
+    "automation_level": 0.9,
+    "case_id": "agentic_tool_workflow",
+    "decision_severity": 0.85,
+    "delegation_risk": 0.65025,
+    "opacity": 0.85
+  }
+]

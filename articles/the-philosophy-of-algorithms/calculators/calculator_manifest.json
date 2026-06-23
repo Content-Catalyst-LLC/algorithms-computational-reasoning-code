@@ -1,0 +1,51 @@
+{
+  "article": "the-philosophy-of-algorithms",
+  "safety_scope": "Educational philosophy-of-algorithms calculators only; not legal advice, ethics certification, compliance determination, or safety approval.",
+  "calculators": [
+    {
+      "name": "review_score_calculator",
+      "language": "python",
+      "path": "calculators/python/review_score_calculator.py"
+    },
+    {
+      "name": "formalization_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/formalization_risk_calculator.py"
+    },
+    {
+      "name": "delegation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/delegation_risk_calculator.py"
+    },
+    {
+      "name": "goodhart_pressure_calculator",
+      "language": "python",
+      "path": "calculators/python/goodhart_pressure_calculator.py"
+    },
+    {
+      "name": "contestability_need_calculator",
+      "language": "python",
+      "path": "calculators/python/contestability_need_calculator.py"
+    },
+    {
+      "name": "explanation_fit_calculator",
+      "language": "python",
+      "path": "calculators/python/explanation_fit_calculator.py"
+    },
+    {
+      "name": "representation_loss_calculator",
+      "language": "python",
+      "path": "calculators/python/representation_loss_calculator.py"
+    },
+    {
+      "name": "ai_output_governance_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_output_governance_calculator.py"
+    },
+    {
+      "name": "review_score",
+      "language": "r",
+      "path": "calculators/r/review_score.R"
+    }
+  ]
+}

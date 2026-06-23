@@ -1,0 +1,30 @@
+{
+  "title": "The Philosophy of Algorithms",
+  "slug": "the-philosophy-of-algorithms",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "the-history-of-data-structures-and-algorithm-analysis",
+  "next": "the-future-of-algorithms-computational-reasoning",
+  "repo_folder": "articles/the-philosophy-of-algorithms",
+  "topics": [
+    "philosophy of algorithms",
+    "procedure",
+    "formalization",
+    "abstraction",
+    "representation",
+    "algorithmic explanation",
+    "delegation",
+    "automation",
+    "optimization",
+    "Goodhart's Law",
+    "classification",
+    "ranking",
+    "fairness",
+    "contestability",
+    "due process",
+    "human judgment",
+    "institutional responsibility",
+    "AI governance",
+    "responsible computational reasoning"
+  ],
+  "use_note": "Educational conceptual and governance-oriented interpretation only; not legal advice, compliance determination, ethics certification, or safety approval."
+}

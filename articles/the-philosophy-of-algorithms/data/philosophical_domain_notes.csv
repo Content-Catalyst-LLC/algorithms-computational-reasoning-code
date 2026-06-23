@@ -1,0 +1,9 @@
+domain,description,review_question
+search_and_retrieval,Finding relevant items in a represented search space,Who defines relevance and what is excluded?
+classification_and_scoring,Assigning categories or numerical scores to cases,What categories and thresholds structure power?
+ranking_and_recommendation,Ordering items or recommending actions/content,What values shape attention and priority?
+optimization_and_allocation,Selecting actions under objectives and constraints,What is optimized and what is sacrificed?
+scientific_modeling,Using formal models to explain or simulate phenomena,Where do model scope and evidence limit interpretation?
+automated_decision_systems,Automating decisions or decision-support workflows,What authority is delegated and how can people appeal?
+ai_generated_outputs,Producing text/code/media outputs from learned models,What kind of output is this and how should it be reviewed?
+agentic_tool_use,Allowing systems to call tools or act across workflows,What boundaries permissions and audit trails govern action?

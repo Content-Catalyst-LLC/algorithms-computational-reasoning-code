@@ -1,0 +1,5 @@
+automation_level,case_id,decision_severity,delegation_risk,opacity
+0.6,low_risk_calculation,0.2,0.024,0.2
+0.6,decision_support_score,0.7,0.21,0.5
+0.95,automated_eligibility_decision,0.95,0.722,0.8
+0.9,agentic_tool_workflow,0.85,0.65025,0.85

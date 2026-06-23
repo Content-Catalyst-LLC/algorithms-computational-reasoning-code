@@ -1,0 +1,9 @@
+abstraction_risk,contestability_need,delegation_level,domain_id,formalization_intensity,governance_urgency,human_judgment_requirement,institutional_consequence,opacity,optimization_pressure,representation_risk
+0.76,0.78,0.72,search_and_retrieval,0.82,0.84,0.76,0.82,0.74,0.86,0.88
+0.92,0.96,0.88,classification_and_scoring,0.9,0.98,0.94,0.96,0.82,0.88,0.94
+0.88,0.86,0.9,ranking_and_recommendation,0.86,0.96,0.84,0.94,0.86,0.96,0.9
+0.86,0.92,0.88,optimization_and_allocation,0.94,0.96,0.92,0.96,0.78,0.98,0.86
+0.84,0.78,0.62,scientific_modeling,0.92,0.84,0.92,0.82,0.66,0.7,0.82
+0.96,0.98,0.98,automated_decision_systems,0.94,0.99,0.98,0.98,0.88,0.9,0.96
+0.9,0.88,0.86,ai_generated_outputs,0.78,0.96,0.98,0.9,0.94,0.84,0.92
+0.9,0.94,0.96,agentic_tool_use,0.84,0.99,0.98,0.96,0.9,0.86,0.9

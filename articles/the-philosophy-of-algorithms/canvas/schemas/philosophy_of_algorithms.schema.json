@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmicPhilosophyReviewDomain",
+  "type": "object",
+  "required": [
+    "domain_id",
+    "review_score",
+    "review_status"
+  ],
+  "properties": {
+    "domain_id": {
+      "type": "string"
+    },
+    "formalization_intensity": {
+      "type": "number"
+    },
+    "abstraction_risk": {
+      "type": "number"
+    },
+    "representation_risk": {
+      "type": "number"
+    },
+    "delegation_level": {
+      "type": "number"
+    },
+    "opacity": {
+      "type": "number"
+    },
+    "optimization_pressure": {
+      "type": "number"
+    },
+    "contestability_need": {
+      "type": "number"
+    },
+    "institutional_consequence": {
+      "type": "number"
+    },
+    "human_judgment_requirement": {
+      "type": "number"
+    },
+    "governance_urgency": {
+      "type": "number"
+    },
+    "review_score": {
+      "type": "number"
+    },
+    "review_status": {
+      "type": "string"
+    }
+  }
+}

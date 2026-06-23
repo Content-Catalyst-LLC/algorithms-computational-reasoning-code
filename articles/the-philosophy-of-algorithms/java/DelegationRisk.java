@@ -1,0 +1,1 @@
+public class DelegationRisk { static double delegationRisk(double a, double b, double c) { return Math.max(0.0, Math.min(1.0, a*b*c)); } public static void main(String[] args) { System.out.printf("%.6f%n", delegationRisk(0.95,0.95,0.80)); } }
