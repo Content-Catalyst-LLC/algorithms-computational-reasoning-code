@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "count_the_signs",
+    "title": "Count the Signs",
+    "prompt": "Turn ciphertext symbols into observed frequencies before guessing meaning."
+  },
+  {
+    "card_id": "structure_leaks",
+    "title": "Structure Leaks",
+    "prompt": "Ask what statistical or linguistic structure survives the cipher transformation."
+  },
+  {
+    "card_id": "hypothesize_test_revise",
+    "title": "Hypothesize, Test, Revise",
+    "prompt": "Treat each substitution as a candidate mapping that must be tested against language."
+  },
+  {
+    "card_id": "bound_the_method",
+    "title": "Bound the Method",
+    "prompt": "Use classical cryptanalysis examples for history and education, not unauthorized access."
+  }
+]

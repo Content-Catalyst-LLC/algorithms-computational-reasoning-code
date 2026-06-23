@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CryptanalysisTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "cryptanalysis_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "linguistic_evidence": {
+      "type": "number"
+    },
+    "counting_procedure": {
+      "type": "number"
+    },
+    "inferential_structure": {
+      "type": "number"
+    },
+    "cryptanalytic_relevance": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "cryptanalysis_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

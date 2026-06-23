@@ -1,0 +1,10 @@
+item,description,review_question
+letter_counting_as_feature_extraction,Ciphertext symbols are counted and turned into evidence,How does a hidden message become data?
+frequency_ranking_and_comparison,Observed cipher-symbol frequencies are compared with language patterns,How does ranking narrow a search space?
+substitution_mapping_hypothesis,A proposed cipher-symbol to plaintext-letter mapping is tested,How does a guess become a hypothesis?
+testing_and_revision,Partial plaintext is checked and mappings are revised,How does inference improve iteratively?
+arabic_textual_culture,Grammar lexicography and textual analysis support frequency reasoning,How does language knowledge shape cryptanalysis?
+limits_and_countermeasures,Short samples homophones nulls and polyalphabetic methods limit simple analysis,How does defense adapt to attack?
+early_statistical_inference,Counting and comparison anticipate statistical reasoning over language,What can be inferred before modern statistics?
+ethical_caution,Classical cryptanalysis examples need bounded educational framing,How can attack methods be discussed responsibly?
+origin_story_caution,Avoid claiming al-Kindī invented all cryptography,What exactly is the historical milestone?

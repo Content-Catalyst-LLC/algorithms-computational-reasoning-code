@@ -1,0 +1,3 @@
+alphabetic_symbols=12
+minimum_recommended=100
+sample_size_warning=true

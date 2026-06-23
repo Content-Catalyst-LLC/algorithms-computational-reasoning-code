@@ -1,0 +1,54 @@
+{
+  "article": "al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis",
+  "safety_scope": "Synthetic toy classical-cipher demonstrations only.",
+  "calculators": [
+    {
+      "name": "frequency_table_calculator",
+      "language": "python",
+      "path": "calculators/python/frequency_table_calculator.py",
+      "purpose": "Count letters and relative frequencies in toy text."
+    },
+    {
+      "name": "relative_frequency_calculator",
+      "language": "python",
+      "path": "calculators/python/relative_frequency_calculator.py",
+      "purpose": "Compute count divided by total."
+    },
+    {
+      "name": "caesar_demo_calculator",
+      "language": "python",
+      "path": "calculators/python/caesar_demo_calculator.py",
+      "purpose": "Toy Caesar shift demonstration."
+    },
+    {
+      "name": "substitution_apply_calculator",
+      "language": "python",
+      "path": "calculators/python/substitution_apply_calculator.py",
+      "purpose": "Apply a toy substitution map."
+    },
+    {
+      "name": "hypothesis_score_calculator",
+      "language": "python",
+      "path": "calculators/python/hypothesis_score_calculator.py",
+      "purpose": "Score overlap between observed and expected rankings."
+    },
+    {
+      "name": "sample_size_warning_calculator",
+      "language": "python",
+      "path": "calculators/python/sample_size_warning_calculator.py",
+      "purpose": "Flag low sample size for frequency analysis."
+    },
+    {
+      "name": "cryptanalysis_score_calculator",
+      "language": "python",
+      "path": "calculators/python/cryptanalysis_score_calculator.py",
+      "purpose": "Compute cryptanalysis interpretive score."
+    },
+    {
+      "name": "cryptanalysis_score",
+      "language": "r",
+      "path": "calculators/r/cryptanalysis_score.R",
+      "purpose": "Compute cryptanalysis score in R."
+    }
+  ]
+}

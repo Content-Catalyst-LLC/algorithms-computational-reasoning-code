@@ -1,0 +1,20 @@
+{
+  "article": "al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis",
+  "canvas_cards": [
+    "Count the Signs",
+    "Structure Leaks",
+    "Hypothesize, Test, Revise",
+    "Bound the Method"
+  ],
+  "interpretive_layers": [
+    "letter_counting_as_feature_extraction",
+    "frequency_ranking_and_comparison",
+    "substitution_mapping_hypothesis",
+    "testing_and_revision",
+    "arabic_textual_culture",
+    "limits_and_countermeasures",
+    "early_statistical_inference",
+    "ethical_caution",
+    "origin_story_caution"
+  ]
+}

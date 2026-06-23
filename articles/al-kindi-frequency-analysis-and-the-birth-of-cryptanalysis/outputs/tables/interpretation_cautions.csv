@@ -1,0 +1,6 @@
+caution,meaning
+do_not_claim_al_kindi_invented_all_cryptography,"Al-Kindī is central to surviving systematic frequency-analysis cryptanalysis, not all secrecy or ciphering."
+do_not_treat_frequency_analysis_as_magic,"The method depends on counting, comparison, hypothesis testing, and revision."
+do_not_project_modern_statistics_backward,The method anticipates statistical inference without being modern formal statistics.
+do_not_ignore_language_context,"Cryptanalysis depends on linguistic regularity, genre, spelling, and textual knowledge."
+do_not_turn_attack_methods_into_unbounded_security_advice,"Use examples for historical and educational analysis, not unauthorized access."

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_claim_al_kindi_invented_all_cryptography",
+    "meaning": "Al-Kind\u012b is central to surviving systematic frequency-analysis cryptanalysis, not all secrecy or ciphering."
+  },
+  {
+    "caution": "do_not_treat_frequency_analysis_as_magic",
+    "meaning": "The method depends on counting, comparison, hypothesis testing, and revision."
+  },
+  {
+    "caution": "do_not_project_modern_statistics_backward",
+    "meaning": "The method anticipates statistical inference without being modern formal statistics."
+  },
+  {
+    "caution": "do_not_ignore_language_context",
+    "meaning": "Cryptanalysis depends on linguistic regularity, genre, spelling, and textual knowledge."
+  },
+  {
+    "caution": "do_not_turn_attack_methods_into_unbounded_security_advice",
+    "meaning": "Use examples for historical and educational analysis, not unauthorized access."
+  }
+]

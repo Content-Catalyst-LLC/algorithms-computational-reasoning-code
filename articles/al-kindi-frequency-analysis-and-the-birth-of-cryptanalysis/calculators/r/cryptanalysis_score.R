@@ -1,0 +1,11 @@
+args <- commandArgs(trailingOnly = TRUE)
+linguistic_evidence <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.96)
+counting_procedure <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.98)
+inferential_structure <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.90)
+cryptanalytic_relevance <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.94)
+historical_significance <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.94)
+ethical_caution <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.82)
+modern_resonance <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.94)
+
+score <- mean(c(linguistic_evidence, counting_procedure, inferential_structure, cryptanalytic_relevance, historical_significance, ethical_caution, modern_resonance))
+cat(sprintf("cryptanalysis_score=%.6f\n", score))

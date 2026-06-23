@@ -1,0 +1,86 @@
+[
+  {
+    "counting_procedure": 0.98,
+    "cryptanalysis_score": 0.925714,
+    "cryptanalytic_relevance": 0.94,
+    "ethical_caution": 0.82,
+    "historical_significance": 0.94,
+    "inferential_structure": 0.9,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.96,
+    "modern_resonance": 0.94,
+    "theme_id": "letter_counting_as_feature_extraction"
+  },
+  {
+    "counting_procedure": 0.96,
+    "cryptanalysis_score": 0.937143,
+    "cryptanalytic_relevance": 0.96,
+    "ethical_caution": 0.82,
+    "historical_significance": 0.94,
+    "inferential_structure": 0.94,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.98,
+    "modern_resonance": 0.96,
+    "theme_id": "frequency_ranking_and_comparison"
+  },
+  {
+    "counting_procedure": 0.86,
+    "cryptanalysis_score": 0.914286,
+    "cryptanalytic_relevance": 0.98,
+    "ethical_caution": 0.84,
+    "historical_significance": 0.92,
+    "inferential_structure": 0.96,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.9,
+    "modern_resonance": 0.94,
+    "theme_id": "substitution_mapping_hypothesis"
+  },
+  {
+    "counting_procedure": 0.84,
+    "cryptanalysis_score": 0.908571,
+    "cryptanalytic_relevance": 0.94,
+    "ethical_caution": 0.86,
+    "historical_significance": 0.9,
+    "inferential_structure": 0.98,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.88,
+    "modern_resonance": 0.96,
+    "theme_id": "testing_and_revision"
+  },
+  {
+    "counting_procedure": 0.86,
+    "cryptanalysis_score": 0.888571,
+    "cryptanalytic_relevance": 0.88,
+    "ethical_caution": 0.82,
+    "historical_significance": 0.96,
+    "inferential_structure": 0.88,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.94,
+    "modern_resonance": 0.88,
+    "theme_id": "arabic_textual_culture"
+  },
+  {
+    "counting_procedure": 0.88,
+    "cryptanalysis_score": 0.911429,
+    "cryptanalytic_relevance": 0.94,
+    "ethical_caution": 0.94,
+    "historical_significance": 0.88,
+    "inferential_structure": 0.92,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.86,
+    "modern_resonance": 0.96,
+    "theme_id": "limits_and_countermeasures"
+  },
+  {
+    "counting_procedure": 0.96,
+    "cryptanalysis_score": 0.937143,
+    "cryptanalytic_relevance": 0.92,
+    "ethical_caution": 0.84,
+    "historical_significance": 0.96,
+    "inferential_structure": 0.96,
+    "interpretive_status": "core_cryptanalysis_thread",
+    "linguistic_evidence": 0.94,
+    "modern_resonance": 0.98,
+    "theme_id": "early_statistical_inference"
+  }
+]

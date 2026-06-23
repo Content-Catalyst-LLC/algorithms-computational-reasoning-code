@@ -1,0 +1,21 @@
+{
+  "title": "Al-Kind\u012b, Frequency Analysis, and the Birth of Cryptanalysis",
+  "slug": "al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "geography-coordinates-and-computational-mapping-in-the-islamic-world",
+  "next": "banu-musa-mechanical-devices-and-procedural-engineering",
+  "repo_folder": "articles/al-kindi-frequency-analysis-and-the-birth-of-cryptanalysis",
+  "topics": [
+    "al-Kind\u012b",
+    "frequency analysis",
+    "cryptanalysis",
+    "classical cryptography",
+    "substitution ciphers",
+    "letter counting",
+    "relative frequency",
+    "linguistic regularity",
+    "early statistical inference",
+    "algorithmic reasoning"
+  ],
+  "safety_note": "Educational classical-cipher examples only; not for unauthorized access or modern intrusion."
+}

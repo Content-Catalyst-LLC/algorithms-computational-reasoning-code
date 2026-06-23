@@ -1,0 +1,110 @@
+[
+  {
+    "count": 6,
+    "rank": 1,
+    "relative_frequency": 0.122449,
+    "symbol": "w"
+  },
+  {
+    "count": 6,
+    "rank": 2,
+    "relative_frequency": 0.122449,
+    "symbol": "e"
+  },
+  {
+    "count": 4,
+    "rank": 3,
+    "relative_frequency": 0.081633,
+    "symbol": "m"
+  },
+  {
+    "count": 4,
+    "rank": 4,
+    "relative_frequency": 0.081633,
+    "symbol": "i"
+  },
+  {
+    "count": 4,
+    "rank": 5,
+    "relative_frequency": 0.081633,
+    "symbol": "r"
+  },
+  {
+    "count": 3,
+    "rank": 6,
+    "relative_frequency": 0.061224,
+    "symbol": "x"
+  },
+  {
+    "count": 3,
+    "rank": 7,
+    "relative_frequency": 0.061224,
+    "symbol": "s"
+  },
+  {
+    "count": 3,
+    "rank": 8,
+    "relative_frequency": 0.061224,
+    "symbol": "v"
+  },
+  {
+    "count": 3,
+    "rank": 9,
+    "relative_frequency": 0.061224,
+    "symbol": "p"
+  },
+  {
+    "count": 2,
+    "rank": 10,
+    "relative_frequency": 0.040816,
+    "symbol": "l"
+  },
+  {
+    "count": 2,
+    "rank": 11,
+    "relative_frequency": 0.040816,
+    "symbol": "y"
+  },
+  {
+    "count": 2,
+    "rank": 12,
+    "relative_frequency": 0.040816,
+    "symbol": "g"
+  },
+  {
+    "count": 2,
+    "rank": 13,
+    "relative_frequency": 0.040816,
+    "symbol": "j"
+  },
+  {
+    "count": 1,
+    "rank": 14,
+    "relative_frequency": 0.020408,
+    "symbol": "h"
+  },
+  {
+    "count": 1,
+    "rank": 15,
+    "relative_frequency": 0.020408,
+    "symbol": "q"
+  },
+  {
+    "count": 1,
+    "rank": 16,
+    "relative_frequency": 0.020408,
+    "symbol": "t"
+  },
+  {
+    "count": 1,
+    "rank": 17,
+    "relative_frequency": 0.020408,
+    "symbol": "u"
+  },
+  {
+    "count": 1,
+    "rank": 18,
+    "relative_frequency": 0.020408,
+    "symbol": "c"
+  }
+]
