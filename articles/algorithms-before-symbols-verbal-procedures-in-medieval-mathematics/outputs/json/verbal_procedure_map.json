@@ -1,0 +1,90 @@
+[
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.88,
+    "pedagogical_value": 0.88,
+    "practical_use": 0.82,
+    "procedural_clarity": 0.9,
+    "representation_dependence": 0.86,
+    "theme_id": "rhetorical_algebra",
+    "transmission_importance": 0.9,
+    "verbal_procedure_score": 0.873333
+  },
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.9,
+    "pedagogical_value": 0.9,
+    "practical_use": 0.86,
+    "procedural_clarity": 0.92,
+    "representation_dependence": 0.82,
+    "theme_id": "problem_classification",
+    "transmission_importance": 0.84,
+    "verbal_procedure_score": 0.873333
+  },
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.86,
+    "pedagogical_value": 0.96,
+    "practical_use": 0.88,
+    "procedural_clarity": 0.94,
+    "representation_dependence": 0.82,
+    "theme_id": "worked_examples",
+    "transmission_importance": 0.9,
+    "verbal_procedure_score": 0.893333
+  },
+  {
+    "interpretive_status": "major_verbal_procedure_thread",
+    "modern_resonance": 0.86,
+    "pedagogical_value": 0.88,
+    "practical_use": 0.78,
+    "procedural_clarity": 0.84,
+    "representation_dependence": 0.92,
+    "theme_id": "geometric_demonstration",
+    "transmission_importance": 0.82,
+    "verbal_procedure_score": 0.85
+  },
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.9,
+    "pedagogical_value": 0.84,
+    "practical_use": 0.92,
+    "procedural_clarity": 0.88,
+    "representation_dependence": 0.9,
+    "theme_id": "table_lookup_interpolation",
+    "transmission_importance": 0.86,
+    "verbal_procedure_score": 0.883333
+  },
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.84,
+    "pedagogical_value": 0.86,
+    "practical_use": 0.96,
+    "procedural_clarity": 0.88,
+    "representation_dependence": 0.82,
+    "theme_id": "commercial_reckoning_rules",
+    "transmission_importance": 0.84,
+    "verbal_procedure_score": 0.866667
+  },
+  {
+    "interpretive_status": "major_verbal_procedure_thread",
+    "modern_resonance": 0.84,
+    "pedagogical_value": 0.88,
+    "practical_use": 0.82,
+    "procedural_clarity": 0.78,
+    "representation_dependence": 0.86,
+    "theme_id": "manuscript_commentary_transmission",
+    "transmission_importance": 0.96,
+    "verbal_procedure_score": 0.856667
+  },
+  {
+    "interpretive_status": "core_verbal_procedure_thread",
+    "modern_resonance": 0.94,
+    "pedagogical_value": 0.82,
+    "practical_use": 0.8,
+    "procedural_clarity": 0.86,
+    "representation_dependence": 0.88,
+    "theme_id": "symbolic_compression",
+    "transmission_importance": 0.82,
+    "verbal_procedure_score": 0.853333
+  }
+]

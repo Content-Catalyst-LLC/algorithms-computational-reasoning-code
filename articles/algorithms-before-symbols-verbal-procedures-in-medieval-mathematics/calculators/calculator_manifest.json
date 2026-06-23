@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-before-symbols-verbal-procedures-in-medieval-mathematics",
+  "calculators": [
+    {
+      "name": "instruction_sequence_counter",
+      "language": "python",
+      "path": "calculators/python/instruction_sequence_counter.py",
+      "purpose": "Count ordered verbal instruction steps."
+    },
+    {
+      "name": "problem_classification_calculator",
+      "language": "python",
+      "path": "calculators/python/problem_classification_calculator.py",
+      "purpose": "Classify a problem type from controlled vocabulary."
+    },
+    {
+      "name": "worked_example_trace_calculator",
+      "language": "python",
+      "path": "calculators/python/worked_example_trace_calculator.py",
+      "purpose": "Trace a toy worked example."
+    },
+    {
+      "name": "table_interpolation_calculator",
+      "language": "python",
+      "path": "calculators/python/table_interpolation_calculator.py",
+      "purpose": "Compute a linear interpolation."
+    },
+    {
+      "name": "symbolic_compression_calculator",
+      "language": "python",
+      "path": "calculators/python/symbolic_compression_calculator.py",
+      "purpose": "Estimate compression from prose to symbolic shorthand."
+    },
+    {
+      "name": "verbal_procedure_score_calculator",
+      "language": "python",
+      "path": "calculators/python/verbal_procedure_score_calculator.py",
+      "purpose": "Compute verbal procedure score."
+    },
+    {
+      "name": "verbal_procedure_score",
+      "language": "r",
+      "path": "calculators/r/verbal_procedure_score.R",
+      "purpose": "Compute verbal procedure score in R."
+    }
+  ]
+}

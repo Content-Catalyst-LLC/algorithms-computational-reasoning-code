@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "verbal_not_vague",
+    "title": "Verbal Does Not Mean Vague",
+    "prompt": "Check whether the prose defines a stable operation for trained readers."
+  },
+  {
+    "card_id": "examples_carry_method",
+    "title": "Examples Carry Method",
+    "prompt": "Treat worked examples as procedural templates, not decorative illustrations."
+  },
+  {
+    "card_id": "procedure_before_symbol",
+    "title": "Procedure Before Symbol",
+    "prompt": "Extract the ordered instructions before translating them into modern notation."
+  }
+]

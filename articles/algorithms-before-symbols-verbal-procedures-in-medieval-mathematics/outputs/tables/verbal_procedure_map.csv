@@ -1,0 +1,9 @@
+interpretive_status,modern_resonance,pedagogical_value,practical_use,procedural_clarity,representation_dependence,theme_id,transmission_importance,verbal_procedure_score
+core_verbal_procedure_thread,0.88,0.88,0.82,0.9,0.86,rhetorical_algebra,0.9,0.873333
+core_verbal_procedure_thread,0.9,0.9,0.86,0.92,0.82,problem_classification,0.84,0.873333
+core_verbal_procedure_thread,0.86,0.96,0.88,0.94,0.82,worked_examples,0.9,0.893333
+major_verbal_procedure_thread,0.86,0.88,0.78,0.84,0.92,geometric_demonstration,0.82,0.85
+core_verbal_procedure_thread,0.9,0.84,0.92,0.88,0.9,table_lookup_interpolation,0.86,0.883333
+core_verbal_procedure_thread,0.84,0.86,0.96,0.88,0.82,commercial_reckoning_rules,0.84,0.866667
+major_verbal_procedure_thread,0.84,0.88,0.82,0.78,0.86,manuscript_commentary_transmission,0.96,0.856667
+core_verbal_procedure_thread,0.94,0.82,0.8,0.86,0.88,symbolic_compression,0.82,0.853333

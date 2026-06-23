@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VerbalProcedureTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "verbal_procedure_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "procedural_clarity": {
+      "type": "number"
+    },
+    "representation_dependence": {
+      "type": "number"
+    },
+    "pedagogical_value": {
+      "type": "number"
+    },
+    "transmission_importance": {
+      "type": "number"
+    },
+    "practical_use": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "verbal_procedure_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

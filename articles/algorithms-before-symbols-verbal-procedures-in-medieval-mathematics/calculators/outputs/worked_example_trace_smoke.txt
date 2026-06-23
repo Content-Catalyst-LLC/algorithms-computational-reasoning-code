@@ -1,0 +1,6 @@
+input=5.000000
+intermediate_double=10.000000
+output_after_adjustment=13.000000
+target=13.000000
+residual=0.000000
+check_passed=true

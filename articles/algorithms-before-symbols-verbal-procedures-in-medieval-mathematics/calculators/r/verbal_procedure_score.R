@@ -1,0 +1,10 @@
+args <- commandArgs(trailingOnly = TRUE)
+procedural_clarity <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.90)
+representation_dependence <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.86)
+pedagogical_value <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.88)
+transmission_importance <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.90)
+practical_use <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.82)
+modern_resonance <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.88)
+
+score <- mean(c(procedural_clarity, representation_dependence, pedagogical_value, transmission_importance, practical_use, modern_resonance))
+cat(sprintf("verbal_procedure_score=%.6f\n", score))

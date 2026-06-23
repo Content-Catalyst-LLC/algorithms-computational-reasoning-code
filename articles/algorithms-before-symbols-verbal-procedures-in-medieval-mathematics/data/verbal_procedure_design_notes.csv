@@ -1,0 +1,10 @@
+item,description,review_question
+rhetorical_algebra,Algebraic rules expressed largely in prose rather than modern symbols,How does prose encode mathematical operation?
+problem_classification,Verbal identification of a problem type before selecting a method,How does classification choose procedure?
+worked_examples,Concrete examples that preserve a general method,How do examples function as test cases and templates?
+geometric_demonstration,Figures and verbal explanation used to justify procedure,How does correctness appear before formal notation?
+table_lookup_interpolation,Instructions for finding correcting and interpolating tabular values,How does a table plus prose become a computational system?
+commercial_reckoning_rules,Verbal rules for trade debt profit partnership and allocation,How do institutions rely on practical procedures?
+manuscript_commentary_transmission,Copying translation commentary and teaching reshape mathematical procedure,How do procedures survive and change through media?
+symbolic_compression,Later symbols compress repeated verbal operations,How do symbols grow from procedural needs?
+origin_story_caution,Avoid treating verbal procedure as vague or modern code,How can interpretation remain precise?

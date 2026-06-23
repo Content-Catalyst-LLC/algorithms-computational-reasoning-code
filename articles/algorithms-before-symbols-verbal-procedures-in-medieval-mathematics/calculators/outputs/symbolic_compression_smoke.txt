@@ -1,0 +1,3 @@
+verbal_chars_no_spaces=33
+symbolic_chars_no_spaces=3
+compression_ratio=11.000000
