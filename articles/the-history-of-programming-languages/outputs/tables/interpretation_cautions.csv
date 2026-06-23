@@ -1,0 +1,6 @@
+caution,meaning
+do_not_treat_language_history_as_progress_only,Newer languages do not simply replace older ones; they solve different problems under different constraints.
+do_not_reduce_languages_to_syntax,"A language includes semantics, runtime, libraries, tools, standards, and communities."
+do_not_ignore_institutions,"Business, science, government, education, and web platforms shape language adoption."
+do_not_confuse_expressiveness_with_safety,"Expressive languages still require tests, review, and operational constraints."
+do_not_treat_ai_code_generation_as_the_end_of_languages,"AI-generated code still depends on languages, ecosystems, runtimes, and governance."

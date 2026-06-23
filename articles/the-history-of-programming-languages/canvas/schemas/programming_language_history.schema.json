@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProgrammingLanguageHistoryTradition",
+  "type": "object",
+  "required": [
+    "tradition_id",
+    "history_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "tradition_id": {
+      "type": "string"
+    },
+    "abstraction": {
+      "type": "number"
+    },
+    "performance_orientation": {
+      "type": "number"
+    },
+    "readability": {
+      "type": "number"
+    },
+    "formal_specification": {
+      "type": "number"
+    },
+    "ecosystem_depth": {
+      "type": "number"
+    },
+    "domain_fit": {
+      "type": "number"
+    },
+    "safety_orientation": {
+      "type": "number"
+    },
+    "institutional_adoption": {
+      "type": "number"
+    },
+    "historical_influence": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "history_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

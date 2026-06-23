@@ -1,0 +1,42 @@
+[
+  {
+    "relation": "abstraction_from_machine",
+    "source": "machine_code_assembly",
+    "target": "fortran_scientific_programming"
+  },
+  {
+    "relation": "scientific_workflow_lineage",
+    "source": "fortran_scientific_programming",
+    "target": "python_r_julia_workflows"
+  },
+  {
+    "relation": "symbolic_functional_lineage",
+    "source": "lisp_symbolic_computation",
+    "target": "declarative_logic_functional"
+  },
+  {
+    "relation": "syntax_and_block_structure_lineage",
+    "source": "algol_structured_design",
+    "target": "c_systems_programming"
+  },
+  {
+    "relation": "safety_response_to_low_level_power",
+    "source": "c_systems_programming",
+    "target": "haskell_rust_type_safety"
+  },
+  {
+    "relation": "institutional_data_lineage",
+    "source": "cobol_institutional_data_processing",
+    "target": "sql_database_languages"
+  },
+  {
+    "relation": "systems_and_object_hybridization",
+    "source": "object_oriented_programming",
+    "target": "c_systems_programming"
+  },
+  {
+    "relation": "rapid_generation_and_glue_code_context",
+    "source": "scripting_web_languages",
+    "target": "ai_generated_code_layer"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "language_as_expression",
+    "title": "Language as Expression",
+    "prompt": "Explain how programming languages shape what computational ideas are easy to express."
+  },
+  {
+    "card_id": "language_ecosystem",
+    "title": "Language Ecosystem",
+    "prompt": "Identify compilers, runtimes, libraries, packages, standards, and communities."
+  },
+  {
+    "card_id": "paradigms",
+    "title": "Programming Paradigms",
+    "prompt": "Compare imperative, functional, object-oriented, logic, declarative, and systems traditions."
+  },
+  {
+    "card_id": "type_safety",
+    "title": "Types and Safety",
+    "prompt": "Explain how type systems move some reasoning before execution."
+  },
+  {
+    "card_id": "ai_language_layer",
+    "title": "AI as Language Layer",
+    "prompt": "Explain why generated code still depends on language ecosystems and governance."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "article": "the_history_of_programming_languages",
+  "cautions": 5,
+  "core_threads": 12,
+  "edges": 8,
+  "interpretation": "Programming-language history should be studied as a layered history of expression, execution, abstraction, ecosystems, institutions, safety, and governance.",
+  "major_threads": 0,
+  "mean_history_score": 0.837923,
+  "supporting_threads": 1,
+  "timestamp_utc": "2026-06-23T12:44:46.239026+00:00",
+  "traditions_reviewed": 13
+}

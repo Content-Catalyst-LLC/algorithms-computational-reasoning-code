@@ -1,0 +1,4 @@
+first=fortran
+second=rust
+score_difference_first_minus_second=-0.024000
+note=scores are interpretive teaching values, not empirical rankings

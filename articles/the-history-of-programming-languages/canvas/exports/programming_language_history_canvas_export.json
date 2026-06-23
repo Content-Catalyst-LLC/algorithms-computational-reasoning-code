@@ -1,0 +1,25 @@
+{
+  "article": "the-history-of-programming-languages",
+  "canvas_cards": [
+    "Language as Expression",
+    "Language Ecosystem",
+    "Programming Paradigms",
+    "Types and Safety",
+    "AI as Language Layer"
+  ],
+  "interpretive_layers": [
+    "machine_code_assembly",
+    "fortran_scientific_programming",
+    "lisp_symbolic_computation",
+    "algol_structured_design",
+    "cobol_institutional_data_processing",
+    "c_systems_programming",
+    "object_oriented_programming",
+    "declarative_logic_functional",
+    "sql_database_languages",
+    "scripting_web_languages",
+    "python_r_julia_workflows",
+    "haskell_rust_type_safety",
+    "ai_generated_code_layer"
+  ]
+}

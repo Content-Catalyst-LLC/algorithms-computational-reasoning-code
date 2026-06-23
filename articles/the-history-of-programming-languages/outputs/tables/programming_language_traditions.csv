@@ -1,0 +1,14 @@
+abstraction,domain_fit,ecosystem_depth,formal_specification,governance_caution,historical_influence,institutional_adoption,performance_orientation,readability,safety_orientation,tradition_id
+0.3,0.7,0.8,0.7,0.96,0.98,0.9,0.98,0.35,0.3,machine_code_assembly
+0.82,0.98,0.92,0.78,0.9,0.98,0.96,0.96,0.76,0.48,fortran_scientific_programming
+0.96,0.92,0.84,0.88,0.86,0.96,0.78,0.62,0.72,0.62,lisp_symbolic_computation
+0.92,0.8,0.72,0.98,0.84,0.98,0.7,0.72,0.86,0.7,algol_structured_design
+0.78,0.98,0.88,0.82,0.94,0.9,0.98,0.7,0.84,0.62,cobol_institutional_data_processing
+0.72,0.94,0.98,0.84,0.98,0.98,0.98,0.98,0.7,0.36,c_systems_programming
+0.9,0.88,0.94,0.78,0.9,0.94,0.96,0.74,0.82,0.7,object_oriented_programming
+0.98,0.86,0.82,0.98,0.86,0.92,0.74,0.66,0.78,0.9,declarative_logic_functional
+0.92,0.98,0.98,0.9,0.96,0.94,0.98,0.84,0.82,0.78,sql_database_languages
+0.88,0.94,0.96,0.72,0.94,0.92,0.96,0.58,0.86,0.56,scripting_web_languages
+0.94,0.98,0.98,0.76,0.94,0.92,0.96,0.78,0.92,0.58,python_r_julia_workflows
+0.92,0.86,0.84,0.96,0.9,0.88,0.78,0.84,0.76,0.98,haskell_rust_type_safety
+0.96,0.88,0.88,0.68,0.98,0.88,0.92,0.7,0.72,0.58,ai_generated_code_layer

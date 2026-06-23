@@ -1,0 +1,60 @@
+{
+  "article": "the-history-of-programming-languages",
+  "safety_scope": "Educational programming-language history calculators only; not language benchmarks, compiler conformance tests, or security audits.",
+  "calculators": [
+    {
+      "name": "history_score_calculator",
+      "language": "python",
+      "path": "calculators/python/history_score_calculator.py",
+      "purpose": "Compute programming-language history score."
+    },
+    {
+      "name": "paradigm_classifier",
+      "language": "python",
+      "path": "calculators/python/paradigm_classifier.py",
+      "purpose": "Classify language-tradition descriptions."
+    },
+    {
+      "name": "ecosystem_score_calculator",
+      "language": "python",
+      "path": "calculators/python/ecosystem_score_calculator.py",
+      "purpose": "Estimate ecosystem strength."
+    },
+    {
+      "name": "type_safety_score_calculator",
+      "language": "python",
+      "path": "calculators/python/type_safety_score_calculator.py",
+      "purpose": "Estimate type/safety orientation."
+    },
+    {
+      "name": "translation_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/translation_risk_calculator.py",
+      "purpose": "Estimate translation-layer risk."
+    },
+    {
+      "name": "dependency_governance_calculator",
+      "language": "python",
+      "path": "calculators/python/dependency_governance_calculator.py",
+      "purpose": "Estimate dependency governance risk."
+    },
+    {
+      "name": "ai_language_layer_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_language_layer_caution_calculator.py",
+      "purpose": "Flag claims ignoring language ecosystems."
+    },
+    {
+      "name": "language_comparison_helper",
+      "language": "python",
+      "path": "calculators/python/language_comparison_helper.py",
+      "purpose": "Compare language traditions."
+    },
+    {
+      "name": "history_score",
+      "language": "r",
+      "path": "calculators/r/history_score.R",
+      "purpose": "Compute history score in R."
+    }
+  ]
+}

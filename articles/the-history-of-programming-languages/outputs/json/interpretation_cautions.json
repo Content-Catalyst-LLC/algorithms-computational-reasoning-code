@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_language_history_as_progress_only",
+    "meaning": "Newer languages do not simply replace older ones; they solve different problems under different constraints."
+  },
+  {
+    "caution": "do_not_reduce_languages_to_syntax",
+    "meaning": "A language includes semantics, runtime, libraries, tools, standards, and communities."
+  },
+  {
+    "caution": "do_not_ignore_institutions",
+    "meaning": "Business, science, government, education, and web platforms shape language adoption."
+  },
+  {
+    "caution": "do_not_confuse_expressiveness_with_safety",
+    "meaning": "Expressive languages still require tests, review, and operational constraints."
+  },
+  {
+    "caution": "do_not_treat_ai_code_generation_as_the_end_of_languages",
+    "meaning": "AI-generated code still depends on languages, ecosystems, runtimes, and governance."
+  }
+]

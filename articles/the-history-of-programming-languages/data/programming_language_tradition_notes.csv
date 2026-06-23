@@ -1,0 +1,14 @@
+tradition,description,review_question
+machine_code_assembly,Direct machine-oriented programming and symbolic mnemonics,How close is expression to hardware?
+fortran_scientific_programming,Formula translation arrays loops and numerical computing,How does source reflect scientific work?
+lisp_symbolic_computation,Lists recursion functions code-as-data and symbolic AI,How does the language represent symbolic structure?
+algol_structured_design,Block structure lexical scope and formal language description,How does syntax support structured reasoning?
+cobol_institutional_data_processing,Records files reports and business computation,What institutional work does the language serve?
+c_systems_programming,Portable systems programming and memory control,What power and risk come from direct representation control?
+object_oriented_programming,Objects classes messages and encapsulated state,How does the language model interacting entities?
+declarative_logic_functional,Logic functional expression types and constraints,What is specified instead of commanded?
+sql_database_languages,Declarative data querying relations joins and constraints,How does the system choose execution?
+scripting_web_languages,Rapid automation glue code web scripting and packages,What systems does the language connect?
+python_r_julia_workflows,Data science scientific computing notebooks and workflow ecosystems,How does language support research and analysis workflows?
+haskell_rust_type_safety,Type systems purity ownership and safety discipline,What errors are prevented before execution?
+ai_generated_code_layer,Generated source as a new translation layer,How is generated code reviewed governed and maintained?
