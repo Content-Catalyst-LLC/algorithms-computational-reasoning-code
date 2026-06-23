@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-education-and-learning-systems",
+  "calculators": [
+    {
+      "name": "mastery_probability_calculator",
+      "language": "python",
+      "path": "calculators/python/mastery_probability_calculator.py",
+      "purpose": "Compute a toy mastery probability from prior and evidence strength."
+    },
+    {
+      "name": "alert_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/alert_threshold_calculator.py",
+      "purpose": "Classify whether a student-support alert should trigger."
+    },
+    {
+      "name": "recommendation_score_calculator",
+      "language": "python",
+      "path": "calculators/python/recommendation_score_calculator.py",
+      "purpose": "Compute learning recommendation score."
+    },
+    {
+      "name": "learning_gain_calculator",
+      "language": "python",
+      "path": "calculators/python/learning_gain_calculator.py",
+      "purpose": "Compute learning gain."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute learning-system governance readiness."
+    },
+    {
+      "name": "learning_system_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/learning_system_risk_calculator.py",
+      "purpose": "Compute learning-system risk."
+    },
+    {
+      "name": "learning_system_score",
+      "language": "r",
+      "path": "calculators/r/learning_system_score.R",
+      "purpose": "Compute education algorithm indicators."
+    }
+  ]
+}

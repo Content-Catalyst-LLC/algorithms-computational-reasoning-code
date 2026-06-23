@@ -1,0 +1,18 @@
+args <- commandArgs(trailingOnly = TRUE)
+learner_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.78)
+instructional_impact <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.86)
+equity_readiness <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.62)
+privacy_readiness <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.72)
+pedagogical_validity <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.70)
+human_review <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.66)
+accessibility_readiness <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.68)
+monitoring <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.64)
+governance <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.62)
+
+impact <- mean(c(learner_impact, instructional_impact))
+governance_readiness <- mean(c(equity_readiness, privacy_readiness, pedagogical_validity, human_review, accessibility_readiness, monitoring, governance))
+learning_system_risk <- mean(c(impact, 1 - equity_readiness, 1 - pedagogical_validity, 1 - governance_readiness))
+
+cat(sprintf("impact_score=%.6f\n", impact))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("learning_system_risk_score=%.6f\n", learning_system_risk))

@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "prediction_is_not_support",
+    "title": "Prediction Is Not Support",
+    "prompt": "Ask what helpful intervention follows the alert and whether students experience it as support rather than stigma."
+  },
+  {
+    "card_id": "engagement_is_not_learning",
+    "title": "Engagement Is Not Learning",
+    "prompt": "Review whether platform behavior measures real understanding, transfer, reflection, creativity, and judgment."
+  },
+  {
+    "card_id": "personalization_can_be_tracking",
+    "title": "Personalization Can Be Tracking",
+    "prompt": "Check whether recommendations preserve agency, challenge, alternatives, and teacher review."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "control": "algorithm_inventory",
+    "review_question": "Is the learning algorithm recorded with owner, purpose, data, decision role, learner impact, and status?",
+    "status": "required"
+  },
+  {
+    "control": "pedagogical_review",
+    "review_question": "Does the system support meaningful learning goals, teacher judgment, and educational purpose?",
+    "status": "required"
+  },
+  {
+    "control": "equity_review",
+    "review_question": "Are access barriers, subgroup errors, tracking risks, and opportunity effects reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "student_privacy_review",
+    "review_question": "Are data collection, secondary use, retention, vendor access, and security governed?",
+    "status": "required"
+  },
+  {
+    "control": "accessibility_review",
+    "review_question": "Is the system usable and adaptable for disabled, multilingual, neurodivergent, and diverse learners?",
+    "status": "required"
+  },
+  {
+    "control": "human_review_and_contestability",
+    "review_question": "Can students and educators understand, challenge, correct, and override consequential outputs?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_and_stop_rule",
+    "review_question": "Are outcomes, burden, bias, privacy incidents, and educational harms monitored with stop authority?",
+    "status": "required"
+  }
+]

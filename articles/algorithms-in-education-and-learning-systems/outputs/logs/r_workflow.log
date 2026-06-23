@@ -1,0 +1,16 @@
+null device 
+          1 
+null device 
+          1 
+  systems_reviewed systems_requiring_redesign
+1                5                          0
+  systems_requiring_pedagogical_review systems_requiring_student_impact_review
+1                                    1                                       1
+  systems_requiring_equity_review systems_requiring_privacy_review
+1                               1                                0
+  mean_learning_system_risk_score mean_governance_readiness_score
+1                        0.454214                        0.651143
+  mean_impact_score governance_controls
+1              0.73                   7
+                                                                                                                                                                                                                  diagnostic_note
+1 Education algorithm governance should connect learner impact, instructional impact, equity readiness, privacy readiness, pedagogical validity, accessibility, teacher judgment, monitoring, contestability, and stop authority.

@@ -1,0 +1,6 @@
+accessibility_readiness,equity_readiness,governance,governance_readiness_score,human_review,impact_score,instructional_impact,learner_impact,learning_system_risk_score,monitoring,pedagogical_validity,privacy_readiness,recommendation,system_id
+0.68,0.62,0.62,0.662857,0.66,0.82,0.86,0.78,0.459286,0.64,0.7,0.72,governed_use_with_monitoring,adaptive_math_learning_pathway
+0.62,0.56,0.58,0.597143,0.58,0.81,0.72,0.9,0.503214,0.6,0.64,0.6,student_impact_review_required,student_early_warning_dashboard
+0.6,0.54,0.56,0.571429,0.5,0.76,0.68,0.84,0.532143,0.58,0.52,0.7,pedagogical_validity_review_required,automated_essay_scoring
+0.66,0.55,0.66,0.664286,0.7,0.66,0.62,0.7,0.441429,0.68,0.68,0.72,educational_equity_review_required,course_pathway_recommender
+0.82,0.74,0.74,0.76,0.72,0.6,0.58,0.62,0.335,0.76,0.76,0.78,governed_use_with_monitoring,accessible_course_recommender

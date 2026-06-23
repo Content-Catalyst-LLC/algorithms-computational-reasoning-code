@@ -1,0 +1,7 @@
+{
+  "article": "algorithms_in_education_and_learning_systems",
+  "high_learner_impact_threshold": 0.8,
+  "high_learning_risk_threshold": 0.7,
+  "low_governance_threshold": 0.65,
+  "low_pedagogical_validity_threshold": 0.6
+}

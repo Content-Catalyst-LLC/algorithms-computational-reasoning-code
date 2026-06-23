@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Education and Learning Systems",
+  "slug": "algorithms-in-education-and-learning-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-climate-energy-and-infrastructure",
+  "next": "algorithms-in-labor-management-and-organizational-systems",
+  "repo_folder": "articles/algorithms-in-education-and-learning-systems",
+  "topics": [
+    "education algorithms",
+    "adaptive learning",
+    "learning analytics",
+    "automated assessment",
+    "student privacy",
+    "educational equity",
+    "accessibility",
+    "teacher judgment",
+    "generative tutoring",
+    "learning-system governance"
+  ]
+}

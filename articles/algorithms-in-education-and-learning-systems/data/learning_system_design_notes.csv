@@ -1,0 +1,9 @@
+item,description,review_question
+algorithm_inventory,System owner purpose data sources decision role learner impact and status,Can the institution identify and govern the learning system?
+pedagogical_review,Learning goals assessment quality teacher role curriculum alignment and feedback quality,Does the system support meaningful education?
+equity_review,Access barriers subgroup errors tracking risk digital access and opportunity effects,Does the system expand or restrict opportunity?
+student_privacy_review,Data minimization secondary use retention vendor access consent and security,Are student records and learning traces protected?
+accessibility_review,Disabled multilingual neurodivergent adult rural and diverse learners,Is the system accessible and inclusive by design?
+human_review_and_contestability,Teacher override student appeal correction explanation and human review,Can consequential outputs be challenged?
+monitoring_and_stop_rule,Outcomes bias burden privacy incidents accessibility issues and stop authority,Can harmful systems be paused or retired?
+generative_tutoring_review,Accuracy dependence academic integrity privacy and teacher oversight,Does AI support thinking rather than replace it?

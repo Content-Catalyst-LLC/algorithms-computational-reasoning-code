@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-education-and-learning-systems",
+  "canvas_cards": [
+    "Prediction Is Not Support",
+    "Engagement Is Not Learning",
+    "Personalization Can Be Tracking"
+  ],
+  "governance_layers": [
+    "algorithm_inventory",
+    "pedagogical_review",
+    "equity_review",
+    "student_privacy_review",
+    "accessibility_review",
+    "human_review_and_contestability",
+    "monitoring_and_stop_rule",
+    "generative_tutoring_review"
+  ]
+}

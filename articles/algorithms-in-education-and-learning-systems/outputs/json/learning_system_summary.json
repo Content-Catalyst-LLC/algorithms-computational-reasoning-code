@@ -1,0 +1,15 @@
+{
+  "article": "algorithms_in_education_and_learning_systems",
+  "governance_controls": 7,
+  "interpretation": "Education algorithm governance should connect learner impact, instructional impact, equity readiness, privacy readiness, pedagogical validity, accessibility, teacher judgment, monitoring, contestability, and stop authority.",
+  "mean_governance_readiness_score": 0.651143,
+  "mean_impact_score": 0.73,
+  "mean_learning_system_risk_score": 0.454214,
+  "systems_requiring_equity_review": 1,
+  "systems_requiring_pedagogical_review": 1,
+  "systems_requiring_privacy_review": 0,
+  "systems_requiring_redesign": 0,
+  "systems_requiring_student_impact_review": 1,
+  "systems_reviewed": 5,
+  "timestamp_utc": "2026-06-23T01:20:04.777895+00:00"
+}

@@ -1,0 +1,8 @@
+control,review_question,status
+algorithm_inventory,"Is the learning algorithm recorded with owner, purpose, data, decision role, learner impact, and status?",required
+pedagogical_review,"Does the system support meaningful learning goals, teacher judgment, and educational purpose?",required
+equity_review,"Are access barriers, subgroup errors, tracking risks, and opportunity effects reviewed?",required
+student_privacy_review,"Are data collection, secondary use, retention, vendor access, and security governed?",required
+accessibility_review,"Is the system usable and adaptable for disabled, multilingual, neurodivergent, and diverse learners?",required
+human_review_and_contestability,"Can students and educators understand, challenge, correct, and override consequential outputs?",required
+monitoring_and_stop_rule,"Are outcomes, burden, bias, privacy incidents, and educational harms monitored with stop authority?",required
