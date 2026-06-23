@@ -1,0 +1,8 @@
+control,review_question,status
+algorithm_inventory,"Are ranking, recommendation, moderation, and ad systems recorded with owners and purposes?",required
+objective_review,"Are engagement, revenue, safety, quality, and public-value objectives documented?",required
+attention_impact_assessment,"Are user agency, creator effects, public-knowledge impact, and vulnerable users reviewed?",required
+contestability_and_appeals,"Can users and creators understand, challenge, and repair major decisions?",required
+moderation_governance,"Are classifier thresholds, human review, policy changes, and appeals documented?",required
+monetization_review,"Are ad targeting, demonetization, creator revenue, and incentive effects reviewed?",required
+monitoring_and_stop_rules,"Can harmful ranking or recommendation behavior be detected, paused, rolled back, or redesigned?",required

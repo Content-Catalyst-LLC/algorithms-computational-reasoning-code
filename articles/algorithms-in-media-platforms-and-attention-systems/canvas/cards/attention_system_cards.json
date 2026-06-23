@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "attention_is_governed",
+    "title": "Attention Is Governed",
+    "prompt": "Ask what the system makes visible, what it hides, and what objectives shape attention routing."
+  },
+  {
+    "card_id": "engagement_is_not_value",
+    "title": "Engagement Is Not Value",
+    "prompt": "Review whether metrics reward quality, agency, public knowledge, and well-being rather than attention capture alone."
+  },
+  {
+    "card_id": "contestability_protects_creators_and_users",
+    "title": "Contestability Protects Creators and Users",
+    "prompt": "Check whether moderation, ranking, demonetization, and recommendation decisions can be understood, appealed, and repaired."
+  }
+]

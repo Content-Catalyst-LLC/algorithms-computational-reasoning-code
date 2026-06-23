@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-media-platforms-and-attention-systems",
+  "canvas_cards": [
+    "Attention Is Governed",
+    "Engagement Is Not Value",
+    "Contestability Protects Creators and Users"
+  ],
+  "governance_layers": [
+    "algorithm_inventory",
+    "objective_review",
+    "attention_impact_assessment",
+    "contestability_and_appeals",
+    "moderation_governance",
+    "monetization_review",
+    "monitoring_and_stop_rules",
+    "user_control_review"
+  ]
+}

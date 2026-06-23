@@ -1,0 +1,1 @@
+ranking_score=0.714000

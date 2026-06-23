@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Media Platforms and Attention Systems",
+  "slug": "algorithms-in-media-platforms-and-attention-systems",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-public-policy-and-governance",
+  "next": "algorithms-in-finance-markets-and-risk",
+  "repo_folder": "articles/algorithms-in-media-platforms-and-attention-systems",
+  "topics": [
+    "media platform algorithms",
+    "attention systems",
+    "feed ranking",
+    "recommendation systems",
+    "engagement optimization",
+    "content moderation",
+    "creator incentives",
+    "advertising auctions",
+    "platform governance",
+    "attention risk"
+  ]
+}

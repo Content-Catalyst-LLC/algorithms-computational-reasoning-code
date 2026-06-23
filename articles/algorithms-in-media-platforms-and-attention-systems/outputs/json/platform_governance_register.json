@@ -1,0 +1,37 @@
+[
+  {
+    "control": "algorithm_inventory",
+    "review_question": "Are ranking, recommendation, moderation, and ad systems recorded with owners and purposes?",
+    "status": "required"
+  },
+  {
+    "control": "objective_review",
+    "review_question": "Are engagement, revenue, safety, quality, and public-value objectives documented?",
+    "status": "required"
+  },
+  {
+    "control": "attention_impact_assessment",
+    "review_question": "Are user agency, creator effects, public-knowledge impact, and vulnerable users reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "contestability_and_appeals",
+    "review_question": "Can users and creators understand, challenge, and repair major decisions?",
+    "status": "required"
+  },
+  {
+    "control": "moderation_governance",
+    "review_question": "Are classifier thresholds, human review, policy changes, and appeals documented?",
+    "status": "required"
+  },
+  {
+    "control": "monetization_review",
+    "review_question": "Are ad targeting, demonetization, creator revenue, and incentive effects reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_and_stop_rules",
+    "review_question": "Can harmful ranking or recommendation behavior be detected, paused, rolled back, or redesigned?",
+    "status": "required"
+  }
+]

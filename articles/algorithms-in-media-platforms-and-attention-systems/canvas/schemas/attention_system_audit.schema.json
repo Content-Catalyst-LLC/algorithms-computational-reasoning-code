@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AttentionSystemAudit",
+  "type": "object",
+  "required": [
+    "system_id",
+    "governance_readiness_score",
+    "attention_risk_score",
+    "platform_risk_score",
+    "recommendation"
+  ],
+  "properties": {
+    "system_id": {
+      "type": "string"
+    },
+    "governance_readiness_score": {
+      "type": "number"
+    },
+    "attention_risk_score": {
+      "type": "number"
+    },
+    "platform_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

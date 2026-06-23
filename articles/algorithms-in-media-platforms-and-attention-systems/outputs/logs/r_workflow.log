@@ -1,0 +1,14 @@
+null device 
+          1 
+null device 
+          1 
+  systems_reviewed systems_requiring_redesign
+1                4                          1
+  systems_requiring_public_interest_review systems_requiring_governance_review
+1                                        1                                   1
+  mean_attention_risk_score mean_governance_readiness_score
+1                     0.597                        0.633333
+  mean_platform_risk_score governance_controls
+1                  0.22924                   7
+                                                                                                                                                                          diagnostic_note
+1 Media platform governance should connect engagement pressure, creator impact, public knowledge, transparency, contestability, moderation, user control, monitoring, and stop authority.

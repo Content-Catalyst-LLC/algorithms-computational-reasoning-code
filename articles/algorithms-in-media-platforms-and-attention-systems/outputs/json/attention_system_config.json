@@ -1,0 +1,6 @@
+{
+  "article": "algorithms_in_media_platforms_and_attention_systems",
+  "high_attention_risk_threshold": 0.7,
+  "high_public_impact_threshold": 0.8,
+  "low_governance_threshold": 0.65
+}

@@ -1,0 +1,5 @@
+attention_risk_score,contestability,creator_impact,engagement_pressure,governance,governance_readiness_score,moderation_readiness,monitoring,platform_risk_score,public_knowledge_impact,recommendation,system_id,transparency,user_control
+0.744,0.42,0.88,0.92,0.54,0.523333,0.66,0.6,0.35464,0.78,redesign_before_scaling,short_video_recommendation,0.48,0.44
+0.544,0.66,0.62,0.54,0.76,0.72,0.7,0.78,0.15232,0.92,independent_public_interest_review_required,public_news_search_ranking,0.72,0.7
+0.64,0.46,0.94,0.7,0.56,0.536667,0.58,0.62,0.296533,0.52,governance_review_required,creator_monetization_classifier,0.5,0.5
+0.46,0.74,0.64,0.38,0.78,0.753333,0.82,0.82,0.113467,0.7,governed_use_with_monitoring,community_safety_review_queue,0.68,0.68

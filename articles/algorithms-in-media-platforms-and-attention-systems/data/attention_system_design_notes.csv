@@ -1,0 +1,9 @@
+item,description,review_question
+algorithm_inventory,Ranking recommendation moderation advertising and notification systems,Are attention-routing systems documented with owners and purposes?
+objective_review,Engagement revenue safety quality diversity and public-value objectives,What is the system optimizing and what tradeoffs are accepted?
+attention_impact_assessment,Effects on users creators public knowledge and vulnerable groups,Who is affected by attention routing?
+contestability_and_appeals,Notice reasons challenge correction and remedy,Can users and creators contest major decisions?
+moderation_governance,Policy thresholds human review appeals and enforcement records,Are moderation decisions contextual and reviewable?
+monetization_review,Ad targeting demonetization creator revenue and incentive effects,How does monetization shape platform behavior?
+monitoring_and_stop_rules,Harm detection drift manipulation metric gaming rollback and redesign,Can harmful dynamics be paused or reversed?
+user_control_review,Controls for personalization recommendations autoplay and notifications,Does design support agency?

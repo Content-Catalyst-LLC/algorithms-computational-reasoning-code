@@ -1,0 +1,18 @@
+args <- commandArgs(trailingOnly = TRUE)
+engagement_pressure <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.92)
+transparency <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.48)
+contestability <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.42)
+moderation_readiness <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.66)
+creator_impact <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.88)
+public_knowledge_impact <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.78)
+user_control <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.44)
+governance <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.54)
+monitoring <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.60)
+
+governance_readiness <- mean(c(transparency, contestability, moderation_readiness, user_control, governance, monitoring))
+attention_risk <- mean(c(engagement_pressure, creator_impact, public_knowledge_impact, 1 - user_control, 1 - contestability))
+platform_risk <- attention_risk * (1 - governance_readiness)
+
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("attention_risk_score=%.6f\n", attention_risk))
+cat(sprintf("platform_risk_score=%.6f\n", platform_risk))

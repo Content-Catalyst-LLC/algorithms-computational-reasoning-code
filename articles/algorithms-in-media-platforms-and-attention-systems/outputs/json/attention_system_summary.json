@@ -1,0 +1,13 @@
+{
+  "article": "algorithms_in_media_platforms_and_attention_systems",
+  "governance_controls": 7,
+  "interpretation": "Media platform governance should connect engagement pressure, creator impact, public knowledge, transparency, contestability, moderation, user control, monitoring, and stop authority.",
+  "mean_attention_risk_score": 0.597,
+  "mean_governance_readiness_score": 0.633333,
+  "mean_platform_risk_score": 0.22924,
+  "systems_requiring_governance_review": 1,
+  "systems_requiring_public_interest_review": 1,
+  "systems_requiring_redesign": 1,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-23T00:19:19.220287+00:00"
+}

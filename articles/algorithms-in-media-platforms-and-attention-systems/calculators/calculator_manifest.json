@@ -1,0 +1,47 @@
+{
+  "article": "algorithms-in-media-platforms-and-attention-systems",
+  "calculators": [
+    {
+      "name": "ranking_score_calculator",
+      "language": "python",
+      "path": "calculators/python/ranking_score_calculator.py",
+      "purpose": "Compute a weighted platform ranking score."
+    },
+    {
+      "name": "engagement_probability_calculator",
+      "language": "python",
+      "path": "calculators/python/engagement_probability_calculator.py",
+      "purpose": "Compute a simple logistic engagement probability."
+    },
+    {
+      "name": "attention_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/attention_risk_calculator.py",
+      "purpose": "Compute attention risk."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute attention-system governance readiness."
+    },
+    {
+      "name": "platform_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/platform_risk_calculator.py",
+      "purpose": "Compute platform risk."
+    },
+    {
+      "name": "moderation_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/moderation_threshold_calculator.py",
+      "purpose": "Classify content action from harm score thresholds."
+    },
+    {
+      "name": "attention_system_score",
+      "language": "r",
+      "path": "calculators/r/attention_system_score.R",
+      "purpose": "Compute attention system indicators."
+    }
+  ]
+}
