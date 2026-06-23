@@ -1,0 +1,8 @@
+control,review_question,status
+algorithm_inventory,"Is the system listed with purpose, owner, vendor, data, and decision role?",required
+legal_authority_review,Is there lawful authority for this use and decision role?,required
+impact_assessment,"Have rights, equity, public value, alternatives, and risks been reviewed?",required
+due_process_plan,"Are notice, reasons, correction, appeal, and remedy available?",required
+vendor_accountability,"Do contracts provide documentation, audit rights, update controls, and exit options?",required
+monitoring_and_audit,"Are performance, errors, drift, reliance, appeals, and harms monitored?",required
+stop_rule,"Can the system be paused, limited, rolled back, or retired?",required

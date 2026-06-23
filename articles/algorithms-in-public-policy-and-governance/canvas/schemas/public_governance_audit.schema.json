@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PublicGovernanceAudit",
+  "type": "object",
+  "required": [
+    "use_case_id",
+    "rights_impact",
+    "procedural_readiness_score",
+    "governance_readiness_score",
+    "public_algorithmic_risk_score",
+    "recommendation"
+  ],
+  "properties": {
+    "use_case_id": {
+      "type": "string"
+    },
+    "rights_impact": {
+      "type": "number"
+    },
+    "procedural_readiness_score": {
+      "type": "number"
+    },
+    "governance_readiness_score": {
+      "type": "number"
+    },
+    "public_algorithmic_risk_score": {
+      "type": "number"
+    },
+    "recommendation": {
+      "type": "string"
+    }
+  }
+}

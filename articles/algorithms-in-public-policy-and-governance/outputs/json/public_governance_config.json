@@ -1,0 +1,6 @@
+{
+  "article": "algorithms_in_public_policy_and_governance",
+  "high_rights_impact_threshold": 0.8,
+  "low_due_process_threshold": 0.65,
+  "low_governance_threshold": 0.65
+}

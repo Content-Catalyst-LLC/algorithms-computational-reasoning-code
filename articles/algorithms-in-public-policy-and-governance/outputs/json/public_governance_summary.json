@@ -1,0 +1,13 @@
+{
+  "article": "algorithms_in_public_policy_and_governance",
+  "governance_controls": 7,
+  "interpretation": "Public algorithmic governance should connect rights impact, due process, transparency, human review, data quality, vendor accountability, appeals, monitoring, public value, and stop authority.",
+  "mean_governance_readiness_score": 0.64375,
+  "mean_procedural_readiness_score": 0.615,
+  "mean_public_algorithmic_risk_score": 0.289425,
+  "timestamp_utc": "2026-06-23T00:05:50.594153+00:00",
+  "use_cases_not_ready_for_deployment": 2,
+  "use_cases_requiring_governance_review": 0,
+  "use_cases_requiring_independent_oversight": 0,
+  "use_cases_reviewed": 4
+}

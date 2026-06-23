@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-public-policy-and-governance",
+  "canvas_cards": [
+    "Public Algorithms Are Public Power",
+    "Due Process Before Deployment",
+    "Vendors Do Not Absorb Public Responsibility"
+  ],
+  "governance_layers": [
+    "algorithm_inventory",
+    "legal_authority_review",
+    "impact_assessment",
+    "due_process_plan",
+    "vendor_accountability",
+    "monitoring_and_audit",
+    "stop_rule",
+    "public_value_review"
+  ]
+}

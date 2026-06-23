@@ -1,0 +1,17 @@
+args <- commandArgs(trailingOnly = TRUE)
+rights_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.94)
+due_process <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.58)
+transparency <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.52)
+human_review <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.60)
+data_quality <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.66)
+vendor_accountability <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.48)
+appeal_readiness <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.54)
+monitoring <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.56)
+
+procedural_readiness <- mean(c(due_process, transparency, human_review, appeal_readiness))
+governance_readiness <- mean(c(data_quality, vendor_accountability, monitoring, procedural_readiness))
+risk <- rights_impact * (1 - governance_readiness)
+
+cat(sprintf("procedural_readiness_score=%.6f\n", procedural_readiness))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("public_algorithmic_risk_score=%.6f\n", risk))

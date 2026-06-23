@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "public_algorithms_are_public_power",
+    "title": "Public Algorithms Are Public Power",
+    "prompt": "Ask what legal authority, public purpose, affected people, and accountability structures govern the system."
+  },
+  {
+    "card_id": "due_process_before_deployment",
+    "title": "Due Process Before Deployment",
+    "prompt": "Check notice, reasons, data correction, appeal, remedy, and meaningful human review."
+  },
+  {
+    "card_id": "vendors_do_not_absorb_public_responsibility",
+    "title": "Vendors Do Not Absorb Public Responsibility",
+    "prompt": "Require documentation, audit rights, update controls, exit plans, and accountable agency ownership."
+  }
+]

@@ -1,0 +1,5 @@
+appeal_readiness,data_quality,due_process,governance_readiness_score,human_review,monitoring,procedural_readiness_score,public_algorithmic_risk_score,public_value,recommendation,rights_impact,transparency,use_case_id,vendor_accountability
+0.54,0.66,0.58,0.565,0.6,0.56,0.56,0.4089,0.7,do_not_deploy_without_due_process_redesign,0.94,0.52,benefits_eligibility_screening,0.48
+0.62,0.76,0.7,0.74,0.72,0.78,0.68,0.1404,0.84,proceed_with_governed_support,0.54,0.68,restaurant_inspection_targeting,0.74
+0.42,0.6,0.5,0.5125,0.58,0.52,0.49,0.41925,0.62,do_not_deploy_without_due_process_redesign,0.86,0.46,fraud_anomaly_flagging,0.44
+0.66,0.78,0.72,0.7575,0.8,0.82,0.73,0.18915,0.9,proceed_with_governed_support,0.78,0.74,emergency_resource_allocation,0.7

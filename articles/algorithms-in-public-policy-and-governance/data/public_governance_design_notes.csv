@@ -1,0 +1,9 @@
+item,description,review_question
+algorithm_inventory,System listed with purpose owner vendor data and decision role,Can the public and oversight bodies know what exists?
+legal_authority_review,Lawful authority for use decision role and agency responsibility,Is the algorithmic role legally authorized?
+impact_assessment,Rights equity public value alternatives and risks,Is deployment justified?
+due_process_plan,Notice reasons data correction appeal and remedy,Can affected people challenge outcomes?
+vendor_accountability,Documentation audit rights update controls and exit options,Can the public agency govern vendor systems?
+monitoring_and_audit,Performance errors drift reliance appeals and harms,Is the system evaluated after deployment?
+stop_rule,Pause rollback limitation or retirement condition,Who can stop harmful or unlawful system use?
+public_value_review,Public benefit equity dignity and legitimacy,Does the system serve public purpose?

@@ -1,0 +1,1 @@
+procedural_readiness_score=0.560000

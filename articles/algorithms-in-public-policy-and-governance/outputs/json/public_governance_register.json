@@ -1,0 +1,37 @@
+[
+  {
+    "control": "algorithm_inventory",
+    "review_question": "Is the system listed with purpose, owner, vendor, data, and decision role?",
+    "status": "required"
+  },
+  {
+    "control": "legal_authority_review",
+    "review_question": "Is there lawful authority for this use and decision role?",
+    "status": "required"
+  },
+  {
+    "control": "impact_assessment",
+    "review_question": "Have rights, equity, public value, alternatives, and risks been reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "due_process_plan",
+    "review_question": "Are notice, reasons, correction, appeal, and remedy available?",
+    "status": "required"
+  },
+  {
+    "control": "vendor_accountability",
+    "review_question": "Do contracts provide documentation, audit rights, update controls, and exit options?",
+    "status": "required"
+  },
+  {
+    "control": "monitoring_and_audit",
+    "review_question": "Are performance, errors, drift, reliance, appeals, and harms monitored?",
+    "status": "required"
+  },
+  {
+    "control": "stop_rule",
+    "review_question": "Can the system be paused, limited, rolled back, or retired?",
+    "status": "required"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "article": "algorithms-in-public-policy-and-governance",
+  "calculators": [
+    {
+      "name": "procedural_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/procedural_readiness_calculator.py",
+      "purpose": "Compute due-process readiness."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute public algorithmic governance readiness."
+    },
+    {
+      "name": "public_algorithmic_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/public_algorithmic_risk_calculator.py",
+      "purpose": "Compute public algorithmic risk."
+    },
+    {
+      "name": "eligibility_rule_calculator",
+      "language": "python",
+      "path": "calculators/python/eligibility_rule_calculator.py",
+      "purpose": "Evaluate a simple synthetic eligibility rule."
+    },
+    {
+      "name": "public_value_calculator",
+      "language": "python",
+      "path": "calculators/python/public_value_calculator.py",
+      "purpose": "Compute a simple public-value score."
+    },
+    {
+      "name": "public_governance_score",
+      "language": "r",
+      "path": "calculators/r/public_governance_score.R",
+      "purpose": "Compute public governance indicators."
+    }
+  ]
+}

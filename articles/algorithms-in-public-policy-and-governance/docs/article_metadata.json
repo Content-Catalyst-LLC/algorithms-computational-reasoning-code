@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Public Policy and Governance",
+  "slug": "algorithms-in-public-policy-and-governance",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-knowledge-architecture",
+  "next": "algorithms-in-media-platforms-and-attention-systems",
+  "repo_folder": "articles/algorithms-in-public-policy-and-governance",
+  "topics": [
+    "public policy algorithms",
+    "algorithmic governance",
+    "automated eligibility",
+    "risk scoring",
+    "public-service delivery",
+    "fraud detection",
+    "due process",
+    "algorithmic accountability",
+    "public-sector AI governance",
+    "institutional responsibility"
+  ]
+}
