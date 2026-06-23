@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "procedure_before_code",
+    "title": "Procedure Before Code",
+    "prompt": "Identify algorithm-like structure before modern programming."
+  },
+  {
+    "card_id": "representation_changes_method",
+    "title": "Representation Changes Method",
+    "prompt": "Ask how prose, diagrams, tables, symbols, machines, or code express procedure."
+  },
+  {
+    "card_id": "proof_execution_governance",
+    "title": "Proof, Execution, Governance",
+    "prompt": "Track how correctness, machine execution, and accountability enter the history."
+  },
+  {
+    "card_id": "avoid_flat_origin_story",
+    "title": "Avoid Flat Origin Story",
+    "prompt": "Separate word history, practice history, concept history, and modern formalization."
+  }
+]

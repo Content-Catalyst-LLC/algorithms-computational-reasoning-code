@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AlgorithmHistoryLayer",
+  "type": "object",
+  "required": [
+    "layer_id",
+    "history_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "layer_id": {
+      "type": "string"
+    },
+    "procedural_explicitness": {
+      "type": "number"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "proof_correctness": {
+      "type": "number"
+    },
+    "portability": {
+      "type": "number"
+    },
+    "mechanization": {
+      "type": "number"
+    },
+    "formalization": {
+      "type": "number"
+    },
+    "programmability": {
+      "type": "number"
+    },
+    "institutional_adoption": {
+      "type": "number"
+    },
+    "governance_relevance": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "history_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

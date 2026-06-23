@@ -1,0 +1,26 @@
+{
+  "title": "The History of Algorithms: From Procedure to Computation",
+  "slug": "history-of-algorithms",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "why-origin-stories-of-algorithms-need-care",
+  "next": "philosophy-of-algorithms-and-computational-reasoning",
+  "repo_folder": "articles/history-of-algorithms",
+  "topics": [
+    "history of algorithms",
+    "procedure",
+    "computation",
+    "Babylonian algorithms",
+    "Euclidean algorithm",
+    "Indian numeration",
+    "Islamic-world algebra",
+    "al-Khwārizmī",
+    "algorism",
+    "Latin reception",
+    "mechanical calculation",
+    "computability",
+    "Turing machines",
+    "algorithm analysis",
+    "AI governance"
+  ],
+  "use_note": "Educational historical interpretation only; synthetic timeline models, not claims about a single origin or authoritative chronology."
+}

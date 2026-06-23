@@ -1,0 +1,22 @@
+{
+  "article": "history-of-algorithms",
+  "canvas_cards": [
+    "Procedure Before Code",
+    "Representation Changes Method",
+    "Proof, Execution, Governance",
+    "Avoid Flat Origin Story"
+  ],
+  "interpretive_layers": [
+    "ancient_worked_procedures",
+    "greek_demonstrated_procedure",
+    "indian_numeration_and_calculation",
+    "chinese_procedural_mathematics",
+    "islamic_world_algorism_and_algebra",
+    "latin_reception_and_commercial_arithmetic",
+    "early_modern_symbolism_and_tables",
+    "mechanical_and_programmable_machines",
+    "logic_computability_and_turing_machines",
+    "electronic_computing_and_software",
+    "ai_platforms_and_governance"
+  ]
+}

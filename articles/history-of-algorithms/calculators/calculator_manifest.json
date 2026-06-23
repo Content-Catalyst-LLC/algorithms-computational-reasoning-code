@@ -1,0 +1,54 @@
+{
+  "article": "history-of-algorithms",
+  "safety_scope": "Educational historical calculators only; not specialist historical authority.",
+  "calculators": [
+    {
+      "name": "history_score_calculator",
+      "language": "python",
+      "path": "calculators/python/history_score_calculator.py",
+      "purpose": "Compute algorithm-history score."
+    },
+    {
+      "name": "timeline_layer_classifier",
+      "language": "python",
+      "path": "calculators/python/timeline_layer_classifier.py",
+      "purpose": "Classify rough algorithm-history layer."
+    },
+    {
+      "name": "procedure_feature_score",
+      "language": "python",
+      "path": "calculators/python/procedure_feature_score.py",
+      "purpose": "Score algorithm-like procedural features."
+    },
+    {
+      "name": "complexity_growth_calculator",
+      "language": "python",
+      "path": "calculators/python/complexity_growth_calculator.py",
+      "purpose": "Compare basic growth rates."
+    },
+    {
+      "name": "computability_status_helper",
+      "language": "python",
+      "path": "calculators/python/computability_status_helper.py",
+      "purpose": "Label example problem families."
+    },
+    {
+      "name": "governance_relevance_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_relevance_calculator.py",
+      "purpose": "Score governance relevance."
+    },
+    {
+      "name": "algorithm_ancestor_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/algorithm_ancestor_caution_calculator.py",
+      "purpose": "Flag modern-code projection risk."
+    },
+    {
+      "name": "history_score",
+      "language": "r",
+      "path": "calculators/r/history_score.R",
+      "purpose": "Compute algorithm-history score in R."
+    }
+  ]
+}

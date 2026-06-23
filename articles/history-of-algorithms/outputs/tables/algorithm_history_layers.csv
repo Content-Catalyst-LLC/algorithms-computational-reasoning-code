@@ -1,0 +1,12 @@
+formalization,governance_relevance,institutional_adoption,layer_id,mechanization,modern_resonance,portability,procedural_explicitness,programmability,proof_correctness,representation
+0.54,0.62,0.78,ancient_worked_procedures,0.3,0.9,0.82,0.92,0.2,0.8,0.84
+0.76,0.6,0.82,greek_demonstrated_procedure,0.28,0.92,0.86,0.9,0.22,0.98,0.88
+0.76,0.66,0.88,indian_numeration_and_calculation,0.34,0.98,0.96,0.94,0.32,0.84,0.98
+0.74,0.7,0.86,chinese_procedural_mathematics,0.34,0.92,0.88,0.92,0.3,0.82,0.92
+0.84,0.72,0.94,islamic_world_algorism_and_algebra,0.54,0.98,0.98,0.98,0.42,0.92,0.94
+0.78,0.76,0.96,latin_reception_and_commercial_arithmetic,0.44,0.94,0.96,0.94,0.36,0.84,0.94
+0.92,0.74,0.96,early_modern_symbolism_and_tables,0.62,0.96,0.96,0.92,0.54,0.92,0.98
+0.88,0.76,0.92,mechanical_and_programmable_machines,0.98,0.98,0.9,0.96,0.9,0.86,0.94
+0.98,0.8,0.92,logic_computability_and_turing_machines,0.86,0.98,0.96,0.98,0.92,0.98,0.96
+0.94,0.88,0.98,electronic_computing_and_software,0.98,0.98,0.94,0.98,0.98,0.92,0.98
+0.88,0.98,0.98,ai_platforms_and_governance,0.98,0.98,0.92,0.9,0.96,0.78,0.94
