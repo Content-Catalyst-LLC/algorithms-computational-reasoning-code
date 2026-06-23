@@ -1,0 +1,54 @@
+{
+  "article": "ada-lovelace-programming-and-the-imagination-of-computation",
+  "safety_scope": "Educational historical calculators only; not specialist historical authority.",
+  "calculators": [
+    {
+      "name": "imagination_score_calculator",
+      "language": "python",
+      "path": "calculators/python/imagination_score_calculator.py",
+      "purpose": "Compute Lovelace computation-imagination score."
+    },
+    {
+      "name": "bernoulli_number_calculator",
+      "language": "python",
+      "path": "calculators/python/bernoulli_number_calculator.py",
+      "purpose": "Compute Bernoulli numbers for teaching Note G context."
+    },
+    {
+      "name": "operation_sequence_calculator",
+      "language": "python",
+      "path": "calculators/python/operation_sequence_calculator.py",
+      "purpose": "Summarize ordered operation sequences."
+    },
+    {
+      "name": "symbolic_generality_calculator",
+      "language": "python",
+      "path": "calculators/python/symbolic_generality_calculator.py",
+      "purpose": "Score symbolic generality."
+    },
+    {
+      "name": "machine_limit_calculator",
+      "language": "python",
+      "path": "calculators/python/machine_limit_calculator.py",
+      "purpose": "Flag machine agency overclaims."
+    },
+    {
+      "name": "authorship_credit_calculator",
+      "language": "python",
+      "path": "calculators/python/authorship_credit_calculator.py",
+      "purpose": "Score authorship dimensions."
+    },
+    {
+      "name": "lovelace_myth_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/lovelace_myth_caution_calculator.py",
+      "purpose": "Flag Lovelace myth/dismissal risks."
+    },
+    {
+      "name": "lovelace_imagination_score",
+      "language": "r",
+      "path": "calculators/r/lovelace_imagination_score.R",
+      "purpose": "Compute imagination score in R."
+    }
+  ]
+}

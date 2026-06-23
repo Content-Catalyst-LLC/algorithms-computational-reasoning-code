@@ -1,0 +1,25 @@
+{
+  "title": "Ada Lovelace, Programming, and the Imagination of Computation",
+  "slug": "ada-lovelace-programming-and-the-imagination-of-computation",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "al-khwarizmi-and-the-historical-roots-of-algorithmic-method",
+  "next": "alan-turing-and-the-formalization-of-computation",
+  "repo_folder": "articles/ada-lovelace-programming-and-the-imagination-of-computation",
+  "topics": [
+    "Ada Lovelace",
+    "programming history",
+    "Analytical Engine",
+    "Charles Babbage",
+    "Luigi Menabrea",
+    "Lovelace Notes",
+    "Note G",
+    "Bernoulli numbers",
+    "symbolic computation",
+    "poetical science",
+    "machine limits",
+    "Lovelace objection",
+    "AI caution",
+    "computational imagination"
+  ],
+  "use_note": "Educational historical interpretation only; synthetic imagination models, not claims about a single final interpretation of Lovelace's authorship."
+}

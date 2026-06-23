@@ -1,0 +1,5 @@
+operation_count=4
+first_operation=multiply
+last_operation=repeat
+has_repetition=true
+sequence=multiply -> subtract -> store -> repeat

@@ -1,0 +1,11 @@
+{
+  "article": "ada_lovelace_programming_and_the_imagination_of_computation",
+  "cautions": 5,
+  "core_threads": 3,
+  "interpretation": "Lovelace should be studied as a bridge between mechanical procedure and software imagination: programming structure, symbolic generality, machine orientation, and machine limits.",
+  "major_threads": 4,
+  "mean_imagination_score": 0.897143,
+  "supporting_threads": 0,
+  "themes_reviewed": 7,
+  "timestamp_utc": "2026-06-23T07:06:42.458186+00:00"
+}

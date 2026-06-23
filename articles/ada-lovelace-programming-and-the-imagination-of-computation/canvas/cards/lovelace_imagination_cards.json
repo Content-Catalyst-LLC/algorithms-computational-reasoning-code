@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "programming_before_languages",
+    "title": "Programming Before Languages",
+    "prompt": "Study Note G as machine-oriented procedure without calling it modern source code."
+  },
+  {
+    "card_id": "symbolic_generality",
+    "title": "Symbolic Generality",
+    "prompt": "Ask how represented relations allow computation beyond arithmetic."
+  },
+  {
+    "card_id": "machine_limits",
+    "title": "Machine Limits",
+    "prompt": "Use Lovelace's caution to examine machine agency and AI-era overclaims."
+  },
+  {
+    "card_id": "collaborative_authorship",
+    "title": "Collaborative Authorship",
+    "prompt": "Map Babbage, Menabrea, Lovelace, translation, notes, and later memory."
+  }
+]

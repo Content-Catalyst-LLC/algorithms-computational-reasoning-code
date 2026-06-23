@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LovelaceComputationImaginationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "imagination_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "programming_structure": {
+      "type": "number"
+    },
+    "symbolic_generality": {
+      "type": "number"
+    },
+    "machine_orientation": {
+      "type": "number"
+    },
+    "mathematical_grounding": {
+      "type": "number"
+    },
+    "imaginative_reach": {
+      "type": "number"
+    },
+    "limit_awareness": {
+      "type": "number"
+    },
+    "collaboration": {
+      "type": "number"
+    },
+    "authorship": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "ai_caution": {
+      "type": "number"
+    },
+    "imagination_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}
