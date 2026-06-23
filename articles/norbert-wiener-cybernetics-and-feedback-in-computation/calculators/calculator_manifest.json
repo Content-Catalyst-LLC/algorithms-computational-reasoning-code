@@ -1,0 +1,60 @@
+{
+  "article": "norbert-wiener-cybernetics-and-feedback-in-computation",
+  "safety_scope": "Educational feedback calculators only; not control-system safety tools.",
+  "calculators": [
+    {
+      "name": "cybernetic_score_calculator",
+      "language": "python",
+      "path": "calculators/python/cybernetic_score_calculator.py",
+      "purpose": "Compute cybernetic feedback score."
+    },
+    {
+      "name": "negative_feedback_calculator",
+      "language": "python",
+      "path": "calculators/python/negative_feedback_calculator.py",
+      "purpose": "Simulate correction toward target."
+    },
+    {
+      "name": "positive_feedback_calculator",
+      "language": "python",
+      "path": "calculators/python/positive_feedback_calculator.py",
+      "purpose": "Simulate amplification."
+    },
+    {
+      "name": "control_error_calculator",
+      "language": "python",
+      "path": "calculators/python/control_error_calculator.py",
+      "purpose": "Compute error and corrective action."
+    },
+    {
+      "name": "delay_effect_helper",
+      "language": "python",
+      "path": "calculators/python/delay_effect_helper.py",
+      "purpose": "Compare delayed and current observations."
+    },
+    {
+      "name": "platform_feedback_loop_calculator",
+      "language": "python",
+      "path": "calculators/python/platform_feedback_loop_calculator.py",
+      "purpose": "Estimate engagement feedback amplification."
+    },
+    {
+      "name": "rl_reward_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/rl_reward_caution_calculator.py",
+      "purpose": "Flag reward/value overclaims."
+    },
+    {
+      "name": "feedback_governance_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/feedback_governance_caution_calculator.py",
+      "purpose": "Flag governance risks."
+    },
+    {
+      "name": "feedback_score",
+      "language": "r",
+      "path": "calculators/r/feedback_score.R",
+      "purpose": "Compute cybernetic feedback score in R."
+    }
+  ]
+}

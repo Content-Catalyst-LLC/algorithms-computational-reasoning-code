@@ -1,0 +1,2 @@
+reward_value_overclaim=true
+matched_terms=maximize reward means ethical,no human oversight needed

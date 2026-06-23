@@ -1,0 +1,2 @@
+final_state=3.2768
+trace=[{'t': 1, 'state': 8.0, 'error': 10.0}, {'t': 2, 'state': 6.4, 'error': 8.0}, {'t': 3, 'state': 5.12, 'error': 6.4}, {'t': 4, 'state': 4.096, 'error': 5.12}, {'t': 5, 'state': 3.2768, 'error': 4.096}]

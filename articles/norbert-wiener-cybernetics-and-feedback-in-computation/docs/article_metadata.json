@@ -1,0 +1,27 @@
+{
+  "title": "Norbert Wiener, Cybernetics, and Feedback in Computation",
+  "slug": "norbert-wiener-cybernetics-and-feedback-in-computation",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "claude-shannon-and-the-mathematical-theory-of-information",
+  "next": "warren-mcculloch-walter-pitts-and-neural-logic",
+  "repo_folder": "articles/norbert-wiener-cybernetics-and-feedback-in-computation",
+  "topics": [
+    "Norbert Wiener",
+    "cybernetics",
+    "feedback",
+    "control",
+    "communication",
+    "negative feedback",
+    "positive feedback",
+    "error signals",
+    "prediction",
+    "servomechanisms",
+    "homeostasis",
+    "automation ethics",
+    "human-machine systems",
+    "platform algorithms",
+    "reinforcement learning",
+    "AI governance"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scores are not control-system proofs or AI governance determinations."
+}

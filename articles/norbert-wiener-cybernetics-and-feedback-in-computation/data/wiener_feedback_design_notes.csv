@@ -1,0 +1,9 @@
+item,description,review_question
+feedback_as_computational_structure,System output informs future input or control,How does the loop close?
+control_communication_error,Control depends on messages about error and state,What is measured and corrected?
+negative_feedback_stability,Deviation from target is reduced through correction,What stabilizes the system?
+positive_feedback_amplification,Signals reinforce themselves and can run away,What is amplified?
+prediction_and_fire_control,Wartime prediction shaped cybernetic thinking,How do delay noise and future state matter?
+human_use_of_human_beings,Automation changes human agency labor and responsibility,Who benefits and who is controlled?
+software_and_platform_feedback,Software systems observe rank adjust and learn from behavior,How do outputs reshape future inputs?
+ai_governance_feedback_loops,AI systems alter the data and institutions they measure,How is the loop governed?

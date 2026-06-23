@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "feedback_loop",
+    "title": "Feedback Loop",
+    "prompt": "Map observe, compare, decide, act, and return."
+  },
+  {
+    "card_id": "negative_feedback",
+    "title": "Negative Feedback",
+    "prompt": "Explain how correction stabilizes a system."
+  },
+  {
+    "card_id": "positive_feedback",
+    "title": "Positive Feedback",
+    "prompt": "Explain how amplification can produce growth, cascades, or harm."
+  },
+  {
+    "card_id": "automation_ethics",
+    "title": "Automation Ethics",
+    "prompt": "Ask how feedback systems affect human agency and accountability."
+  },
+  {
+    "card_id": "ai_loop_governance",
+    "title": "AI Loop Governance",
+    "prompt": "Analyze how model outputs reshape future data and institutional decisions."
+  }
+]

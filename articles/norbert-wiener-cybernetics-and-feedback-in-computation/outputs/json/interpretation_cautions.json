@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_feedback_as_inherently_good",
+    "meaning": "Feedback can stabilize systems or amplify harm."
+  },
+  {
+    "caution": "do_not_confuse_control_with_wisdom",
+    "meaning": "A system can regulate toward the wrong goal."
+  },
+  {
+    "caution": "do_not_ignore_human_agency",
+    "meaning": "Automation can reorganize people around machine requirements."
+  },
+  {
+    "caution": "do_not_erase_military_origins",
+    "meaning": "Cybernetics was shaped partly by wartime prediction and control problems."
+  },
+  {
+    "caution": "do_not_govern_models_without_governing_loops",
+    "meaning": "AI governance must analyze how outputs reshape future inputs and institutions."
+  }
+]

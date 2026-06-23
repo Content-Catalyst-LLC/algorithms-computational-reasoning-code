@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WienerCyberneticFeedbackTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "cybernetic_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "feedback_centrality": {
+      "type": "number"
+    },
+    "control_relevance": {
+      "type": "number"
+    },
+    "communication_relevance": {
+      "type": "number"
+    },
+    "prediction_relevance": {
+      "type": "number"
+    },
+    "stability_relevance": {
+      "type": "number"
+    },
+    "amplification_risk": {
+      "type": "number"
+    },
+    "automation_ethics": {
+      "type": "number"
+    },
+    "ai_relevance": {
+      "type": "number"
+    },
+    "institutional_relevance": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "cybernetic_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+cybernetic_score=0.936000
