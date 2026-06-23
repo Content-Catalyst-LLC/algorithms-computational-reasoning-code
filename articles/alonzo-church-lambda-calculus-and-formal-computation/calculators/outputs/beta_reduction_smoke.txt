@@ -1,0 +1,3 @@
+before=(λx. x) y
+after=y
+rule=beta_reduction_by_substitution

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ChurchFormalComputationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "formal_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "formalization": {
+      "type": "number"
+    },
+    "functional_abstraction": {
+      "type": "number"
+    },
+    "symbolic_transformation": {
+      "type": "number"
+    },
+    "substitution": {
+      "type": "number"
+    },
+    "reduction": {
+      "type": "number"
+    },
+    "computability": {
+      "type": "number"
+    },
+    "undecidability": {
+      "type": "number"
+    },
+    "type_influence": {
+      "type": "number"
+    },
+    "programming_relevance": {
+      "type": "number"
+    },
+    "ai_caution": {
+      "type": "number"
+    },
+    "formal_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

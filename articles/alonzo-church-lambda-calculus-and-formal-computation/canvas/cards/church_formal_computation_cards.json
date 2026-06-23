@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "function_as_computation",
+    "title": "Function as Computation",
+    "prompt": "Explain computation as abstraction, application, and reduction."
+  },
+  {
+    "card_id": "substitution_discipline",
+    "title": "Substitution Discipline",
+    "prompt": "Track free variables, bound variables, scope, and capture avoidance."
+  },
+  {
+    "card_id": "encoding_inside_calculus",
+    "title": "Encoding Inside Calculus",
+    "prompt": "Use Church numerals to show data represented as functions."
+  },
+  {
+    "card_id": "formal_limits",
+    "title": "Formal Limits",
+    "prompt": "Connect Church's theorem and undecidability to automation boundaries."
+  },
+  {
+    "card_id": "programming_legacy",
+    "title": "Programming Legacy",
+    "prompt": "Link lambda calculus to functional programming, type theory, and proof systems."
+  }
+]

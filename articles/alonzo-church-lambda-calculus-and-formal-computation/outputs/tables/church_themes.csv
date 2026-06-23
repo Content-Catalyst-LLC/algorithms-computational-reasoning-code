@@ -1,0 +1,9 @@
+ai_caution,computability,formalization,functional_abstraction,programming_relevance,reduction,substitution,symbolic_transformation,theme_id,type_influence,undecidability
+0.86,0.96,0.98,0.98,0.98,0.96,0.96,0.98,lambda_calculus_core,0.88,0.86
+0.9,0.98,0.98,0.94,0.92,0.92,0.9,0.94,effective_calculability,0.82,0.92
+0.96,0.98,0.98,0.88,0.88,0.88,0.86,0.92,entscheidungsproblem_undecidability,0.78,0.98
+0.92,0.98,0.98,0.94,0.94,0.9,0.86,0.94,church_turing_convergence,0.82,0.94
+0.82,0.94,0.92,0.98,0.96,0.94,0.94,0.96,church_numerals_encoding,0.84,0.76
+0.86,0.96,0.94,0.98,0.98,0.98,0.96,0.98,recursion_fixed_points,0.86,0.88
+0.92,0.88,0.96,0.92,0.94,0.88,0.88,0.9,type_theory_and_proofs,0.98,0.78
+0.84,0.9,0.88,0.98,0.98,0.92,0.86,0.92,functional_programming_legacy,0.92,0.74

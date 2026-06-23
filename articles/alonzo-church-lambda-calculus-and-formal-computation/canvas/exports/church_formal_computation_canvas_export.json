@@ -1,0 +1,20 @@
+{
+  "article": "alonzo-church-lambda-calculus-and-formal-computation",
+  "canvas_cards": [
+    "Function as Computation",
+    "Substitution Discipline",
+    "Encoding Inside Calculus",
+    "Formal Limits",
+    "Programming Legacy"
+  ],
+  "interpretive_layers": [
+    "lambda_calculus_core",
+    "effective_calculability",
+    "entscheidungsproblem_undecidability",
+    "church_turing_convergence",
+    "church_numerals_encoding",
+    "recursion_fixed_points",
+    "type_theory_and_proofs",
+    "functional_programming_legacy"
+  ]
+}

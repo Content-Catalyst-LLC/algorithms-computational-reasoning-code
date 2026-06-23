@@ -1,0 +1,2 @@
+church_numeral=λf. λx. f (f (f (x)))
+applies_f_times=3

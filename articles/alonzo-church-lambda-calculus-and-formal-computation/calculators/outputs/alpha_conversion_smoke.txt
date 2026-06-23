@@ -1,0 +1,3 @@
+before=λx. x
+after=λy. y
+rule=alpha_conversion_when_binding_structure_is_preserved

@@ -1,0 +1,2 @@
+obviously_reducible=true
+note=this helper is a teaching heuristic, not a full lambda-calculus parser

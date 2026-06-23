@@ -1,0 +1,28 @@
+{
+  "title": "Alonzo Church, Lambda Calculus, and Formal Computation",
+  "slug": "alonzo-church-lambda-calculus-and-formal-computation",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "alan-turing-computation-and-the-machine-model-of-reasoning",
+  "next": "john-von-neumann-stored-program-architecture-and-computational-systems",
+  "repo_folder": "articles/alonzo-church-lambda-calculus-and-formal-computation",
+  "topics": [
+    "Alonzo Church",
+    "lambda calculus",
+    "formal computation",
+    "functions",
+    "abstraction",
+    "application",
+    "substitution",
+    "beta reduction",
+    "alpha conversion",
+    "Church numerals",
+    "recursion",
+    "fixed points",
+    "effective calculability",
+    "Entscheidungsproblem",
+    "Church-Turing thesis",
+    "type theory",
+    "functional programming"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scoring models are not formal proofs."
+}

@@ -1,0 +1,60 @@
+{
+  "article": "alonzo-church-lambda-calculus-and-formal-computation",
+  "safety_scope": "Educational lambda-calculus calculators only; not formal proof tools.",
+  "calculators": [
+    {
+      "name": "formal_score_calculator",
+      "language": "python",
+      "path": "calculators/python/formal_score_calculator.py",
+      "purpose": "Compute Church formal-computation score."
+    },
+    {
+      "name": "beta_reduction_calculator",
+      "language": "python",
+      "path": "calculators/python/beta_reduction_calculator.py",
+      "purpose": "Reduce simple lambda patterns."
+    },
+    {
+      "name": "alpha_conversion_calculator",
+      "language": "python",
+      "path": "calculators/python/alpha_conversion_calculator.py",
+      "purpose": "Safely rename simple bound variables."
+    },
+    {
+      "name": "church_numeral_calculator",
+      "language": "python",
+      "path": "calculators/python/church_numeral_calculator.py",
+      "purpose": "Build Church numeral expression strings."
+    },
+    {
+      "name": "normal_form_helper",
+      "language": "python",
+      "path": "calculators/python/normal_form_helper.py",
+      "purpose": "Classify simple reduction status."
+    },
+    {
+      "name": "capture_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/capture_risk_calculator.py",
+      "purpose": "Flag variable-capture risks."
+    },
+    {
+      "name": "decidability_scope_helper",
+      "language": "python",
+      "path": "calculators/python/decidability_scope_helper.py",
+      "purpose": "Classify decidability teaching examples."
+    },
+    {
+      "name": "ai_formal_reasoning_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_formal_reasoning_caution_calculator.py",
+      "purpose": "Flag AI/formal reasoning overclaims."
+    },
+    {
+      "name": "church_formal_score",
+      "language": "r",
+      "path": "calculators/r/church_formal_score.R",
+      "purpose": "Compute formal score in R."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_lambda_calculus_as_ordinary_algebra",
+    "meaning": "Lambda calculus is a formal system of functions, application, abstraction, and reduction."
+  },
+  {
+    "caution": "do_not_confuse_lambda_calculus_with_machine_hardware",
+    "meaning": "Church models computation through expressions, not physical machines."
+  },
+  {
+    "caution": "do_not_ignore_binding_and_scope",
+    "meaning": "Substitution requires careful handling of free and bound variables."
+  },
+  {
+    "caution": "do_not_treat_church_turing_thesis_as_simple_theorem",
+    "meaning": "The thesis connects informal effective calculability with formal models."
+  },
+  {
+    "caution": "do_not_forget_undecidability",
+    "meaning": "Church's legacy includes formal limits on general decision procedure."
+  }
+]

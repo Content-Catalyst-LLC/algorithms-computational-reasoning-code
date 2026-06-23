@@ -1,0 +1,9 @@
+item,description,review_question
+lambda_calculus_core,Functions application abstraction variables and reduction form the core calculus,How can computation be represented without machines?
+effective_calculability,Church connects informal calculability with formal definability,What makes a method effectively calculable?
+entscheidungsproblem_undecidability,Church proves no general solution to the decision problem,Where does formal automation fail?
+church_turing_convergence,Lambda calculus recursive functions and Turing machines converge,Why is computability robust across models?
+church_numerals_encoding,Numbers can be encoded as repeated function application,How does representation make data inside a calculus?
+recursion_fixed_points,Fixed-point combinators express recursion and nontermination,How does self-reference become formal?
+type_theory_and_proofs,Types constrain expressions and support formal reasoning,How do types support correctness?
+functional_programming_legacy,Lambda calculus informs functions closures evaluation and composition,How does formal computation shape programming?
