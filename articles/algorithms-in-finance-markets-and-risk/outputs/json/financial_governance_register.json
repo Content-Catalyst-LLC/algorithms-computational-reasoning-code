@@ -1,0 +1,37 @@
+[
+  {
+    "control": "model_inventory",
+    "review_question": "Is the financial algorithm recorded with owner, purpose, scope, status, and decision role?",
+    "status": "required"
+  },
+  {
+    "control": "validation_report",
+    "review_question": "Have conceptual soundness, data quality, implementation, backtesting, and limitations been reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "consumer_protection_review",
+    "review_question": "Are explanations, adverse-action reasons, correction, appeal, and fair-access effects reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "market_stability_review",
+    "review_question": "Are liquidity, market impact, feedback loops, and kill switches reviewed?",
+    "status": "required"
+  },
+  {
+    "control": "stress_testing",
+    "review_question": "Are adverse scenarios, tail events, liquidity shocks, and model failure cases tested?",
+    "status": "required"
+  },
+  {
+    "control": "audit_trail",
+    "review_question": "Can inputs, outputs, thresholds, overrides, decisions, changes, and incidents be reconstructed?",
+    "status": "required"
+  },
+  {
+    "control": "stop_rule",
+    "review_question": "Can the system be paused, limited, rolled back, or retired when unsafe?",
+    "status": "required"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "article": "algorithms_in_finance_markets_and_risk",
+  "high_consumer_impact_threshold": 0.8,
+  "high_financial_risk_threshold": 0.7,
+  "high_market_impact_threshold": 0.8,
+  "low_governance_threshold": 0.65
+}

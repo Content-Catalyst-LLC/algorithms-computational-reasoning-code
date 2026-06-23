@@ -1,0 +1,18 @@
+args <- commandArgs(trailingOnly = TRUE)
+market_impact <- ifelse(length(args) >= 1, as.numeric(args[1]), 0.34)
+consumer_impact <- ifelse(length(args) >= 2, as.numeric(args[2]), 0.92)
+model_risk <- ifelse(length(args) >= 3, as.numeric(args[3]), 0.68)
+transparency <- ifelse(length(args) >= 4, as.numeric(args[4]), 0.58)
+human_review <- ifelse(length(args) >= 5, as.numeric(args[5]), 0.62)
+validation <- ifelse(length(args) >= 6, as.numeric(args[6]), 0.70)
+monitoring <- ifelse(length(args) >= 7, as.numeric(args[7]), 0.66)
+governance <- ifelse(length(args) >= 8, as.numeric(args[8]), 0.64)
+liquidity_risk <- ifelse(length(args) >= 9, as.numeric(args[9]), 0.20)
+
+impact <- mean(c(market_impact, consumer_impact, liquidity_risk))
+governance_readiness <- mean(c(transparency, human_review, validation, monitoring, governance))
+financial_algorithm_risk <- mean(c(model_risk, impact, 1 - governance_readiness))
+
+cat(sprintf("impact_score=%.6f\n", impact))
+cat(sprintf("governance_readiness_score=%.6f\n", governance_readiness))
+cat(sprintf("financial_algorithm_risk_score=%.6f\n", financial_algorithm_risk))

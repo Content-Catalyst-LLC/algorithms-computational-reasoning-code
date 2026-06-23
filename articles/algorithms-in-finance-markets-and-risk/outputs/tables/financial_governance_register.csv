@@ -1,0 +1,8 @@
+control,review_question,status
+model_inventory,"Is the financial algorithm recorded with owner, purpose, scope, status, and decision role?",required
+validation_report,"Have conceptual soundness, data quality, implementation, backtesting, and limitations been reviewed?",required
+consumer_protection_review,"Are explanations, adverse-action reasons, correction, appeal, and fair-access effects reviewed?",required
+market_stability_review,"Are liquidity, market impact, feedback loops, and kill switches reviewed?",required
+stress_testing,"Are adverse scenarios, tail events, liquidity shocks, and model failure cases tested?",required
+audit_trail,"Can inputs, outputs, thresholds, overrides, decisions, changes, and incidents be reconstructed?",required
+stop_rule,"Can the system be paused, limited, rolled back, or retired when unsafe?",required

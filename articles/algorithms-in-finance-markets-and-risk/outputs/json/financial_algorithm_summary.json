@@ -1,0 +1,14 @@
+{
+  "article": "algorithms_in_finance_markets_and_risk",
+  "governance_controls": 7,
+  "interpretation": "Financial algorithm governance should connect market impact, consumer impact, model risk, validation, transparency, human review, monitoring, liquidity risk, audit trails, stress testing, and stop authority.",
+  "mean_financial_algorithm_risk_score": 0.526111,
+  "mean_governance_readiness_score": 0.67,
+  "mean_impact_score": 0.533334,
+  "systems_requiring_consumer_protection_review": 1,
+  "systems_requiring_control_redesign": 0,
+  "systems_requiring_market_stability_review": 1,
+  "systems_requiring_model_governance_review": 1,
+  "systems_reviewed": 4,
+  "timestamp_utc": "2026-06-23T00:33:44.167814+00:00"
+}

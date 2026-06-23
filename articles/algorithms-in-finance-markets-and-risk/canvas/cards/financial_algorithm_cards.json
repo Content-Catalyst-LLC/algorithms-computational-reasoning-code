@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "risk_models_are_not_guarantees",
+    "title": "Risk Models Are Not Guarantees",
+    "prompt": "Ask what assumptions, tail events, liquidity conditions, and stress scenarios the model fails to capture."
+  },
+  {
+    "card_id": "financial_automation_needs_stop_rules",
+    "title": "Financial Automation Needs Stop Rules",
+    "prompt": "Check whether trading, fraud, credit, or risk systems can be paused, limited, rolled back, or retired."
+  },
+  {
+    "card_id": "consumer_and_market_impacts_differ",
+    "title": "Consumer and Market Impacts Differ",
+    "prompt": "Review whether the system primarily affects individual access, market stability, institutional exposure, or systemic risk."
+  }
+]

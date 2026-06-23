@@ -1,0 +1,16 @@
+null device 
+          1 
+null device 
+          1 
+  systems_reviewed systems_requiring_control_redesign
+1                4                                  0
+  systems_requiring_consumer_protection_review
+1                                            1
+  systems_requiring_market_stability_review
+1                                         1
+  systems_requiring_model_governance_review mean_financial_algorithm_risk_score
+1                                         1                            0.526111
+  mean_governance_readiness_score mean_impact_score governance_controls
+1                            0.67          0.533334                   7
+                                                                                                                                                                                                  diagnostic_note
+1 Financial algorithm governance should connect market impact, consumer impact, model risk, validation, transparency, human review, monitoring, liquidity risk, audit trails, stress testing, and stop authority.

@@ -1,0 +1,18 @@
+{
+  "article": "algorithms-in-finance-markets-and-risk",
+  "canvas_cards": [
+    "Risk Models Are Not Guarantees",
+    "Financial Automation Needs Stop Rules",
+    "Consumer and Market Impacts Differ"
+  ],
+  "governance_layers": [
+    "model_inventory",
+    "validation_report",
+    "consumer_protection_review",
+    "market_stability_review",
+    "stress_testing",
+    "audit_trail",
+    "stop_rule",
+    "model_risk_review"
+  ]
+}

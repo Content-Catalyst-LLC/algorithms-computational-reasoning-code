@@ -1,0 +1,9 @@
+item,description,review_question
+model_inventory,Model owner purpose decision role scope and status,Can the institution identify and govern the system?
+validation_report,Conceptual soundness data quality implementation performance and limits,Has the model been independently challenged?
+consumer_protection_review,Explanations adverse-action reasons correction appeal and fair access,Can affected consumers understand and contest outcomes?
+market_stability_review,Liquidity market impact feedback loops and kill switches,Can market effects be controlled under stress?
+stress_testing,Adverse scenarios tail events liquidity shocks and model failure,Does the system survive plausible adverse conditions?
+audit_trail,Inputs outputs thresholds overrides changes decisions and incidents,Can decisions be reconstructed?
+stop_rule,Pause rollback limitation or retirement condition,Who can stop unsafe use?
+model_risk_review,Wrong assumptions overfitting drift coding errors and inappropriate use,Where can the model fail?

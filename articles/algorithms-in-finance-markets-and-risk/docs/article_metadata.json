@@ -1,0 +1,20 @@
+{
+  "title": "Algorithms in Finance, Markets, and Risk",
+  "slug": "algorithms-in-finance-markets-and-risk",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "algorithms-in-media-platforms-and-attention-systems",
+  "next": "algorithms-in-health-care-and-public-health",
+  "repo_folder": "articles/algorithms-in-finance-markets-and-risk",
+  "topics": [
+    "financial algorithms",
+    "credit scoring",
+    "fraud detection",
+    "algorithmic trading",
+    "portfolio optimization",
+    "risk modeling",
+    "value at risk",
+    "stress testing",
+    "model risk governance",
+    "market stability"
+  ]
+}

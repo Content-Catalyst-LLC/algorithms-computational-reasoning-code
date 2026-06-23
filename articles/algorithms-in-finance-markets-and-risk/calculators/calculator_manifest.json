@@ -1,0 +1,53 @@
+{
+  "article": "algorithms-in-finance-markets-and-risk",
+  "calculators": [
+    {
+      "name": "expected_loss_calculator",
+      "language": "python",
+      "path": "calculators/python/expected_loss_calculator.py",
+      "purpose": "Compute expected loss."
+    },
+    {
+      "name": "portfolio_return_calculator",
+      "language": "python",
+      "path": "calculators/python/portfolio_return_calculator.py",
+      "purpose": "Compute weighted portfolio return."
+    },
+    {
+      "name": "portfolio_variance_calculator",
+      "language": "python",
+      "path": "calculators/python/portfolio_variance_calculator.py",
+      "purpose": "Compute two-asset portfolio variance."
+    },
+    {
+      "name": "value_at_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/value_at_risk_calculator.py",
+      "purpose": "Compute normal approximation VaR."
+    },
+    {
+      "name": "stress_loss_calculator",
+      "language": "python",
+      "path": "calculators/python/stress_loss_calculator.py",
+      "purpose": "Compute scenario stress loss."
+    },
+    {
+      "name": "governance_readiness_calculator",
+      "language": "python",
+      "path": "calculators/python/governance_readiness_calculator.py",
+      "purpose": "Compute governance readiness."
+    },
+    {
+      "name": "financial_algorithm_risk_calculator",
+      "language": "python",
+      "path": "calculators/python/financial_algorithm_risk_calculator.py",
+      "purpose": "Compute financial algorithm risk."
+    },
+    {
+      "name": "financial_algorithm_score",
+      "language": "r",
+      "path": "calculators/r/financial_algorithm_score.R",
+      "purpose": "Compute financial algorithm indicators."
+    }
+  ]
+}
