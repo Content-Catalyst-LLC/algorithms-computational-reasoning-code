@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HopperCompilerHumanizationTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "humanization_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "compiler_centrality": {
+      "type": "number"
+    },
+    "human_readability": {
+      "type": "number"
+    },
+    "portability": {
+      "type": "number"
+    },
+    "documentation": {
+      "type": "number"
+    },
+    "standards": {
+      "type": "number"
+    },
+    "debugging": {
+      "type": "number"
+    },
+    "business_relevance": {
+      "type": "number"
+    },
+    "institutional_scale": {
+      "type": "number"
+    },
+    "abstraction": {
+      "type": "number"
+    },
+    "governance_caution": {
+      "type": "number"
+    },
+    "humanization_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

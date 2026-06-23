@@ -1,0 +1,9 @@
+abstraction,business_relevance,compiler_centrality,debugging,documentation,governance_caution,human_readability,humanization_score,institutional_scale,interpretive_status,portability,standards,theme_id
+0.98,0.88,0.98,0.86,0.9,0.9,0.96,0.918,0.92,core_hopper_compiler_humanization_thread,0.92,0.88,compiler_as_bridge
+0.96,0.84,0.96,0.82,0.84,0.86,0.9,0.878,0.88,core_hopper_compiler_humanization_thread,0.9,0.82,automatic_programming
+0.92,0.82,0.94,0.8,0.84,0.84,0.84,0.85,0.86,core_hopper_compiler_humanization_thread,0.86,0.78,a0_a2_subroutine_translation
+0.94,0.98,0.94,0.84,0.88,0.88,0.98,0.912,0.94,core_hopper_compiler_humanization_thread,0.88,0.86,flow_matic_english_like_programming
+0.92,0.98,0.9,0.88,0.92,0.92,0.98,0.94,0.98,core_hopper_compiler_humanization_thread,0.94,0.98,cobol_business_computation
+0.86,0.86,0.82,0.98,0.98,0.92,0.92,0.898,0.92,major_hopper_compiler_humanization_thread,0.82,0.9,documentation_debugging_culture
+0.9,0.94,0.88,0.9,0.94,0.98,0.88,0.936,0.98,core_hopper_compiler_humanization_thread,0.98,0.98,standards_validation_institutional_computing
+0.96,0.88,0.82,0.94,0.92,0.98,0.94,0.912,0.94,major_hopper_compiler_humanization_thread,0.86,0.88,ai_code_generation_caution

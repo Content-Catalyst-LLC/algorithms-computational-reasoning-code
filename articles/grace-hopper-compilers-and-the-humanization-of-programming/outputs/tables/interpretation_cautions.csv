@@ -1,0 +1,6 @@
+caution,meaning
+do_not_treat_humanization_as_lack_of_rigor,"Human-facing programming still requires formal syntax, semantics, testing, and validation."
+do_not_tell_a_single_inventor_story,"COBOL and programming languages emerged through teams, standards committees, vendors, and institutions."
+do_not_confuse_compilers_with_ai_code_generation,Compilers translate formal languages; AI coding tools generate statistically likely code that still requires review.
+do_not_ignore_maintenance,Human-readable languages matter because code persists over decades.
+do_not_hide_machine_constraints,Abstraction mediates hardware constraints; it does not abolish them.

@@ -1,0 +1,9 @@
+item,description,review_question
+compiler_as_bridge,Compilers translate human-facing source into machine-executable form,What does the translation bridge hide and reveal?
+automatic_programming,Computers help perform routine parts of program construction,What human labor is delegated?
+a0_a2_subroutine_translation,Symbolic references and libraries support subroutine reuse,How does reuse change programming?
+flow_matic_english_like_programming,Domain language moves closer to business procedure,Whose work becomes expressible?
+cobol_business_computation,COBOL supports institutional record-oriented computing,How does language become infrastructure?
+documentation_debugging_culture,Manuals diagnostics and debugging make software maintainable,How is knowledge transferred and repaired?
+standards_validation_institutional_computing,Standards and validation make translation trustworthy across institutions,How is language governed?
+ai_code_generation_caution,AI coding tools extend human-facing programming but require review,How is probabilistic generation different from formal compilation?

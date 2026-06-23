@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "compiler_bridge",
+    "title": "Compiler as Bridge",
+    "prompt": "Explain how source language becomes target code."
+  },
+  {
+    "card_id": "automatic_programming",
+    "title": "Automatic Programming",
+    "prompt": "Identify what human labor is delegated to machines."
+  },
+  {
+    "card_id": "flow_matic_cobol",
+    "title": "FLOW-MATIC and COBOL",
+    "prompt": "Explain how business procedure became programmable language."
+  },
+  {
+    "card_id": "debugging_documentation",
+    "title": "Debugging and Documentation",
+    "prompt": "Show how software becomes teachable, repairable, and maintainable."
+  },
+  {
+    "card_id": "ai_code_caution",
+    "title": "AI Code Caution",
+    "prompt": "Distinguish compiler guarantees from probabilistic code generation."
+  }
+]

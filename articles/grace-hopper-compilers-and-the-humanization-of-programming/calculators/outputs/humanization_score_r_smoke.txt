@@ -1,0 +1,1 @@
+humanization_score=0.918000

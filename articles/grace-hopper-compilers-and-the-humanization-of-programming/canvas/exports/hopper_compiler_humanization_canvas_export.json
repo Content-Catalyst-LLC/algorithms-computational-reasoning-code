@@ -1,0 +1,20 @@
+{
+  "article": "grace-hopper-compilers-and-the-humanization-of-programming",
+  "canvas_cards": [
+    "Compiler as Bridge",
+    "Automatic Programming",
+    "FLOW-MATIC and COBOL",
+    "Debugging and Documentation",
+    "AI Code Caution"
+  ],
+  "interpretive_layers": [
+    "compiler_as_bridge",
+    "automatic_programming",
+    "a0_a2_subroutine_translation",
+    "flow_matic_english_like_programming",
+    "cobol_business_computation",
+    "documentation_debugging_culture",
+    "standards_validation_institutional_computing",
+    "ai_code_generation_caution"
+  ]
+}

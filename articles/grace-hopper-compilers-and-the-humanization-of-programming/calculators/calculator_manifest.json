@@ -1,0 +1,60 @@
+{
+  "article": "grace-hopper-compilers-and-the-humanization-of-programming",
+  "safety_scope": "Educational compiler-humanization calculators only; not compiler validation or code safety guarantees.",
+  "calculators": [
+    {
+      "name": "humanization_score_calculator",
+      "language": "python",
+      "path": "calculators/python/humanization_score_calculator.py",
+      "purpose": "Compute compiler-humanization score."
+    },
+    {
+      "name": "compiler_pipeline_helper",
+      "language": "python",
+      "path": "calculators/python/compiler_pipeline_helper.py",
+      "purpose": "Walk through simplified compiler pipeline."
+    },
+    {
+      "name": "portability_score_calculator",
+      "language": "python",
+      "path": "calculators/python/portability_score_calculator.py",
+      "purpose": "Estimate source portability."
+    },
+    {
+      "name": "diagnostic_quality_calculator",
+      "language": "python",
+      "path": "calculators/python/diagnostic_quality_calculator.py",
+      "purpose": "Estimate diagnostic helpfulness."
+    },
+    {
+      "name": "standards_conformance_helper",
+      "language": "python",
+      "path": "calculators/python/standards_conformance_helper.py",
+      "purpose": "Classify standards coverage."
+    },
+    {
+      "name": "maintenance_burden_calculator",
+      "language": "python",
+      "path": "calculators/python/maintenance_burden_calculator.py",
+      "purpose": "Estimate maintenance burden."
+    },
+    {
+      "name": "ai_code_generation_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_code_generation_caution_calculator.py",
+      "purpose": "Flag AI code-generation overclaims."
+    },
+    {
+      "name": "translation_trust_calculator",
+      "language": "python",
+      "path": "calculators/python/translation_trust_calculator.py",
+      "purpose": "Estimate translation trust from governance components."
+    },
+    {
+      "name": "humanization_score",
+      "language": "r",
+      "path": "calculators/r/humanization_score.R",
+      "purpose": "Compute compiler-humanization score in R."
+    }
+  ]
+}

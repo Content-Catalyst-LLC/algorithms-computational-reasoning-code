@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_humanization_as_lack_of_rigor",
+    "meaning": "Human-facing programming still requires formal syntax, semantics, testing, and validation."
+  },
+  {
+    "caution": "do_not_tell_a_single_inventor_story",
+    "meaning": "COBOL and programming languages emerged through teams, standards committees, vendors, and institutions."
+  },
+  {
+    "caution": "do_not_confuse_compilers_with_ai_code_generation",
+    "meaning": "Compilers translate formal languages; AI coding tools generate statistically likely code that still requires review."
+  },
+  {
+    "caution": "do_not_ignore_maintenance",
+    "meaning": "Human-readable languages matter because code persists over decades."
+  },
+  {
+    "caution": "do_not_hide_machine_constraints",
+    "meaning": "Abstraction mediates hardware constraints; it does not abolish them."
+  }
+]

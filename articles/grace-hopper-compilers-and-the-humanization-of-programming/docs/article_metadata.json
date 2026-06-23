@@ -1,0 +1,27 @@
+{
+  "title": "Grace Hopper, Compilers, and the Humanization of Programming",
+  "slug": "grace-hopper-compilers-and-the-humanization-of-programming",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "norbert-wiener-cybernetics-and-feedback-in-computation",
+  "next": "warren-mcculloch-walter-pitts-and-neural-logic",
+  "repo_folder": "articles/grace-hopper-compilers-and-the-humanization-of-programming",
+  "topics": [
+    "Grace Hopper",
+    "compilers",
+    "automatic programming",
+    "A-0 compiler",
+    "A-2",
+    "UNIVAC",
+    "FLOW-MATIC",
+    "COBOL",
+    "machine-independent languages",
+    "human-readable code",
+    "debugging",
+    "documentation",
+    "programming-language standards",
+    "compiler validation",
+    "AI code generation",
+    "responsible software automation"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; synthetic scores are not compiler validation, conformance certification, or security review."
+}

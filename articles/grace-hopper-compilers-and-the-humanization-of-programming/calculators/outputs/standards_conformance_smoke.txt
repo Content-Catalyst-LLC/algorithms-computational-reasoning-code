@@ -1,0 +1,2 @@
+conformance_score=1.000000
+status=strong_conformance_scaffold
