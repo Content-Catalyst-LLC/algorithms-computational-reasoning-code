@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UnknownVariablePhilosophyTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "unknown_variable_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "unknown_representation": {
+      "type": "number"
+    },
+    "procedural_transformation": {
+      "type": "number"
+    },
+    "abstraction": {
+      "type": "number"
+    },
+    "proof_relation": {
+      "type": "number"
+    },
+    "translation_continuity": {
+      "type": "number"
+    },
+    "practical_grounding": {
+      "type": "number"
+    },
+    "philosophical_depth": {
+      "type": "number"
+    },
+    "historical_significance": {
+      "type": "number"
+    },
+    "ethical_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "unknown_variable_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

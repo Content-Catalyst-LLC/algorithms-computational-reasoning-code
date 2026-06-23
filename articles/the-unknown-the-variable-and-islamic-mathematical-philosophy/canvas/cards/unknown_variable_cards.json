@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "absence_becomes_object",
+    "title": "Absence Becomes Object",
+    "prompt": "Identify how the sought quantity is named and governed by procedure."
+  },
+  {
+    "card_id": "case_selects_method",
+    "title": "Case Selects Method",
+    "prompt": "Classify the problem before applying a rule."
+  },
+  {
+    "card_id": "proof_justifies_procedure",
+    "title": "Proof Justifies Procedure",
+    "prompt": "Find the example, construction, or verification that supports the rule."
+  },
+  {
+    "card_id": "avoid_symbolic_projection",
+    "title": "Avoid Symbolic Projection",
+    "prompt": "Do not mistake lack of modern notation for lack of abstraction."
+  }
+]

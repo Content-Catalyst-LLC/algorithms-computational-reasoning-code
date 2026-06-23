@@ -1,0 +1,54 @@
+{
+  "article": "the-unknown-the-variable-and-islamic-mathematical-philosophy",
+  "safety_scope": "Educational conceptual calculators only; not specialist manuscript, philological, mathematical, or historical authority.",
+  "calculators": [
+    {
+      "name": "unknown_score_calculator",
+      "language": "python",
+      "path": "calculators/python/unknown_score_calculator.py",
+      "purpose": "Compute unknown-variable philosophy score."
+    },
+    {
+      "name": "equation_case_classifier",
+      "language": "python",
+      "path": "calculators/python/equation_case_classifier.py",
+      "purpose": "Classify a simple algebraic case."
+    },
+    {
+      "name": "square_completion_calculator",
+      "language": "python",
+      "path": "calculators/python/square_completion_calculator.py",
+      "purpose": "Compute completion term for x^2 + bx = c."
+    },
+    {
+      "name": "solution_verification_calculator",
+      "language": "python",
+      "path": "calculators/python/solution_verification_calculator.py",
+      "purpose": "Verify a candidate solution."
+    },
+    {
+      "name": "translation_continuity_calculator",
+      "language": "python",
+      "path": "calculators/python/translation_continuity_calculator.py",
+      "purpose": "Score continuity across language/notation stages."
+    },
+    {
+      "name": "variable_transition_calculator",
+      "language": "python",
+      "path": "calculators/python/variable_transition_calculator.py",
+      "purpose": "Classify transition from unknown toward variable."
+    },
+    {
+      "name": "origin_story_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/origin_story_caution_calculator.py",
+      "purpose": "Flag anachronistic origin-story language."
+    },
+    {
+      "name": "unknown_variable_score",
+      "language": "r",
+      "path": "calculators/r/unknown_variable_score.R",
+      "purpose": "Compute unknown-variable score in R."
+    }
+  ]
+}

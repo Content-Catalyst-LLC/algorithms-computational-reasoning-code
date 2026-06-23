@@ -1,0 +1,4 @@
+lhs=39.000000
+rhs=39.000000
+error=0.000000
+verified=true
