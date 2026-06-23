@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KhwarizmiAlgorithmicMethodTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "method_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "arithmetic_method": {
+      "type": "number"
+    },
+    "algebraic_procedure": {
+      "type": "number"
+    },
+    "representation": {
+      "type": "number"
+    },
+    "transformation": {
+      "type": "number"
+    },
+    "proof_relation": {
+      "type": "number"
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "etymology": {
+      "type": "number"
+    },
+    "institutional_adoption": {
+      "type": "number"
+    },
+    "historiographic_caution": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "method_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

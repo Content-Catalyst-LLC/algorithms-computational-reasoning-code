@@ -1,0 +1,25 @@
+{
+  "title": "Al-Khwārizmī and the Historical Roots of Algorithmic Method",
+  "slug": "al-khwarizmi-and-the-historical-roots-of-algorithmic-method",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "history-of-algorithms",
+  "next": "ada-lovelace-and-the-analytical-engine",
+  "repo_folder": "articles/al-khwarizmi-and-the-historical-roots-of-algorithmic-method",
+  "topics": [
+    "al-Khwārizmī",
+    "algorithmic method",
+    "algorism",
+    "algorithm etymology",
+    "algebra",
+    "al-jabr",
+    "al-muqābalah",
+    "Hindu-Arabic numerals",
+    "place value",
+    "unknowns",
+    "roots",
+    "squares",
+    "geometric demonstration",
+    "Latin reception"
+  ],
+  "use_note": "Educational historical interpretation only; synthetic method models, not claims about a single origin or authoritative lineage."
+}

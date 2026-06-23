@@ -1,0 +1,1 @@
+scope=written_arithmetic_with_hindu_arabic_numerals

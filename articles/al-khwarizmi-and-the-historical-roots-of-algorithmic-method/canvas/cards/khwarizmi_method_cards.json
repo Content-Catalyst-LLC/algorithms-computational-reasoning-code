@@ -1,0 +1,22 @@
+[
+  {
+    "card_id": "name_not_total_origin",
+    "title": "Name, Not Total Origin",
+    "prompt": "Separate al-Khw\u0101rizm\u012b's role in the word history of algorithm from the broader history of procedural reasoning."
+  },
+  {
+    "card_id": "algorism_as_method",
+    "title": "Algorism as Method",
+    "prompt": "Show how Hindu-Arabic numerals, place value, zero, and written layout support calculation."
+  },
+  {
+    "card_id": "algebra_as_procedure",
+    "title": "Algebra as Procedure",
+    "prompt": "Trace unknown, root, square, number, case, rule, transformation, solution, and verification."
+  },
+  {
+    "card_id": "precision_honors_legacy",
+    "title": "Precision Honors Legacy",
+    "prompt": "Use precise verbs such as systematized, transmitted, explained, organized, and formalized."
+  }
+]

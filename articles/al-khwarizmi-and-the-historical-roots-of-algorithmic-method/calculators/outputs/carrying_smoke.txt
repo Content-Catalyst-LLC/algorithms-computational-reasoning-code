@@ -1,0 +1,3 @@
+total=15
+result_digit=5
+carry=1

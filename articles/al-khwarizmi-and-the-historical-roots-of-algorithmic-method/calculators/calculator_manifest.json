@@ -1,0 +1,60 @@
+{
+  "article": "al-khwarizmi-and-the-historical-roots-of-algorithmic-method",
+  "safety_scope": "Educational historiographic calculators only; not specialist historical authority.",
+  "calculators": [
+    {
+      "name": "method_score_calculator",
+      "language": "python",
+      "path": "calculators/python/method_score_calculator.py",
+      "purpose": "Compute al-Khw\u0101rizm\u012b method score."
+    },
+    {
+      "name": "place_value_calculator",
+      "language": "python",
+      "path": "calculators/python/place_value_calculator.py",
+      "purpose": "Evaluate place-value digit-position pairs."
+    },
+    {
+      "name": "carrying_calculator",
+      "language": "python",
+      "path": "calculators/python/carrying_calculator.py",
+      "purpose": "Show carrying in positional arithmetic."
+    },
+    {
+      "name": "equation_case_classifier",
+      "language": "python",
+      "path": "calculators/python/equation_case_classifier.py",
+      "purpose": "Classify algebraic cases."
+    },
+    {
+      "name": "restoration_balancing_calculator",
+      "language": "python",
+      "path": "calculators/python/restoration_balancing_calculator.py",
+      "purpose": "Normalize simple equation sides."
+    },
+    {
+      "name": "solution_verification_calculator",
+      "language": "python",
+      "path": "calculators/python/solution_verification_calculator.py",
+      "purpose": "Verify a candidate solution."
+    },
+    {
+      "name": "etymology_scope_calculator",
+      "language": "python",
+      "path": "calculators/python/etymology_scope_calculator.py",
+      "purpose": "Classify scope of algorithm-related terms."
+    },
+    {
+      "name": "myth_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/myth_caution_calculator.py",
+      "purpose": "Flag al-Khw\u0101rizm\u012b overclaims."
+    },
+    {
+      "name": "khwarizmi_method_score",
+      "language": "r",
+      "path": "calculators/r/khwarizmi_method_score.R",
+      "purpose": "Compute method score in R."
+    }
+  ]
+}
