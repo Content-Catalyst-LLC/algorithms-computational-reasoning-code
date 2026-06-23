@@ -1,0 +1,19 @@
+{
+  "article": "astronomical-tables-calendars-and-algorithmic-prediction",
+  "canvas_cards": [
+    "Table Is Stored Computation",
+    "Prediction Is Not Certainty",
+    "Calendar Is Rule System"
+  ],
+  "interpretive_layers": [
+    "tables_as_stored_computation",
+    "calendars_as_rule_systems",
+    "zij_tabular_astronomy",
+    "interpolation_and_correction",
+    "observation_model_procedure",
+    "timekeeping_ritual_administration",
+    "instrument_table_human_system",
+    "predictive_uncertainty",
+    "origin_story_caution"
+  ]
+}

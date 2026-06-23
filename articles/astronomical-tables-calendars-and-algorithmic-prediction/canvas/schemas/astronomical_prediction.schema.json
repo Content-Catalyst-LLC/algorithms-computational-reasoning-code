@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AstronomicalPredictionTheme",
+  "type": "object",
+  "required": [
+    "theme_id",
+    "prediction_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "theme_id": {
+      "type": "string"
+    },
+    "table_structure": {
+      "type": "number"
+    },
+    "procedural_clarity": {
+      "type": "number"
+    },
+    "predictive_function": {
+      "type": "number"
+    },
+    "institutional_use": {
+      "type": "number"
+    },
+    "correction_awareness": {
+      "type": "number"
+    },
+    "transmission_importance": {
+      "type": "number"
+    },
+    "modern_resonance": {
+      "type": "number"
+    },
+    "prediction_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "article": "astronomical-tables-calendars-and-algorithmic-prediction",
+  "calculators": [
+    {
+      "name": "table_lookup_calculator",
+      "language": "python",
+      "path": "calculators/python/table_lookup_calculator.py",
+      "purpose": "Retrieve a synthetic table value by argument."
+    },
+    {
+      "name": "linear_interpolation_calculator",
+      "language": "python",
+      "path": "calculators/python/linear_interpolation_calculator.py",
+      "purpose": "Estimate between two entries."
+    },
+    {
+      "name": "mean_plus_correction_calculator",
+      "language": "python",
+      "path": "calculators/python/mean_plus_correction_calculator.py",
+      "purpose": "Apply a correction to a mean value."
+    },
+    {
+      "name": "cycle_next_date_calculator",
+      "language": "python",
+      "path": "calculators/python/cycle_next_date_calculator.py",
+      "purpose": "Compute next cycle marker."
+    },
+    {
+      "name": "calendar_offset_calculator",
+      "language": "python",
+      "path": "calculators/python/calendar_offset_calculator.py",
+      "purpose": "Compute day offset between synthetic calendar markers."
+    },
+    {
+      "name": "prediction_error_calculator",
+      "language": "python",
+      "path": "calculators/python/prediction_error_calculator.py",
+      "purpose": "Compare predicted and observed values."
+    },
+    {
+      "name": "prediction_score_calculator",
+      "language": "python",
+      "path": "calculators/python/prediction_score_calculator.py",
+      "purpose": "Compute prediction score."
+    },
+    {
+      "name": "prediction_score",
+      "language": "r",
+      "path": "calculators/r/prediction_score.R",
+      "purpose": "Compute prediction score in R."
+    }
+  ]
+}

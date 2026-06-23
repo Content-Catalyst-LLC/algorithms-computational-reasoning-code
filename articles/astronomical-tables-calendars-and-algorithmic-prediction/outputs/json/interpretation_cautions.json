@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_treat_tables_as_passive_lists",
+    "meaning": "Astronomical tables store computation and require rules of use."
+  },
+  {
+    "caution": "do_not_equate_prediction_with_certainty",
+    "meaning": "Prediction is structured expectation under assumptions and correction."
+  },
+  {
+    "caution": "do_not_separate_calendar_from_institution",
+    "meaning": "Calendars coordinate ritual, administration, agriculture, and public time."
+  },
+  {
+    "caution": "do_not_ignore_copying_and_correction",
+    "meaning": "Manuscript transmission can preserve, alter, or repair computation."
+  },
+  {
+    "caution": "do_not_project_modern_software_backward",
+    "meaning": "Premodern astronomical tables are computational artifacts, but not modern software."
+  }
+]

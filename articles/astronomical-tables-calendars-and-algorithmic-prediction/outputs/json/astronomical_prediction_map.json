@@ -1,0 +1,86 @@
+[
+  {
+    "correction_awareness": 0.86,
+    "institutional_use": 0.86,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.94,
+    "prediction_score": 0.908571,
+    "predictive_function": 0.92,
+    "procedural_clarity": 0.9,
+    "table_structure": 0.98,
+    "theme_id": "tables_as_stored_computation",
+    "transmission_importance": 0.9
+  },
+  {
+    "correction_awareness": 0.88,
+    "institutional_use": 0.96,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.92,
+    "prediction_score": 0.897143,
+    "predictive_function": 0.88,
+    "procedural_clarity": 0.9,
+    "table_structure": 0.86,
+    "theme_id": "calendars_as_rule_systems",
+    "transmission_importance": 0.88
+  },
+  {
+    "correction_awareness": 0.9,
+    "institutional_use": 0.88,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.92,
+    "prediction_score": 0.92,
+    "predictive_function": 0.94,
+    "procedural_clarity": 0.9,
+    "table_structure": 0.96,
+    "theme_id": "zij_tabular_astronomy",
+    "transmission_importance": 0.94
+  },
+  {
+    "correction_awareness": 0.98,
+    "institutional_use": 0.84,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.96,
+    "prediction_score": 0.917143,
+    "predictive_function": 0.94,
+    "procedural_clarity": 0.94,
+    "table_structure": 0.9,
+    "theme_id": "interpolation_and_correction",
+    "transmission_importance": 0.86
+  },
+  {
+    "correction_awareness": 0.92,
+    "institutional_use": 0.86,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.94,
+    "prediction_score": 0.882857,
+    "predictive_function": 0.92,
+    "procedural_clarity": 0.88,
+    "table_structure": 0.82,
+    "theme_id": "observation_model_procedure",
+    "transmission_importance": 0.84
+  },
+  {
+    "correction_awareness": 0.84,
+    "institutional_use": 0.98,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.9,
+    "prediction_score": 0.882857,
+    "predictive_function": 0.88,
+    "procedural_clarity": 0.86,
+    "table_structure": 0.84,
+    "theme_id": "timekeeping_ritual_administration",
+    "transmission_importance": 0.88
+  },
+  {
+    "correction_awareness": 0.86,
+    "institutional_use": 0.88,
+    "interpretive_status": "core_astronomical_prediction_thread",
+    "modern_resonance": 0.92,
+    "prediction_score": 0.88,
+    "predictive_function": 0.88,
+    "procedural_clarity": 0.86,
+    "table_structure": 0.88,
+    "theme_id": "instrument_table_human_system",
+    "transmission_importance": 0.88
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "article": "astronomical_tables_calendars_and_algorithmic_prediction",
+  "cautions": 5,
+  "core_threads": 7,
+  "interpretation": "Astronomical tables and calendars should be studied as algorithmic prediction systems: stored computation, procedural lookup, correction, interpolation, calendar rules, and institutional timekeeping.",
+  "major_threads": 0,
+  "mean_prediction_score": 0.898367,
+  "supporting_threads": 0,
+  "themes_reviewed": 7,
+  "timestamp_utc": "2026-06-23T04:03:27.492920+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Astronomical Tables, Calendars, and Algorithmic Prediction",
+  "slug": "astronomical-tables-calendars-and-algorithmic-prediction",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "trade-inheritance-surveying-and-practical-calculation",
+  "next": "computational-mapping-geography-and-coordinate-reasoning",
+  "repo_folder": "articles/astronomical-tables-calendars-and-algorithmic-prediction",
+  "topics": [
+    "astronomical tables",
+    "calendars",
+    "algorithmic prediction",
+    "zij traditions",
+    "ephemerides",
+    "interpolation",
+    "correction rules",
+    "timekeeping",
+    "predictive uncertainty",
+    "stored computation"
+  ]
+}

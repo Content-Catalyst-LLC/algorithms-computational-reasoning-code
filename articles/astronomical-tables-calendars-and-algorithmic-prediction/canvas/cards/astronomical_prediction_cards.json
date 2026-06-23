@@ -1,0 +1,17 @@
+[
+  {
+    "card_id": "table_is_stored_computation",
+    "title": "Table Is Stored Computation",
+    "prompt": "Ask what prior computation the table preserves and what rule is needed to use it."
+  },
+  {
+    "card_id": "prediction_is_not_certainty",
+    "title": "Prediction Is Not Certainty",
+    "prompt": "Track assumptions, corrections, approximations, and validation methods."
+  },
+  {
+    "card_id": "calendar_is_rule_system",
+    "title": "Calendar Is Rule System",
+    "prompt": "Identify cycles, boundaries, adjustments, conversions, and institutional uses."
+  }
+]
