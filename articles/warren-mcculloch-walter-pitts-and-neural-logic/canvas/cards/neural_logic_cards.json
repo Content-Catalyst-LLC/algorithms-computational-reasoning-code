@@ -1,0 +1,27 @@
+[
+  {
+    "card_id": "threshold_unit",
+    "title": "Threshold Unit",
+    "prompt": "Explain how a simplified neuron can be modeled as a threshold unit."
+  },
+  {
+    "card_id": "logical_network",
+    "title": "Logical Network",
+    "prompt": "Show how networks of threshold units can implement logical relations."
+  },
+  {
+    "card_id": "cybernetic_bridge",
+    "title": "Cybernetic Bridge",
+    "prompt": "Connect neural logic to feedback, signals, and control."
+  },
+  {
+    "card_id": "ai_lineage",
+    "title": "AI Lineage",
+    "prompt": "Explain the connection to neural networks without overclaiming modern deep learning."
+  },
+  {
+    "card_id": "responsible_abstraction",
+    "title": "Responsible Abstraction",
+    "prompt": "Identify what the model clarifies and what it leaves out."
+  }
+]

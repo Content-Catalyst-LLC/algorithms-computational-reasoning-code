@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NeuralLogicConcept",
+  "type": "object",
+  "required": [
+    "concept_id",
+    "neural_logic_score",
+    "interpretive_status"
+  ],
+  "properties": {
+    "concept_id": {
+      "type": "string"
+    },
+    "logical_clarity": {
+      "type": "number"
+    },
+    "neural_abstraction": {
+      "type": "number"
+    },
+    "computational_relevance": {
+      "type": "number"
+    },
+    "cybernetic_connection": {
+      "type": "number"
+    },
+    "ai_lineage": {
+      "type": "number"
+    },
+    "biological_caution": {
+      "type": "number"
+    },
+    "historical_influence": {
+      "type": "number"
+    },
+    "interpretability": {
+      "type": "number"
+    },
+    "formal_tractability": {
+      "type": "number"
+    },
+    "responsible_use_relevance": {
+      "type": "number"
+    },
+    "neural_logic_score": {
+      "type": "number"
+    },
+    "interpretive_status": {
+      "type": "string"
+    }
+  }
+}

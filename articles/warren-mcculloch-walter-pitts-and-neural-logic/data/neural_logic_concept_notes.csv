@@ -1,0 +1,9 @@
+concept,description,review_question
+threshold_unit,Simplified neuron that fires when input reaches threshold,What rule governs firing?
+logical_network,Connected threshold units implementing formal relations,What logic does the network encode?
+activation_pattern,Distributed state of active and inactive units,What representation is carried by the pattern?
+inhibition,Input condition that suppresses firing,How does negation-like control appear?
+temporal_sequence,Network states unfolding over steps,How does procedure appear over time?
+automata_connection,Rule-governed state transitions across units,How does neural logic connect to formal machines?
+cybernetic_bridge,Signals feedback and control connecting organism and machine,How does neural logic connect to cybernetics?
+modern_ai_boundary,Distinguishing foundational lineage from deep learning,What should not be overclaimed?

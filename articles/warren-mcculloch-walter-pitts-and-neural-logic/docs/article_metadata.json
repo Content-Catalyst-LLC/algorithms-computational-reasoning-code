@@ -1,0 +1,25 @@
+{
+  "title": "Warren McCulloch, Walter Pitts, and Neural Logic",
+  "slug": "warren-mcculloch-walter-pitts-and-neural-logic",
+  "series": "Algorithms & Computational Reasoning",
+  "previous": "norbert-wiener-cybernetics-and-feedback-in-computation",
+  "next": "grace-hopper-compilers-and-the-humanization-of-programming",
+  "repo_folder": "articles/warren-mcculloch-walter-pitts-and-neural-logic",
+  "topics": [
+    "Warren McCulloch",
+    "Walter Pitts",
+    "neural logic",
+    "McCulloch-Pitts neuron",
+    "threshold logic",
+    "Boolean networks",
+    "cybernetics",
+    "automata theory",
+    "symbolic logic",
+    "artificial neural networks",
+    "connectionism",
+    "AI history",
+    "biological abstraction",
+    "responsible AI"
+  ],
+  "use_note": "Educational historical and conceptual interpretation only; not neuroscience validation or production AI guidance."
+}

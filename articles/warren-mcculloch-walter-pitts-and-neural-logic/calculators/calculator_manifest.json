@@ -1,0 +1,51 @@
+{
+  "article": "warren-mcculloch-walter-pitts-and-neural-logic",
+  "safety_scope": "Educational neural-logic calculators only; not neuroscience validation, production AI guidance, or safety approval.",
+  "calculators": [
+    {
+      "name": "threshold_unit_calculator",
+      "language": "python",
+      "path": "calculators/python/threshold_unit_calculator.py"
+    },
+    {
+      "name": "and_gate_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/and_gate_threshold_calculator.py"
+    },
+    {
+      "name": "or_gate_threshold_calculator",
+      "language": "python",
+      "path": "calculators/python/or_gate_threshold_calculator.py"
+    },
+    {
+      "name": "neural_logic_score_calculator",
+      "language": "python",
+      "path": "calculators/python/neural_logic_score_calculator.py"
+    },
+    {
+      "name": "biological_caution_calculator",
+      "language": "python",
+      "path": "calculators/python/biological_caution_calculator.py"
+    },
+    {
+      "name": "ai_lineage_boundary_calculator",
+      "language": "python",
+      "path": "calculators/python/ai_lineage_boundary_calculator.py"
+    },
+    {
+      "name": "network_state_update_calculator",
+      "language": "python",
+      "path": "calculators/python/network_state_update_calculator.py"
+    },
+    {
+      "name": "responsible_abstraction_calculator",
+      "language": "python",
+      "path": "calculators/python/responsible_abstraction_calculator.py"
+    },
+    {
+      "name": "neural_logic_score",
+      "language": "r",
+      "path": "calculators/r/neural_logic_score.R"
+    }
+  ]
+}

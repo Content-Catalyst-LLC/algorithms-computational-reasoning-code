@@ -1,0 +1,22 @@
+[
+  {
+    "caution": "do_not_confuse_simplified_neuron_with_biology",
+    "meaning": "The McCulloch-Pitts neuron is a formal abstraction, not a full biological neuron."
+  },
+  {
+    "caution": "do_not_call_it_modern_deep_learning",
+    "meaning": "The model is foundational to neural-network history but lacks modern learning, gradients, large data, and deep architectures."
+  },
+  {
+    "caution": "do_not_separate_neural_from_symbolic_too_cleanly",
+    "meaning": "The model was both neural and logical."
+  },
+  {
+    "caution": "do_not_treat_model_output_as_understanding",
+    "meaning": "A formal network output does not imply cognition or meaning by itself."
+  },
+  {
+    "caution": "do_not_ignore_responsibility_in_ai_lineage",
+    "meaning": "Historical neural abstractions should be interpreted with clear limits and responsible use boundaries."
+  }
+]
